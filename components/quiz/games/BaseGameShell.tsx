@@ -82,65 +82,55 @@ export default function BaseGameShell({ question, onAnswer, showObjects = true, 
       <GardenScene src={bg} />
       {sceneOverlay && <div className="absolute inset-0 z-[5] pointer-events-none">{sceneOverlay({ g, displayPrompt })}</div>}
 
-      <div className="relative z-10 flex flex-col min-h-[100dvh] px-4 pt-16 pb-7 max-w-xl mx-auto">
-        {/* Speech bubble (chữ to) */}
+      <div className="relative z-10 flex flex-col min-h-[100dvh] px-4 pt-14 pb-6 max-w-xl mx-auto">
+
+        {/* Câu hỏi — compact */}
         <motion.div
           key={question.id}
-          initial={{ opacity: 0, y: -16 }}
+          initial={{ opacity: 0, y: -12 }}
           animate={{ opacity: 1, y: 0 }}
-          className="relative bg-white rounded-[28px] p-4 pr-5 shadow-[0_12px_30px_rgba(80,60,100,0.22)] border-2 border-white"
+          className="bg-white/95 rounded-[22px] px-4 py-3 shadow-[0_8px_24px_rgba(80,60,100,0.2)] border border-white mb-3"
         >
           <div className="flex items-center gap-3">
-            <button
-              onClick={speak}
-              className="flex-shrink-0 w-12 h-12 bg-pink-100 rounded-full flex items-center justify-center hover:bg-pink-200 active:scale-90 transition shadow-sm"
-            >
-              <Volume2 className="w-6 h-6 text-pink-500" />
+            <button onClick={speak} className="flex-shrink-0 w-10 h-10 bg-pink-100 rounded-full flex items-center justify-center active:scale-90 transition">
+              <Volume2 className="w-5 h-5 text-pink-500" />
             </button>
-            <p className="text-lg font-extrabold text-[#5A4A6A] leading-snug">
+            <p className="text-[15px] font-extrabold text-[#5A4A6A] leading-snug flex-1">
               <HighlightText text={displayPrompt} />
             </p>
           </div>
         </motion.div>
 
-        {/* Vùng tập trung: panel kính mờ làm dịu nền, vật đếm nổi trên mặt sạch */}
-        <div className="flex-1 flex flex-col items-center justify-center py-4">
-          {showObjects && g.targetCount > 0 && g.targetCount <= 20 && (
-            <div
-              className={`rounded-[40px] w-full ${answerMode !== "grid" ? "px-4 py-3" : "px-5 py-6"}`}
-              style={{
-                background: "rgba(255,255,255,0.4)",
-                backdropFilter: "blur(10px)",
-                WebkitBackdropFilter: "blur(10px)",
-                border: "2px solid rgba(255,255,255,0.6)",
-                boxShadow: "0 12px 36px rgba(80,50,100,0.18), inset 0 2px 6px rgba(255,255,255,0.7)",
-              }}
-            >
-              <MathVisual
-                renderMode={g.renderMode}
-                count={g.targetCount}
-                count2={g.targetCount2}
-                icon={objects && objects.length ? pickFrom(objects, question.id) : g.objectIcon}
-                icon2={objects && objects.length > 1 ? pickFrom(objects, question.id + "_b") : g.objectIcon2}
-                compact={answerMode !== "grid"}
-              />
-            </div>
-          )}
-        </div>
+        {/* Vật đếm — nổi thẳng trên nền cảnh, không hộp kính */}
+        {showObjects && g.targetCount > 0 && g.targetCount <= 20 && (
+          <motion.div
+            initial={{ opacity: 0, scale: 0.9 }}
+            animate={{ opacity: 1, scale: 1 }}
+            transition={{ delay: 0.1 }}
+            className="flex justify-center items-center py-4 flex-1"
+          >
+            <MathVisual
+              renderMode={g.renderMode}
+              count={g.targetCount}
+              count2={g.targetCount2}
+              icon={g.objectIcon || (objects?.length ? pickFrom(objects, question.id) : '')}
+              icon2={g.objectIcon2 || (objects && objects.length > 1 ? pickFrom(objects, question.id + "_b") : '')}
+              compact={false}
+            />
+          </motion.div>
+        )}
+
+        {!showObjects && <div className="flex-1" />}
 
         {/* Banner phản hồi */}
         <AnimatePresence>
           {g.isAnswered && (
             <motion.div
-              initial={{ opacity: 0, scale: 0.6, y: 10 }}
+              initial={{ opacity: 0, scale: 0.7, y: 8 }}
               animate={{ opacity: 1, scale: 1, y: 0 }}
               exit={{ opacity: 0 }}
-              className="mx-auto mb-3 px-6 py-2.5 rounded-3xl font-black text-xl shadow-lg"
-              style={{
-                background: g.isCorrect ? "#6FD08C" : "#FFCF5C",
-                color: g.isCorrect ? "#fff" : "#7A560F",
-                fontFamily: "'Mochiy Pop One', system-ui",
-              }}
+              className="mx-auto mb-3 px-7 py-2.5 rounded-3xl font-black text-xl shadow-lg"
+              style={{ background: g.isCorrect ? "#6FD08C" : "#FFCF5C", color: g.isCorrect ? "#fff" : "#7A560F", fontFamily: "'Mochiy Pop One', system-ui" }}
             >
               {g.isCorrect ? "Giỏi quá! 🎉" : "Thử lại nhé 💪"}
             </motion.div>
@@ -148,63 +138,31 @@ export default function BaseGameShell({ question, onAnswer, showObjects = true, 
         </AnimatePresence>
 
         {hint && !g.isAnswered && (
-          <p className="text-center text-white font-black text-sm mb-2" style={{ textShadow: "0 1px 3px rgba(0,0,0,0.45)" }}>{hint}</p>
+          <p className="text-center text-white/90 font-bold text-sm mb-2" style={{ textShadow: "0 1px 4px rgba(0,0,0,0.5)" }}>{hint}</p>
         )}
 
+        {/* Khu đáp án — chiếm phần dưới màn hình */}
         {customAnswers ? (
           customAnswers({ g, themedIcon })
         ) : answerMode === "path" ? (
-          <PathAnswers
-            options={g.options}
-            correctAnswer={g.correctAnswer}
-            selectedOption={g.selectedOption}
-            isCorrect={g.isCorrect}
-            onSelect={g.handleSelect}
-          />
+          <PathAnswers options={g.options} correctAnswer={g.correctAnswer} selectedOption={g.selectedOption} isCorrect={g.isCorrect} onSelect={g.handleSelect} />
         ) : answerMode === "balloon" ? (
-          <BalloonAnswers
-            options={g.options}
-            correctAnswer={g.correctAnswer}
-            selectedOption={g.selectedOption}
-            isCorrect={g.isCorrect}
-            onSelect={g.handleSelect}
-          />
+          <BalloonAnswers options={g.options} correctAnswer={g.correctAnswer} selectedOption={g.selectedOption} isCorrect={g.isCorrect} onSelect={g.handleSelect} />
         ) : answerMode === "basket" ? (
-          <DragBasketAnswers
-            options={g.options}
-            correctAnswer={g.correctAnswer}
-            selectedOption={g.selectedOption}
-            isCorrect={g.isCorrect}
-            onSelect={g.handleSelect}
-          />
+          <DragBasketAnswers options={g.options} correctAnswer={g.correctAnswer} selectedOption={g.selectedOption} isCorrect={g.isCorrect} onSelect={g.handleSelect} />
         ) : (
-          <>
-            {/* Mascot to, ngồi rõ trên cỏ phía trái */}
-            <div className="flex items-end mb-2">
-              <motion.div
-                initial={{ scale: 0, y: 30 }}
-                animate={{ scale: 1, y: 0 }}
-                transition={{ type: "spring", delay: 0.2 }}
-                className="-ml-1"
-              >
-                <Mascot mood={mood} size={155} />
-              </motion.div>
-            </div>
-
-            {/* Đáp án dạng lưới */}
-            <div className="grid grid-cols-2 gap-4">
-              {g.options.map((opt, i) => (
-                <AnswerButton
-                  key={`${opt}-${i}`}
-                  label={opt}
-                  scheme={ANSWER_SCHEMES[i % ANSWER_SCHEMES.length]}
-                  state={buttonState(opt)}
-                  disabled={g.isAnswered}
-                  onClick={() => g.handleSelect(opt)}
-                />
-              ))}
-            </div>
-          </>
+          <div className="grid grid-cols-2 gap-3">
+            {g.options.map((opt, i) => (
+              <AnswerButton
+                key={`${opt}-${i}`}
+                label={opt}
+                scheme={ANSWER_SCHEMES[i % ANSWER_SCHEMES.length]}
+                state={buttonState(opt)}
+                disabled={g.isAnswered}
+                onClick={() => g.handleSelect(opt)}
+              />
+            ))}
+          </div>
         )}
       </div>
     </div>
