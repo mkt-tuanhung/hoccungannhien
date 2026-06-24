@@ -164,14 +164,16 @@ export default function SubjectMap({ params }: { params: { subject_id: string } 
         </div>
       )}
 
+      {/* Nút Back — luôn nổi trên mọi overlay */}
+      <button
+        onClick={() => router.push("/home")}
+        className="fixed top-12 left-6 z-[100] bg-white/90 p-3 rounded-2xl shadow-md active:scale-95 transition-all text-pink-500 backdrop-blur-sm"
+      >
+        <ChevronLeft className="w-8 h-8" />
+      </button>
+
       {/* Header (Glassmorphism) */}
       <div className={`sticky top-0 z-50 pt-12 pb-6 px-6 backdrop-blur-xl bg-white/40 border-b border-white/50 shadow-[0_8px_30px_rgb(0,0,0,0.04)] mb-12 rounded-b-[3rem] transition-opacity duration-500 ${transitioningId ? 'opacity-0' : 'opacity-100'}`}>
-        <button 
-          onClick={() => router.push("/home")}
-          className="absolute top-12 left-6 bg-white/80 p-3 rounded-2xl shadow-sm hover:scale-110 active:scale-95 transition-all text-pink-500"
-        >
-          <ChevronLeft className="w-8 h-8" />
-        </button>
         <h1 className="text-4xl font-black text-center mt-2 text-transparent bg-clip-text bg-gradient-to-br from-pink-500 to-purple-600 drop-shadow-sm uppercase tracking-wider">
           {subjectData.name}
         </h1>
