@@ -151,14 +151,44 @@ export default function GameOrchestrator({ questions, onGameComplete, onProgress
         >
           <ErrorBoundary key={currentIndex}>
             {(() => {
-              const Engine = ALL_ENGINES[currentQuestion.type];
-              if (Engine) return <Engine question={currentQuestion} onAnswer={handleNext} bg={bg} objects={objects} />;
-              // Fallback an toàn (hiếm khi dùng)
-              const mech = getMechanic(currentQuestion.type, currentIndex);
+              const q = currentQuestion;
+              const prompt = (q as any).prompt || (q as any).promptTemplate || "";
+              const pLow = prompt.toLowerCase();
+
+              // Nếu prompt không khớp với cơ chế của engine → fallback về BaseGameShell
+              // Tránh trường hợp FeedAnimalMode nhận câu hỏi "nghe số" hoặc ngược lại
+              const AUDIO_PROMPTS = ['nghe', 'cô ai đọc', 'đọc số', 'tiếng'];
+              const DRAG_PROMPTS = ['kéo thả', 'bỏ vào rổ', 'bỏ vào giỏ', 'thả vào'];
+              const TRACE_PROMPTS = ['tô theo', 'viết số', 'vẽ số'];
+
+              const isAudioQ = AUDIO_PROMPTS.some(k => pLow.includes(k));
+              const isDragQ = DRAG_PROMPTS.some(k => pLow.includes(k));
+              const isTraceQ = TRACE_PROMPTS.some(k => pLow.includes(k));
+
+              // Các engine chuyên dụng KHÔNG phù hợp cho câu hỏi audio/drag/trace
+              const INCOMPATIBLE_WITH_AUDIO = ['gen_dragon_farm_math', 'gen_living_math_garden', 'gen_candy_biome_world', 'std_drag_worksheet', 'gen_dream_room_builder', 'std_number_trace', 'gen_infinite_island_archipelago', 'gen_cloud_city_numbers'];
+              const INCOMPATIBLE_WITH_DRAG = ['std_audio_math', 'std_flashcard_sprint'];
+              const INCOMPATIBLE_WITH_TRACE = ['std_audio_math', 'gen_dragon_farm_math'];
+
+              let resolvedType = q.type;
+
+              if (isTraceQ && resolvedType !== 'std_number_trace') {
+                resolvedType = 'std_number_trace';
+              } else if (isAudioQ && INCOMPATIBLE_WITH_AUDIO.includes(resolvedType)) {
+                resolvedType = 'std_audio_math';
+              } else if (isDragQ && INCOMPATIBLE_WITH_DRAG.includes(resolvedType)) {
+                resolvedType = 'gen_living_math_garden';
+              }
+
+              const resolvedQ = resolvedType !== q.type ? { ...q, type: resolvedType } : q;
+              const Engine = ALL_ENGINES[resolvedType];
+              if (Engine) return <Engine question={resolvedQ} onAnswer={handleNext} bg={bg} objects={objects} />;
+
+              const mech = getMechanic(resolvedType, currentIndex);
               return mech === "matching" ? (
-                <MatchingMode question={currentQuestion} onAnswer={handleNext} bg={bg} objects={objects} />
+                <MatchingMode question={resolvedQ} onAnswer={handleNext} bg={bg} objects={objects} />
               ) : (
-                <BaseGameShell question={currentQuestion} onAnswer={handleNext} bg={bg} objects={objects} answerMode={mech} />
+                <BaseGameShell question={resolvedQ} onAnswer={handleNext} bg={bg} objects={objects} answerMode={mech} />
               );
             })()}
           </ErrorBoundary>

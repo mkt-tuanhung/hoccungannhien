@@ -12,6 +12,47 @@ export interface GameLogicResult {
   renderMode?: "single" | "compare" | "addition" | "subtraction";
 }
 
+// Map từ keyword trong prompt → sprite path
+const PROMPT_ICON_MAP: [string, string][] = [
+  ['kim cương',   '/sprites/diamond.png'],
+  ['đồng tiền',   '/sprites/coin.png'],
+  ['tiền vàng',   '/sprites/coin.png'],
+  ['táo',         '/sprites/apple.png'],
+  ['con mèo',     '/sprites/cat.png'],
+  ['mèo',         '/sprites/cat.png'],
+  ['con thỏ',     '/sprites/rabbit.png'],
+  ['thỏ',         '/sprites/rabbit.png'],
+  ['quả bóng',    '/sprites/ball.png'],
+  ['bóng',        '/sprites/ball.png'],
+  ['ngôi sao',    '/sprites/star.png'],
+  ['ngôi sao',    '/sprites/star.png'],
+  ['viên kẹo',    '/sprites/candy.png'],
+  ['kẹo que',     '/sprites/lollipop.png'],
+  ['kẹo',         '/sprites/candy.png'],
+  ['hoa',         '/sprites/flower.png'],
+  ['cá',          '/sprites/fish.png'],
+  ['ếch',         '/sprites/frog.png'],
+  ['cà rốt',      '/sprites/carrot.png'],
+  ['nấm',         '/sprites/mushroom.png'],
+  ['bánh',        '/sprites/cupcake.png'],
+  ['dâu',         '/sprites/strawberry.png'],
+  ['bướm',        '/sprites/butterfly.png'],
+  ['chuột',       '/sprites/mouse.png'],
+  ['sao',         '/sprites/star.png'],
+];
+
+// Derive icon từ nội dung prompt — tránh mismatch dữ liệu JSON cũ
+function deriveIcon(prompt: string, storedIcon?: string): string {
+  const p = prompt.toLowerCase();
+  for (const [keyword, path] of PROMPT_ICON_MAP) {
+    if (p.includes(keyword)) return assetUrl(path);
+  }
+  // Fallback: dùng icon đã lưu trong JSON (nhưng thêm R2 prefix)
+  if (storedIcon && storedIcon.startsWith('/')) return assetUrl(storedIcon);
+  if (storedIcon) return storedIcon;
+  return assetUrl('/sprites/apple.png');
+}
+
 export const generateQuestionData = (question: QuestionTemplate, numOptions: number = 4): GameLogicResult => {
   if ('prompt' in question && !('promptTemplate' in question)) {
     const q = question as any;
@@ -19,8 +60,8 @@ export const generateQuestionData = (question: QuestionTemplate, numOptions: num
       prompt: q.prompt,
       correctAnswer: q.correctAnswer,
       options: q.options || [],
-      objectIcon: q.objectIcon || "",
-      objectIcon2: q.objectIcon2 || "",
+      objectIcon: deriveIcon(q.prompt, q.objectIcon),
+      objectIcon2: q.objectIcon2 ? assetUrl(q.objectIcon2) : "",
       targetCount: q.targetCount || 0,
       targetCount2: q.targetCount2 || 0,
       renderMode: q.renderMode
