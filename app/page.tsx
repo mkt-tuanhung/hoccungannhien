@@ -11,56 +11,22 @@ export default function Home() {
       className="min-h-screen flex flex-col items-center justify-center p-4 overflow-hidden relative"
       style={{ background: "linear-gradient(160deg, #FFF0F8 0%, #F0EEFF 50%, #EEF8FF 100%)" }}
     >
-      {/* Nền trang trí */}
-      <div className="absolute inset-0 pointer-events-none overflow-hidden">
-        {[
-          { emoji: "⭐", left: "8%", top: "12%" },
-          { emoji: "🌸", left: "88%", top: "8%" },
-          { emoji: "✨", left: "5%", top: "55%" },
-          { emoji: "🌈", left: "85%", top: "60%" },
-          { emoji: "🎵", left: "50%", top: "5%" },
-          { emoji: "💫", left: "92%", top: "35%" },
-        ].map((d, i) => (
-          <motion.div
-            key={i}
-            className="absolute text-2xl select-none"
-            style={{ left: d.left, top: d.top }}
-            animate={{ y: [0, -16, 0], rotate: [0, 15, -15, 0], scale: [1, 1.2, 1] }}
-            transition={{ repeat: Infinity, duration: 3 + i * 0.6, delay: i * 0.3 }}
-          >
-            {d.emoji}
-          </motion.div>
-        ))}
-      </div>
-
       <motion.div
         className="relative z-10 w-full max-w-md text-center space-y-8"
         initial={{ opacity: 0, y: 30 }}
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.6 }}
       >
-        {/* Logo + Tiêu đề */}
-        <div className="space-y-2">
-          <motion.div
-            className="text-6xl"
-            animate={{ rotate: [0, -8, 8, 0], scale: [1, 1.1, 1] }}
-            transition={{ repeat: Infinity, duration: 4, ease: "easeInOut" }}
-          >
-            🎓
-          </motion.div>
-          <h1
-            className="text-4xl font-black tracking-tight leading-tight"
-            style={{
-              background: "linear-gradient(135deg, #FF6B9D 0%, #A855F7 50%, #3B82F6 100%)",
-              WebkitBackgroundClip: "text",
-              WebkitTextFillColor: "transparent",
-            }}
-          >
-            Học cùng An Nhiên
-          </h1>
-          <p className="text-gray-400 font-medium text-sm">
-            Toán · Tiếng Anh · Tiếng Việt
-          </p>
+        {/* Logo text image */}
+        <div className="relative w-full h-40">
+          <Image
+            src={img.logoText}
+            alt="Học cùng An Nhiên"
+            fill
+            className="object-contain"
+            sizes="400px"
+            priority
+          />
         </div>
 
         {/* Hai thẻ chính */}

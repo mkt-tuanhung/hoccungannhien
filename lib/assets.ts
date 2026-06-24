@@ -16,6 +16,7 @@ export const img = {
   cutePetCat:   assetUrl('/images/cute_pet_cat.png'),
   homeChild:    assetUrl('/images/home_child.png'),
   homeParent:   assetUrl('/images/home_parent.png'),
+  logoText:     assetUrl('/images/logo_text.png'),
   island: (n: number) => assetUrl(`/islands/island_${n}.png`),
   scene: (name: string) => assetUrl(`/scenes/${name}.png`),
 };
