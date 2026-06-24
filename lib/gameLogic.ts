@@ -46,16 +46,58 @@ const PROMPT_ICON_MAP: [string, string][] = [
   ['bướm',        '/sprites/butterfly.png'],
 ];
 
+// Thức ăn hợp lệ cho các mode "cho ăn / nấu ăn" — chỉ dùng đồ ăn thật, không phải động vật hay vật vô lý
+const FOOD_ICON = assetUrl('/icons/apple_icon.png');
+const VALID_FOOD_ICONS = [
+  assetUrl('/icons/apple_icon.png'),
+  assetUrl('/icons/candy_icon.png'),
+  assetUrl('/sprites/carrot.png'),
+  assetUrl('/sprites/strawberry.png'),
+  assetUrl('/sprites/cupcake.png'),
+];
+const FEEDING_KEYWORDS = ['cho ăn', 'ăn táo', 'ăn cà rốt', 'ăn kẹo', 'ăn bánh', 'nấu', 'bỏ vào nồi'];
+const INEDIBLE_ICONS = [
+  assetUrl('/icons/diamond_icon.png'),
+  assetUrl('/icons/star_icon.png'),
+  assetUrl('/icons/coin_icon.png'),
+  assetUrl('/icons/bunny_icon.png'),
+  assetUrl('/icons/cat_icon.png'),
+  assetUrl('/icons/bubble_icon.png'),
+  assetUrl('/icons/ball_icon.png'),
+];
+
 // Derive icon từ nội dung prompt — tránh mismatch dữ liệu JSON cũ
-function deriveIcon(prompt: string, storedIcon?: string): string {
+function deriveIcon(prompt: string, storedIcon?: string, questionType?: string): string {
   const p = prompt.toLowerCase();
+
+  // Các mode "cho ăn / nấu ăn": chỉ dùng thức ăn hợp lệ
+  const isFeedingMode = questionType === 'gen_dragon_farm_math' || questionType === 'math_cooking_lab'
+    || FEEDING_KEYWORDS.some(k => p.includes(k));
+
+  if (isFeedingMode) {
+    // Tìm thức ăn cụ thể trong prompt
+    if (p.includes('táo'))      return assetUrl('/icons/apple_icon.png');
+    if (p.includes('cà rốt'))   return assetUrl('/sprites/carrot.png');
+    if (p.includes('kẹo'))      return assetUrl('/icons/candy_icon.png');
+    if (p.includes('bánh'))     return assetUrl('/sprites/cupcake.png');
+    if (p.includes('dâu'))      return assetUrl('/sprites/strawberry.png');
+    // Fallback feeding: táo (không bao giờ là động vật hay kim cương)
+    return FOOD_ICON;
+  }
+
   for (const [keyword, path] of PROMPT_ICON_MAP) {
     if (p.includes(keyword)) return assetUrl(path);
   }
+
   // Fallback: dùng icon đã lưu trong JSON (nhưng thêm R2 prefix)
-  if (storedIcon && storedIcon.startsWith('/')) return assetUrl(storedIcon);
+  // Nếu icon lưu là đồ vô lý cho context feeding → dùng táo
+  if (storedIcon && storedIcon.startsWith('/')) {
+    const resolved = assetUrl(storedIcon);
+    if (isFeedingMode && INEDIBLE_ICONS.includes(resolved)) return FOOD_ICON;
+    return resolved;
+  }
   if (storedIcon) return storedIcon;
-  return assetUrl('/sprites/apple.png');
+  return assetUrl('/icons/apple_icon.png');
 }
 
 export const generateQuestionData = (question: QuestionTemplate, numOptions: number = 4): GameLogicResult => {
@@ -65,7 +107,7 @@ export const generateQuestionData = (question: QuestionTemplate, numOptions: num
       prompt: q.prompt,
       correctAnswer: q.correctAnswer,
       options: q.options || [],
-      objectIcon: deriveIcon(q.prompt, q.objectIcon),
+      objectIcon: deriveIcon(q.prompt, q.objectIcon, q.type),
       objectIcon2: q.objectIcon2 ? assetUrl(q.objectIcon2) : "",
       targetCount: q.targetCount || 0,
       targetCount2: q.targetCount2 || 0,
