@@ -203,29 +203,28 @@ export default function ChildHome() {
         </div>
 
         {/* Pet Area */}
-        <Card className="bg-white border-none shadow-sm rounded-3xl mt-8 relative overflow-hidden">
-          <CardContent className="p-8 flex flex-col md:flex-row items-center gap-8 justify-center">
-            <div className="text-center">
-              <motion.div
-                className="w-32 h-32 mx-auto cursor-pointer rounded-full overflow-hidden border-4 border-primary/20 bg-white"
-                animate={{ y: [0, -10, 0] }}
-                transition={{ repeat: Infinity, duration: 2, ease: "easeInOut" }}
-                whileHover={{ scale: 1.1, rotate: [0, 5, -5, 0] }}
-              >
-                <img src={img.cutePetCat} alt="Mèo Bông" className="w-full h-full object-cover" />
-              </motion.div>
-              <p className="mt-4 font-bold text-lg text-primary">Mèo Bông</p>
+        <Link href="/pet" className="block mt-8">
+          <motion.div
+            whileHover={{ scale: 1.02 }}
+            whileTap={{ scale: 0.98 }}
+            className="bg-gradient-to-r from-pink-50 to-purple-50 rounded-3xl p-5 flex items-center gap-5 shadow-md border-2 border-pink-100"
+          >
+            <motion.div
+              className="w-24 h-24 flex-shrink-0 rounded-full overflow-hidden border-4 border-pink-200 shadow-lg"
+              animate={{ y: [0, -8, 0] }}
+              transition={{ repeat: Infinity, duration: 2.5, ease: "easeInOut" }}
+            >
+              <img src={img.cutePetCat} alt="Mèo Bông" className="w-full h-full object-cover" />
+            </motion.div>
+            <div className="flex-1">
+              <p className="font-black text-pink-600 text-lg">Mèo Bông đang chờ! 🐱</p>
+              <p className="text-sm text-pink-400 font-medium mt-1">Dùng ⭐ để cho mèo ăn và chăm sóc</p>
+              <div className="mt-2 inline-block bg-pink-500 text-white text-xs font-black px-3 py-1 rounded-full">
+                Vào chơi →
+              </div>
             </div>
-            <div className="space-y-4">
-              <Button size="lg" className="w-full rounded-full font-bold text-lg hover:scale-105 transition-transform">
-                Đi tắm cho Mèo (10 ⭐)
-              </Button>
-              <Button size="lg" variant="secondary" className="w-full rounded-full font-bold text-lg hover:scale-105 transition-transform">
-                Mua đồ ăn (5 ⭐)
-              </Button>
-            </div>
-          </CardContent>
-        </Card>
+          </motion.div>
+        </Link>
 
       </motion.div>
     </div>
