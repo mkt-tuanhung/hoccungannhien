@@ -12,23 +12,30 @@ export interface GameLogicResult {
   renderMode?: "single" | "compare" | "addition" | "subtraction";
 }
 
-// Map từ keyword trong prompt → sprite path
+// Map từ keyword trong prompt → icon path mới (public/icons/)
 const PROMPT_ICON_MAP: [string, string][] = [
-  ['kim cương',   '/sprites/diamond.png'],
-  ['đồng tiền',   '/sprites/coin.png'],
-  ['tiền vàng',   '/sprites/coin.png'],
-  ['táo',         '/sprites/apple.png'],
-  ['con mèo',     '/sprites/cat.png'],
-  ['mèo',         '/sprites/cat.png'],
-  ['con thỏ',     '/sprites/rabbit.png'],
-  ['thỏ',         '/sprites/rabbit.png'],
-  ['quả bóng',    '/sprites/ball.png'],
-  ['bóng',        '/sprites/ball.png'],
-  ['ngôi sao',    '/sprites/star.png'],
-  ['ngôi sao',    '/sprites/star.png'],
-  ['viên kẹo',    '/sprites/candy.png'],
-  ['kẹo que',     '/sprites/lollipop.png'],
-  ['kẹo',         '/sprites/candy.png'],
+  ['kim cương',   '/icons/diamond_icon.png'],
+  ['đồng tiền',   '/icons/coin_icon.png'],
+  ['tiền vàng',   '/icons/coin_icon.png'],
+  ['xu vàng',     '/icons/coin_icon.png'],
+  ['táo',         '/icons/apple_icon.png'],
+  ['con mèo',     '/icons/cat_icon.png'],
+  ['mèo',         '/icons/cat_icon.png'],
+  ['con thỏ',     '/icons/bunny_icon.png'],
+  ['thỏ',         '/icons/bunny_icon.png'],
+  ['quả bóng',    '/icons/ball_icon.png'],
+  ['bóng',        '/icons/ball_icon.png'],
+  ['ngôi sao',    '/icons/star_icon.png'],
+  ['viên kẹo',    '/icons/candy_icon.png'],
+  ['kẹo',         '/icons/candy_icon.png'],
+  ['bong bóng',   '/icons/bubble_icon.png'],
+  ['bong',        '/icons/bubble_icon.png'],
+  ['rương',       '/icons/chest_icon.png'],
+  ['hòm',         '/icons/chest_icon.png'],
+  ['súng',        '/icons/boss_monster_icon.png'],
+  ['quái vật',    '/icons/boss_monster_icon.png'],
+  ['sao',         '/icons/star_icon.png'],
+  // fallback các icon cũ vẫn còn trong sprites/
   ['hoa',         '/sprites/flower.png'],
   ['cá',          '/sprites/fish.png'],
   ['ếch',         '/sprites/frog.png'],
@@ -37,8 +44,6 @@ const PROMPT_ICON_MAP: [string, string][] = [
   ['bánh',        '/sprites/cupcake.png'],
   ['dâu',         '/sprites/strawberry.png'],
   ['bướm',        '/sprites/butterfly.png'],
-  ['chuột',       '/sprites/mouse.png'],
-  ['sao',         '/sprites/star.png'],
 ];
 
 // Derive icon từ nội dung prompt — tránh mismatch dữ liệu JSON cũ
