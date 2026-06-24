@@ -162,22 +162,34 @@ export default function GameOrchestrator({ questions, onGameComplete, onProgress
               const TRACE_PROMPTS = ['tô theo', 'viết số', 'vẽ số'];
               // Câu hỏi dạng trắc nghiệm "chọn số đúng" KHÔNG phù hợp với DragCountMode
               const CHOICE_PROMPTS = ['chọn số đúng', 'chọn đáp án', 'bé hãy chọn', 'chọn số'];
+              // So sánh: câu hỏi chọn số lớn hơn / bé hơn → BaseGameShell đơn giản
+              const COMPARE_PROMPTS = ['lớn hơn', 'bé hơn', 'nhiều hơn', 'ít hơn', 'nhỏ hơn', 'số nào lớn', 'số nào bé', 'số nào nhỏ'];
 
               const isAudioQ = AUDIO_PROMPTS.some(k => pLow.includes(k));
               const isDragQ = DRAG_PROMPTS.some(k => pLow.includes(k));
               const isTraceQ = TRACE_PROMPTS.some(k => pLow.includes(k));
               const isChoiceQ = CHOICE_PROMPTS.some(k => pLow.includes(k));
+              const isCompareQ = COMPARE_PROMPTS.some(k => pLow.includes(k));
 
               // Các engine chuyên dụng KHÔNG phù hợp cho câu hỏi audio/drag/trace/choice
               const DRAG_ENGINES = ['gen_living_math_garden', 'gen_candy_biome_world', 'std_drag_worksheet', 'gen_dream_room_builder'];
               const INCOMPATIBLE_WITH_AUDIO = [...DRAG_ENGINES, 'gen_dragon_farm_math', 'std_number_trace', 'gen_infinite_island_archipelago', 'gen_cloud_city_numbers'];
               const INCOMPATIBLE_WITH_DRAG = ['std_audio_math', 'std_flashcard_sprint'];
               const INCOMPATIBLE_WITH_TRACE = ['std_audio_math', 'gen_dragon_farm_math'];
+              // Các engine không phù hợp cho câu hỏi so sánh (cần hiển thị 2 số riêng biệt)
+              const INCOMPATIBLE_WITH_COMPARE = [
+                ...DRAG_ENGINES, 'gen_dragon_farm_math', 'math_cooking_lab', 'magic_shop_math',
+                'pet_evolution_math', 'math_kingdom_builder', 'gen_robot_city_constructor',
+                'std_flashcard_sprint', 'std_number_trace', 'gen_cloud_city_numbers',
+              ];
 
               let resolvedType = q.type;
 
               if (isTraceQ && resolvedType !== 'std_number_trace') {
                 resolvedType = 'std_number_trace';
+              } else if (isCompareQ && INCOMPATIBLE_WITH_COMPARE.includes(resolvedType)) {
+                // So sánh → BoatVoyageMode (tap đảo có số đúng) — gọn, rõ ràng
+                resolvedType = 'gen_infinite_island_archipelago';
               } else if (isAudioQ && INCOMPATIBLE_WITH_AUDIO.includes(resolvedType)) {
                 resolvedType = 'std_audio_math';
               } else if (isDragQ && INCOMPATIBLE_WITH_DRAG.includes(resolvedType)) {
