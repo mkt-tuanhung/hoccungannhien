@@ -36,7 +36,7 @@ export async function playTTSAudio(text: string, onEnded: () => void): Promise<v
       if (typeof window !== 'undefined' && 'speechSynthesis' in window) {
         const utter = new SpeechSynthesisUtterance(text.replace(/[🔊🎵🧩📋🔍⭐🥁⚖️🧺]/gu, '').trim());
         utter.lang = 'vi-VN';
-        utter.rate = 0.9;
+        utter.rate = 1.17;
         utter.onend = onEnded;
         utter.onerror = () => setTimeout(onEnded, 500);
         window.speechSynthesis.speak(utter);
@@ -46,6 +46,7 @@ export async function playTTSAudio(text: string, onEnded: () => void): Promise<v
     }
 
     const audio = new Audio(audioUrl);
+    audio.playbackRate = 1.3;
     audio.onended = onEnded;
     audio.onerror = () => { throw new Error("Audio playback failed"); };
     await audio.play();
