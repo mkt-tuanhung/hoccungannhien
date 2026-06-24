@@ -72,7 +72,7 @@ export default function BossBattleMode({ question, onAnswer, bg, objects }: Prop
         {g.targetCount > 0 && g.targetCount <= 20 && (
           <div className="rounded-[32px] px-4 py-3 w-full mb-3" style={{ background: "rgba(255,255,255,0.4)", backdropFilter: "blur(10px)", border: "2px solid rgba(255,255,255,0.6)" }}>
             <MathVisual renderMode={g.renderMode} count={g.targetCount} count2={g.targetCount2}
-              icon={objects?.length ? objects[0] : g.objectIcon} icon2={objects?.[1] || g.objectIcon2} compact />
+              icon={g.objectIcon || (objects?.length ? objects[0] : '')} icon2={g.objectIcon2 || objects?.[1] || ''} compact />
           </div>
         )}
 
