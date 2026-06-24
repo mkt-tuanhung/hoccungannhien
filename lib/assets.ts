@@ -14,6 +14,8 @@ export const img = {
   mathIcon:     assetUrl('/images/math_icon.png'),
   vietnameseIcon: assetUrl('/images/vietnamese_icon.png'),
   cutePetCat:   assetUrl('/images/cute_pet_cat.png'),
+  homeChild:    assetUrl('/images/home_child.png'),
+  homeParent:   assetUrl('/images/home_parent.png'),
   island: (n: number) => assetUrl(`/islands/island_${n}.png`),
   scene: (name: string) => assetUrl(`/scenes/${name}.png`),
 };
