@@ -40,7 +40,7 @@ export default function LanternMode({ question, onAnswer, bg, objects }: Props) 
                     fontFamily: "'Mochiy Pop One', system-ui",
                     background: `radial-gradient(circle at 50% 35%, #fff6c8, ${face.face} 85%)`,
                     boxShadow: lit ? `0 0 28px 8px ${face.face}` : `0 6px 12px rgba(40,20,60,0.35)`, border: "2px solid rgba(255,255,255,0.7)" }}>{opt}</motion.button>
-                <GlossySprite src=assetUrl('/sprites/mushroom.png') size={44} className="-mt-1" />
+                <GlossySprite src={assetUrl('/sprites/mushroom.png')} size={44} className="-mt-1" />
               </div>
             );
           })}

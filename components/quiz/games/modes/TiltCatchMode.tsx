@@ -112,7 +112,7 @@ export default function TiltCatchMode({ question, onAnswer, bg, objects }: Props
             {/* Xô */}
             <motion.div className="absolute bottom-2" style={{ left: `${bucketCol * colWidth + colWidth / 2}%`, transform: "translateX(-50%)" }}
               animate={{ left: `${bucketCol * colWidth + colWidth / 2}%` }} transition={{ type: "spring", stiffness: 400, damping: 28 }}>
-              <GlossySprite src=assetUrl('/sprites/basket.png') size={72} animate={caught !== null ? { scale: [1, 1.2, 1] } : {}} />
+              <GlossySprite src={assetUrl('/sprites/basket.png')} size={72} animate={caught !== null ? { scale: [1, 1.2, 1] } : {}} />
             </motion.div>
           </div>
 

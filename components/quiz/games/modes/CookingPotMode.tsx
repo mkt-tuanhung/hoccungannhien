@@ -44,7 +44,7 @@ export default function CookingPotMode({ question, onAnswer, bg, objects }: Prop
           {/* Nồi sôi */}
           <div className="relative mt-4">
             <motion.div animate={g.isAnswered && g.isCorrect ? { scale: [1, 1.15, 1] } : {}} transition={{ duration: 0.5 }}>
-              <img src=assetUrl('/sprites/pot.png') alt="" className="w-24 h-24 object-contain" style={{ filter: "drop-shadow(0 6px 6px rgba(80,50,90,0.3))" }} />
+              <img src={assetUrl('/sprites/pot.png')} alt="" className="w-24 h-24 object-contain" style={{ filter: "drop-shadow(0 6px 6px rgba(80,50,90,0.3))" }} />
             </motion.div>
             {[0, 1, 2].map((i) => (
               <motion.div key={i} className="absolute rounded-full bg-white/70" style={{ width: 8, height: 8, left: 24 + i * 14, top: 6 }}

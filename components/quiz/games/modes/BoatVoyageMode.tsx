@@ -35,7 +35,7 @@ export default function BoatVoyageMode({ question, onAnswer, bg, objects }: Prop
                 animate={{ y: [0, -5, 0] }} transition={{ repeat: Infinity, duration: 2.8 + i * 0.3 }}
                 className="absolute flex flex-col items-center justify-center"
                 style={{ left: `${s.x}%`, top: `${s.y}%`, transform: "translate(-50%,-50%)" }}>
-                <img src=assetUrl('/sprites/palmtree.png') alt="" className="w-8 h-8 object-contain -mb-2 z-10" />
+                <img src={assetUrl('/sprites/palmtree.png')} alt="" className="w-8 h-8 object-contain -mb-2 z-10" />
                 <span className="flex items-center justify-center font-black"
                   style={{ width: 80, height: 56, borderRadius: "50% 50% 45% 45%", color: "#fff", fontSize: "1.9rem",
                     fontFamily: "'Mochiy Pop One', system-ui",
@@ -44,7 +44,7 @@ export default function BoatVoyageMode({ question, onAnswer, bg, objects }: Prop
               </motion.button>
             );
           })}
-          <motion.img src=assetUrl('/sprites/boat.png') alt="" className="absolute w-14 h-14 object-contain z-20 pointer-events-none" style={{ transform: "translate(-50%,-50%)", filter: "drop-shadow(0 4px 6px rgba(0,0,0,0.25))" }}
+          <motion.img src={assetUrl('/sprites/boat.png')} alt="" className="absolute w-14 h-14 object-contain z-20 pointer-events-none" style={{ transform: "translate(-50%,-50%)", filter: "drop-shadow(0 4px 6px rgba(0,0,0,0.25))" }}
             animate={{ left: `${boat.x}%`, top: `${boat.y}%`, rotate: [0, -4, 4, 0] }} transition={{ left: { type: "spring", stiffness: 120, damping: 16 }, top: { type: "spring", stiffness: 120, damping: 16 }, rotate: { repeat: Infinity, duration: 2 } }} />
         </div>
       </div>

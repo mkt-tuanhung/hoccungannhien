@@ -29,7 +29,7 @@ export default function Mascot({ mood = "idle", size = 130 }: MascotProps) {
         style={{ width: size * 0.6, height: size * 0.12, bottom: 2 }}
       />
       <motion.img
-        src=assetUrl('/sprites/mascot.png')
+        src={assetUrl('/sprites/mascot.png')}
         alt="Mèo Bông"
         width={size}
         height={size}

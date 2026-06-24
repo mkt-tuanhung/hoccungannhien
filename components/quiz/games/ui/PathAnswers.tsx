@@ -39,7 +39,7 @@ export default function PathAnswers({ options, correctAnswer, selectedOption, is
 
       {/* Đích */}
       <div className="absolute" style={{ left: `${GOAL.x}%`, top: `${GOAL.y}%`, transform: "translate(-50%,-50%)" }}>
-        <motion.img src=assetUrl('/sprites/house.png') alt="" className="w-14 h-14 object-contain" animate={{ y: [0, -6, 0] }} transition={{ repeat: Infinity, duration: 1.6 }} style={{ filter: "drop-shadow(0 4px 5px rgba(0,0,0,0.3))" }} />
+        <motion.img src={assetUrl('/sprites/house.png')} alt="" className="w-14 h-14 object-contain" animate={{ y: [0, -6, 0] }} transition={{ repeat: Infinity, duration: 1.6 }} style={{ filter: "drop-shadow(0 4px 5px rgba(0,0,0,0.3))" }} />
       </div>
 
       {/* Các hòn đá = đáp án */}
@@ -77,7 +77,7 @@ export default function PathAnswers({ options, correctAnswer, selectedOption, is
 
       {/* Mèo Bông nhảy tới đá được chọn */}
       <motion.img
-        src=assetUrl('/sprites/mascot.png')
+        src={assetUrl('/sprites/mascot.png')}
         alt="Mèo Bông"
         animate={{ left: `${petSpot.x}%`, top: `${petSpot.y}%`, rotate: answered && isCorrect ? [0, -10, 10, 0] : 0 }}
         transition={{ type: "spring", stiffness: 200, damping: 16 }}

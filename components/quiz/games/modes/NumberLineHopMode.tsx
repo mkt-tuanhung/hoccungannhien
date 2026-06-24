@@ -48,7 +48,7 @@ export default function NumberLineHopMode({ question, onAnswer, bg }: Props) {
                 <div key={n} className="flex flex-col items-center" style={{ flex: 1, minWidth: 0 }}>
                   <motion.div className="absolute" style={{ top: 0, left: `${(n / max) * 100}%`, transform: "translateX(-50%)" }}
                     animate={pos === n ? { y: [0, -10, 0] } : {}} transition={{ duration: 0.4 }}>
-                    {pos === n && <img src=assetUrl('/sprites/frog.png') alt="" className="w-9 h-9 object-contain drop-shadow" />}
+                    {pos === n && <img src={assetUrl('/sprites/frog.png')} alt="" className="w-9 h-9 object-contain drop-shadow" />}
                   </motion.div>
                   <div className={`rounded-full flex items-center justify-center font-black ${pos === n ? "bg-green-400 text-white" : "bg-white/80 text-[#5A4A6A]"}`}
                     style={{ width: max > 12 ? 18 : 26, height: max > 12 ? 18 : 26, fontSize: max > 12 ? "0.7rem" : "0.9rem" }}>{n}</div>

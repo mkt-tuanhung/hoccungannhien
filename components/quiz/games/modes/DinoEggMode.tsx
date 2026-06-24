@@ -38,7 +38,7 @@ export default function DinoEggMode({ question, onAnswer, bg, objects }: Props) 
                   background: isAns ? "transparent" : `radial-gradient(circle at 40% 30%, #fffdf5, ${face.face} 95%)`,
                   boxShadow: isAns ? "none" : "0 8px 16px rgba(80,60,40,0.3), inset 0 -6px 10px rgba(0,0,0,0.12)",
                   border: isAns ? "none" : "3px solid rgba(255,255,255,0.6)" }}>
-                {isAns ? <GlossySprite src=assetUrl('/sprites/dino.png') size={80} /> : opt}
+                {isAns ? <GlossySprite src={assetUrl('/sprites/dino.png')} size={80} /> : opt}
                 {/* Đốm trên trứng */}
                 {!g.isAnswered && <span className="absolute" style={{ top: 18, left: 18, width: 10, height: 10, borderRadius: "50%", background: face.lip, opacity: 0.5 }} />}
               </motion.button>

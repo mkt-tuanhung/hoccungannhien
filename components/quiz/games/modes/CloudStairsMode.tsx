@@ -26,7 +26,7 @@ export default function CloudStairsMode({ question, onAnswer, bg, objects }: Pro
       <div className="relative z-10 flex flex-col min-h-[100dvh] px-4 pt-16 pb-6 max-w-xl mx-auto">
         <ModeHeader g={g} displayPrompt={displayPrompt} speak={speak} objects={objects} hint="☁️ Chạm mây có đáp án đúng để thỏ leo lên" />
         <div className="relative flex-1">
-          <img src=assetUrl('/sprites/castle.png') alt="" className="absolute w-14 h-14 object-contain" style={{ left: "84%", top: "2%", filter: "drop-shadow(0 4px 6px rgba(0,0,0,0.25))" }} />
+          <img src={assetUrl('/sprites/castle.png')} alt="" className="absolute w-14 h-14 object-contain" style={{ left: "84%", top: "2%", filter: "drop-shadow(0 4px 6px rgba(0,0,0,0.25))" }} />
           {g.options.slice(0, 4).map((opt, i) => {
             const s = STEPS[i];
             let face = PALETTE[ANSWER_SCHEMES[i % ANSWER_SCHEMES.length]];
@@ -46,7 +46,7 @@ export default function CloudStairsMode({ question, onAnswer, bg, objects }: Pro
           })}
           <motion.div className="absolute z-20 pointer-events-none" style={{ transform: "translate(-50%,-90%)" }}
             animate={{ left: `${rabbit.x}%`, top: `${rabbit.y}%` }} transition={{ type: "spring", stiffness: 180, damping: 16 }}>
-            <GlossySprite src=assetUrl('/sprites/rabbit.png') size={64} />
+            <GlossySprite src={assetUrl('/sprites/rabbit.png')} size={64} />
           </motion.div>
         </div>
       </div>

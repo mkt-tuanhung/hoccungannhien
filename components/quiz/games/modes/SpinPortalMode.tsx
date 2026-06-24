@@ -33,7 +33,7 @@ export default function SpinPortalMode({ question, onAnswer, bg, objects }: Prop
               style={{ border: "14px solid", borderColor: "#B49BEC #7CC9F0 #FF9CC2 #FFCF5C", boxShadow: "0 0 40px rgba(150,120,230,0.6), inset 0 0 30px rgba(255,255,255,0.4)" }}
               animate={{ rotate: 360 }} transition={{ repeat: Infinity, duration: 8, ease: "linear" }} />
             <div className="absolute inset-16 rounded-full" style={{ background: "radial-gradient(circle, rgba(180,155,236,0.5), rgba(80,60,140,0.2))" }} />
-            <GlossySprite src=assetUrl('/sprites/portal.png') size={112} className="absolute inset-0 m-auto" />
+            <GlossySprite src={assetUrl('/sprites/portal.png')} size={112} className="absolute inset-0 m-auto" />
             {/* 4 ô số */}
             {g.options.slice(0, 4).map((opt, i) => {
               const p = POS[i];

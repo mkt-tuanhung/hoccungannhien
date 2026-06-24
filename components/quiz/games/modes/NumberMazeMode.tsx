@@ -45,7 +45,7 @@ export default function NumberMazeMode({ question, onAnswer, bg, objects }: Prop
               {layout.map((cell, i) => (
                 "wall" in cell ? (
                   <div key={i} className="rounded-2xl flex items-center justify-center" style={{ background: "rgba(60,45,35,0.55)", boxShadow: "inset 0 2px 6px rgba(0,0,0,0.4)" }}>
-                    <GlossySprite src=assetUrl('/sprites/magnifier.png') size={48} />
+                    <GlossySprite src={assetUrl('/sprites/magnifier.png')} size={48} />
                   </div>
                 ) : (
                   <motion.button key={i} onClick={() => { if (!g.isAnswered) { setPetCell(i); g.handleSelect(cell.opt); } }}
@@ -70,11 +70,11 @@ export default function NumberMazeMode({ question, onAnswer, bg, objects }: Prop
             {/* Chuột chạy */}
             <motion.div className="absolute z-20 pointer-events-none" style={{ transform: "translate(-50%,-50%)" }}
               animate={cellPos(petCell)} transition={{ type: "spring", stiffness: 200, damping: 18 }}>
-              <GlossySprite src=assetUrl('/sprites/mouse.png') size={56} />
+              <GlossySprite src={assetUrl('/sprites/mouse.png')} size={56} />
             </motion.div>
             {/* Phô mai đích */}
             <div className="absolute z-10" style={{ right: 6, bottom: 6 }}>
-              <GlossySprite src=assetUrl('/sprites/cheese.png') size={48} />
+              <GlossySprite src={assetUrl('/sprites/cheese.png')} size={48} />
             </div>
           </div>
         </div>

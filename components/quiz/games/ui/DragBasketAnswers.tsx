@@ -67,7 +67,7 @@ export default function DragBasketAnswers({ options, correctAnswer, selectedOpti
         className="relative flex items-end justify-center"
         style={{ width: 150, height: 120 }}
       >
-        <img src=assetUrl('/sprites/basket.png') alt="" className="w-32 h-32 object-contain" style={{ filter: "drop-shadow(0 8px 8px rgba(80,50,90,0.3))" }} />
+        <img src={assetUrl('/sprites/basket.png')} alt="" className="w-32 h-32 object-contain" style={{ filter: "drop-shadow(0 8px 8px rgba(80,50,90,0.3))" }} />
         {!answered && (
           <motion.div
             className="absolute inset-x-4 bottom-2 rounded-full border-4 border-dashed border-white/70"

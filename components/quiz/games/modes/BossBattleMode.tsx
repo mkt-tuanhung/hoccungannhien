@@ -52,7 +52,7 @@ export default function BossBattleMode({ question, onAnswer, bg, objects }: Prop
               <motion.span key={i} animate={{ scale: hearts <= i ? 0 : 1 }} className="text-2xl">❤️</motion.span>
             ))}
           </div>
-          <GlossySprite src=assetUrl('/sprites/dragon.png') size={160}
+          <GlossySprite src={assetUrl('/sprites/dragon.png')} size={160}
             animate={g.isAnswered && g.isCorrect ? { x: [0, -12, 12, -8, 8, 0], rotate: [0, -5, 5, 0] } : { y: [0, -8, 0] }}
             transition={g.isAnswered ? { duration: 0.5 } : { repeat: Infinity, duration: 2 }}
             className={hearts === 0 ? "grayscale brightness-90" : ""} />
