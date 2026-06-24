@@ -26,7 +26,7 @@ const PROMPT = "Lật thẻ, ghép số với nhóm đồ vật đúng nhé!";
 
 export default function MatchingMode({ question, onAnswer, bg, objects }: Props) {
   const g = useGameMode(question, onAnswer);
-  const icon = objects && objects.length ? objects[0] : g.objectIcon || assetUrl('/sprites/apple.png');
+  const icon = g.objectIcon || (objects?.length ? objects[0] : assetUrl('/sprites/apple.png'));
 
   const [cards, setCards] = useState<Card[]>([]);
   const [flipped, setFlipped] = useState<number[]>([]);

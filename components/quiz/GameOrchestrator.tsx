@@ -160,13 +160,17 @@ export default function GameOrchestrator({ questions, onGameComplete, onProgress
               const AUDIO_PROMPTS = ['nghe', 'cô ai đọc', 'đọc số', 'tiếng'];
               const DRAG_PROMPTS = ['kéo thả', 'bỏ vào rổ', 'bỏ vào giỏ', 'thả vào'];
               const TRACE_PROMPTS = ['tô theo', 'viết số', 'vẽ số'];
+              // Câu hỏi dạng trắc nghiệm "chọn số đúng" KHÔNG phù hợp với DragCountMode
+              const CHOICE_PROMPTS = ['chọn số đúng', 'chọn đáp án', 'bé hãy chọn', 'chọn số'];
 
               const isAudioQ = AUDIO_PROMPTS.some(k => pLow.includes(k));
               const isDragQ = DRAG_PROMPTS.some(k => pLow.includes(k));
               const isTraceQ = TRACE_PROMPTS.some(k => pLow.includes(k));
+              const isChoiceQ = CHOICE_PROMPTS.some(k => pLow.includes(k));
 
-              // Các engine chuyên dụng KHÔNG phù hợp cho câu hỏi audio/drag/trace
-              const INCOMPATIBLE_WITH_AUDIO = ['gen_dragon_farm_math', 'gen_living_math_garden', 'gen_candy_biome_world', 'std_drag_worksheet', 'gen_dream_room_builder', 'std_number_trace', 'gen_infinite_island_archipelago', 'gen_cloud_city_numbers'];
+              // Các engine chuyên dụng KHÔNG phù hợp cho câu hỏi audio/drag/trace/choice
+              const DRAG_ENGINES = ['gen_living_math_garden', 'gen_candy_biome_world', 'std_drag_worksheet', 'gen_dream_room_builder'];
+              const INCOMPATIBLE_WITH_AUDIO = [...DRAG_ENGINES, 'gen_dragon_farm_math', 'std_number_trace', 'gen_infinite_island_archipelago', 'gen_cloud_city_numbers'];
               const INCOMPATIBLE_WITH_DRAG = ['std_audio_math', 'std_flashcard_sprint'];
               const INCOMPATIBLE_WITH_TRACE = ['std_audio_math', 'gen_dragon_farm_math'];
 
@@ -178,6 +182,9 @@ export default function GameOrchestrator({ questions, onGameComplete, onProgress
                 resolvedType = 'std_audio_math';
               } else if (isDragQ && INCOMPATIBLE_WITH_DRAG.includes(resolvedType)) {
                 resolvedType = 'gen_living_math_garden';
+              } else if (isChoiceQ && DRAG_ENGINES.includes(resolvedType)) {
+                // "chọn số đúng" không dùng DragCountMode → dùng BaseGameShell (tap choice)
+                resolvedType = 'gen_infinite_island_archipelago';
               }
 
               const resolvedQ = resolvedType !== q.type ? { ...q, type: resolvedType } : q;

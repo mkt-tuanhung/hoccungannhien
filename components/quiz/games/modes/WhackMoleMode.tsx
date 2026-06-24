@@ -16,7 +16,7 @@ interface Props extends GameModeProps { bg?: string; objects?: string[]; }
 export default function WhackMoleMode({ question, onAnswer, bg, objects }: Props) {
   const g = useGameMode(question, onAnswer);
   const { displayPrompt, speak } = useModeExtras(g, question);
-  const icon = objects?.length ? objects[0] : g.objectIcon || assetUrl('/sprites/rabbit.png');
+  const icon = g.objectIcon || (objects?.length ? objects[0] : assetUrl('/sprites/rabbit.png'));
 
   return (
     <div className="relative w-full min-h-[100dvh] overflow-hidden">

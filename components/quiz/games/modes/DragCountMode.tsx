@@ -17,7 +17,7 @@ interface Props extends GameModeProps { bg?: string; objects?: string[]; contain
 export default function DragCountMode({ question, onAnswer, bg, objects, container = assetUrl('/sprites/basket.png') }: Props) {
   const g = useGameMode(question, onAnswer);
   const { displayPrompt, speak } = useModeExtras(g, question);
-  const icon = objects?.length ? objects[0] : g.objectIcon || assetUrl('/sprites/apple.png');
+  const icon = g.objectIcon || (objects?.length ? objects[0] : assetUrl('/sprites/apple.png'));
   const answer = Number(g.correctAnswer) || 0;
   const [inJar, setInJar] = useState(0);
   const [trayTotal, setTrayTotal] = useState(0);
