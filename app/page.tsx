@@ -43,7 +43,7 @@ function ChildIllustration() {
       {/* Cổ áo */}
       <path d="M86 136 L100 155 L114 136" fill="white" opacity="0.9"/>
       {/* Tay */}
-      <ellipse cx="52" cy="158" rx="14" ry="28" rx2="14" fill="#7C3AED" transform="rotate(-15 52 158)"/>
+      <ellipse cx="52" cy="158" rx="14" ry="28" fill="#7C3AED" transform="rotate(-15 52 158)"/>
       <ellipse cx="148" cy="158" rx="14" ry="28" fill="#7C3AED" transform="rotate(15 148 158)"/>
       {/* Bàn tay */}
       <ellipse cx="42" cy="178" rx="11" ry="10" fill="#FDDBB4"/>
