@@ -1,0 +1,952 @@
+[
+ {
+  "id": "l26-std_erro-1",
+  "gameId": "std_error_clinic",
+  "type": "std_error_clinic",
+  "prompt": "🧺 Hứng số đúng: 1 + 13 = ?",
+  "correctAnswer": 14,
+  "options": [
+   13,
+   12,
+   14,
+   17
+  ],
+  "objectIcon": "/sprites/apple.png",
+  "objectIcon2": "",
+  "targetCount": 1,
+  "targetCount2": 13,
+  "renderMode": "addition",
+  "displayPrompt": null
+ },
+ {
+  "id": "l26-std_mini-1",
+  "gameId": "std_mini_exam",
+  "type": "std_mini_exam",
+  "prompt": "🧩 Ghép tranh: Đếm sao và chọn số đúng!",
+  "correctAnswer": 9,
+  "options": [
+   6,
+   10,
+   12,
+   9
+  ],
+  "objectIcon": "/sprites/crown.png",
+  "objectIcon2": "",
+  "targetCount": 9,
+  "targetCount2": 0,
+  "renderMode": "single",
+  "displayPrompt": null
+ },
+ {
+  "id": "l26-std_pare-1",
+  "gameId": "std_parent_assignment",
+  "type": "std_parent_assignment",
+  "prompt": "📋 Nhiệm vụ hôm nay: tìm kết quả của 8 + 4",
+  "correctAnswer": 12,
+  "options": [
+   12,
+   15,
+   13,
+   11
+  ],
+  "objectIcon": "/sprites/lollipop.png",
+  "objectIcon2": "",
+  "targetCount": 8,
+  "targetCount2": 0,
+  "renderMode": "single",
+  "displayPrompt": null
+ },
+ {
+  "id": "l26-std_erro-2",
+  "gameId": "std_error_clinic",
+  "type": "std_error_clinic",
+  "prompt": "🧺 Hứng số đúng: 3 - 2 = ?",
+  "correctAnswer": 1,
+  "options": [
+   2,
+   1,
+   3,
+   0
+  ],
+  "objectIcon": "/sprites/star.png",
+  "objectIcon2": "",
+  "targetCount": 3,
+  "targetCount2": 2,
+  "renderMode": "subtraction",
+  "displayPrompt": null
+ },
+ {
+  "id": "l26-std_mini-2",
+  "gameId": "std_mini_exam",
+  "type": "std_mini_exam",
+  "prompt": "🧩 Ghép tranh: 8 + 2 = ?",
+  "correctAnswer": 10,
+  "options": [
+   8,
+   10,
+   12,
+   13
+  ],
+  "objectIcon": "/sprites/apple.png",
+  "objectIcon2": "",
+  "targetCount": 8,
+  "targetCount2": 2,
+  "renderMode": "addition",
+  "displayPrompt": null
+ },
+ {
+  "id": "l26-std_pare-2",
+  "gameId": "std_parent_assignment",
+  "type": "std_parent_assignment",
+  "prompt": "📋 Hãy giải: có 14 quả, ăn 2 quả. Còn lại?",
+  "correctAnswer": 12,
+  "options": [
+   13,
+   14,
+   12,
+   10
+  ],
+  "objectIcon": "/sprites/crown.png",
+  "objectIcon2": "",
+  "targetCount": 12,
+  "targetCount2": 0,
+  "renderMode": "single",
+  "displayPrompt": null
+ },
+ {
+  "id": "l26-std_erro-3",
+  "gameId": "std_error_clinic",
+  "type": "std_error_clinic",
+  "prompt": "🧺 Hứng số đúng: 13 + 1 = ?",
+  "correctAnswer": 14,
+  "options": [
+   14,
+   11,
+   13,
+   17
+  ],
+  "objectIcon": "/sprites/candy.png",
+  "objectIcon2": "",
+  "targetCount": 13,
+  "targetCount2": 1,
+  "renderMode": "addition",
+  "displayPrompt": null
+ },
+ {
+  "id": "l26-std_mini-3",
+  "gameId": "std_mini_exam",
+  "type": "std_mini_exam",
+  "prompt": "🧩 Ghép tranh: 7 - 5 = ?",
+  "correctAnswer": 2,
+  "options": [
+   4,
+   2,
+   0,
+   1
+  ],
+  "objectIcon": "/sprites/star.png",
+  "objectIcon2": "",
+  "targetCount": 7,
+  "targetCount2": 5,
+  "renderMode": "subtraction",
+  "displayPrompt": null
+ },
+ {
+  "id": "l26-std_pare-3",
+  "gameId": "std_parent_assignment",
+  "type": "std_parent_assignment",
+  "prompt": "📋 Bố giao: 5 + 5 = ?",
+  "correctAnswer": 10,
+  "options": [
+   12,
+   10,
+   8,
+   13
+  ],
+  "objectIcon": "/sprites/apple.png",
+  "objectIcon2": "",
+  "targetCount": 5,
+  "targetCount2": 0,
+  "renderMode": "single",
+  "displayPrompt": null
+ },
+ {
+  "id": "l26-std_erro-4",
+  "gameId": "std_error_clinic",
+  "type": "std_error_clinic",
+  "prompt": "🧺 Hứng số đúng: 17 - 15 = ?",
+  "correctAnswer": 2,
+  "options": [
+   3,
+   0,
+   2,
+   4
+  ],
+  "objectIcon": "/sprites/ball.png",
+  "objectIcon2": "",
+  "targetCount": 17,
+  "targetCount2": 15,
+  "renderMode": "subtraction",
+  "displayPrompt": null
+ },
+ {
+  "id": "l26-std_mini-4",
+  "gameId": "std_mini_exam",
+  "type": "std_mini_exam",
+  "prompt": "🧩 Ghép tranh: Đếm xu và chọn số đúng!",
+  "correctAnswer": 3,
+  "options": [
+   3,
+   1,
+   2,
+   5
+  ],
+  "objectIcon": "/sprites/candy.png",
+  "objectIcon2": "",
+  "targetCount": 3,
+  "targetCount2": 0,
+  "renderMode": "single",
+  "displayPrompt": null
+ },
+ {
+  "id": "l26-std_pare-4",
+  "gameId": "std_parent_assignment",
+  "type": "std_parent_assignment",
+  "prompt": "📋 Mẹ giao: 19 - 11 = ?",
+  "correctAnswer": 8,
+  "options": [
+   11,
+   8,
+   6,
+   9
+  ],
+  "objectIcon": "/sprites/star.png",
+  "objectIcon2": "",
+  "targetCount": 8,
+  "targetCount2": 0,
+  "renderMode": "single",
+  "displayPrompt": null
+ },
+ {
+  "id": "l26-std_erro-5",
+  "gameId": "std_error_clinic",
+  "type": "std_error_clinic",
+  "prompt": "🧺 Hứng số đúng: 4 + 3 = ?",
+  "correctAnswer": 7,
+  "options": [
+   9,
+   7,
+   10,
+   6
+  ],
+  "objectIcon": "/sprites/coin.png",
+  "objectIcon2": "",
+  "targetCount": 4,
+  "targetCount2": 3,
+  "renderMode": "addition",
+  "displayPrompt": null
+ },
+ {
+  "id": "l26-std_mini-5",
+  "gameId": "std_mini_exam",
+  "type": "std_mini_exam",
+  "prompt": "🧩 Ghép tranh: 10 + 8 = ?",
+  "correctAnswer": 18,
+  "options": [
+   18,
+   16,
+   15,
+   21
+  ],
+  "objectIcon": "/sprites/ball.png",
+  "objectIcon2": "",
+  "targetCount": 10,
+  "targetCount2": 8,
+  "renderMode": "addition",
+  "displayPrompt": null
+ },
+ {
+  "id": "l26-std_pare-5",
+  "gameId": "std_parent_assignment",
+  "type": "std_parent_assignment",
+  "prompt": "📋 Nhiệm vụ hôm nay: tìm kết quả của 4 + 5",
+  "correctAnswer": 9,
+  "options": [
+   9,
+   12,
+   7,
+   11
+  ],
+  "objectIcon": "/sprites/candy.png",
+  "objectIcon2": "",
+  "targetCount": 4,
+  "targetCount2": 0,
+  "renderMode": "single",
+  "displayPrompt": null
+ },
+ {
+  "id": "l26-std_erro-6",
+  "gameId": "std_error_clinic",
+  "type": "std_error_clinic",
+  "prompt": "🧺 Hứng số đúng: 4 - 3 = ?",
+  "correctAnswer": 1,
+  "options": [
+   2,
+   1,
+   4,
+   0
+  ],
+  "objectIcon": "/sprites/flower.png",
+  "objectIcon2": "",
+  "targetCount": 4,
+  "targetCount2": 3,
+  "renderMode": "subtraction",
+  "displayPrompt": null
+ },
+ {
+  "id": "l26-std_mini-6",
+  "gameId": "std_mini_exam",
+  "type": "std_mini_exam",
+  "prompt": "🧩 Ghép tranh: 6 - 5 = ?",
+  "correctAnswer": 1,
+  "options": [
+   4,
+   1,
+   2,
+   3
+  ],
+  "objectIcon": "/sprites/coin.png",
+  "objectIcon2": "",
+  "targetCount": 6,
+  "targetCount2": 5,
+  "renderMode": "subtraction",
+  "displayPrompt": null
+ },
+ {
+  "id": "l26-std_pare-6",
+  "gameId": "std_parent_assignment",
+  "type": "std_parent_assignment",
+  "prompt": "📋 Hãy giải: có 11 quả, ăn 10 quả. Còn lại?",
+  "correctAnswer": 1,
+  "options": [
+   1,
+   0,
+   2,
+   4
+  ],
+  "objectIcon": "/sprites/ball.png",
+  "objectIcon2": "",
+  "targetCount": 1,
+  "targetCount2": 0,
+  "renderMode": "single",
+  "displayPrompt": null
+ },
+ {
+  "id": "l26-std_erro-7",
+  "gameId": "std_error_clinic",
+  "type": "std_error_clinic",
+  "prompt": "🧺 Hứng số đúng: 7 + 11 = ?",
+  "correctAnswer": 18,
+  "options": [
+   20,
+   19,
+   18,
+   21
+  ],
+  "objectIcon": "/sprites/cat.png",
+  "objectIcon2": "",
+  "targetCount": 7,
+  "targetCount2": 11,
+  "renderMode": "addition",
+  "displayPrompt": null
+ },
+ {
+  "id": "l26-std_mini-7",
+  "gameId": "std_mini_exam",
+  "type": "std_mini_exam",
+  "prompt": "🧩 Ghép tranh: Đếm thỏ và chọn số đúng!",
+  "correctAnswer": 4,
+  "options": [
+   4,
+   2,
+   1,
+   6
+  ],
+  "objectIcon": "/sprites/flower.png",
+  "objectIcon2": "",
+  "targetCount": 4,
+  "targetCount2": 0,
+  "renderMode": "single",
+  "displayPrompt": null
+ },
+ {
+  "id": "l26-std_pare-7",
+  "gameId": "std_parent_assignment",
+  "type": "std_parent_assignment",
+  "prompt": "📋 Bố giao: 10 + 4 = ?",
+  "correctAnswer": 14,
+  "options": [
+   12,
+   11,
+   14,
+   13
+  ],
+  "objectIcon": "/sprites/coin.png",
+  "objectIcon2": "",
+  "targetCount": 10,
+  "targetCount2": 0,
+  "renderMode": "single",
+  "displayPrompt": null
+ },
+ {
+  "id": "l26-std_erro-8",
+  "gameId": "std_error_clinic",
+  "type": "std_error_clinic",
+  "prompt": "🧺 Hứng số đúng: 6 - 2 = ?",
+  "correctAnswer": 4,
+  "options": [
+   4,
+   6,
+   2,
+   1
+  ],
+  "objectIcon": "/sprites/rabbit.png",
+  "objectIcon2": "",
+  "targetCount": 6,
+  "targetCount2": 2,
+  "renderMode": "subtraction",
+  "displayPrompt": null
+ },
+ {
+  "id": "l26-std_mini-8",
+  "gameId": "std_mini_exam",
+  "type": "std_mini_exam",
+  "prompt": "🧩 Ghép tranh: 7 + 2 = ?",
+  "correctAnswer": 9,
+  "options": [
+   9,
+   11,
+   7,
+   12
+  ],
+  "objectIcon": "/sprites/cat.png",
+  "objectIcon2": "",
+  "targetCount": 7,
+  "targetCount2": 2,
+  "renderMode": "addition",
+  "displayPrompt": null
+ },
+ {
+  "id": "l26-std_pare-8",
+  "gameId": "std_parent_assignment",
+  "type": "std_parent_assignment",
+  "prompt": "📋 Mẹ giao: 3 - 1 = ?",
+  "correctAnswer": 2,
+  "options": [
+   2,
+   4,
+   5,
+   0
+  ],
+  "objectIcon": "/sprites/flower.png",
+  "objectIcon2": "",
+  "targetCount": 2,
+  "targetCount2": 0,
+  "renderMode": "single",
+  "displayPrompt": null
+ },
+ {
+  "id": "l26-std_erro-9",
+  "gameId": "std_error_clinic",
+  "type": "std_error_clinic",
+  "prompt": "🧺 Hứng số đúng: 8 + 3 = ?",
+  "correctAnswer": 11,
+  "options": [
+   11,
+   9,
+   10,
+   12
+  ],
+  "objectIcon": "/sprites/diamond.png",
+  "objectIcon2": "",
+  "targetCount": 8,
+  "targetCount2": 3,
+  "renderMode": "addition",
+  "displayPrompt": null
+ },
+ {
+  "id": "l26-std_mini-9",
+  "gameId": "std_mini_exam",
+  "type": "std_mini_exam",
+  "prompt": "🧩 Ghép tranh: 8 - 1 = ?",
+  "correctAnswer": 7,
+  "options": [
+   4,
+   7,
+   5,
+   8
+  ],
+  "objectIcon": "/sprites/rabbit.png",
+  "objectIcon2": "",
+  "targetCount": 8,
+  "targetCount2": 1,
+  "renderMode": "subtraction",
+  "displayPrompt": null
+ },
+ {
+  "id": "l26-std_pare-9",
+  "gameId": "std_parent_assignment",
+  "type": "std_parent_assignment",
+  "prompt": "📋 Nhiệm vụ hôm nay: tìm kết quả của 11 + 4",
+  "correctAnswer": 15,
+  "options": [
+   15,
+   18,
+   16,
+   14
+  ],
+  "objectIcon": "/sprites/cat.png",
+  "objectIcon2": "",
+  "targetCount": 11,
+  "targetCount2": 0,
+  "renderMode": "single",
+  "displayPrompt": null
+ },
+ {
+  "id": "l26-std_erro-10",
+  "gameId": "std_error_clinic",
+  "type": "std_error_clinic",
+  "prompt": "🧺 Hứng số đúng: 6 - 1 = ?",
+  "correctAnswer": 5,
+  "options": [
+   5,
+   4,
+   6,
+   3
+  ],
+  "objectIcon": "/sprites/frog.png",
+  "objectIcon2": "",
+  "targetCount": 6,
+  "targetCount2": 1,
+  "renderMode": "subtraction",
+  "displayPrompt": null
+ },
+ {
+  "id": "l26-std_mini-10",
+  "gameId": "std_mini_exam",
+  "type": "std_mini_exam",
+  "prompt": "🧩 Ghép tranh: Đếm cà rốt và chọn số đúng!",
+  "correctAnswer": 2,
+  "options": [
+   2,
+   5,
+   1,
+   4
+  ],
+  "objectIcon": "/sprites/diamond.png",
+  "objectIcon2": "",
+  "targetCount": 2,
+  "targetCount2": 0,
+  "renderMode": "single",
+  "displayPrompt": null
+ },
+ {
+  "id": "l26-std_pare-10",
+  "gameId": "std_parent_assignment",
+  "type": "std_parent_assignment",
+  "prompt": "📋 Hãy giải: có 11 quả, ăn 6 quả. Còn lại?",
+  "correctAnswer": 5,
+  "options": [
+   5,
+   8,
+   6,
+   2
+  ],
+  "objectIcon": "/sprites/rabbit.png",
+  "objectIcon2": "",
+  "targetCount": 5,
+  "targetCount2": 0,
+  "renderMode": "single",
+  "displayPrompt": null
+ },
+ {
+  "id": "l26-std_erro-11",
+  "gameId": "std_error_clinic",
+  "type": "std_error_clinic",
+  "prompt": "🧺 Hứng số đúng: 3 + 12 = ?",
+  "correctAnswer": 15,
+  "options": [
+   13,
+   12,
+   15,
+   14
+  ],
+  "objectIcon": "/sprites/carrot.png",
+  "objectIcon2": "",
+  "targetCount": 3,
+  "targetCount2": 12,
+  "renderMode": "addition",
+  "displayPrompt": null
+ },
+ {
+  "id": "l26-std_mini-11",
+  "gameId": "std_mini_exam",
+  "type": "std_mini_exam",
+  "prompt": "🧩 Ghép tranh: 14 + 4 = ?",
+  "correctAnswer": 18,
+  "options": [
+   18,
+   15,
+   20,
+   17
+  ],
+  "objectIcon": "/sprites/frog.png",
+  "objectIcon2": "",
+  "targetCount": 14,
+  "targetCount2": 4,
+  "renderMode": "addition",
+  "displayPrompt": null
+ },
+ {
+  "id": "l26-std_pare-11",
+  "gameId": "std_parent_assignment",
+  "type": "std_parent_assignment",
+  "prompt": "📋 Bố giao: 4 + 9 = ?",
+  "correctAnswer": 13,
+  "options": [
+   14,
+   13,
+   16,
+   15
+  ],
+  "objectIcon": "/sprites/diamond.png",
+  "objectIcon2": "",
+  "targetCount": 4,
+  "targetCount2": 0,
+  "renderMode": "single",
+  "displayPrompt": null
+ },
+ {
+  "id": "l26-std_erro-12",
+  "gameId": "std_error_clinic",
+  "type": "std_error_clinic",
+  "prompt": "🧺 Hứng số đúng: 2 - 2 = ?",
+  "correctAnswer": 0,
+  "options": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "objectIcon": "/sprites/strawberry.png",
+  "objectIcon2": "",
+  "targetCount": 2,
+  "targetCount2": 2,
+  "renderMode": "subtraction",
+  "displayPrompt": null
+ },
+ {
+  "id": "l26-std_mini-12",
+  "gameId": "std_mini_exam",
+  "type": "std_mini_exam",
+  "prompt": "🧩 Ghép tranh: 20 - 9 = ?",
+  "correctAnswer": 11,
+  "options": [
+   13,
+   9,
+   8,
+   11
+  ],
+  "objectIcon": "/sprites/carrot.png",
+  "objectIcon2": "",
+  "targetCount": 20,
+  "targetCount2": 9,
+  "renderMode": "subtraction",
+  "displayPrompt": null
+ },
+ {
+  "id": "l26-std_pare-12",
+  "gameId": "std_parent_assignment",
+  "type": "std_parent_assignment",
+  "prompt": "📋 Mẹ giao: 15 - 1 = ?",
+  "correctAnswer": 14,
+  "options": [
+   13,
+   14,
+   12,
+   11
+  ],
+  "objectIcon": "/sprites/frog.png",
+  "objectIcon2": "",
+  "targetCount": 14,
+  "targetCount2": 0,
+  "renderMode": "single",
+  "displayPrompt": null
+ },
+ {
+  "id": "l26-std_erro-13",
+  "gameId": "std_error_clinic",
+  "type": "std_error_clinic",
+  "prompt": "🧺 Hứng số đúng: 10 + 1 = ?",
+  "correctAnswer": 11,
+  "options": [
+   8,
+   9,
+   10,
+   11
+  ],
+  "objectIcon": "/sprites/mushroom.png",
+  "objectIcon2": "",
+  "targetCount": 10,
+  "targetCount2": 1,
+  "renderMode": "addition",
+  "displayPrompt": null
+ },
+ {
+  "id": "l26-std_mini-13",
+  "gameId": "std_mini_exam",
+  "type": "std_mini_exam",
+  "prompt": "🧩 Ghép tranh: Đếm cá và chọn số đúng!",
+  "correctAnswer": 2,
+  "options": [
+   2,
+   1,
+   4,
+   5
+  ],
+  "objectIcon": "/sprites/strawberry.png",
+  "objectIcon2": "",
+  "targetCount": 2,
+  "targetCount2": 0,
+  "renderMode": "single",
+  "displayPrompt": null
+ },
+ {
+  "id": "l26-std_pare-13",
+  "gameId": "std_parent_assignment",
+  "type": "std_parent_assignment",
+  "prompt": "📋 Nhiệm vụ hôm nay: tìm kết quả của 10 + 7",
+  "correctAnswer": 17,
+  "options": [
+   16,
+   14,
+   17,
+   15
+  ],
+  "objectIcon": "/sprites/carrot.png",
+  "objectIcon2": "",
+  "targetCount": 10,
+  "targetCount2": 0,
+  "renderMode": "single",
+  "displayPrompt": null
+ },
+ {
+  "id": "l26-std_erro-14",
+  "gameId": "std_error_clinic",
+  "type": "std_error_clinic",
+  "prompt": "🧺 Hứng số đúng: 4 - 4 = ?",
+  "correctAnswer": 0,
+  "options": [
+   1,
+   3,
+   2,
+   0
+  ],
+  "objectIcon": "/sprites/fish.png",
+  "objectIcon2": "",
+  "targetCount": 4,
+  "targetCount2": 4,
+  "renderMode": "subtraction",
+  "displayPrompt": null
+ },
+ {
+  "id": "l26-std_mini-14",
+  "gameId": "std_mini_exam",
+  "type": "std_mini_exam",
+  "prompt": "🧩 Ghép tranh: 10 + 3 = ?",
+  "correctAnswer": 13,
+  "options": [
+   13,
+   15,
+   16,
+   12
+  ],
+  "objectIcon": "/sprites/mushroom.png",
+  "objectIcon2": "",
+  "targetCount": 10,
+  "targetCount2": 3,
+  "renderMode": "addition",
+  "displayPrompt": null
+ },
+ {
+  "id": "l26-std_pare-14",
+  "gameId": "std_parent_assignment",
+  "type": "std_parent_assignment",
+  "prompt": "📋 Hãy giải: có 11 quả, ăn 2 quả. Còn lại?",
+  "correctAnswer": 9,
+  "options": [
+   10,
+   6,
+   7,
+   9
+  ],
+  "objectIcon": "/sprites/strawberry.png",
+  "objectIcon2": "",
+  "targetCount": 9,
+  "targetCount2": 0,
+  "renderMode": "single",
+  "displayPrompt": null
+ },
+ {
+  "id": "l26-std_erro-15",
+  "gameId": "std_error_clinic",
+  "type": "std_error_clinic",
+  "prompt": "🧺 Hứng số đúng: 13 + 5 = ?",
+  "correctAnswer": 18,
+  "options": [
+   19,
+   17,
+   20,
+   18
+  ],
+  "objectIcon": "/sprites/butterfly.png",
+  "objectIcon2": "",
+  "targetCount": 13,
+  "targetCount2": 5,
+  "renderMode": "addition",
+  "displayPrompt": null
+ },
+ {
+  "id": "l26-std_mini-15",
+  "gameId": "std_mini_exam",
+  "type": "std_mini_exam",
+  "prompt": "🧩 Ghép tranh: 12 - 7 = ?",
+  "correctAnswer": 5,
+  "options": [
+   4,
+   3,
+   7,
+   5
+  ],
+  "objectIcon": "/sprites/fish.png",
+  "objectIcon2": "",
+  "targetCount": 12,
+  "targetCount2": 7,
+  "renderMode": "subtraction",
+  "displayPrompt": null
+ },
+ {
+  "id": "l26-std_pare-15",
+  "gameId": "std_parent_assignment",
+  "type": "std_parent_assignment",
+  "prompt": "📋 Bố giao: 9 + 8 = ?",
+  "correctAnswer": 17,
+  "options": [
+   19,
+   17,
+   16,
+   20
+  ],
+  "objectIcon": "/sprites/mushroom.png",
+  "objectIcon2": "",
+  "targetCount": 9,
+  "targetCount2": 0,
+  "renderMode": "single",
+  "displayPrompt": null
+ },
+ {
+  "id": "l26-std_erro-16",
+  "gameId": "std_error_clinic",
+  "type": "std_error_clinic",
+  "prompt": "🧺 Hứng số đúng: 16 - 7 = ?",
+  "correctAnswer": 9,
+  "options": [
+   9,
+   7,
+   10,
+   8
+  ],
+  "objectIcon": "/sprites/cupcake.png",
+  "objectIcon2": "",
+  "targetCount": 16,
+  "targetCount2": 7,
+  "renderMode": "subtraction",
+  "displayPrompt": null
+ },
+ {
+  "id": "l26-std_mini-16",
+  "gameId": "std_mini_exam",
+  "type": "std_mini_exam",
+  "prompt": "🧩 Ghép tranh: Đếm táo và chọn số đúng!",
+  "correctAnswer": 8,
+  "options": [
+   7,
+   8,
+   10,
+   11
+  ],
+  "objectIcon": "/sprites/butterfly.png",
+  "objectIcon2": "",
+  "targetCount": 8,
+  "targetCount2": 0,
+  "renderMode": "single",
+  "displayPrompt": null
+ },
+ {
+  "id": "l26-std_pare-16",
+  "gameId": "std_parent_assignment",
+  "type": "std_parent_assignment",
+  "prompt": "📋 Mẹ giao: 15 - 5 = ?",
+  "correctAnswer": 10,
+  "options": [
+   11,
+   10,
+   8,
+   9
+  ],
+  "objectIcon": "/sprites/fish.png",
+  "objectIcon2": "",
+  "targetCount": 10,
+  "targetCount2": 0,
+  "renderMode": "single",
+  "displayPrompt": null
+ },
+ {
+  "id": "l26-std_erro-17",
+  "gameId": "std_error_clinic",
+  "type": "std_error_clinic",
+  "prompt": "🧺 Hứng số đúng: 12 + 3 = ?",
+  "correctAnswer": 15,
+  "options": [
+   14,
+   15,
+   17,
+   18
+  ],
+  "objectIcon": "/sprites/lollipop.png",
+  "objectIcon2": "",
+  "targetCount": 12,
+  "targetCount2": 3,
+  "renderMode": "addition",
+  "displayPrompt": null
+ },
+ {
+  "id": "l26-std_mini-17",
+  "gameId": "std_mini_exam",
+  "type": "std_mini_exam",
+  "prompt": "🧩 Ghép tranh: 2 + 1 = ?",
+  "correctAnswer": 3,
+  "options": [
+   6,
+   1,
+   3,
+   2
+  ],
+  "objectIcon": "/sprites/cupcake.png",
+  "objectIcon2": "",
+  "targetCount": 2,
+  "targetCount2": 1,
+  "renderMode": "addition",
+  "displayPrompt": null
+ }
+]
