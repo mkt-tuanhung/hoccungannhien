@@ -25,41 +25,76 @@ export default function AnswerButton({
     <motion.button
       onClick={onClick}
       disabled={disabled}
-      whileTap={disabled ? {} : { y: 7, transition: { duration: 0.05 } }}
+      whileTap={disabled ? {} : { y: 8, scale: 0.97, transition: { duration: 0.06 } }}
       animate={
-        state === "correct" ? { scale: [1, 1.12, 1] }
-        : state === "wrong" ? { x: [0, -8, 8, -6, 6, 0] }
+        state === "correct" ? { scale: [1, 1.13, 1] }
+        : state === "wrong" ? { x: [0, -10, 10, -7, 7, 0] }
         : state === "reveal" ? { scale: [1, 1.05, 1] }
         : {}
       }
       transition={state === "wrong" ? { duration: 0.4 } : { duration: 0.5, repeat: state === "reveal" ? Infinity : 0 }}
       className="relative w-full select-none"
-      style={{ opacity: isDimmed ? 0.45 : 1 }}
+      style={{ opacity: isDimmed ? 0.4 : 1 }}
     >
+      {/* Lớp shadow đáy tạo độ sâu 3D */}
+      <div
+        style={{
+          position: "absolute",
+          inset: 0,
+          top: 8,
+          borderRadius: 28,
+          background: c.lip,
+          filter: "brightness(0.8)",
+        }}
+      />
+
+      {/* Thân nút chính */}
       <div
         className="relative overflow-hidden flex items-center justify-center font-black"
         style={{
-          borderRadius: 30,
-          background: `linear-gradient(180deg, ${c.face} 0%, ${c.face} 50%, ${c.lip} 145%)`,
+          borderRadius: 28,
+          background: `linear-gradient(175deg, ${c.face}EE 0%, ${c.face} 40%, ${c.lip}CC 100%)`,
           color: "#fff",
-          boxShadow: `0 9px 0 ${c.lip}, 0 16px 22px rgba(110,70,130,0.28)`,
-          padding: "24px 16px",
+          boxShadow: `
+            inset 0 2px 3px rgba(255,255,255,0.55),
+            inset 0 -3px 4px rgba(0,0,0,0.12),
+            0 6px 0 ${c.lip},
+            0 10px 20px rgba(0,0,0,0.18)
+          `,
+          padding: "22px 16px",
           fontSize: "2.6rem",
           fontFamily: "'Mochiy Pop One', system-ui, sans-serif",
-          textShadow: "0 2px 3px rgba(0,0,0,0.18)",
+          textShadow: "0 2px 0 rgba(0,0,0,0.2), 0 4px 8px rgba(0,0,0,0.15)",
           minHeight: 86,
-          border: "3px solid rgba(255,255,255,0.4)",
+          border: `3px solid rgba(255,255,255,0.5)`,
+          letterSpacing: "0.02em",
         }}
       >
-        {/* Lớp gloss bóng phía trên */}
+        {/* Gloss trên - sáng rực */}
         <div
-          className="absolute left-2 right-2 pointer-events-none"
+          className="absolute left-3 right-3 pointer-events-none"
           style={{
-            top: 4, height: "44%", borderRadius: 24,
-            background: "linear-gradient(180deg, rgba(255,255,255,0.6) 0%, rgba(255,255,255,0.05) 100%)",
+            top: 5,
+            height: "42%",
+            borderRadius: 20,
+            background: "linear-gradient(180deg, rgba(255,255,255,0.75) 0%, rgba(255,255,255,0.08) 100%)",
           }}
         />
-        <span className="relative">
+        {/* Gloss nhỏ góc trái — điểm sáng */}
+        <div
+          className="absolute pointer-events-none"
+          style={{
+            top: 7,
+            left: 14,
+            width: 28,
+            height: 14,
+            borderRadius: "50%",
+            background: "rgba(255,255,255,0.6)",
+            filter: "blur(3px)",
+          }}
+        />
+
+        <span className="relative z-10">
           {state === "correct" && <span className="mr-2">✓</span>}
           {state === "wrong" && <span className="mr-2">✗</span>}
           {label}
