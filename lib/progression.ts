@@ -97,22 +97,37 @@ const syncToSupabase = async (
     const { data: { session } } = await supabase.auth.getSession();
     if (!session) return;
 
-    // Upsert level progress
-    await supabase.from("level_progress").upsert(
-      {
-        child_id: childId,
-        subject,
-        level_id: levelId,
-        score,
-        total,
-        is_completed: true,
-        stars,
-        played_at: new Date().toISOString(),
-      },
-      { onConflict: "child_id,subject,level_id" }
-    );
+    // Fetch existing progress for this level (to compute star delta, avoid double-counting)
+    const { data: existing } = await supabase
+      .from("level_progress")
+      .select("stars, score")
+      .eq("child_id", childId)
+      .eq("subject", subject)
+      .eq("level_id", levelId)
+      .single();
 
-    // Update streak
+    const prevStars = existing?.stars ?? 0;
+    const prevScore = existing?.score ?? -1;
+
+    // Only update level_progress if this is a NEW best score
+    if (score >= prevScore) {
+      await supabase.from("level_progress").upsert(
+        {
+          child_id: childId,
+          subject,
+          level_id: levelId,
+          score,
+          total,
+          is_completed: true,
+          stars,
+          played_at: new Date().toISOString(),
+        },
+        { onConflict: "child_id,subject,level_id" }
+      );
+    }
+
+    // Update streak + total_stars (only add the DELTA — tránh double-counting khi chơi lại)
+    const starDelta = Math.max(0, stars - prevStars);
     const today = new Date().toISOString().split("T")[0];
     const { data: child } = await supabase
       .from("child_profiles")
@@ -135,7 +150,8 @@ const syncToSupabase = async (
         .update({
           last_played_date: today,
           streak_days: newStreak,
-          total_stars: (child.total_stars || 0) + stars,
+          // Chỉ cộng thêm phần sao MỚI hơn lần trước (delta), không double-count
+          total_stars: (child.total_stars || 0) + starDelta,
         })
         .eq("id", childId);
     }

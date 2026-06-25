@@ -61,7 +61,10 @@ export default function PetRoom() {
     confetti({ particleCount: 40, spread: 70, origin: { y: 0.5 }, colors: ["#FF9CC2", "#6FD08C", "#FFCF5C"] });
 
     if (childId) {
-      await supabase.from('child_profiles').update({ total_stars: stars - food.cost }).eq('id', childId);
+      // Đọc giá trị mới nhất từ DB trước khi trừ (tránh stale state overwrite)
+      const { data: fresh } = await supabase.from('child_profiles').select('total_stars').eq('id', childId).single();
+      const freshStars = fresh?.total_stars ?? 0;
+      await supabase.from('child_profiles').update({ total_stars: Math.max(0, freshStars - food.cost) }).eq('id', childId);
     }
 
     setTimeout(() => setIsEating(false), 1800);

@@ -69,9 +69,11 @@ export default function ParentDashboard() {
 
     // Build per-child stats
     const childStats: ChildWithStats[] = profiles.map((p) => {
-      const childProgress = allProgress.filter((lp) => lp.child_id === p.id);
-      const totalScore = childProgress.reduce((s, lp) => s + (lp.score || 0), 0);
-      const totalQuestions = childProgress.reduce((s, lp) => s + (lp.total || 0), 0);
+      const childProgress = allProgress.filter((lp) => lp.child_id === p.id && lp.is_completed);
+      // Chỉ tính những level có total > 0 để tránh chia cho 0
+      const validProgress = childProgress.filter((lp) => (lp.total || 0) > 0);
+      const totalScore = validProgress.reduce((s, lp) => s + (lp.score || 0), 0);
+      const totalQuestions = validProgress.reduce((s, lp) => s + (lp.total || 0), 0);
       return {
         id: p.id,
         name: p.name,
@@ -79,7 +81,7 @@ export default function ParentDashboard() {
         daily_goal_minutes: p.daily_goal_minutes,
         total_stars: p.total_stars || 0,
         streak_days: p.streak_days || 0,
-        levelsCompleted: childProgress.filter((lp) => lp.is_completed).length,
+        levelsCompleted: childProgress.length,
         totalScore,
         totalQuestions,
       };
@@ -87,7 +89,7 @@ export default function ParentDashboard() {
 
     setChildren(childStats);
 
-    // Build weekly chart from level_progress played_at
+    // Build weekly chart từ level_progress.played_at
     const dayNames = ["CN", "T2", "T3", "T4", "T5", "T6", "T7"];
     const now = new Date();
     const weekData: DayData[] = [];
@@ -97,7 +99,7 @@ export default function ParentDashboard() {
       d.setDate(d.getDate() - i);
       const dateStr = d.toISOString().split("T")[0];
       const dayProgress = allProgress.filter(
-        (lp) => lp.played_at && lp.played_at.startsWith(dateStr)
+        (lp) => lp.played_at && lp.played_at.startsWith(dateStr) && lp.is_completed
       );
       weekData.push({
         name: dayNames[d.getDay()],
@@ -206,34 +208,50 @@ export default function ParentDashboard() {
         </header>
 
         {/* Stats Cards */}
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
-          <Card className="rounded-3xl border-none shadow-sm bg-blue-50/50 flex items-center">
-            <CardHeader className="flex-1">
-              <CardTitle className="text-xl text-blue-900">Tổng sao đạt được</CardTitle>
-              <CardDescription>Tất cả các bé</CardDescription>
-            </CardHeader>
-            <CardContent className="flex-1">
-              <p className="text-5xl font-black text-blue-600">{totalStars} <span className="text-2xl font-bold text-blue-400">⭐</span></p>
-            </CardContent>
-          </Card>
-
-          <Card className="rounded-3xl border-none shadow-sm bg-green-50/50">
-            <CardHeader>
-              <CardTitle className="text-xl text-green-900">Level hoàn thành</CardTitle>
-              <CardDescription>Tất cả các bé</CardDescription>
+        <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
+          <Card className="rounded-3xl border-none shadow-sm bg-yellow-50">
+            <CardHeader className="pb-2">
+              <CardDescription className="text-yellow-700 font-semibold">Tổng sao</CardDescription>
             </CardHeader>
             <CardContent>
-              <p className="text-5xl font-black text-green-600">{totalLevels} <span className="text-2xl font-bold text-green-400">bài</span></p>
+              <p className="text-4xl font-black text-yellow-500">{totalStars}<span className="text-xl ml-1">⭐</span></p>
+              <p className="text-xs text-yellow-600 mt-1">tích lũy được</p>
             </CardContent>
           </Card>
 
-          <Card className="rounded-3xl border-none shadow-sm bg-orange-50/50 flex items-center">
-            <CardHeader className="flex-1">
-              <CardTitle className="text-xl text-orange-900">Độ chính xác</CardTitle>
-              <CardDescription>Trung bình các môn</CardDescription>
+          <Card className="rounded-3xl border-none shadow-sm bg-green-50">
+            <CardHeader className="pb-2">
+              <CardDescription className="text-green-700 font-semibold">Bài hoàn thành</CardDescription>
             </CardHeader>
-            <CardContent className="flex-1">
-              <p className="text-5xl font-black text-orange-600">{accuracy}<span className="text-2xl font-bold text-orange-400">%</span></p>
+            <CardContent>
+              <p className="text-4xl font-black text-green-600">{totalLevels}<span className="text-xl ml-1 font-bold text-green-400">bài</span></p>
+              <p className="text-xs text-green-600 mt-1">trên 30 level</p>
+            </CardContent>
+          </Card>
+
+          <Card className="rounded-3xl border-none shadow-sm bg-blue-50">
+            <CardHeader className="pb-2">
+              <CardDescription className="text-blue-700 font-semibold">Độ chính xác</CardDescription>
+            </CardHeader>
+            <CardContent>
+              <p className="text-4xl font-black text-blue-600">
+                {totalQuestions > 0 ? accuracy : "—"}<span className="text-xl font-bold text-blue-400">{totalQuestions > 0 ? "%" : ""}</span>
+              </p>
+              <p className="text-xs text-blue-600 mt-1">
+                {totalQuestions > 0 ? `${totalScore}/${totalQuestions} câu đúng` : "Chưa có dữ liệu"}
+              </p>
+            </CardContent>
+          </Card>
+
+          <Card className="rounded-3xl border-none shadow-sm bg-orange-50">
+            <CardHeader className="pb-2">
+              <CardDescription className="text-orange-700 font-semibold">Chuỗi học</CardDescription>
+            </CardHeader>
+            <CardContent>
+              <p className="text-4xl font-black text-orange-500">
+                {children.length > 0 ? Math.max(...children.map(c => c.streak_days)) : 0}<span className="text-xl ml-1">🔥</span>
+              </p>
+              <p className="text-xs text-orange-600 mt-1">ngày liên tiếp</p>
             </CardContent>
           </Card>
         </div>
