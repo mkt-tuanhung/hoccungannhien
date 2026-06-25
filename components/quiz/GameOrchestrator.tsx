@@ -1,5 +1,4 @@
 "use client";
-import { assetUrl } from "@/lib/assets";
 
 import { useState } from "react";
 import { QuestionTemplate } from "@/types/game";
@@ -7,89 +6,38 @@ import { AnimatePresence, motion } from "framer-motion";
 import { ErrorBoundary } from "@/components/ErrorBoundary";
 import BaseGameShell from "./games/BaseGameShell";
 import MatchingMode from "./games/modes/MatchingMode";
-import BossBattleMode from "./games/modes/BossBattleMode";
-import NumberMazeMode from "./games/modes/NumberMazeMode";
-import ConveyorMode from "./games/modes/ConveyorMode";
-import FlashlightCaveMode from "./games/modes/FlashlightCaveMode";
-import BubblePopOceanMode from "./games/modes/BubblePopOceanMode";
-import WhackMoleMode from "./games/modes/WhackMoleMode";
-import CloudStairsMode from "./games/modes/CloudStairsMode";
-import BoatVoyageMode from "./games/modes/BoatVoyageMode";
-import FeedAnimalMode from "./games/modes/FeedAnimalMode";
-import PotionShopMode from "./games/modes/PotionShopMode";
-import LanternMode from "./games/modes/LanternMode";
-import StackBuildMode from "./games/modes/StackBuildMode";
-import NumberTraceMode from "./games/modes/NumberTraceMode";
-import CookingPotMode from "./games/modes/CookingPotMode";
-import DigTreasureMode from "./games/modes/DigTreasureMode";
-import DinoEggMode from "./games/modes/DinoEggMode";
-import RocketFuelMode from "./games/modes/RocketFuelMode";
-import SpinPortalMode from "./games/modes/SpinPortalMode";
-import WeatherWizardMode from "./games/modes/WeatherWizardMode";
-import RhythmNoteMode from "./games/modes/RhythmNoteMode";
-import TrainCarMode from "./games/modes/TrainCarMode";
 import DragCountMode from "./games/modes/DragCountMode";
-import NumberLineHopMode from "./games/modes/NumberLineHopMode";
-import SpinWheelMode from "./games/modes/SpinWheelMode";
-import PianoKeysMode from "./games/modes/PianoKeysMode";
-import BalanceScaleMode from "./games/modes/BalanceScaleMode";
-import TiltCatchMode from "./games/modes/TiltCatchMode";
-import DrumCountMode from "./games/modes/DrumCountMode";
-import MemoryFlipMode from "./games/modes/MemoryFlipMode";
-import StickerBoardMode from "./games/modes/StickerBoardMode";
-import DetectiveMode from "./games/modes/DetectiveMode";
-import JigsawDropMode from "./games/modes/JigsawDropMode";
-import MissionCardMode from "./games/modes/MissionCardMode";
-import { ENGINES } from "./games/modes/genEngines";
-import { getMechanic } from "@/lib/design/modes";
+import NumberTraceMode from "./games/modes/NumberTraceMode";
 
-// 40 chế độ chơi — mỗi type có engine riêng. Engine BESPOKE (cơ chế hoàn toàn riêng)
-// ghi đè lên engine factory (thế giới + hiệu ứng + cơ chế lõi).
-const ALL_ENGINES: Record<string, React.ComponentType<any>> = {
-  ...ENGINES,
-  ai_coop_boss_battle: BossBattleMode,
-  gen_number_maze: NumberMazeMode,
-  gen_toy_factory_automata: ConveyorMode,
-  gen_crystal_cave_explorer: FlashlightCaveMode,
-  gen_ocean_reef_math: BubblePopOceanMode,
-  gen_mini_zoo_ecosystem: WhackMoleMode,
-  gen_cloud_city_numbers: CloudStairsMode,
-  gen_infinite_island_archipelago: BoatVoyageMode,
-  gen_dragon_farm_math: FeedAnimalMode,
-  magic_shop_math: PotionShopMode,
-  gen_fairy_forest_quest: LanternMode,
-  std_number_trace: NumberTraceMode,
-  math_kingdom_builder: (p: any) => <StackBuildMode {...p} top={assetUrl('/sprites/castle.png')} hint="🧱 Chạm viên gạch đúng để xây lâu đài" />,
-  gen_robot_city_constructor: (p: any) => <StackBuildMode {...p} top={assetUrl('/sprites/robot.png')} hint="🔩 Chạm khối đúng để lắp robot" />,
-  pet_evolution_math: (p: any) => <StackBuildMode {...p} top={assetUrl('/sprites/egg.png')} hint="🍼 Chạm thức ăn đúng để thú cưng tiến hoá" />,
-  math_cooking_lab: CookingPotMode,
-  gen_treasure_map_undersea: DigTreasureMode,
-  gen_dinosaur_valley_math: DinoEggMode,
-  space_rescue_math: RocketFuelMode,
-  gen_time_portal_math: SpinPortalMode,
-  gen_weather_wizard_math: WeatherWizardMode,
-  rhythm_math_dance: RhythmNoteMode,
-  gen_train_route_builder: TrainCarMode,
-  // Cách chơi HÀNH ĐỘNG (không chọn đáp án): tự tạo ra đáp án
-  gen_living_math_garden: DragCountMode,
-  gen_candy_biome_world: DragCountMode,
-  std_drag_worksheet: DragCountMode,
-  gen_dream_room_builder: DragCountMode,
-  math_adventure_map: NumberLineHopMode,
-  std_quiz_ladder: NumberLineHopMode,
-  // 11 modes mới — cơ chế hoàn toàn khác
-  std_flashcard_sprint: SpinWheelMode,
-  std_audio_math: PianoKeysMode,
-  puzzle_room_math: BalanceScaleMode,
-  std_error_clinic: TiltCatchMode,
-  gen_festival_parade_math: DrumCountMode,
-  std_matching_cards: MemoryFlipMode,
-  std_sticker_board: StickerBoardMode,
-  detective_math_mystery: DetectiveMode,
-  gen_storybook_popup_world: JigsawDropMode,
-  std_parent_assignment: MissionCardMode,
-  std_mini_exam: JigsawDropMode,
-};
+/**
+ * 5 chế độ chơi cơ bản — rõ ràng, không loạn:
+ *
+ *  1. CHỌN THẺ (default)  — BaseGameShell, lưới 4 nút, phù hợp mọi dạng câu hỏi trắc nghiệm
+ *  2. KÉO THẢ / ĐẾM       — DragCountMode, bé chạm để bỏ đúng số lượng vào rổ
+ *  3. TÔ SỐ               — NumberTraceMode, bé tô theo nét số
+ *  4. GHÉP CẶP            — MatchingMode, nối số / hình tương ứng
+ *  5. ĐIỀN VÀO CHỖ TRỐNG  — BaseGameShell (answerMode="path"), chọn số điền vào ô
+ *
+ * Routing chỉ dựa trên từ khoá trong prompt — không đoán mò theo question.type.
+ */
+
+const DRAG_KEYWORDS   = ['kéo thả', 'bỏ vào rổ', 'bỏ vào giỏ', 'thả vào', 'đặt vào', 'bỏ vào nồi', 'bỏ vào hộp'];
+const TRACE_KEYWORDS  = ['tô theo', 'viết số', 'vẽ số', 'tập viết', 'tô số'];
+const MATCH_KEYWORDS  = ['nối', 'ghép', 'tìm cặp', 'ghép đôi'];
+const COUNT_KEYWORDS  = ['đếm xem', 'đếm số', 'có bao nhiêu', 'có mấy'];
+const FILL_KEYWORDS   = ['điền vào', 'điền số', 'ô trống', 'chỗ trống', 'còn thiếu'];
+
+type Mode = "choice" | "drag" | "trace" | "match" | "fill";
+
+function detectMode(prompt: string): Mode {
+  const p = prompt.toLowerCase();
+  if (TRACE_KEYWORDS.some(k => p.includes(k)))  return "trace";
+  if (MATCH_KEYWORDS.some(k => p.includes(k)))   return "match";
+  if (DRAG_KEYWORDS.some(k => p.includes(k)))    return "drag";
+  if (COUNT_KEYWORDS.some(k => p.includes(k)))   return "drag";  // đếm → kéo thả đếm
+  if (FILL_KEYWORDS.some(k => p.includes(k)))    return "fill";
+  return "choice";
+}
 
 const playTone = (freq: number, dur: number) => {
   try {
@@ -153,62 +101,22 @@ export default function GameOrchestrator({ questions, onGameComplete, onProgress
             {(() => {
               const q = currentQuestion;
               const prompt = (q as any).prompt || (q as any).promptTemplate || "";
-              const pLow = prompt.toLowerCase();
+              const mode = detectMode(prompt);
 
-              // Nếu prompt không khớp với cơ chế của engine → fallback về BaseGameShell
-              // Tránh trường hợp FeedAnimalMode nhận câu hỏi "nghe số" hoặc ngược lại
-              const AUDIO_PROMPTS = ['nghe', 'cô ai đọc', 'đọc số', 'tiếng'];
-              const DRAG_PROMPTS = ['kéo thả', 'bỏ vào rổ', 'bỏ vào giỏ', 'thả vào'];
-              const TRACE_PROMPTS = ['tô theo', 'viết số', 'vẽ số'];
-              // Câu hỏi dạng trắc nghiệm "chọn số đúng" KHÔNG phù hợp với DragCountMode
-              const CHOICE_PROMPTS = ['chọn số đúng', 'chọn đáp án', 'bé hãy chọn', 'chọn số'];
-              // So sánh: câu hỏi chọn số lớn hơn / bé hơn → BaseGameShell đơn giản
-              const COMPARE_PROMPTS = ['lớn hơn', 'bé hơn', 'nhiều hơn', 'ít hơn', 'nhỏ hơn', 'số nào lớn', 'số nào bé', 'số nào nhỏ'];
+              if (mode === "trace")
+                return <NumberTraceMode question={q} onAnswer={handleNext} bg={bg} objects={objects} />;
 
-              const isAudioQ = AUDIO_PROMPTS.some(k => pLow.includes(k));
-              const isDragQ = DRAG_PROMPTS.some(k => pLow.includes(k));
-              const isTraceQ = TRACE_PROMPTS.some(k => pLow.includes(k));
-              const isChoiceQ = CHOICE_PROMPTS.some(k => pLow.includes(k));
-              const isCompareQ = COMPARE_PROMPTS.some(k => pLow.includes(k));
+              if (mode === "match")
+                return <MatchingMode question={q} onAnswer={handleNext} bg={bg} objects={objects} />;
 
-              // Các engine chuyên dụng KHÔNG phù hợp cho câu hỏi audio/drag/trace/choice
-              const DRAG_ENGINES = ['gen_living_math_garden', 'gen_candy_biome_world', 'std_drag_worksheet', 'gen_dream_room_builder'];
-              const INCOMPATIBLE_WITH_AUDIO = [...DRAG_ENGINES, 'gen_dragon_farm_math', 'std_number_trace', 'gen_infinite_island_archipelago', 'gen_cloud_city_numbers'];
-              const INCOMPATIBLE_WITH_DRAG = ['std_audio_math', 'std_flashcard_sprint'];
-              const INCOMPATIBLE_WITH_TRACE = ['std_audio_math', 'gen_dragon_farm_math'];
-              // Các engine không phù hợp cho câu hỏi so sánh (cần hiển thị 2 số riêng biệt)
-              const INCOMPATIBLE_WITH_COMPARE = [
-                ...DRAG_ENGINES, 'gen_dragon_farm_math', 'math_cooking_lab', 'magic_shop_math',
-                'pet_evolution_math', 'math_kingdom_builder', 'gen_robot_city_constructor',
-                'std_flashcard_sprint', 'std_number_trace', 'gen_cloud_city_numbers',
-              ];
+              if (mode === "drag")
+                return <DragCountMode question={q} onAnswer={handleNext} bg={bg} objects={objects} />;
 
-              let resolvedType = q.type;
+              if (mode === "fill")
+                return <BaseGameShell question={q} onAnswer={handleNext} bg={bg} objects={objects} answerMode="path" showObjects={true} />;
 
-              if (isTraceQ && resolvedType !== 'std_number_trace') {
-                resolvedType = 'std_number_trace';
-              } else if (isCompareQ && INCOMPATIBLE_WITH_COMPARE.includes(resolvedType)) {
-                // So sánh → BoatVoyageMode (tap đảo có số đúng) — gọn, rõ ràng
-                resolvedType = 'gen_infinite_island_archipelago';
-              } else if (isAudioQ && INCOMPATIBLE_WITH_AUDIO.includes(resolvedType)) {
-                resolvedType = 'std_audio_math';
-              } else if (isDragQ && INCOMPATIBLE_WITH_DRAG.includes(resolvedType)) {
-                resolvedType = 'gen_living_math_garden';
-              } else if (isChoiceQ && DRAG_ENGINES.includes(resolvedType)) {
-                // "chọn số đúng" không dùng DragCountMode → dùng BaseGameShell (tap choice)
-                resolvedType = 'gen_infinite_island_archipelago';
-              }
-
-              const resolvedQ = resolvedType !== q.type ? { ...q, type: resolvedType } : q;
-              const Engine = ALL_ENGINES[resolvedType];
-              if (Engine) return <Engine question={resolvedQ} onAnswer={handleNext} bg={bg} objects={objects} />;
-
-              const mech = getMechanic(resolvedType, currentIndex);
-              return mech === "matching" ? (
-                <MatchingMode question={resolvedQ} onAnswer={handleNext} bg={bg} objects={objects} />
-              ) : (
-                <BaseGameShell question={resolvedQ} onAnswer={handleNext} bg={bg} objects={objects} answerMode={mech} />
-              );
+              // default: chọn thẻ
+              return <BaseGameShell question={q} onAnswer={handleNext} bg={bg} objects={objects} answerMode="grid" showObjects={true} />;
             })()}
           </ErrorBoundary>
         </motion.div>
