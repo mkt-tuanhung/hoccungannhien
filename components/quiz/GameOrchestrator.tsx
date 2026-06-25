@@ -8,6 +8,7 @@ import BaseGameShell from "./games/BaseGameShell";
 import MatchingMode from "./games/modes/MatchingMode";
 import DragCountMode from "./games/modes/DragCountMode";
 import NumberTraceMode from "./games/modes/NumberTraceMode";
+import NumberInputMode from "./games/modes/NumberInputMode";
 
 /**
  * 5 chế độ chơi cơ bản — rõ ràng, không loạn:
@@ -26,16 +27,19 @@ const TRACE_KEYWORDS  = ['tô theo', 'viết số', 'vẽ số', 'tập viết',
 const MATCH_KEYWORDS  = ['nối', 'ghép', 'tìm cặp', 'ghép đôi'];
 const COUNT_KEYWORDS  = ['đếm xem', 'đếm số', 'có bao nhiêu', 'có mấy'];
 const FILL_KEYWORDS   = ['điền vào', 'điền số', 'ô trống', 'chỗ trống', 'còn thiếu'];
+// Điền số tự do: lớn hơn/bé hơn (open-ended), viết tiếp dãy số
+const INPUT_KEYWORDS  = ['lớn hơn số', 'bé hơn số', 'nhỏ hơn số', 'viết tiếp', 'số tiếp theo', 'tiếp theo là', 'số còn thiếu'];
 
-type Mode = "choice" | "drag" | "trace" | "match" | "fill";
+type Mode = "choice" | "drag" | "trace" | "match" | "fill" | "input";
 
 function detectMode(prompt: string): Mode {
   const p = prompt.toLowerCase();
   if (TRACE_KEYWORDS.some(k => p.includes(k)))  return "trace";
-  if (MATCH_KEYWORDS.some(k => p.includes(k)))   return "match";
-  if (DRAG_KEYWORDS.some(k => p.includes(k)))    return "drag";
-  if (COUNT_KEYWORDS.some(k => p.includes(k)))   return "drag";  // đếm → kéo thả đếm
-  if (FILL_KEYWORDS.some(k => p.includes(k)))    return "fill";
+  if (MATCH_KEYWORDS.some(k => p.includes(k)))  return "match";
+  if (INPUT_KEYWORDS.some(k => p.includes(k)))  return "input";
+  if (DRAG_KEYWORDS.some(k => p.includes(k)))   return "drag";
+  if (COUNT_KEYWORDS.some(k => p.includes(k)))  return "drag";
+  if (FILL_KEYWORDS.some(k => p.includes(k)))   return "fill";
   return "choice";
 }
 
@@ -105,6 +109,9 @@ export default function GameOrchestrator({ questions, onGameComplete, onProgress
 
               if (mode === "trace")
                 return <NumberTraceMode question={q} onAnswer={handleNext} bg={bg} objects={objects} />;
+
+              if (mode === "input")
+                return <NumberInputMode question={q} onAnswer={handleNext} bg={bg} objects={objects} />;
 
               if (mode === "match")
                 return <MatchingMode question={q} onAnswer={handleNext} bg={bg} objects={objects} />;
