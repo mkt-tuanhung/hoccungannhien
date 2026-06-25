@@ -1,952 +1,952 @@
 [
- {
-  "id": "l05-gen_robo-1",
-  "gameId": "gen_robot_city_constructor",
-  "type": "gen_robot_city_constructor",
-  "prompt": "7 - 5 = ?",
-  "correctAnswer": 2,
-  "options": [
-   1,
-   0,
-   3,
-   2
-  ],
-  "objectIcon": "/sprites/apple.png",
-  "objectIcon2": "",
-  "targetCount": 7,
-  "targetCount2": 5,
-  "renderMode": "subtraction",
-  "displayPrompt": null
- },
- {
-  "id": "l05-gen_cand-1",
-  "gameId": "gen_candy_biome_world",
-  "type": "gen_candy_biome_world",
-  "prompt": "Đếm sao và chọn số đúng!",
-  "correctAnswer": 6,
-  "options": [
-   5,
-   9,
-   6,
-   8
-  ],
-  "objectIcon": "/sprites/crown.png",
-  "objectIcon2": "",
-  "targetCount": 6,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l05-gen_stor-1",
-  "gameId": "gen_storybook_popup_world",
-  "type": "gen_storybook_popup_world",
-  "prompt": "🧩 Ghép tranh: 6 - 1 = ?",
-  "correctAnswer": 5,
-  "options": [
-   2,
-   6,
-   4,
-   5
-  ],
-  "objectIcon": "/sprites/lollipop.png",
-  "objectIcon2": "",
-  "targetCount": 6,
-  "targetCount2": 1,
-  "renderMode": "subtraction",
-  "displayPrompt": null
- },
- {
-  "id": "l05-gen_robo-2",
-  "gameId": "gen_robot_city_constructor",
-  "type": "gen_robot_city_constructor",
-  "prompt": "2 - 2 = ?",
-  "correctAnswer": 0,
-  "options": [
-   0,
-   1,
-   3,
-   2
-  ],
-  "objectIcon": "/sprites/star.png",
-  "objectIcon2": "",
-  "targetCount": 2,
-  "targetCount2": 2,
-  "renderMode": "subtraction",
-  "displayPrompt": null
- },
- {
-  "id": "l05-gen_cand-2",
-  "gameId": "gen_candy_biome_world",
-  "type": "gen_candy_biome_world",
-  "prompt": "Đếm kẹo và chọn số đúng!",
-  "correctAnswer": 5,
-  "options": [
-   5,
-   4,
-   6,
-   3
-  ],
-  "objectIcon": "/sprites/apple.png",
-  "objectIcon2": "",
-  "targetCount": 5,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l05-gen_stor-2",
-  "gameId": "gen_storybook_popup_world",
-  "type": "gen_storybook_popup_world",
-  "prompt": "🧩 Ghép tranh: Đếm bóng và chọn số đúng!",
-  "correctAnswer": 3,
-  "options": [
-   3,
-   4,
-   5,
-   1
-  ],
-  "objectIcon": "/sprites/crown.png",
-  "objectIcon2": "",
-  "targetCount": 3,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l05-gen_robo-3",
-  "gameId": "gen_robot_city_constructor",
-  "type": "gen_robot_city_constructor",
-  "prompt": "7 - 5 = ?",
-  "correctAnswer": 2,
-  "options": [
-   0,
-   2,
-   1,
-   3
-  ],
-  "objectIcon": "/sprites/candy.png",
-  "objectIcon2": "",
-  "targetCount": 7,
-  "targetCount2": 5,
-  "renderMode": "subtraction",
-  "displayPrompt": null
- },
- {
-  "id": "l05-gen_cand-3",
-  "gameId": "gen_candy_biome_world",
-  "type": "gen_candy_biome_world",
-  "prompt": "Đếm bóng và chọn số đúng!",
-  "correctAnswer": 4,
-  "options": [
-   7,
-   4,
-   3,
-   1
-  ],
-  "objectIcon": "/sprites/star.png",
-  "objectIcon2": "",
-  "targetCount": 4,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l05-gen_stor-3",
-  "gameId": "gen_storybook_popup_world",
-  "type": "gen_storybook_popup_world",
-  "prompt": "🧩 Ghép tranh: 5 + 5 = ?",
-  "correctAnswer": 10,
-  "options": [
-   10,
-   8,
-   7,
-   9
-  ],
-  "objectIcon": "/sprites/apple.png",
-  "objectIcon2": "",
-  "targetCount": 5,
-  "targetCount2": 5,
-  "renderMode": "addition",
-  "displayPrompt": null
- },
- {
-  "id": "l05-gen_robo-4",
-  "gameId": "gen_robot_city_constructor",
-  "type": "gen_robot_city_constructor",
-  "prompt": "5 - 4 = ?",
-  "correctAnswer": 1,
-  "options": [
-   1,
-   4,
-   3,
-   2
-  ],
-  "objectIcon": "/sprites/ball.png",
-  "objectIcon2": "",
-  "targetCount": 5,
-  "targetCount2": 4,
-  "renderMode": "subtraction",
-  "displayPrompt": null
- },
- {
-  "id": "l05-gen_cand-4",
-  "gameId": "gen_candy_biome_world",
-  "type": "gen_candy_biome_world",
-  "prompt": "Đếm xu và chọn số đúng!",
-  "correctAnswer": 2,
-  "options": [
-   3,
-   2,
-   1,
-   4
-  ],
-  "objectIcon": "/sprites/candy.png",
-  "objectIcon2": "",
-  "targetCount": 2,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l05-gen_stor-4",
-  "gameId": "gen_storybook_popup_world",
-  "type": "gen_storybook_popup_world",
-  "prompt": "🧩 Ghép tranh: 7 - 2 = ?",
-  "correctAnswer": 5,
-  "options": [
-   7,
-   5,
-   6,
-   3
-  ],
-  "objectIcon": "/sprites/star.png",
-  "objectIcon2": "",
-  "targetCount": 7,
-  "targetCount2": 2,
-  "renderMode": "subtraction",
-  "displayPrompt": null
- },
- {
-  "id": "l05-gen_robo-5",
-  "gameId": "gen_robot_city_constructor",
-  "type": "gen_robot_city_constructor",
-  "prompt": "6 - 1 = ?",
-  "correctAnswer": 5,
-  "options": [
-   2,
-   3,
-   6,
-   5
-  ],
-  "objectIcon": "/sprites/coin.png",
-  "objectIcon2": "",
-  "targetCount": 6,
-  "targetCount2": 1,
-  "renderMode": "subtraction",
-  "displayPrompt": null
- },
- {
-  "id": "l05-gen_cand-5",
-  "gameId": "gen_candy_biome_world",
-  "type": "gen_candy_biome_world",
-  "prompt": "Đếm hoa và chọn số đúng!",
-  "correctAnswer": 9,
-  "options": [
-   6,
-   10,
-   9,
-   7
-  ],
-  "objectIcon": "/sprites/ball.png",
-  "objectIcon2": "",
-  "targetCount": 9,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l05-gen_stor-5",
-  "gameId": "gen_storybook_popup_world",
-  "type": "gen_storybook_popup_world",
-  "prompt": "🧩 Ghép tranh: Đếm mèo và chọn số đúng!",
-  "correctAnswer": 3,
-  "options": [
-   3,
-   1,
-   4,
-   5
-  ],
-  "objectIcon": "/sprites/candy.png",
-  "objectIcon2": "",
-  "targetCount": 3,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l05-gen_robo-6",
-  "gameId": "gen_robot_city_constructor",
-  "type": "gen_robot_city_constructor",
-  "prompt": "10 - 4 = ?",
-  "correctAnswer": 6,
-  "options": [
-   3,
-   6,
-   5,
-   4
-  ],
-  "objectIcon": "/sprites/flower.png",
-  "objectIcon2": "",
-  "targetCount": 10,
-  "targetCount2": 4,
-  "renderMode": "subtraction",
-  "displayPrompt": null
- },
- {
-  "id": "l05-gen_cand-6",
-  "gameId": "gen_candy_biome_world",
-  "type": "gen_candy_biome_world",
-  "prompt": "Đếm mèo và chọn số đúng!",
-  "correctAnswer": 5,
-  "options": [
-   3,
-   8,
-   5,
-   2
-  ],
-  "objectIcon": "/sprites/coin.png",
-  "objectIcon2": "",
-  "targetCount": 5,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l05-gen_stor-6",
-  "gameId": "gen_storybook_popup_world",
-  "type": "gen_storybook_popup_world",
-  "prompt": "🧩 Ghép tranh: 3 + 3 = ?",
-  "correctAnswer": 6,
-  "options": [
-   3,
-   9,
-   6,
-   5
-  ],
-  "objectIcon": "/sprites/ball.png",
-  "objectIcon2": "",
-  "targetCount": 3,
-  "targetCount2": 3,
-  "renderMode": "addition",
-  "displayPrompt": null
- },
- {
-  "id": "l05-gen_robo-7",
-  "gameId": "gen_robot_city_constructor",
-  "type": "gen_robot_city_constructor",
-  "prompt": "5 - 4 = ?",
-  "correctAnswer": 1,
-  "options": [
-   4,
-   1,
-   2,
-   0
-  ],
-  "objectIcon": "/sprites/cat.png",
-  "objectIcon2": "",
-  "targetCount": 5,
-  "targetCount2": 4,
-  "renderMode": "subtraction",
-  "displayPrompt": null
- },
- {
-  "id": "l05-gen_cand-7",
-  "gameId": "gen_candy_biome_world",
-  "type": "gen_candy_biome_world",
-  "prompt": "Đếm thỏ và chọn số đúng!",
-  "correctAnswer": 5,
-  "options": [
-   6,
-   5,
-   8,
-   4
-  ],
-  "objectIcon": "/sprites/flower.png",
-  "objectIcon2": "",
-  "targetCount": 5,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l05-gen_stor-7",
-  "gameId": "gen_storybook_popup_world",
-  "type": "gen_storybook_popup_world",
-  "prompt": "🧩 Ghép tranh: 8 - 2 = ?",
-  "correctAnswer": 6,
-  "options": [
-   3,
-   8,
-   6,
-   5
-  ],
-  "objectIcon": "/sprites/coin.png",
-  "objectIcon2": "",
-  "targetCount": 8,
-  "targetCount2": 2,
-  "renderMode": "subtraction",
-  "displayPrompt": null
- },
- {
-  "id": "l05-gen_robo-8",
-  "gameId": "gen_robot_city_constructor",
-  "type": "gen_robot_city_constructor",
-  "prompt": "3 - 1 = ?",
-  "correctAnswer": 2,
-  "options": [
-   0,
-   2,
-   1,
-   3
-  ],
-  "objectIcon": "/sprites/rabbit.png",
-  "objectIcon2": "",
-  "targetCount": 3,
-  "targetCount2": 1,
-  "renderMode": "subtraction",
-  "displayPrompt": null
- },
- {
-  "id": "l05-gen_cand-8",
-  "gameId": "gen_candy_biome_world",
-  "type": "gen_candy_biome_world",
-  "prompt": "Đếm kim cương và chọn số đúng!",
-  "correctAnswer": 8,
-  "options": [
-   6,
-   9,
-   8,
-   7
-  ],
-  "objectIcon": "/sprites/cat.png",
-  "objectIcon2": "",
-  "targetCount": 8,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l05-gen_stor-8",
-  "gameId": "gen_storybook_popup_world",
-  "type": "gen_storybook_popup_world",
-  "prompt": "🧩 Ghép tranh: Đếm ếch và chọn số đúng!",
-  "correctAnswer": 9,
-  "options": [
-   9,
-   6,
-   10,
-   8
-  ],
-  "objectIcon": "/sprites/flower.png",
-  "objectIcon2": "",
-  "targetCount": 9,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l05-gen_robo-9",
-  "gameId": "gen_robot_city_constructor",
-  "type": "gen_robot_city_constructor",
-  "prompt": "3 - 1 = ?",
-  "correctAnswer": 2,
-  "options": [
-   3,
-   1,
-   2,
-   0
-  ],
-  "objectIcon": "/sprites/diamond.png",
-  "objectIcon2": "",
-  "targetCount": 3,
-  "targetCount2": 1,
-  "renderMode": "subtraction",
-  "displayPrompt": null
- },
- {
-  "id": "l05-gen_cand-9",
-  "gameId": "gen_candy_biome_world",
-  "type": "gen_candy_biome_world",
-  "prompt": "Đếm ếch và chọn số đúng!",
-  "correctAnswer": 4,
-  "options": [
-   7,
-   4,
-   5,
-   2
-  ],
-  "objectIcon": "/sprites/rabbit.png",
-  "objectIcon2": "",
-  "targetCount": 4,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l05-gen_stor-9",
-  "gameId": "gen_storybook_popup_world",
-  "type": "gen_storybook_popup_world",
-  "prompt": "🧩 Ghép tranh: 5 + 5 = ?",
-  "correctAnswer": 10,
-  "options": [
-   13,
-   7,
-   9,
-   10
-  ],
-  "objectIcon": "/sprites/cat.png",
-  "objectIcon2": "",
-  "targetCount": 5,
-  "targetCount2": 5,
-  "renderMode": "addition",
-  "displayPrompt": null
- },
- {
-  "id": "l05-gen_robo-10",
-  "gameId": "gen_robot_city_constructor",
-  "type": "gen_robot_city_constructor",
-  "prompt": "8 - 6 = ?",
-  "correctAnswer": 2,
-  "options": [
-   5,
-   2,
-   1,
-   0
-  ],
-  "objectIcon": "/sprites/frog.png",
-  "objectIcon2": "",
-  "targetCount": 8,
-  "targetCount2": 6,
-  "renderMode": "subtraction",
-  "displayPrompt": null
- },
- {
-  "id": "l05-gen_cand-10",
-  "gameId": "gen_candy_biome_world",
-  "type": "gen_candy_biome_world",
-  "prompt": "Đếm cà rốt và chọn số đúng!",
-  "correctAnswer": 1,
-  "options": [
-   4,
-   1,
-   3,
-   2
-  ],
-  "objectIcon": "/sprites/diamond.png",
-  "objectIcon2": "",
-  "targetCount": 1,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l05-gen_stor-10",
-  "gameId": "gen_storybook_popup_world",
-  "type": "gen_storybook_popup_world",
-  "prompt": "🧩 Ghép tranh: 4 - 3 = ?",
-  "correctAnswer": 1,
-  "options": [
-   4,
-   1,
-   3,
-   0
-  ],
-  "objectIcon": "/sprites/rabbit.png",
-  "objectIcon2": "",
-  "targetCount": 4,
-  "targetCount2": 3,
-  "renderMode": "subtraction",
-  "displayPrompt": null
- },
- {
-  "id": "l05-gen_robo-11",
-  "gameId": "gen_robot_city_constructor",
-  "type": "gen_robot_city_constructor",
-  "prompt": "4 - 2 = ?",
-  "correctAnswer": 2,
-  "options": [
-   0,
-   3,
-   2,
-   4
-  ],
-  "objectIcon": "/sprites/carrot.png",
-  "objectIcon2": "",
-  "targetCount": 4,
-  "targetCount2": 2,
-  "renderMode": "subtraction",
-  "displayPrompt": null
- },
- {
-  "id": "l05-gen_cand-11",
-  "gameId": "gen_candy_biome_world",
-  "type": "gen_candy_biome_world",
-  "prompt": "Đếm dâu và chọn số đúng!",
-  "correctAnswer": 10,
-  "options": [
-   10,
-   7,
-   9,
-   8
-  ],
-  "objectIcon": "/sprites/frog.png",
-  "objectIcon2": "",
-  "targetCount": 10,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l05-gen_stor-11",
-  "gameId": "gen_storybook_popup_world",
-  "type": "gen_storybook_popup_world",
-  "prompt": "🧩 Ghép tranh: Đếm nấm và chọn số đúng!",
-  "correctAnswer": 4,
-  "options": [
-   1,
-   3,
-   4,
-   7
-  ],
-  "objectIcon": "/sprites/diamond.png",
-  "objectIcon2": "",
-  "targetCount": 4,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l05-gen_robo-12",
-  "gameId": "gen_robot_city_constructor",
-  "type": "gen_robot_city_constructor",
-  "prompt": "6 - 3 = ?",
-  "correctAnswer": 3,
-  "options": [
-   3,
-   1,
-   5,
-   6
-  ],
-  "objectIcon": "/sprites/strawberry.png",
-  "objectIcon2": "",
-  "targetCount": 6,
-  "targetCount2": 3,
-  "renderMode": "subtraction",
-  "displayPrompt": null
- },
- {
-  "id": "l05-gen_cand-12",
-  "gameId": "gen_candy_biome_world",
-  "type": "gen_candy_biome_world",
-  "prompt": "Đếm nấm và chọn số đúng!",
-  "correctAnswer": 1,
-  "options": [
-   1,
-   4,
-   2,
-   3
-  ],
-  "objectIcon": "/sprites/carrot.png",
-  "objectIcon2": "",
-  "targetCount": 1,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l05-gen_stor-12",
-  "gameId": "gen_storybook_popup_world",
-  "type": "gen_storybook_popup_world",
-  "prompt": "🧩 Ghép tranh: 4 + 3 = ?",
-  "correctAnswer": 7,
-  "options": [
-   9,
-   7,
-   10,
-   5
-  ],
-  "objectIcon": "/sprites/frog.png",
-  "objectIcon2": "",
-  "targetCount": 4,
-  "targetCount2": 3,
-  "renderMode": "addition",
-  "displayPrompt": null
- },
- {
-  "id": "l05-gen_robo-13",
-  "gameId": "gen_robot_city_constructor",
-  "type": "gen_robot_city_constructor",
-  "prompt": "2 - 1 = ?",
-  "correctAnswer": 1,
-  "options": [
-   3,
-   1,
-   0,
-   2
-  ],
-  "objectIcon": "/sprites/mushroom.png",
-  "objectIcon2": "",
-  "targetCount": 2,
-  "targetCount2": 1,
-  "renderMode": "subtraction",
-  "displayPrompt": null
- },
- {
-  "id": "l05-gen_cand-13",
-  "gameId": "gen_candy_biome_world",
-  "type": "gen_candy_biome_world",
-  "prompt": "Đếm cá và chọn số đúng!",
-  "correctAnswer": 10,
-  "options": [
-   9,
-   7,
-   10,
-   8
-  ],
-  "objectIcon": "/sprites/strawberry.png",
-  "objectIcon2": "",
-  "targetCount": 10,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l05-gen_stor-13",
-  "gameId": "gen_storybook_popup_world",
-  "type": "gen_storybook_popup_world",
-  "prompt": "🧩 Ghép tranh: 5 - 1 = ?",
-  "correctAnswer": 4,
-  "options": [
-   3,
-   4,
-   5,
-   2
-  ],
-  "objectIcon": "/sprites/carrot.png",
-  "objectIcon2": "",
-  "targetCount": 5,
-  "targetCount2": 1,
-  "renderMode": "subtraction",
-  "displayPrompt": null
- },
- {
-  "id": "l05-gen_robo-14",
-  "gameId": "gen_robot_city_constructor",
-  "type": "gen_robot_city_constructor",
-  "prompt": "5 - 3 = ?",
-  "correctAnswer": 2,
-  "options": [
-   2,
-   0,
-   3,
-   4
-  ],
-  "objectIcon": "/sprites/fish.png",
-  "objectIcon2": "",
-  "targetCount": 5,
-  "targetCount2": 3,
-  "renderMode": "subtraction",
-  "displayPrompt": null
- },
- {
-  "id": "l05-gen_cand-14",
-  "gameId": "gen_candy_biome_world",
-  "type": "gen_candy_biome_world",
-  "prompt": "Đếm bướm và chọn số đúng!",
-  "correctAnswer": 10,
-  "options": [
-   7,
-   9,
-   8,
-   10
-  ],
-  "objectIcon": "/sprites/mushroom.png",
-  "objectIcon2": "",
-  "targetCount": 10,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l05-gen_stor-14",
-  "gameId": "gen_storybook_popup_world",
-  "type": "gen_storybook_popup_world",
-  "prompt": "🧩 Ghép tranh: Đếm bánh và chọn số đúng!",
-  "correctAnswer": 1,
-  "options": [
-   1,
-   2,
-   4,
-   3
-  ],
-  "objectIcon": "/sprites/strawberry.png",
-  "objectIcon2": "",
-  "targetCount": 1,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l05-gen_robo-15",
-  "gameId": "gen_robot_city_constructor",
-  "type": "gen_robot_city_constructor",
-  "prompt": "8 - 8 = ?",
-  "correctAnswer": 0,
-  "options": [
-   3,
-   0,
-   2,
-   1
-  ],
-  "objectIcon": "/sprites/butterfly.png",
-  "objectIcon2": "",
-  "targetCount": 8,
-  "targetCount2": 8,
-  "renderMode": "subtraction",
-  "displayPrompt": null
- },
- {
-  "id": "l05-gen_cand-15",
-  "gameId": "gen_candy_biome_world",
-  "type": "gen_candy_biome_world",
-  "prompt": "Đếm bánh và chọn số đúng!",
-  "correctAnswer": 8,
-  "options": [
-   9,
-   5,
-   8,
-   6
-  ],
-  "objectIcon": "/sprites/fish.png",
-  "objectIcon2": "",
-  "targetCount": 8,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l05-gen_stor-15",
-  "gameId": "gen_storybook_popup_world",
-  "type": "gen_storybook_popup_world",
-  "prompt": "🧩 Ghép tranh: 3 + 3 = ?",
-  "correctAnswer": 6,
-  "options": [
-   5,
-   6,
-   7,
-   4
-  ],
-  "objectIcon": "/sprites/mushroom.png",
-  "objectIcon2": "",
-  "targetCount": 3,
-  "targetCount2": 3,
-  "renderMode": "addition",
-  "displayPrompt": null
- },
- {
-  "id": "l05-gen_robo-16",
-  "gameId": "gen_robot_city_constructor",
-  "type": "gen_robot_city_constructor",
-  "prompt": "4 - 3 = ?",
-  "correctAnswer": 1,
-  "options": [
-   2,
-   1,
-   3,
-   4
-  ],
-  "objectIcon": "/sprites/cupcake.png",
-  "objectIcon2": "",
-  "targetCount": 4,
-  "targetCount2": 3,
-  "renderMode": "subtraction",
-  "displayPrompt": null
- },
- {
-  "id": "l05-gen_cand-16",
-  "gameId": "gen_candy_biome_world",
-  "type": "gen_candy_biome_world",
-  "prompt": "Đếm táo và chọn số đúng!",
-  "correctAnswer": 5,
-  "options": [
-   4,
-   5,
-   6,
-   8
-  ],
-  "objectIcon": "/sprites/butterfly.png",
-  "objectIcon2": "",
-  "targetCount": 5,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l05-gen_stor-16",
-  "gameId": "gen_storybook_popup_world",
-  "type": "gen_storybook_popup_world",
-  "prompt": "🧩 Ghép tranh: 9 - 2 = ?",
-  "correctAnswer": 7,
-  "options": [
-   4,
-   7,
-   9,
-   8
-  ],
-  "objectIcon": "/sprites/fish.png",
-  "objectIcon2": "",
-  "targetCount": 9,
-  "targetCount2": 2,
-  "renderMode": "subtraction",
-  "displayPrompt": null
- },
- {
-  "id": "l05-gen_robo-17",
-  "gameId": "gen_robot_city_constructor",
-  "type": "gen_robot_city_constructor",
-  "prompt": "4 - 3 = ?",
-  "correctAnswer": 1,
-  "options": [
-   2,
-   3,
-   1,
-   0
-  ],
-  "objectIcon": "/sprites/lollipop.png",
-  "objectIcon2": "",
-  "targetCount": 4,
-  "targetCount2": 3,
-  "renderMode": "subtraction",
-  "displayPrompt": null
- },
- {
-  "id": "l05-gen_cand-17",
-  "gameId": "gen_candy_biome_world",
-  "type": "gen_candy_biome_world",
-  "prompt": "Đếm sao và chọn số đúng!",
-  "correctAnswer": 10,
-  "options": [
-   9,
-   8,
-   10,
-   7
-  ],
-  "objectIcon": "/sprites/cupcake.png",
-  "objectIcon2": "",
-  "targetCount": 10,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- }
+  {
+    "id": "l05-gen_robo-1",
+    "gameId": "gen_robot_city_constructor",
+    "type": "gen_robot_city_constructor",
+    "prompt": "7 - 5 = ?",
+    "correctAnswer": 2,
+    "options": [
+      1,
+      0,
+      3,
+      2
+    ],
+    "objectIcon": "/sprites/apple.png",
+    "objectIcon2": "",
+    "targetCount": 7,
+    "targetCount2": 5,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l05-gen_cand-1",
+    "gameId": "gen_candy_biome_world",
+    "type": "gen_candy_biome_world",
+    "prompt": "Đếm sao và chọn số đúng!",
+    "correctAnswer": 6,
+    "options": [
+      5,
+      9,
+      6,
+      8
+    ],
+    "objectIcon": "/sprites/crown.png",
+    "objectIcon2": "",
+    "targetCount": 6,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l05-gen_stor-1",
+    "gameId": "gen_storybook_popup_world",
+    "type": "gen_storybook_popup_world",
+    "prompt": "6 - 1 = ?",
+    "correctAnswer": 5,
+    "options": [
+      2,
+      6,
+      4,
+      5
+    ],
+    "objectIcon": "/sprites/lollipop.png",
+    "objectIcon2": "",
+    "targetCount": 6,
+    "targetCount2": 1,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l05-gen_robo-2",
+    "gameId": "gen_robot_city_constructor",
+    "type": "gen_robot_city_constructor",
+    "prompt": "2 - 2 = ?",
+    "correctAnswer": 0,
+    "options": [
+      0,
+      1,
+      3,
+      2
+    ],
+    "objectIcon": "/sprites/star.png",
+    "objectIcon2": "",
+    "targetCount": 2,
+    "targetCount2": 2,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l05-gen_cand-2",
+    "gameId": "gen_candy_biome_world",
+    "type": "gen_candy_biome_world",
+    "prompt": "Đếm kẹo và chọn số đúng!",
+    "correctAnswer": 5,
+    "options": [
+      5,
+      4,
+      6,
+      3
+    ],
+    "objectIcon": "/sprites/apple.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l05-gen_stor-2",
+    "gameId": "gen_storybook_popup_world",
+    "type": "gen_storybook_popup_world",
+    "prompt": "Đếm bóng và chọn số đúng!",
+    "correctAnswer": 3,
+    "options": [
+      3,
+      4,
+      5,
+      1
+    ],
+    "objectIcon": "/sprites/crown.png",
+    "objectIcon2": "",
+    "targetCount": 3,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l05-gen_robo-3",
+    "gameId": "gen_robot_city_constructor",
+    "type": "gen_robot_city_constructor",
+    "prompt": "7 - 5 = ?",
+    "correctAnswer": 2,
+    "options": [
+      0,
+      2,
+      1,
+      3
+    ],
+    "objectIcon": "/sprites/candy.png",
+    "objectIcon2": "",
+    "targetCount": 7,
+    "targetCount2": 5,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l05-gen_cand-3",
+    "gameId": "gen_candy_biome_world",
+    "type": "gen_candy_biome_world",
+    "prompt": "Đếm bóng và chọn số đúng!",
+    "correctAnswer": 4,
+    "options": [
+      7,
+      4,
+      3,
+      1
+    ],
+    "objectIcon": "/sprites/star.png",
+    "objectIcon2": "",
+    "targetCount": 4,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l05-gen_stor-3",
+    "gameId": "gen_storybook_popup_world",
+    "type": "gen_storybook_popup_world",
+    "prompt": "5 + 5 = ?",
+    "correctAnswer": 10,
+    "options": [
+      10,
+      8,
+      7,
+      9
+    ],
+    "objectIcon": "/sprites/apple.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 5,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l05-gen_robo-4",
+    "gameId": "gen_robot_city_constructor",
+    "type": "gen_robot_city_constructor",
+    "prompt": "5 - 4 = ?",
+    "correctAnswer": 1,
+    "options": [
+      1,
+      4,
+      3,
+      2
+    ],
+    "objectIcon": "/sprites/ball.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 4,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l05-gen_cand-4",
+    "gameId": "gen_candy_biome_world",
+    "type": "gen_candy_biome_world",
+    "prompt": "Đếm xu và chọn số đúng!",
+    "correctAnswer": 2,
+    "options": [
+      3,
+      2,
+      1,
+      4
+    ],
+    "objectIcon": "/sprites/candy.png",
+    "objectIcon2": "",
+    "targetCount": 2,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l05-gen_stor-4",
+    "gameId": "gen_storybook_popup_world",
+    "type": "gen_storybook_popup_world",
+    "prompt": "7 - 2 = ?",
+    "correctAnswer": 5,
+    "options": [
+      7,
+      5,
+      6,
+      3
+    ],
+    "objectIcon": "/sprites/star.png",
+    "objectIcon2": "",
+    "targetCount": 7,
+    "targetCount2": 2,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l05-gen_robo-5",
+    "gameId": "gen_robot_city_constructor",
+    "type": "gen_robot_city_constructor",
+    "prompt": "6 - 1 = ?",
+    "correctAnswer": 5,
+    "options": [
+      2,
+      3,
+      6,
+      5
+    ],
+    "objectIcon": "/sprites/coin.png",
+    "objectIcon2": "",
+    "targetCount": 6,
+    "targetCount2": 1,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l05-gen_cand-5",
+    "gameId": "gen_candy_biome_world",
+    "type": "gen_candy_biome_world",
+    "prompt": "Đếm hoa và chọn số đúng!",
+    "correctAnswer": 9,
+    "options": [
+      6,
+      10,
+      9,
+      7
+    ],
+    "objectIcon": "/sprites/ball.png",
+    "objectIcon2": "",
+    "targetCount": 9,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l05-gen_stor-5",
+    "gameId": "gen_storybook_popup_world",
+    "type": "gen_storybook_popup_world",
+    "prompt": "Đếm mèo và chọn số đúng!",
+    "correctAnswer": 3,
+    "options": [
+      3,
+      1,
+      4,
+      5
+    ],
+    "objectIcon": "/sprites/candy.png",
+    "objectIcon2": "",
+    "targetCount": 3,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l05-gen_robo-6",
+    "gameId": "gen_robot_city_constructor",
+    "type": "gen_robot_city_constructor",
+    "prompt": "10 - 4 = ?",
+    "correctAnswer": 6,
+    "options": [
+      3,
+      6,
+      5,
+      4
+    ],
+    "objectIcon": "/sprites/flower.png",
+    "objectIcon2": "",
+    "targetCount": 10,
+    "targetCount2": 4,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l05-gen_cand-6",
+    "gameId": "gen_candy_biome_world",
+    "type": "gen_candy_biome_world",
+    "prompt": "Đếm mèo và chọn số đúng!",
+    "correctAnswer": 5,
+    "options": [
+      3,
+      8,
+      5,
+      2
+    ],
+    "objectIcon": "/sprites/coin.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l05-gen_stor-6",
+    "gameId": "gen_storybook_popup_world",
+    "type": "gen_storybook_popup_world",
+    "prompt": "3 + 3 = ?",
+    "correctAnswer": 6,
+    "options": [
+      3,
+      9,
+      6,
+      5
+    ],
+    "objectIcon": "/sprites/ball.png",
+    "objectIcon2": "",
+    "targetCount": 3,
+    "targetCount2": 3,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l05-gen_robo-7",
+    "gameId": "gen_robot_city_constructor",
+    "type": "gen_robot_city_constructor",
+    "prompt": "5 - 4 = ?",
+    "correctAnswer": 1,
+    "options": [
+      4,
+      1,
+      2,
+      0
+    ],
+    "objectIcon": "/sprites/cat.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 4,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l05-gen_cand-7",
+    "gameId": "gen_candy_biome_world",
+    "type": "gen_candy_biome_world",
+    "prompt": "Đếm thỏ và chọn số đúng!",
+    "correctAnswer": 5,
+    "options": [
+      6,
+      5,
+      8,
+      4
+    ],
+    "objectIcon": "/sprites/flower.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l05-gen_stor-7",
+    "gameId": "gen_storybook_popup_world",
+    "type": "gen_storybook_popup_world",
+    "prompt": "8 - 2 = ?",
+    "correctAnswer": 6,
+    "options": [
+      3,
+      8,
+      6,
+      5
+    ],
+    "objectIcon": "/sprites/coin.png",
+    "objectIcon2": "",
+    "targetCount": 8,
+    "targetCount2": 2,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l05-gen_robo-8",
+    "gameId": "gen_robot_city_constructor",
+    "type": "gen_robot_city_constructor",
+    "prompt": "3 - 1 = ?",
+    "correctAnswer": 2,
+    "options": [
+      0,
+      2,
+      1,
+      3
+    ],
+    "objectIcon": "/sprites/rabbit.png",
+    "objectIcon2": "",
+    "targetCount": 3,
+    "targetCount2": 1,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l05-gen_cand-8",
+    "gameId": "gen_candy_biome_world",
+    "type": "gen_candy_biome_world",
+    "prompt": "Đếm kim cương và chọn số đúng!",
+    "correctAnswer": 8,
+    "options": [
+      6,
+      9,
+      8,
+      7
+    ],
+    "objectIcon": "/sprites/cat.png",
+    "objectIcon2": "",
+    "targetCount": 8,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l05-gen_stor-8",
+    "gameId": "gen_storybook_popup_world",
+    "type": "gen_storybook_popup_world",
+    "prompt": "Đếm ếch và chọn số đúng!",
+    "correctAnswer": 9,
+    "options": [
+      9,
+      6,
+      10,
+      8
+    ],
+    "objectIcon": "/sprites/flower.png",
+    "objectIcon2": "",
+    "targetCount": 9,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l05-gen_robo-9",
+    "gameId": "gen_robot_city_constructor",
+    "type": "gen_robot_city_constructor",
+    "prompt": "3 - 1 = ?",
+    "correctAnswer": 2,
+    "options": [
+      3,
+      1,
+      2,
+      0
+    ],
+    "objectIcon": "/sprites/diamond.png",
+    "objectIcon2": "",
+    "targetCount": 3,
+    "targetCount2": 1,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l05-gen_cand-9",
+    "gameId": "gen_candy_biome_world",
+    "type": "gen_candy_biome_world",
+    "prompt": "Đếm ếch và chọn số đúng!",
+    "correctAnswer": 4,
+    "options": [
+      7,
+      4,
+      5,
+      2
+    ],
+    "objectIcon": "/sprites/rabbit.png",
+    "objectIcon2": "",
+    "targetCount": 4,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l05-gen_stor-9",
+    "gameId": "gen_storybook_popup_world",
+    "type": "gen_storybook_popup_world",
+    "prompt": "5 + 5 = ?",
+    "correctAnswer": 10,
+    "options": [
+      13,
+      7,
+      9,
+      10
+    ],
+    "objectIcon": "/sprites/cat.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 5,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l05-gen_robo-10",
+    "gameId": "gen_robot_city_constructor",
+    "type": "gen_robot_city_constructor",
+    "prompt": "8 - 6 = ?",
+    "correctAnswer": 2,
+    "options": [
+      5,
+      2,
+      1,
+      0
+    ],
+    "objectIcon": "/sprites/frog.png",
+    "objectIcon2": "",
+    "targetCount": 8,
+    "targetCount2": 6,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l05-gen_cand-10",
+    "gameId": "gen_candy_biome_world",
+    "type": "gen_candy_biome_world",
+    "prompt": "Đếm cà rốt và chọn số đúng!",
+    "correctAnswer": 1,
+    "options": [
+      4,
+      1,
+      3,
+      2
+    ],
+    "objectIcon": "/sprites/diamond.png",
+    "objectIcon2": "",
+    "targetCount": 1,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l05-gen_stor-10",
+    "gameId": "gen_storybook_popup_world",
+    "type": "gen_storybook_popup_world",
+    "prompt": "4 - 3 = ?",
+    "correctAnswer": 1,
+    "options": [
+      4,
+      1,
+      3,
+      0
+    ],
+    "objectIcon": "/sprites/rabbit.png",
+    "objectIcon2": "",
+    "targetCount": 4,
+    "targetCount2": 3,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l05-gen_robo-11",
+    "gameId": "gen_robot_city_constructor",
+    "type": "gen_robot_city_constructor",
+    "prompt": "4 - 2 = ?",
+    "correctAnswer": 2,
+    "options": [
+      0,
+      3,
+      2,
+      4
+    ],
+    "objectIcon": "/sprites/carrot.png",
+    "objectIcon2": "",
+    "targetCount": 4,
+    "targetCount2": 2,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l05-gen_cand-11",
+    "gameId": "gen_candy_biome_world",
+    "type": "gen_candy_biome_world",
+    "prompt": "Đếm dâu và chọn số đúng!",
+    "correctAnswer": 10,
+    "options": [
+      10,
+      7,
+      9,
+      8
+    ],
+    "objectIcon": "/sprites/frog.png",
+    "objectIcon2": "",
+    "targetCount": 10,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l05-gen_stor-11",
+    "gameId": "gen_storybook_popup_world",
+    "type": "gen_storybook_popup_world",
+    "prompt": "Đếm nấm và chọn số đúng!",
+    "correctAnswer": 4,
+    "options": [
+      1,
+      3,
+      4,
+      7
+    ],
+    "objectIcon": "/sprites/diamond.png",
+    "objectIcon2": "",
+    "targetCount": 4,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l05-gen_robo-12",
+    "gameId": "gen_robot_city_constructor",
+    "type": "gen_robot_city_constructor",
+    "prompt": "6 - 3 = ?",
+    "correctAnswer": 3,
+    "options": [
+      3,
+      1,
+      5,
+      6
+    ],
+    "objectIcon": "/sprites/strawberry.png",
+    "objectIcon2": "",
+    "targetCount": 6,
+    "targetCount2": 3,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l05-gen_cand-12",
+    "gameId": "gen_candy_biome_world",
+    "type": "gen_candy_biome_world",
+    "prompt": "Đếm nấm và chọn số đúng!",
+    "correctAnswer": 1,
+    "options": [
+      1,
+      4,
+      2,
+      3
+    ],
+    "objectIcon": "/sprites/carrot.png",
+    "objectIcon2": "",
+    "targetCount": 1,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l05-gen_stor-12",
+    "gameId": "gen_storybook_popup_world",
+    "type": "gen_storybook_popup_world",
+    "prompt": "4 + 3 = ?",
+    "correctAnswer": 7,
+    "options": [
+      9,
+      7,
+      10,
+      5
+    ],
+    "objectIcon": "/sprites/frog.png",
+    "objectIcon2": "",
+    "targetCount": 4,
+    "targetCount2": 3,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l05-gen_robo-13",
+    "gameId": "gen_robot_city_constructor",
+    "type": "gen_robot_city_constructor",
+    "prompt": "2 - 1 = ?",
+    "correctAnswer": 1,
+    "options": [
+      3,
+      1,
+      0,
+      2
+    ],
+    "objectIcon": "/sprites/mushroom.png",
+    "objectIcon2": "",
+    "targetCount": 2,
+    "targetCount2": 1,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l05-gen_cand-13",
+    "gameId": "gen_candy_biome_world",
+    "type": "gen_candy_biome_world",
+    "prompt": "Đếm cá và chọn số đúng!",
+    "correctAnswer": 10,
+    "options": [
+      9,
+      7,
+      10,
+      8
+    ],
+    "objectIcon": "/sprites/strawberry.png",
+    "objectIcon2": "",
+    "targetCount": 10,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l05-gen_stor-13",
+    "gameId": "gen_storybook_popup_world",
+    "type": "gen_storybook_popup_world",
+    "prompt": "5 - 1 = ?",
+    "correctAnswer": 4,
+    "options": [
+      3,
+      4,
+      5,
+      2
+    ],
+    "objectIcon": "/sprites/carrot.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 1,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l05-gen_robo-14",
+    "gameId": "gen_robot_city_constructor",
+    "type": "gen_robot_city_constructor",
+    "prompt": "5 - 3 = ?",
+    "correctAnswer": 2,
+    "options": [
+      2,
+      0,
+      3,
+      4
+    ],
+    "objectIcon": "/sprites/fish.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 3,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l05-gen_cand-14",
+    "gameId": "gen_candy_biome_world",
+    "type": "gen_candy_biome_world",
+    "prompt": "Đếm bướm và chọn số đúng!",
+    "correctAnswer": 10,
+    "options": [
+      7,
+      9,
+      8,
+      10
+    ],
+    "objectIcon": "/sprites/mushroom.png",
+    "objectIcon2": "",
+    "targetCount": 10,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l05-gen_stor-14",
+    "gameId": "gen_storybook_popup_world",
+    "type": "gen_storybook_popup_world",
+    "prompt": "Đếm bánh và chọn số đúng!",
+    "correctAnswer": 1,
+    "options": [
+      1,
+      2,
+      4,
+      3
+    ],
+    "objectIcon": "/sprites/strawberry.png",
+    "objectIcon2": "",
+    "targetCount": 1,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l05-gen_robo-15",
+    "gameId": "gen_robot_city_constructor",
+    "type": "gen_robot_city_constructor",
+    "prompt": "8 - 8 = ?",
+    "correctAnswer": 0,
+    "options": [
+      3,
+      0,
+      2,
+      1
+    ],
+    "objectIcon": "/sprites/butterfly.png",
+    "objectIcon2": "",
+    "targetCount": 8,
+    "targetCount2": 8,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l05-gen_cand-15",
+    "gameId": "gen_candy_biome_world",
+    "type": "gen_candy_biome_world",
+    "prompt": "Đếm bánh và chọn số đúng!",
+    "correctAnswer": 8,
+    "options": [
+      9,
+      5,
+      8,
+      6
+    ],
+    "objectIcon": "/sprites/fish.png",
+    "objectIcon2": "",
+    "targetCount": 8,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l05-gen_stor-15",
+    "gameId": "gen_storybook_popup_world",
+    "type": "gen_storybook_popup_world",
+    "prompt": "3 + 3 = ?",
+    "correctAnswer": 6,
+    "options": [
+      5,
+      6,
+      7,
+      4
+    ],
+    "objectIcon": "/sprites/mushroom.png",
+    "objectIcon2": "",
+    "targetCount": 3,
+    "targetCount2": 3,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l05-gen_robo-16",
+    "gameId": "gen_robot_city_constructor",
+    "type": "gen_robot_city_constructor",
+    "prompt": "4 - 3 = ?",
+    "correctAnswer": 1,
+    "options": [
+      2,
+      1,
+      3,
+      4
+    ],
+    "objectIcon": "/sprites/cupcake.png",
+    "objectIcon2": "",
+    "targetCount": 4,
+    "targetCount2": 3,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l05-gen_cand-16",
+    "gameId": "gen_candy_biome_world",
+    "type": "gen_candy_biome_world",
+    "prompt": "Đếm táo và chọn số đúng!",
+    "correctAnswer": 5,
+    "options": [
+      4,
+      5,
+      6,
+      8
+    ],
+    "objectIcon": "/sprites/butterfly.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l05-gen_stor-16",
+    "gameId": "gen_storybook_popup_world",
+    "type": "gen_storybook_popup_world",
+    "prompt": "9 - 2 = ?",
+    "correctAnswer": 7,
+    "options": [
+      4,
+      7,
+      9,
+      8
+    ],
+    "objectIcon": "/sprites/fish.png",
+    "objectIcon2": "",
+    "targetCount": 9,
+    "targetCount2": 2,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l05-gen_robo-17",
+    "gameId": "gen_robot_city_constructor",
+    "type": "gen_robot_city_constructor",
+    "prompt": "4 - 3 = ?",
+    "correctAnswer": 1,
+    "options": [
+      2,
+      3,
+      1,
+      0
+    ],
+    "objectIcon": "/sprites/lollipop.png",
+    "objectIcon2": "",
+    "targetCount": 4,
+    "targetCount2": 3,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l05-gen_cand-17",
+    "gameId": "gen_candy_biome_world",
+    "type": "gen_candy_biome_world",
+    "prompt": "Đếm sao và chọn số đúng!",
+    "correctAnswer": 10,
+    "options": [
+      9,
+      8,
+      10,
+      7
+    ],
+    "objectIcon": "/sprites/cupcake.png",
+    "objectIcon2": "",
+    "targetCount": 10,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  }
 ]

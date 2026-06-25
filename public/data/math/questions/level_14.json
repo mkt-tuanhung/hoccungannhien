@@ -1,952 +1,952 @@
 [
- {
-  "id": "l14-std_stic-1",
-  "gameId": "std_sticker_board",
-  "type": "std_sticker_board",
-  "prompt": "⭐ 3 + 3 = ? (Đúng nhận sticker!)",
-  "correctAnswer": 6,
-  "options": [
-   9,
-   3,
-   4,
-   6
-  ],
-  "objectIcon": "/sprites/apple.png",
-  "objectIcon2": "",
-  "targetCount": 3,
-  "targetCount2": 3,
-  "renderMode": "addition",
-  "displayPrompt": null
- },
- {
-  "id": "l14-gen_livi-1",
-  "gameId": "gen_living_math_garden",
-  "type": "gen_living_math_garden",
-  "prompt": "Đếm sao và chọn số đúng!",
-  "correctAnswer": 1,
-  "options": [
-   4,
-   3,
-   1,
-   2
-  ],
-  "objectIcon": "/sprites/crown.png",
-  "objectIcon2": "",
-  "targetCount": 1,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l14-gen_infi-1",
-  "gameId": "gen_infinite_island_archipelago",
-  "type": "gen_infinite_island_archipelago",
-  "prompt": "Đếm kẹo và chọn số đúng!",
-  "correctAnswer": 2,
-  "options": [
-   2,
-   4,
-   1,
-   3
-  ],
-  "objectIcon": "/sprites/lollipop.png",
-  "objectIcon2": "",
-  "targetCount": 2,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l14-std_stic-2",
-  "gameId": "std_sticker_board",
-  "type": "std_sticker_board",
-  "prompt": "🌟 9 - 2 = ? (Đúng nhận sticker!)",
-  "correctAnswer": 7,
-  "options": [
-   9,
-   5,
-   7,
-   6
-  ],
-  "objectIcon": "/sprites/star.png",
-  "objectIcon2": "",
-  "targetCount": 9,
-  "targetCount2": 2,
-  "renderMode": "subtraction",
-  "displayPrompt": null
- },
- {
-  "id": "l14-gen_livi-2",
-  "gameId": "gen_living_math_garden",
-  "type": "gen_living_math_garden",
-  "prompt": "Đếm kẹo và chọn số đúng!",
-  "correctAnswer": 4,
-  "options": [
-   4,
-   7,
-   2,
-   6
-  ],
-  "objectIcon": "/sprites/apple.png",
-  "objectIcon2": "",
-  "targetCount": 4,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l14-gen_infi-2",
-  "gameId": "gen_infinite_island_archipelago",
-  "type": "gen_infinite_island_archipelago",
-  "prompt": "Đếm bóng và chọn số đúng!",
-  "correctAnswer": 6,
-  "options": [
-   4,
-   9,
-   6,
-   3
-  ],
-  "objectIcon": "/sprites/crown.png",
-  "objectIcon2": "",
-  "targetCount": 6,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l14-std_stic-3",
-  "gameId": "std_sticker_board",
-  "type": "std_sticker_board",
-  "prompt": "🦋 Đếm kẹo và chọn số đúng! (Đúng nhận sticker!)",
-  "correctAnswer": 1,
-  "options": [
-   4,
-   3,
-   1,
-   2
-  ],
-  "objectIcon": "/sprites/candy.png",
-  "objectIcon2": "",
-  "targetCount": 1,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l14-gen_livi-3",
-  "gameId": "gen_living_math_garden",
-  "type": "gen_living_math_garden",
-  "prompt": "Đếm bóng và chọn số đúng!",
-  "correctAnswer": 3,
-  "options": [
-   1,
-   2,
-   3,
-   5
-  ],
-  "objectIcon": "/sprites/star.png",
-  "objectIcon2": "",
-  "targetCount": 3,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l14-gen_infi-3",
-  "gameId": "gen_infinite_island_archipelago",
-  "type": "gen_infinite_island_archipelago",
-  "prompt": "Đếm xu và chọn số đúng!",
-  "correctAnswer": 1,
-  "options": [
-   4,
-   3,
-   2,
-   1
-  ],
-  "objectIcon": "/sprites/apple.png",
-  "objectIcon2": "",
-  "targetCount": 1,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l14-std_stic-4",
-  "gameId": "std_sticker_board",
-  "type": "std_sticker_board",
-  "prompt": "🌸 1 + 9 = ? (Đúng nhận sticker!)",
-  "correctAnswer": 10,
-  "options": [
-   12,
-   10,
-   13,
-   8
-  ],
-  "objectIcon": "/sprites/ball.png",
-  "objectIcon2": "",
-  "targetCount": 1,
-  "targetCount2": 9,
-  "renderMode": "addition",
-  "displayPrompt": null
- },
- {
-  "id": "l14-gen_livi-4",
-  "gameId": "gen_living_math_garden",
-  "type": "gen_living_math_garden",
-  "prompt": "Đếm xu và chọn số đúng!",
-  "correctAnswer": 6,
-  "options": [
-   3,
-   4,
-   6,
-   5
-  ],
-  "objectIcon": "/sprites/candy.png",
-  "objectIcon2": "",
-  "targetCount": 6,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l14-gen_infi-4",
-  "gameId": "gen_infinite_island_archipelago",
-  "type": "gen_infinite_island_archipelago",
-  "prompt": "Đếm hoa và chọn số đúng!",
-  "correctAnswer": 3,
-  "options": [
-   3,
-   5,
-   4,
-   1
-  ],
-  "objectIcon": "/sprites/star.png",
-  "objectIcon2": "",
-  "targetCount": 3,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l14-std_stic-5",
-  "gameId": "std_sticker_board",
-  "type": "std_sticker_board",
-  "prompt": "🍀 3 - 3 = ? (Đúng nhận sticker!)",
-  "correctAnswer": 0,
-  "options": [
-   0,
-   2,
-   1,
-   3
-  ],
-  "objectIcon": "/sprites/coin.png",
-  "objectIcon2": "",
-  "targetCount": 3,
-  "targetCount2": 3,
-  "renderMode": "subtraction",
-  "displayPrompt": null
- },
- {
-  "id": "l14-gen_livi-5",
-  "gameId": "gen_living_math_garden",
-  "type": "gen_living_math_garden",
-  "prompt": "Đếm hoa và chọn số đúng!",
-  "correctAnswer": 2,
-  "options": [
-   1,
-   4,
-   2,
-   5
-  ],
-  "objectIcon": "/sprites/ball.png",
-  "objectIcon2": "",
-  "targetCount": 2,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l14-gen_infi-5",
-  "gameId": "gen_infinite_island_archipelago",
-  "type": "gen_infinite_island_archipelago",
-  "prompt": "Đếm mèo và chọn số đúng!",
-  "correctAnswer": 5,
-  "options": [
-   8,
-   6,
-   5,
-   4
-  ],
-  "objectIcon": "/sprites/candy.png",
-  "objectIcon2": "",
-  "targetCount": 5,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l14-std_stic-6",
-  "gameId": "std_sticker_board",
-  "type": "std_sticker_board",
-  "prompt": "⭐ Đếm hoa và chọn số đúng! (Đúng nhận sticker!)",
-  "correctAnswer": 7,
-  "options": [
-   5,
-   7,
-   6,
-   4
-  ],
-  "objectIcon": "/sprites/flower.png",
-  "objectIcon2": "",
-  "targetCount": 7,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l14-gen_livi-6",
-  "gameId": "gen_living_math_garden",
-  "type": "gen_living_math_garden",
-  "prompt": "Đếm mèo và chọn số đúng!",
-  "correctAnswer": 4,
-  "options": [
-   4,
-   7,
-   3,
-   1
-  ],
-  "objectIcon": "/sprites/coin.png",
-  "objectIcon2": "",
-  "targetCount": 4,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l14-gen_infi-6",
-  "gameId": "gen_infinite_island_archipelago",
-  "type": "gen_infinite_island_archipelago",
-  "prompt": "Đếm thỏ và chọn số đúng!",
-  "correctAnswer": 2,
-  "options": [
-   1,
-   2,
-   3,
-   4
-  ],
-  "objectIcon": "/sprites/ball.png",
-  "objectIcon2": "",
-  "targetCount": 2,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l14-std_stic-7",
-  "gameId": "std_sticker_board",
-  "type": "std_sticker_board",
-  "prompt": "🌟 4 + 5 = ? (Đúng nhận sticker!)",
-  "correctAnswer": 9,
-  "options": [
-   12,
-   6,
-   9,
-   8
-  ],
-  "objectIcon": "/sprites/cat.png",
-  "objectIcon2": "",
-  "targetCount": 4,
-  "targetCount2": 5,
-  "renderMode": "addition",
-  "displayPrompt": null
- },
- {
-  "id": "l14-gen_livi-7",
-  "gameId": "gen_living_math_garden",
-  "type": "gen_living_math_garden",
-  "prompt": "Đếm thỏ và chọn số đúng!",
-  "correctAnswer": 5,
-  "options": [
-   6,
-   4,
-   5,
-   8
-  ],
-  "objectIcon": "/sprites/flower.png",
-  "objectIcon2": "",
-  "targetCount": 5,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l14-gen_infi-7",
-  "gameId": "gen_infinite_island_archipelago",
-  "type": "gen_infinite_island_archipelago",
-  "prompt": "Đếm kim cương và chọn số đúng!",
-  "correctAnswer": 2,
-  "options": [
-   1,
-   2,
-   4,
-   5
-  ],
-  "objectIcon": "/sprites/coin.png",
-  "objectIcon2": "",
-  "targetCount": 2,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l14-std_stic-8",
-  "gameId": "std_sticker_board",
-  "type": "std_sticker_board",
-  "prompt": "🦋 9 - 3 = ? (Đúng nhận sticker!)",
-  "correctAnswer": 6,
-  "options": [
-   8,
-   6,
-   4,
-   5
-  ],
-  "objectIcon": "/sprites/rabbit.png",
-  "objectIcon2": "",
-  "targetCount": 9,
-  "targetCount2": 3,
-  "renderMode": "subtraction",
-  "displayPrompt": null
- },
- {
-  "id": "l14-gen_livi-8",
-  "gameId": "gen_living_math_garden",
-  "type": "gen_living_math_garden",
-  "prompt": "Đếm kim cương và chọn số đúng!",
-  "correctAnswer": 8,
-  "options": [
-   6,
-   8,
-   9,
-   10
-  ],
-  "objectIcon": "/sprites/cat.png",
-  "objectIcon2": "",
-  "targetCount": 8,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l14-gen_infi-8",
-  "gameId": "gen_infinite_island_archipelago",
-  "type": "gen_infinite_island_archipelago",
-  "prompt": "Đếm ếch và chọn số đúng!",
-  "correctAnswer": 3,
-  "options": [
-   3,
-   2,
-   4,
-   1
-  ],
-  "objectIcon": "/sprites/flower.png",
-  "objectIcon2": "",
-  "targetCount": 3,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l14-std_stic-9",
-  "gameId": "std_sticker_board",
-  "type": "std_sticker_board",
-  "prompt": "🌸 Đếm kim cương và chọn số đúng! (Đúng nhận sticker!)",
-  "correctAnswer": 7,
-  "options": [
-   6,
-   7,
-   10,
-   4
-  ],
-  "objectIcon": "/sprites/diamond.png",
-  "objectIcon2": "",
-  "targetCount": 7,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l14-gen_livi-9",
-  "gameId": "gen_living_math_garden",
-  "type": "gen_living_math_garden",
-  "prompt": "Đếm ếch và chọn số đúng!",
-  "correctAnswer": 10,
-  "options": [
-   9,
-   7,
-   11,
-   10
-  ],
-  "objectIcon": "/sprites/rabbit.png",
-  "objectIcon2": "",
-  "targetCount": 10,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l14-gen_infi-9",
-  "gameId": "gen_infinite_island_archipelago",
-  "type": "gen_infinite_island_archipelago",
-  "prompt": "Đếm cà rốt và chọn số đúng!",
-  "correctAnswer": 4,
-  "options": [
-   4,
-   6,
-   7,
-   5
-  ],
-  "objectIcon": "/sprites/cat.png",
-  "objectIcon2": "",
-  "targetCount": 4,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l14-std_stic-10",
-  "gameId": "std_sticker_board",
-  "type": "std_sticker_board",
-  "prompt": "🍀 6 + 8 = ? (Đúng nhận sticker!)",
-  "correctAnswer": 14,
-  "options": [
-   17,
-   12,
-   14,
-   15
-  ],
-  "objectIcon": "/sprites/frog.png",
-  "objectIcon2": "",
-  "targetCount": 6,
-  "targetCount2": 8,
-  "renderMode": "addition",
-  "displayPrompt": null
- },
- {
-  "id": "l14-gen_livi-10",
-  "gameId": "gen_living_math_garden",
-  "type": "gen_living_math_garden",
-  "prompt": "Đếm cà rốt và chọn số đúng!",
-  "correctAnswer": 6,
-  "options": [
-   7,
-   5,
-   6,
-   9
-  ],
-  "objectIcon": "/sprites/diamond.png",
-  "objectIcon2": "",
-  "targetCount": 6,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l14-gen_infi-10",
-  "gameId": "gen_infinite_island_archipelago",
-  "type": "gen_infinite_island_archipelago",
-  "prompt": "Đếm dâu và chọn số đúng!",
-  "correctAnswer": 9,
-  "options": [
-   6,
-   8,
-   7,
-   9
-  ],
-  "objectIcon": "/sprites/rabbit.png",
-  "objectIcon2": "",
-  "targetCount": 9,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l14-std_stic-11",
-  "gameId": "std_sticker_board",
-  "type": "std_sticker_board",
-  "prompt": "⭐ 15 - 1 = ? (Đúng nhận sticker!)",
-  "correctAnswer": 14,
-  "options": [
-   15,
-   14,
-   13,
-   11
-  ],
-  "objectIcon": "/sprites/carrot.png",
-  "objectIcon2": "",
-  "targetCount": 15,
-  "targetCount2": 1,
-  "renderMode": "subtraction",
-  "displayPrompt": null
- },
- {
-  "id": "l14-gen_livi-11",
-  "gameId": "gen_living_math_garden",
-  "type": "gen_living_math_garden",
-  "prompt": "Đếm dâu và chọn số đúng!",
-  "correctAnswer": 4,
-  "options": [
-   2,
-   6,
-   7,
-   4
-  ],
-  "objectIcon": "/sprites/frog.png",
-  "objectIcon2": "",
-  "targetCount": 4,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l14-gen_infi-11",
-  "gameId": "gen_infinite_island_archipelago",
-  "type": "gen_infinite_island_archipelago",
-  "prompt": "Đếm nấm và chọn số đúng!",
-  "correctAnswer": 9,
-  "options": [
-   8,
-   10,
-   9,
-   12
-  ],
-  "objectIcon": "/sprites/diamond.png",
-  "objectIcon2": "",
-  "targetCount": 9,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l14-std_stic-12",
-  "gameId": "std_sticker_board",
-  "type": "std_sticker_board",
-  "prompt": "🌟 Đếm dâu và chọn số đúng! (Đúng nhận sticker!)",
-  "correctAnswer": 9,
-  "options": [
-   9,
-   7,
-   8,
-   11
-  ],
-  "objectIcon": "/sprites/strawberry.png",
-  "objectIcon2": "",
-  "targetCount": 9,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l14-gen_livi-12",
-  "gameId": "gen_living_math_garden",
-  "type": "gen_living_math_garden",
-  "prompt": "Đếm nấm và chọn số đúng!",
-  "correctAnswer": 9,
-  "options": [
-   7,
-   8,
-   9,
-   6
-  ],
-  "objectIcon": "/sprites/carrot.png",
-  "objectIcon2": "",
-  "targetCount": 9,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l14-gen_infi-12",
-  "gameId": "gen_infinite_island_archipelago",
-  "type": "gen_infinite_island_archipelago",
-  "prompt": "Đếm cá và chọn số đúng!",
-  "correctAnswer": 1,
-  "options": [
-   3,
-   2,
-   1,
-   4
-  ],
-  "objectIcon": "/sprites/frog.png",
-  "objectIcon2": "",
-  "targetCount": 1,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l14-std_stic-13",
-  "gameId": "std_sticker_board",
-  "type": "std_sticker_board",
-  "prompt": "🦋 1 + 8 = ? (Đúng nhận sticker!)",
-  "correctAnswer": 9,
-  "options": [
-   7,
-   8,
-   9,
-   12
-  ],
-  "objectIcon": "/sprites/mushroom.png",
-  "objectIcon2": "",
-  "targetCount": 1,
-  "targetCount2": 8,
-  "renderMode": "addition",
-  "displayPrompt": null
- },
- {
-  "id": "l14-gen_livi-13",
-  "gameId": "gen_living_math_garden",
-  "type": "gen_living_math_garden",
-  "prompt": "Đếm cá và chọn số đúng!",
-  "correctAnswer": 3,
-  "options": [
-   5,
-   1,
-   3,
-   6
-  ],
-  "objectIcon": "/sprites/strawberry.png",
-  "objectIcon2": "",
-  "targetCount": 3,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l14-gen_infi-13",
-  "gameId": "gen_infinite_island_archipelago",
-  "type": "gen_infinite_island_archipelago",
-  "prompt": "Đếm bướm và chọn số đúng!",
-  "correctAnswer": 1,
-  "options": [
-   1,
-   2,
-   4,
-   3
-  ],
-  "objectIcon": "/sprites/carrot.png",
-  "objectIcon2": "",
-  "targetCount": 1,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l14-std_stic-14",
-  "gameId": "std_sticker_board",
-  "type": "std_sticker_board",
-  "prompt": "🌸 3 - 2 = ? (Đúng nhận sticker!)",
-  "correctAnswer": 1,
-  "options": [
-   0,
-   1,
-   2,
-   3
-  ],
-  "objectIcon": "/sprites/fish.png",
-  "objectIcon2": "",
-  "targetCount": 3,
-  "targetCount2": 2,
-  "renderMode": "subtraction",
-  "displayPrompt": null
- },
- {
-  "id": "l14-gen_livi-14",
-  "gameId": "gen_living_math_garden",
-  "type": "gen_living_math_garden",
-  "prompt": "Đếm bướm và chọn số đúng!",
-  "correctAnswer": 1,
-  "options": [
-   3,
-   4,
-   1,
-   2
-  ],
-  "objectIcon": "/sprites/mushroom.png",
-  "objectIcon2": "",
-  "targetCount": 1,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l14-gen_infi-14",
-  "gameId": "gen_infinite_island_archipelago",
-  "type": "gen_infinite_island_archipelago",
-  "prompt": "Đếm bánh và chọn số đúng!",
-  "correctAnswer": 8,
-  "options": [
-   11,
-   5,
-   7,
-   8
-  ],
-  "objectIcon": "/sprites/strawberry.png",
-  "objectIcon2": "",
-  "targetCount": 8,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l14-std_stic-15",
-  "gameId": "std_sticker_board",
-  "type": "std_sticker_board",
-  "prompt": "🍀 Đếm bướm và chọn số đúng! (Đúng nhận sticker!)",
-  "correctAnswer": 9,
-  "options": [
-   10,
-   9,
-   6,
-   7
-  ],
-  "objectIcon": "/sprites/butterfly.png",
-  "objectIcon2": "",
-  "targetCount": 9,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l14-gen_livi-15",
-  "gameId": "gen_living_math_garden",
-  "type": "gen_living_math_garden",
-  "prompt": "Đếm bánh và chọn số đúng!",
-  "correctAnswer": 2,
-  "options": [
-   1,
-   2,
-   4,
-   5
-  ],
-  "objectIcon": "/sprites/fish.png",
-  "objectIcon2": "",
-  "targetCount": 2,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l14-gen_infi-15",
-  "gameId": "gen_infinite_island_archipelago",
-  "type": "gen_infinite_island_archipelago",
-  "prompt": "Đếm táo và chọn số đúng!",
-  "correctAnswer": 5,
-  "options": [
-   5,
-   2,
-   8,
-   4
-  ],
-  "objectIcon": "/sprites/mushroom.png",
-  "objectIcon2": "",
-  "targetCount": 5,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l14-std_stic-16",
-  "gameId": "std_sticker_board",
-  "type": "std_sticker_board",
-  "prompt": "⭐ 5 + 5 = ? (Đúng nhận sticker!)",
-  "correctAnswer": 10,
-  "options": [
-   7,
-   10,
-   13,
-   9
-  ],
-  "objectIcon": "/sprites/cupcake.png",
-  "objectIcon2": "",
-  "targetCount": 5,
-  "targetCount2": 5,
-  "renderMode": "addition",
-  "displayPrompt": null
- },
- {
-  "id": "l14-gen_livi-16",
-  "gameId": "gen_living_math_garden",
-  "type": "gen_living_math_garden",
-  "prompt": "Đếm táo và chọn số đúng!",
-  "correctAnswer": 8,
-  "options": [
-   5,
-   7,
-   8,
-   6
-  ],
-  "objectIcon": "/sprites/butterfly.png",
-  "objectIcon2": "",
-  "targetCount": 8,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l14-gen_infi-16",
-  "gameId": "gen_infinite_island_archipelago",
-  "type": "gen_infinite_island_archipelago",
-  "prompt": "Đếm sao và chọn số đúng!",
-  "correctAnswer": 2,
-  "options": [
-   2,
-   3,
-   1,
-   4
-  ],
-  "objectIcon": "/sprites/fish.png",
-  "objectIcon2": "",
-  "targetCount": 2,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l14-std_stic-17",
-  "gameId": "std_sticker_board",
-  "type": "std_sticker_board",
-  "prompt": "🌟 12 - 7 = ? (Đúng nhận sticker!)",
-  "correctAnswer": 5,
-  "options": [
-   7,
-   4,
-   5,
-   6
-  ],
-  "objectIcon": "/sprites/lollipop.png",
-  "objectIcon2": "",
-  "targetCount": 12,
-  "targetCount2": 7,
-  "renderMode": "subtraction",
-  "displayPrompt": null
- },
- {
-  "id": "l14-gen_livi-17",
-  "gameId": "gen_living_math_garden",
-  "type": "gen_living_math_garden",
-  "prompt": "Đếm sao và chọn số đúng!",
-  "correctAnswer": 3,
-  "options": [
-   5,
-   1,
-   3,
-   6
-  ],
-  "objectIcon": "/sprites/cupcake.png",
-  "objectIcon2": "",
-  "targetCount": 3,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- }
+  {
+    "id": "l14-std_stic-1",
+    "gameId": "std_sticker_board",
+    "type": "std_sticker_board",
+    "prompt": "3 + 3 = ?",
+    "correctAnswer": 6,
+    "options": [
+      9,
+      3,
+      4,
+      6
+    ],
+    "objectIcon": "/sprites/apple.png",
+    "objectIcon2": "",
+    "targetCount": 3,
+    "targetCount2": 3,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l14-gen_livi-1",
+    "gameId": "gen_living_math_garden",
+    "type": "gen_living_math_garden",
+    "prompt": "Đếm sao và chọn số đúng!",
+    "correctAnswer": 1,
+    "options": [
+      4,
+      3,
+      1,
+      2
+    ],
+    "objectIcon": "/sprites/crown.png",
+    "objectIcon2": "",
+    "targetCount": 1,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l14-gen_infi-1",
+    "gameId": "gen_infinite_island_archipelago",
+    "type": "gen_infinite_island_archipelago",
+    "prompt": "Đếm kẹo và chọn số đúng!",
+    "correctAnswer": 2,
+    "options": [
+      2,
+      4,
+      1,
+      3
+    ],
+    "objectIcon": "/sprites/lollipop.png",
+    "objectIcon2": "",
+    "targetCount": 2,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l14-std_stic-2",
+    "gameId": "std_sticker_board",
+    "type": "std_sticker_board",
+    "prompt": "9 - 2 = ?",
+    "correctAnswer": 7,
+    "options": [
+      9,
+      5,
+      7,
+      6
+    ],
+    "objectIcon": "/sprites/star.png",
+    "objectIcon2": "",
+    "targetCount": 9,
+    "targetCount2": 2,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l14-gen_livi-2",
+    "gameId": "gen_living_math_garden",
+    "type": "gen_living_math_garden",
+    "prompt": "Đếm kẹo và chọn số đúng!",
+    "correctAnswer": 4,
+    "options": [
+      4,
+      7,
+      2,
+      6
+    ],
+    "objectIcon": "/sprites/apple.png",
+    "objectIcon2": "",
+    "targetCount": 4,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l14-gen_infi-2",
+    "gameId": "gen_infinite_island_archipelago",
+    "type": "gen_infinite_island_archipelago",
+    "prompt": "Đếm bóng và chọn số đúng!",
+    "correctAnswer": 6,
+    "options": [
+      4,
+      9,
+      6,
+      3
+    ],
+    "objectIcon": "/sprites/crown.png",
+    "objectIcon2": "",
+    "targetCount": 6,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l14-std_stic-3",
+    "gameId": "std_sticker_board",
+    "type": "std_sticker_board",
+    "prompt": "Đếm kẹo và chọn số đúng!",
+    "correctAnswer": 1,
+    "options": [
+      4,
+      3,
+      1,
+      2
+    ],
+    "objectIcon": "/sprites/candy.png",
+    "objectIcon2": "",
+    "targetCount": 1,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l14-gen_livi-3",
+    "gameId": "gen_living_math_garden",
+    "type": "gen_living_math_garden",
+    "prompt": "Đếm bóng và chọn số đúng!",
+    "correctAnswer": 3,
+    "options": [
+      1,
+      2,
+      3,
+      5
+    ],
+    "objectIcon": "/sprites/star.png",
+    "objectIcon2": "",
+    "targetCount": 3,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l14-gen_infi-3",
+    "gameId": "gen_infinite_island_archipelago",
+    "type": "gen_infinite_island_archipelago",
+    "prompt": "Đếm xu và chọn số đúng!",
+    "correctAnswer": 1,
+    "options": [
+      4,
+      3,
+      2,
+      1
+    ],
+    "objectIcon": "/sprites/apple.png",
+    "objectIcon2": "",
+    "targetCount": 1,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l14-std_stic-4",
+    "gameId": "std_sticker_board",
+    "type": "std_sticker_board",
+    "prompt": "🌸 1 + 9 = ?",
+    "correctAnswer": 10,
+    "options": [
+      12,
+      10,
+      13,
+      8
+    ],
+    "objectIcon": "/sprites/ball.png",
+    "objectIcon2": "",
+    "targetCount": 1,
+    "targetCount2": 9,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l14-gen_livi-4",
+    "gameId": "gen_living_math_garden",
+    "type": "gen_living_math_garden",
+    "prompt": "Đếm xu và chọn số đúng!",
+    "correctAnswer": 6,
+    "options": [
+      3,
+      4,
+      6,
+      5
+    ],
+    "objectIcon": "/sprites/candy.png",
+    "objectIcon2": "",
+    "targetCount": 6,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l14-gen_infi-4",
+    "gameId": "gen_infinite_island_archipelago",
+    "type": "gen_infinite_island_archipelago",
+    "prompt": "Đếm hoa và chọn số đúng!",
+    "correctAnswer": 3,
+    "options": [
+      3,
+      5,
+      4,
+      1
+    ],
+    "objectIcon": "/sprites/star.png",
+    "objectIcon2": "",
+    "targetCount": 3,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l14-std_stic-5",
+    "gameId": "std_sticker_board",
+    "type": "std_sticker_board",
+    "prompt": "🍀 3 - 3 = ?",
+    "correctAnswer": 0,
+    "options": [
+      0,
+      2,
+      1,
+      3
+    ],
+    "objectIcon": "/sprites/coin.png",
+    "objectIcon2": "",
+    "targetCount": 3,
+    "targetCount2": 3,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l14-gen_livi-5",
+    "gameId": "gen_living_math_garden",
+    "type": "gen_living_math_garden",
+    "prompt": "Đếm hoa và chọn số đúng!",
+    "correctAnswer": 2,
+    "options": [
+      1,
+      4,
+      2,
+      5
+    ],
+    "objectIcon": "/sprites/ball.png",
+    "objectIcon2": "",
+    "targetCount": 2,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l14-gen_infi-5",
+    "gameId": "gen_infinite_island_archipelago",
+    "type": "gen_infinite_island_archipelago",
+    "prompt": "Đếm mèo và chọn số đúng!",
+    "correctAnswer": 5,
+    "options": [
+      8,
+      6,
+      5,
+      4
+    ],
+    "objectIcon": "/sprites/candy.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l14-std_stic-6",
+    "gameId": "std_sticker_board",
+    "type": "std_sticker_board",
+    "prompt": "Đếm hoa và chọn số đúng!",
+    "correctAnswer": 7,
+    "options": [
+      5,
+      7,
+      6,
+      4
+    ],
+    "objectIcon": "/sprites/flower.png",
+    "objectIcon2": "",
+    "targetCount": 7,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l14-gen_livi-6",
+    "gameId": "gen_living_math_garden",
+    "type": "gen_living_math_garden",
+    "prompt": "Đếm mèo và chọn số đúng!",
+    "correctAnswer": 4,
+    "options": [
+      4,
+      7,
+      3,
+      1
+    ],
+    "objectIcon": "/sprites/coin.png",
+    "objectIcon2": "",
+    "targetCount": 4,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l14-gen_infi-6",
+    "gameId": "gen_infinite_island_archipelago",
+    "type": "gen_infinite_island_archipelago",
+    "prompt": "Đếm thỏ và chọn số đúng!",
+    "correctAnswer": 2,
+    "options": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "objectIcon": "/sprites/ball.png",
+    "objectIcon2": "",
+    "targetCount": 2,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l14-std_stic-7",
+    "gameId": "std_sticker_board",
+    "type": "std_sticker_board",
+    "prompt": "4 + 5 = ?",
+    "correctAnswer": 9,
+    "options": [
+      12,
+      6,
+      9,
+      8
+    ],
+    "objectIcon": "/sprites/cat.png",
+    "objectIcon2": "",
+    "targetCount": 4,
+    "targetCount2": 5,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l14-gen_livi-7",
+    "gameId": "gen_living_math_garden",
+    "type": "gen_living_math_garden",
+    "prompt": "Đếm thỏ và chọn số đúng!",
+    "correctAnswer": 5,
+    "options": [
+      6,
+      4,
+      5,
+      8
+    ],
+    "objectIcon": "/sprites/flower.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l14-gen_infi-7",
+    "gameId": "gen_infinite_island_archipelago",
+    "type": "gen_infinite_island_archipelago",
+    "prompt": "Đếm kim cương và chọn số đúng!",
+    "correctAnswer": 2,
+    "options": [
+      1,
+      2,
+      4,
+      5
+    ],
+    "objectIcon": "/sprites/coin.png",
+    "objectIcon2": "",
+    "targetCount": 2,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l14-std_stic-8",
+    "gameId": "std_sticker_board",
+    "type": "std_sticker_board",
+    "prompt": "9 - 3 = ?",
+    "correctAnswer": 6,
+    "options": [
+      8,
+      6,
+      4,
+      5
+    ],
+    "objectIcon": "/sprites/rabbit.png",
+    "objectIcon2": "",
+    "targetCount": 9,
+    "targetCount2": 3,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l14-gen_livi-8",
+    "gameId": "gen_living_math_garden",
+    "type": "gen_living_math_garden",
+    "prompt": "Đếm kim cương và chọn số đúng!",
+    "correctAnswer": 8,
+    "options": [
+      6,
+      8,
+      9,
+      10
+    ],
+    "objectIcon": "/sprites/cat.png",
+    "objectIcon2": "",
+    "targetCount": 8,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l14-gen_infi-8",
+    "gameId": "gen_infinite_island_archipelago",
+    "type": "gen_infinite_island_archipelago",
+    "prompt": "Đếm ếch và chọn số đúng!",
+    "correctAnswer": 3,
+    "options": [
+      3,
+      2,
+      4,
+      1
+    ],
+    "objectIcon": "/sprites/flower.png",
+    "objectIcon2": "",
+    "targetCount": 3,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l14-std_stic-9",
+    "gameId": "std_sticker_board",
+    "type": "std_sticker_board",
+    "prompt": "🌸 Đếm kim cương và chọn số đúng!",
+    "correctAnswer": 7,
+    "options": [
+      6,
+      7,
+      10,
+      4
+    ],
+    "objectIcon": "/sprites/diamond.png",
+    "objectIcon2": "",
+    "targetCount": 7,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l14-gen_livi-9",
+    "gameId": "gen_living_math_garden",
+    "type": "gen_living_math_garden",
+    "prompt": "Đếm ếch và chọn số đúng!",
+    "correctAnswer": 10,
+    "options": [
+      9,
+      7,
+      11,
+      10
+    ],
+    "objectIcon": "/sprites/rabbit.png",
+    "objectIcon2": "",
+    "targetCount": 10,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l14-gen_infi-9",
+    "gameId": "gen_infinite_island_archipelago",
+    "type": "gen_infinite_island_archipelago",
+    "prompt": "Đếm cà rốt và chọn số đúng!",
+    "correctAnswer": 4,
+    "options": [
+      4,
+      6,
+      7,
+      5
+    ],
+    "objectIcon": "/sprites/cat.png",
+    "objectIcon2": "",
+    "targetCount": 4,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l14-std_stic-10",
+    "gameId": "std_sticker_board",
+    "type": "std_sticker_board",
+    "prompt": "🍀 6 + 8 = ?",
+    "correctAnswer": 14,
+    "options": [
+      17,
+      12,
+      14,
+      15
+    ],
+    "objectIcon": "/sprites/frog.png",
+    "objectIcon2": "",
+    "targetCount": 6,
+    "targetCount2": 8,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l14-gen_livi-10",
+    "gameId": "gen_living_math_garden",
+    "type": "gen_living_math_garden",
+    "prompt": "Đếm cà rốt và chọn số đúng!",
+    "correctAnswer": 6,
+    "options": [
+      7,
+      5,
+      6,
+      9
+    ],
+    "objectIcon": "/sprites/diamond.png",
+    "objectIcon2": "",
+    "targetCount": 6,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l14-gen_infi-10",
+    "gameId": "gen_infinite_island_archipelago",
+    "type": "gen_infinite_island_archipelago",
+    "prompt": "Đếm dâu và chọn số đúng!",
+    "correctAnswer": 9,
+    "options": [
+      6,
+      8,
+      7,
+      9
+    ],
+    "objectIcon": "/sprites/rabbit.png",
+    "objectIcon2": "",
+    "targetCount": 9,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l14-std_stic-11",
+    "gameId": "std_sticker_board",
+    "type": "std_sticker_board",
+    "prompt": "15 - 1 = ?",
+    "correctAnswer": 14,
+    "options": [
+      15,
+      14,
+      13,
+      11
+    ],
+    "objectIcon": "/sprites/carrot.png",
+    "objectIcon2": "",
+    "targetCount": 15,
+    "targetCount2": 1,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l14-gen_livi-11",
+    "gameId": "gen_living_math_garden",
+    "type": "gen_living_math_garden",
+    "prompt": "Đếm dâu và chọn số đúng!",
+    "correctAnswer": 4,
+    "options": [
+      2,
+      6,
+      7,
+      4
+    ],
+    "objectIcon": "/sprites/frog.png",
+    "objectIcon2": "",
+    "targetCount": 4,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l14-gen_infi-11",
+    "gameId": "gen_infinite_island_archipelago",
+    "type": "gen_infinite_island_archipelago",
+    "prompt": "Đếm nấm và chọn số đúng!",
+    "correctAnswer": 9,
+    "options": [
+      8,
+      10,
+      9,
+      12
+    ],
+    "objectIcon": "/sprites/diamond.png",
+    "objectIcon2": "",
+    "targetCount": 9,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l14-std_stic-12",
+    "gameId": "std_sticker_board",
+    "type": "std_sticker_board",
+    "prompt": "Đếm dâu và chọn số đúng!",
+    "correctAnswer": 9,
+    "options": [
+      9,
+      7,
+      8,
+      11
+    ],
+    "objectIcon": "/sprites/strawberry.png",
+    "objectIcon2": "",
+    "targetCount": 9,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l14-gen_livi-12",
+    "gameId": "gen_living_math_garden",
+    "type": "gen_living_math_garden",
+    "prompt": "Đếm nấm và chọn số đúng!",
+    "correctAnswer": 9,
+    "options": [
+      7,
+      8,
+      9,
+      6
+    ],
+    "objectIcon": "/sprites/carrot.png",
+    "objectIcon2": "",
+    "targetCount": 9,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l14-gen_infi-12",
+    "gameId": "gen_infinite_island_archipelago",
+    "type": "gen_infinite_island_archipelago",
+    "prompt": "Đếm cá và chọn số đúng!",
+    "correctAnswer": 1,
+    "options": [
+      3,
+      2,
+      1,
+      4
+    ],
+    "objectIcon": "/sprites/frog.png",
+    "objectIcon2": "",
+    "targetCount": 1,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l14-std_stic-13",
+    "gameId": "std_sticker_board",
+    "type": "std_sticker_board",
+    "prompt": "1 + 8 = ?",
+    "correctAnswer": 9,
+    "options": [
+      7,
+      8,
+      9,
+      12
+    ],
+    "objectIcon": "/sprites/mushroom.png",
+    "objectIcon2": "",
+    "targetCount": 1,
+    "targetCount2": 8,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l14-gen_livi-13",
+    "gameId": "gen_living_math_garden",
+    "type": "gen_living_math_garden",
+    "prompt": "Đếm cá và chọn số đúng!",
+    "correctAnswer": 3,
+    "options": [
+      5,
+      1,
+      3,
+      6
+    ],
+    "objectIcon": "/sprites/strawberry.png",
+    "objectIcon2": "",
+    "targetCount": 3,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l14-gen_infi-13",
+    "gameId": "gen_infinite_island_archipelago",
+    "type": "gen_infinite_island_archipelago",
+    "prompt": "Đếm bướm và chọn số đúng!",
+    "correctAnswer": 1,
+    "options": [
+      1,
+      2,
+      4,
+      3
+    ],
+    "objectIcon": "/sprites/carrot.png",
+    "objectIcon2": "",
+    "targetCount": 1,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l14-std_stic-14",
+    "gameId": "std_sticker_board",
+    "type": "std_sticker_board",
+    "prompt": "🌸 3 - 2 = ?",
+    "correctAnswer": 1,
+    "options": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "objectIcon": "/sprites/fish.png",
+    "objectIcon2": "",
+    "targetCount": 3,
+    "targetCount2": 2,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l14-gen_livi-14",
+    "gameId": "gen_living_math_garden",
+    "type": "gen_living_math_garden",
+    "prompt": "Đếm bướm và chọn số đúng!",
+    "correctAnswer": 1,
+    "options": [
+      3,
+      4,
+      1,
+      2
+    ],
+    "objectIcon": "/sprites/mushroom.png",
+    "objectIcon2": "",
+    "targetCount": 1,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l14-gen_infi-14",
+    "gameId": "gen_infinite_island_archipelago",
+    "type": "gen_infinite_island_archipelago",
+    "prompt": "Đếm bánh và chọn số đúng!",
+    "correctAnswer": 8,
+    "options": [
+      11,
+      5,
+      7,
+      8
+    ],
+    "objectIcon": "/sprites/strawberry.png",
+    "objectIcon2": "",
+    "targetCount": 8,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l14-std_stic-15",
+    "gameId": "std_sticker_board",
+    "type": "std_sticker_board",
+    "prompt": "🍀 Đếm bướm và chọn số đúng!",
+    "correctAnswer": 9,
+    "options": [
+      10,
+      9,
+      6,
+      7
+    ],
+    "objectIcon": "/sprites/butterfly.png",
+    "objectIcon2": "",
+    "targetCount": 9,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l14-gen_livi-15",
+    "gameId": "gen_living_math_garden",
+    "type": "gen_living_math_garden",
+    "prompt": "Đếm bánh và chọn số đúng!",
+    "correctAnswer": 2,
+    "options": [
+      1,
+      2,
+      4,
+      5
+    ],
+    "objectIcon": "/sprites/fish.png",
+    "objectIcon2": "",
+    "targetCount": 2,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l14-gen_infi-15",
+    "gameId": "gen_infinite_island_archipelago",
+    "type": "gen_infinite_island_archipelago",
+    "prompt": "Đếm táo và chọn số đúng!",
+    "correctAnswer": 5,
+    "options": [
+      5,
+      2,
+      8,
+      4
+    ],
+    "objectIcon": "/sprites/mushroom.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l14-std_stic-16",
+    "gameId": "std_sticker_board",
+    "type": "std_sticker_board",
+    "prompt": "5 + 5 = ?",
+    "correctAnswer": 10,
+    "options": [
+      7,
+      10,
+      13,
+      9
+    ],
+    "objectIcon": "/sprites/cupcake.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 5,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l14-gen_livi-16",
+    "gameId": "gen_living_math_garden",
+    "type": "gen_living_math_garden",
+    "prompt": "Đếm táo và chọn số đúng!",
+    "correctAnswer": 8,
+    "options": [
+      5,
+      7,
+      8,
+      6
+    ],
+    "objectIcon": "/sprites/butterfly.png",
+    "objectIcon2": "",
+    "targetCount": 8,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l14-gen_infi-16",
+    "gameId": "gen_infinite_island_archipelago",
+    "type": "gen_infinite_island_archipelago",
+    "prompt": "Đếm sao và chọn số đúng!",
+    "correctAnswer": 2,
+    "options": [
+      2,
+      3,
+      1,
+      4
+    ],
+    "objectIcon": "/sprites/fish.png",
+    "objectIcon2": "",
+    "targetCount": 2,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l14-std_stic-17",
+    "gameId": "std_sticker_board",
+    "type": "std_sticker_board",
+    "prompt": "12 - 7 = ?",
+    "correctAnswer": 5,
+    "options": [
+      7,
+      4,
+      5,
+      6
+    ],
+    "objectIcon": "/sprites/lollipop.png",
+    "objectIcon2": "",
+    "targetCount": 12,
+    "targetCount2": 7,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l14-gen_livi-17",
+    "gameId": "gen_living_math_garden",
+    "type": "gen_living_math_garden",
+    "prompt": "Đếm sao và chọn số đúng!",
+    "correctAnswer": 3,
+    "options": [
+      5,
+      1,
+      3,
+      6
+    ],
+    "objectIcon": "/sprites/cupcake.png",
+    "objectIcon2": "",
+    "targetCount": 3,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  }
 ]

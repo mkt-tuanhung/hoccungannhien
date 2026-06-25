@@ -1,952 +1,952 @@
 [
- {
-  "id": "l27-std_numb-1",
-  "gameId": "std_number_trace",
-  "type": "std_number_trace",
-  "prompt": "2 + 17 = ?",
-  "correctAnswer": 19,
-  "options": [
-   17,
-   18,
-   19,
-   21
-  ],
-  "objectIcon": "/sprites/apple.png",
-  "objectIcon2": "",
-  "targetCount": 2,
-  "targetCount2": 17,
-  "renderMode": "addition",
-  "displayPrompt": null
- },
- {
-  "id": "l27-std_stic-1",
-  "gameId": "std_sticker_board",
-  "type": "std_sticker_board",
-  "prompt": "🦋 Đếm sao và chọn số đúng! (Đúng nhận sticker!)",
-  "correctAnswer": 3,
-  "options": [
-   3,
-   2,
-   1,
-   4
-  ],
-  "objectIcon": "/sprites/crown.png",
-  "objectIcon2": "",
-  "targetCount": 3,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l27-gen_livi-1",
-  "gameId": "gen_living_math_garden",
-  "type": "gen_living_math_garden",
-  "prompt": "Đếm kẹo và chọn số đúng!",
-  "correctAnswer": 6,
-  "options": [
-   6,
-   8,
-   5,
-   7
-  ],
-  "objectIcon": "/sprites/lollipop.png",
-  "objectIcon2": "",
-  "targetCount": 6,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l27-std_numb-2",
-  "gameId": "std_number_trace",
-  "type": "std_number_trace",
-  "prompt": "3 - 2 = ?",
-  "correctAnswer": 1,
-  "options": [
-   0,
-   1,
-   3,
-   2
-  ],
-  "objectIcon": "/sprites/star.png",
-  "objectIcon2": "",
-  "targetCount": 3,
-  "targetCount2": 2,
-  "renderMode": "subtraction",
-  "displayPrompt": null
- },
- {
-  "id": "l27-std_stic-2",
-  "gameId": "std_sticker_board",
-  "type": "std_sticker_board",
-  "prompt": "🌸 2 + 17 = ? (Đúng nhận sticker!)",
-  "correctAnswer": 19,
-  "options": [
-   17,
-   20,
-   19,
-   18
-  ],
-  "objectIcon": "/sprites/apple.png",
-  "objectIcon2": "",
-  "targetCount": 2,
-  "targetCount2": 17,
-  "renderMode": "addition",
-  "displayPrompt": null
- },
- {
-  "id": "l27-gen_livi-2",
-  "gameId": "gen_living_math_garden",
-  "type": "gen_living_math_garden",
-  "prompt": "Đếm bóng và chọn số đúng!",
-  "correctAnswer": 7,
-  "options": [
-   8,
-   10,
-   7,
-   9
-  ],
-  "objectIcon": "/sprites/crown.png",
-  "objectIcon2": "",
-  "targetCount": 7,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l27-std_numb-3",
-  "gameId": "std_number_trace",
-  "type": "std_number_trace",
-  "prompt": "Đếm kẹo và chọn số đúng!",
-  "correctAnswer": 9,
-  "options": [
-   8,
-   9,
-   7,
-   11
-  ],
-  "objectIcon": "/sprites/candy.png",
-  "objectIcon2": "",
-  "targetCount": 9,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l27-std_stic-3",
-  "gameId": "std_sticker_board",
-  "type": "std_sticker_board",
-  "prompt": "🍀 17 - 1 = ? (Đúng nhận sticker!)",
-  "correctAnswer": 16,
-  "options": [
-   17,
-   14,
-   15,
-   16
-  ],
-  "objectIcon": "/sprites/star.png",
-  "objectIcon2": "",
-  "targetCount": 17,
-  "targetCount2": 1,
-  "renderMode": "subtraction",
-  "displayPrompt": null
- },
- {
-  "id": "l27-gen_livi-3",
-  "gameId": "gen_living_math_garden",
-  "type": "gen_living_math_garden",
-  "prompt": "Đếm xu và chọn số đúng!",
-  "correctAnswer": 5,
-  "options": [
-   3,
-   5,
-   8,
-   2
-  ],
-  "objectIcon": "/sprites/apple.png",
-  "objectIcon2": "",
-  "targetCount": 5,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l27-std_numb-4",
-  "gameId": "std_number_trace",
-  "type": "std_number_trace",
-  "prompt": "Số nào lớn hơn: 4 hay 11?",
-  "correctAnswer": 11,
-  "options": [
-   13,
-   14,
-   9,
-   11
-  ],
-  "objectIcon": "/sprites/ball.png",
-  "objectIcon2": "",
-  "targetCount": 4,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l27-std_stic-4",
-  "gameId": "std_sticker_board",
-  "type": "std_sticker_board",
-  "prompt": "⭐ Đếm xu và chọn số đúng! (Đúng nhận sticker!)",
-  "correctAnswer": 9,
-  "options": [
-   9,
-   11,
-   12,
-   6
-  ],
-  "objectIcon": "/sprites/candy.png",
-  "objectIcon2": "",
-  "targetCount": 9,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l27-gen_livi-4",
-  "gameId": "gen_living_math_garden",
-  "type": "gen_living_math_garden",
-  "prompt": "Đếm hoa và chọn số đúng!",
-  "correctAnswer": 1,
-  "options": [
-   3,
-   1,
-   2,
-   4
-  ],
-  "objectIcon": "/sprites/star.png",
-  "objectIcon2": "",
-  "targetCount": 1,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l27-std_numb-5",
-  "gameId": "std_number_trace",
-  "type": "std_number_trace",
-  "prompt": "10 + ? = 14",
-  "correctAnswer": 4,
-  "options": [
-   3,
-   2,
-   4,
-   1
-  ],
-  "objectIcon": "/sprites/coin.png",
-  "objectIcon2": "",
-  "targetCount": 10,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l27-std_stic-5",
-  "gameId": "std_sticker_board",
-  "type": "std_sticker_board",
-  "prompt": "🌟 5 + 12 = ? (Đúng nhận sticker!)",
-  "correctAnswer": 17,
-  "options": [
-   14,
-   20,
-   17,
-   16
-  ],
-  "objectIcon": "/sprites/ball.png",
-  "objectIcon2": "",
-  "targetCount": 5,
-  "targetCount2": 12,
-  "renderMode": "addition",
-  "displayPrompt": null
- },
- {
-  "id": "l27-gen_livi-5",
-  "gameId": "gen_living_math_garden",
-  "type": "gen_living_math_garden",
-  "prompt": "Đếm mèo và chọn số đúng!",
-  "correctAnswer": 4,
-  "options": [
-   6,
-   5,
-   1,
-   4
-  ],
-  "objectIcon": "/sprites/candy.png",
-  "objectIcon2": "",
-  "targetCount": 4,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l27-std_numb-6",
-  "gameId": "std_number_trace",
-  "type": "std_number_trace",
-  "prompt": "Nam có 6 hoa, mẹ cho thêm 13. Có tất cả bao nhiêu?",
-  "correctAnswer": 19,
-  "options": [
-   19,
-   21,
-   20,
-   17
-  ],
-  "objectIcon": "/sprites/flower.png",
-  "objectIcon2": "",
-  "targetCount": 6,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l27-std_stic-6",
-  "gameId": "std_sticker_board",
-  "type": "std_sticker_board",
-  "prompt": "🦋 18 - 10 = ? (Đúng nhận sticker!)",
-  "correctAnswer": 8,
-  "options": [
-   5,
-   8,
-   11,
-   7
-  ],
-  "objectIcon": "/sprites/coin.png",
-  "objectIcon2": "",
-  "targetCount": 18,
-  "targetCount2": 10,
-  "renderMode": "subtraction",
-  "displayPrompt": null
- },
- {
-  "id": "l27-gen_livi-6",
-  "gameId": "gen_living_math_garden",
-  "type": "gen_living_math_garden",
-  "prompt": "Đếm thỏ và chọn số đúng!",
-  "correctAnswer": 6,
-  "options": [
-   6,
-   9,
-   8,
-   3
-  ],
-  "objectIcon": "/sprites/ball.png",
-  "objectIcon2": "",
-  "targetCount": 6,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l27-std_numb-7",
-  "gameId": "std_number_trace",
-  "type": "std_number_trace",
-  "prompt": "7 + 13 = ?",
-  "correctAnswer": 20,
-  "options": [
-   21,
-   22,
-   20,
-   23
-  ],
-  "objectIcon": "/sprites/cat.png",
-  "objectIcon2": "",
-  "targetCount": 7,
-  "targetCount2": 13,
-  "renderMode": "addition",
-  "displayPrompt": null
- },
- {
-  "id": "l27-std_stic-7",
-  "gameId": "std_sticker_board",
-  "type": "std_sticker_board",
-  "prompt": "🌸 Đếm thỏ và chọn số đúng! (Đúng nhận sticker!)",
-  "correctAnswer": 3,
-  "options": [
-   2,
-   3,
-   4,
-   1
-  ],
-  "objectIcon": "/sprites/flower.png",
-  "objectIcon2": "",
-  "targetCount": 3,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l27-gen_livi-7",
-  "gameId": "gen_living_math_garden",
-  "type": "gen_living_math_garden",
-  "prompt": "Đếm kim cương và chọn số đúng!",
-  "correctAnswer": 7,
-  "options": [
-   7,
-   9,
-   5,
-   10
-  ],
-  "objectIcon": "/sprites/coin.png",
-  "objectIcon2": "",
-  "targetCount": 7,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l27-std_numb-8",
-  "gameId": "std_number_trace",
-  "type": "std_number_trace",
-  "prompt": "10 - 7 = ?",
-  "correctAnswer": 3,
-  "options": [
-   3,
-   6,
-   0,
-   5
-  ],
-  "objectIcon": "/sprites/rabbit.png",
-  "objectIcon2": "",
-  "targetCount": 10,
-  "targetCount2": 7,
-  "renderMode": "subtraction",
-  "displayPrompt": null
- },
- {
-  "id": "l27-std_stic-8",
-  "gameId": "std_sticker_board",
-  "type": "std_sticker_board",
-  "prompt": "🍀 10 + 2 = ? (Đúng nhận sticker!)",
-  "correctAnswer": 12,
-  "options": [
-   9,
-   13,
-   12,
-   15
-  ],
-  "objectIcon": "/sprites/cat.png",
-  "objectIcon2": "",
-  "targetCount": 10,
-  "targetCount2": 2,
-  "renderMode": "addition",
-  "displayPrompt": null
- },
- {
-  "id": "l27-gen_livi-8",
-  "gameId": "gen_living_math_garden",
-  "type": "gen_living_math_garden",
-  "prompt": "Đếm ếch và chọn số đúng!",
-  "correctAnswer": 2,
-  "options": [
-   1,
-   2,
-   3,
-   5
-  ],
-  "objectIcon": "/sprites/flower.png",
-  "objectIcon2": "",
-  "targetCount": 2,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l27-std_numb-9",
-  "gameId": "std_number_trace",
-  "type": "std_number_trace",
-  "prompt": "Đếm kim cương và chọn số đúng!",
-  "correctAnswer": 9,
-  "options": [
-   11,
-   9,
-   8,
-   7
-  ],
-  "objectIcon": "/sprites/diamond.png",
-  "objectIcon2": "",
-  "targetCount": 9,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l27-std_stic-9",
-  "gameId": "std_sticker_board",
-  "type": "std_sticker_board",
-  "prompt": "⭐ 10 - 5 = ? (Đúng nhận sticker!)",
-  "correctAnswer": 5,
-  "options": [
-   2,
-   7,
-   3,
-   5
-  ],
-  "objectIcon": "/sprites/rabbit.png",
-  "objectIcon2": "",
-  "targetCount": 10,
-  "targetCount2": 5,
-  "renderMode": "subtraction",
-  "displayPrompt": null
- },
- {
-  "id": "l27-gen_livi-9",
-  "gameId": "gen_living_math_garden",
-  "type": "gen_living_math_garden",
-  "prompt": "Đếm cà rốt và chọn số đúng!",
-  "correctAnswer": 3,
-  "options": [
-   3,
-   5,
-   4,
-   1
-  ],
-  "objectIcon": "/sprites/cat.png",
-  "objectIcon2": "",
-  "targetCount": 3,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l27-std_numb-10",
-  "gameId": "std_number_trace",
-  "type": "std_number_trace",
-  "prompt": "Số nào lớn hơn: 12 hay 13?",
-  "correctAnswer": 13,
-  "options": [
-   16,
-   13,
-   14,
-   12
-  ],
-  "objectIcon": "/sprites/frog.png",
-  "objectIcon2": "",
-  "targetCount": 12,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l27-std_stic-10",
-  "gameId": "std_sticker_board",
-  "type": "std_sticker_board",
-  "prompt": "🌟 Đếm cà rốt và chọn số đúng! (Đúng nhận sticker!)",
-  "correctAnswer": 1,
-  "options": [
-   3,
-   2,
-   4,
-   1
-  ],
-  "objectIcon": "/sprites/diamond.png",
-  "objectIcon2": "",
-  "targetCount": 1,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l27-gen_livi-10",
-  "gameId": "gen_living_math_garden",
-  "type": "gen_living_math_garden",
-  "prompt": "Đếm dâu và chọn số đúng!",
-  "correctAnswer": 8,
-  "options": [
-   7,
-   9,
-   8,
-   6
-  ],
-  "objectIcon": "/sprites/rabbit.png",
-  "objectIcon2": "",
-  "targetCount": 8,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l27-std_numb-11",
-  "gameId": "std_number_trace",
-  "type": "std_number_trace",
-  "prompt": "10 + ? = 13",
-  "correctAnswer": 3,
-  "options": [
-   3,
-   5,
-   1,
-   6
-  ],
-  "objectIcon": "/sprites/carrot.png",
-  "objectIcon2": "",
-  "targetCount": 10,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l27-std_stic-11",
-  "gameId": "std_sticker_board",
-  "type": "std_sticker_board",
-  "prompt": "🦋 7 + 4 = ? (Đúng nhận sticker!)",
-  "correctAnswer": 11,
-  "options": [
-   12,
-   10,
-   11,
-   8
-  ],
-  "objectIcon": "/sprites/frog.png",
-  "objectIcon2": "",
-  "targetCount": 7,
-  "targetCount2": 4,
-  "renderMode": "addition",
-  "displayPrompt": null
- },
- {
-  "id": "l27-gen_livi-11",
-  "gameId": "gen_living_math_garden",
-  "type": "gen_living_math_garden",
-  "prompt": "Đếm nấm và chọn số đúng!",
-  "correctAnswer": 5,
-  "options": [
-   8,
-   5,
-   7,
-   6
-  ],
-  "objectIcon": "/sprites/diamond.png",
-  "objectIcon2": "",
-  "targetCount": 5,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l27-std_numb-12",
-  "gameId": "std_number_trace",
-  "type": "std_number_trace",
-  "prompt": "Nam có 11 dâu, mẹ cho thêm 1. Có tất cả bao nhiêu?",
-  "correctAnswer": 12,
-  "options": [
-   12,
-   15,
-   14,
-   10
-  ],
-  "objectIcon": "/sprites/strawberry.png",
-  "objectIcon2": "",
-  "targetCount": 11,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l27-std_stic-12",
-  "gameId": "std_sticker_board",
-  "type": "std_sticker_board",
-  "prompt": "🌸 4 - 2 = ? (Đúng nhận sticker!)",
-  "correctAnswer": 2,
-  "options": [
-   3,
-   0,
-   2,
-   1
-  ],
-  "objectIcon": "/sprites/carrot.png",
-  "objectIcon2": "",
-  "targetCount": 4,
-  "targetCount2": 2,
-  "renderMode": "subtraction",
-  "displayPrompt": null
- },
- {
-  "id": "l27-gen_livi-12",
-  "gameId": "gen_living_math_garden",
-  "type": "gen_living_math_garden",
-  "prompt": "Đếm cá và chọn số đúng!",
-  "correctAnswer": 1,
-  "options": [
-   3,
-   4,
-   2,
-   1
-  ],
-  "objectIcon": "/sprites/frog.png",
-  "objectIcon2": "",
-  "targetCount": 1,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l27-std_numb-13",
-  "gameId": "std_number_trace",
-  "type": "std_number_trace",
-  "prompt": "12 + 5 = ?",
-  "correctAnswer": 17,
-  "options": [
-   15,
-   17,
-   14,
-   20
-  ],
-  "objectIcon": "/sprites/mushroom.png",
-  "objectIcon2": "",
-  "targetCount": 12,
-  "targetCount2": 5,
-  "renderMode": "addition",
-  "displayPrompt": null
- },
- {
-  "id": "l27-std_stic-13",
-  "gameId": "std_sticker_board",
-  "type": "std_sticker_board",
-  "prompt": "🍀 Đếm cá và chọn số đúng! (Đúng nhận sticker!)",
-  "correctAnswer": 1,
-  "options": [
-   1,
-   3,
-   2,
-   4
-  ],
-  "objectIcon": "/sprites/strawberry.png",
-  "objectIcon2": "",
-  "targetCount": 1,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l27-gen_livi-13",
-  "gameId": "gen_living_math_garden",
-  "type": "gen_living_math_garden",
-  "prompt": "Đếm bướm và chọn số đúng!",
-  "correctAnswer": 7,
-  "options": [
-   8,
-   9,
-   5,
-   7
-  ],
-  "objectIcon": "/sprites/carrot.png",
-  "objectIcon2": "",
-  "targetCount": 7,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l27-std_numb-14",
-  "gameId": "std_number_trace",
-  "type": "std_number_trace",
-  "prompt": "3 - 1 = ?",
-  "correctAnswer": 2,
-  "options": [
-   2,
-   3,
-   0,
-   1
-  ],
-  "objectIcon": "/sprites/fish.png",
-  "objectIcon2": "",
-  "targetCount": 3,
-  "targetCount2": 1,
-  "renderMode": "subtraction",
-  "displayPrompt": null
- },
- {
-  "id": "l27-std_stic-14",
-  "gameId": "std_sticker_board",
-  "type": "std_sticker_board",
-  "prompt": "⭐ 5 + 3 = ? (Đúng nhận sticker!)",
-  "correctAnswer": 8,
-  "options": [
-   6,
-   5,
-   8,
-   7
-  ],
-  "objectIcon": "/sprites/mushroom.png",
-  "objectIcon2": "",
-  "targetCount": 5,
-  "targetCount2": 3,
-  "renderMode": "addition",
-  "displayPrompt": null
- },
- {
-  "id": "l27-gen_livi-14",
-  "gameId": "gen_living_math_garden",
-  "type": "gen_living_math_garden",
-  "prompt": "Đếm bánh và chọn số đúng!",
-  "correctAnswer": 1,
-  "options": [
-   4,
-   2,
-   3,
-   1
-  ],
-  "objectIcon": "/sprites/strawberry.png",
-  "objectIcon2": "",
-  "targetCount": 1,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l27-std_numb-15",
-  "gameId": "std_number_trace",
-  "type": "std_number_trace",
-  "prompt": "Đếm bướm và chọn số đúng!",
-  "correctAnswer": 2,
-  "options": [
-   2,
-   1,
-   4,
-   3
-  ],
-  "objectIcon": "/sprites/butterfly.png",
-  "objectIcon2": "",
-  "targetCount": 2,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l27-std_stic-15",
-  "gameId": "std_sticker_board",
-  "type": "std_sticker_board",
-  "prompt": "🌟 11 - 11 = ? (Đúng nhận sticker!)",
-  "correctAnswer": 0,
-  "options": [
-   1,
-   0,
-   2,
-   3
-  ],
-  "objectIcon": "/sprites/fish.png",
-  "objectIcon2": "",
-  "targetCount": 11,
-  "targetCount2": 11,
-  "renderMode": "subtraction",
-  "displayPrompt": null
- },
- {
-  "id": "l27-gen_livi-15",
-  "gameId": "gen_living_math_garden",
-  "type": "gen_living_math_garden",
-  "prompt": "Đếm táo và chọn số đúng!",
-  "correctAnswer": 4,
-  "options": [
-   1,
-   4,
-   7,
-   3
-  ],
-  "objectIcon": "/sprites/mushroom.png",
-  "objectIcon2": "",
-  "targetCount": 4,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l27-std_numb-16",
-  "gameId": "std_number_trace",
-  "type": "std_number_trace",
-  "prompt": "Số nào lớn hơn: 9 hay 12?",
-  "correctAnswer": 12,
-  "options": [
-   10,
-   13,
-   12,
-   9
-  ],
-  "objectIcon": "/sprites/cupcake.png",
-  "objectIcon2": "",
-  "targetCount": 9,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l27-std_stic-16",
-  "gameId": "std_sticker_board",
-  "type": "std_sticker_board",
-  "prompt": "🦋 Đếm táo và chọn số đúng! (Đúng nhận sticker!)",
-  "correctAnswer": 3,
-  "options": [
-   2,
-   3,
-   1,
-   5
-  ],
-  "objectIcon": "/sprites/butterfly.png",
-  "objectIcon2": "",
-  "targetCount": 3,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l27-gen_livi-16",
-  "gameId": "gen_living_math_garden",
-  "type": "gen_living_math_garden",
-  "prompt": "Đếm sao và chọn số đúng!",
-  "correctAnswer": 9,
-  "options": [
-   8,
-   11,
-   9,
-   6
-  ],
-  "objectIcon": "/sprites/fish.png",
-  "objectIcon2": "",
-  "targetCount": 9,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l27-std_numb-17",
-  "gameId": "std_number_trace",
-  "type": "std_number_trace",
-  "prompt": "4 + ? = 16",
-  "correctAnswer": 12,
-  "options": [
-   12,
-   9,
-   11,
-   15
-  ],
-  "objectIcon": "/sprites/lollipop.png",
-  "objectIcon2": "",
-  "targetCount": 4,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l27-std_stic-17",
-  "gameId": "std_sticker_board",
-  "type": "std_sticker_board",
-  "prompt": "🌸 6 + 4 = ? (Đúng nhận sticker!)",
-  "correctAnswer": 10,
-  "options": [
-   8,
-   11,
-   10,
-   12
-  ],
-  "objectIcon": "/sprites/cupcake.png",
-  "objectIcon2": "",
-  "targetCount": 6,
-  "targetCount2": 4,
-  "renderMode": "addition",
-  "displayPrompt": null
- }
+  {
+    "id": "l27-std_numb-1",
+    "gameId": "std_number_trace",
+    "type": "std_number_trace",
+    "prompt": "2 + 17 = ?",
+    "correctAnswer": 19,
+    "options": [
+      17,
+      18,
+      19,
+      21
+    ],
+    "objectIcon": "/sprites/apple.png",
+    "objectIcon2": "",
+    "targetCount": 2,
+    "targetCount2": 17,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l27-std_stic-1",
+    "gameId": "std_sticker_board",
+    "type": "std_sticker_board",
+    "prompt": "Đếm sao và chọn số đúng!",
+    "correctAnswer": 3,
+    "options": [
+      3,
+      2,
+      1,
+      4
+    ],
+    "objectIcon": "/sprites/crown.png",
+    "objectIcon2": "",
+    "targetCount": 3,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l27-gen_livi-1",
+    "gameId": "gen_living_math_garden",
+    "type": "gen_living_math_garden",
+    "prompt": "Đếm kẹo và chọn số đúng!",
+    "correctAnswer": 6,
+    "options": [
+      6,
+      8,
+      5,
+      7
+    ],
+    "objectIcon": "/sprites/lollipop.png",
+    "objectIcon2": "",
+    "targetCount": 6,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l27-std_numb-2",
+    "gameId": "std_number_trace",
+    "type": "std_number_trace",
+    "prompt": "3 - 2 = ?",
+    "correctAnswer": 1,
+    "options": [
+      0,
+      1,
+      3,
+      2
+    ],
+    "objectIcon": "/sprites/star.png",
+    "objectIcon2": "",
+    "targetCount": 3,
+    "targetCount2": 2,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l27-std_stic-2",
+    "gameId": "std_sticker_board",
+    "type": "std_sticker_board",
+    "prompt": "🌸 2 + 17 = ?",
+    "correctAnswer": 19,
+    "options": [
+      17,
+      20,
+      19,
+      18
+    ],
+    "objectIcon": "/sprites/apple.png",
+    "objectIcon2": "",
+    "targetCount": 2,
+    "targetCount2": 17,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l27-gen_livi-2",
+    "gameId": "gen_living_math_garden",
+    "type": "gen_living_math_garden",
+    "prompt": "Đếm bóng và chọn số đúng!",
+    "correctAnswer": 7,
+    "options": [
+      8,
+      10,
+      7,
+      9
+    ],
+    "objectIcon": "/sprites/crown.png",
+    "objectIcon2": "",
+    "targetCount": 7,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l27-std_numb-3",
+    "gameId": "std_number_trace",
+    "type": "std_number_trace",
+    "prompt": "Đếm kẹo và chọn số đúng!",
+    "correctAnswer": 9,
+    "options": [
+      8,
+      9,
+      7,
+      11
+    ],
+    "objectIcon": "/sprites/candy.png",
+    "objectIcon2": "",
+    "targetCount": 9,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l27-std_stic-3",
+    "gameId": "std_sticker_board",
+    "type": "std_sticker_board",
+    "prompt": "🍀 17 - 1 = ?",
+    "correctAnswer": 16,
+    "options": [
+      17,
+      14,
+      15,
+      16
+    ],
+    "objectIcon": "/sprites/star.png",
+    "objectIcon2": "",
+    "targetCount": 17,
+    "targetCount2": 1,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l27-gen_livi-3",
+    "gameId": "gen_living_math_garden",
+    "type": "gen_living_math_garden",
+    "prompt": "Đếm xu và chọn số đúng!",
+    "correctAnswer": 5,
+    "options": [
+      3,
+      5,
+      8,
+      2
+    ],
+    "objectIcon": "/sprites/apple.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l27-std_numb-4",
+    "gameId": "std_number_trace",
+    "type": "std_number_trace",
+    "prompt": "Số nào lớn hơn: 4 hay 11?",
+    "correctAnswer": 11,
+    "options": [
+      13,
+      14,
+      9,
+      11
+    ],
+    "objectIcon": "/sprites/ball.png",
+    "objectIcon2": "",
+    "targetCount": 4,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l27-std_stic-4",
+    "gameId": "std_sticker_board",
+    "type": "std_sticker_board",
+    "prompt": "Đếm xu và chọn số đúng!",
+    "correctAnswer": 9,
+    "options": [
+      9,
+      11,
+      12,
+      6
+    ],
+    "objectIcon": "/sprites/candy.png",
+    "objectIcon2": "",
+    "targetCount": 9,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l27-gen_livi-4",
+    "gameId": "gen_living_math_garden",
+    "type": "gen_living_math_garden",
+    "prompt": "Đếm hoa và chọn số đúng!",
+    "correctAnswer": 1,
+    "options": [
+      3,
+      1,
+      2,
+      4
+    ],
+    "objectIcon": "/sprites/star.png",
+    "objectIcon2": "",
+    "targetCount": 1,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l27-std_numb-5",
+    "gameId": "std_number_trace",
+    "type": "std_number_trace",
+    "prompt": "10 + ? = 14",
+    "correctAnswer": 4,
+    "options": [
+      3,
+      2,
+      4,
+      1
+    ],
+    "objectIcon": "/sprites/coin.png",
+    "objectIcon2": "",
+    "targetCount": 10,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l27-std_stic-5",
+    "gameId": "std_sticker_board",
+    "type": "std_sticker_board",
+    "prompt": "5 + 12 = ?",
+    "correctAnswer": 17,
+    "options": [
+      14,
+      20,
+      17,
+      16
+    ],
+    "objectIcon": "/sprites/ball.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 12,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l27-gen_livi-5",
+    "gameId": "gen_living_math_garden",
+    "type": "gen_living_math_garden",
+    "prompt": "Đếm mèo và chọn số đúng!",
+    "correctAnswer": 4,
+    "options": [
+      6,
+      5,
+      1,
+      4
+    ],
+    "objectIcon": "/sprites/candy.png",
+    "objectIcon2": "",
+    "targetCount": 4,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l27-std_numb-6",
+    "gameId": "std_number_trace",
+    "type": "std_number_trace",
+    "prompt": "Nam có 6 hoa, mẹ cho thêm 13. Có tất cả bao nhiêu?",
+    "correctAnswer": 19,
+    "options": [
+      19,
+      21,
+      20,
+      17
+    ],
+    "objectIcon": "/sprites/flower.png",
+    "objectIcon2": "",
+    "targetCount": 6,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l27-std_stic-6",
+    "gameId": "std_sticker_board",
+    "type": "std_sticker_board",
+    "prompt": "18 - 10 = ?",
+    "correctAnswer": 8,
+    "options": [
+      5,
+      8,
+      11,
+      7
+    ],
+    "objectIcon": "/sprites/coin.png",
+    "objectIcon2": "",
+    "targetCount": 18,
+    "targetCount2": 10,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l27-gen_livi-6",
+    "gameId": "gen_living_math_garden",
+    "type": "gen_living_math_garden",
+    "prompt": "Đếm thỏ và chọn số đúng!",
+    "correctAnswer": 6,
+    "options": [
+      6,
+      9,
+      8,
+      3
+    ],
+    "objectIcon": "/sprites/ball.png",
+    "objectIcon2": "",
+    "targetCount": 6,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l27-std_numb-7",
+    "gameId": "std_number_trace",
+    "type": "std_number_trace",
+    "prompt": "7 + 13 = ?",
+    "correctAnswer": 20,
+    "options": [
+      21,
+      22,
+      20,
+      23
+    ],
+    "objectIcon": "/sprites/cat.png",
+    "objectIcon2": "",
+    "targetCount": 7,
+    "targetCount2": 13,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l27-std_stic-7",
+    "gameId": "std_sticker_board",
+    "type": "std_sticker_board",
+    "prompt": "🌸 Đếm thỏ và chọn số đúng!",
+    "correctAnswer": 3,
+    "options": [
+      2,
+      3,
+      4,
+      1
+    ],
+    "objectIcon": "/sprites/flower.png",
+    "objectIcon2": "",
+    "targetCount": 3,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l27-gen_livi-7",
+    "gameId": "gen_living_math_garden",
+    "type": "gen_living_math_garden",
+    "prompt": "Đếm kim cương và chọn số đúng!",
+    "correctAnswer": 7,
+    "options": [
+      7,
+      9,
+      5,
+      10
+    ],
+    "objectIcon": "/sprites/coin.png",
+    "objectIcon2": "",
+    "targetCount": 7,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l27-std_numb-8",
+    "gameId": "std_number_trace",
+    "type": "std_number_trace",
+    "prompt": "10 - 7 = ?",
+    "correctAnswer": 3,
+    "options": [
+      3,
+      6,
+      0,
+      5
+    ],
+    "objectIcon": "/sprites/rabbit.png",
+    "objectIcon2": "",
+    "targetCount": 10,
+    "targetCount2": 7,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l27-std_stic-8",
+    "gameId": "std_sticker_board",
+    "type": "std_sticker_board",
+    "prompt": "🍀 10 + 2 = ?",
+    "correctAnswer": 12,
+    "options": [
+      9,
+      13,
+      12,
+      15
+    ],
+    "objectIcon": "/sprites/cat.png",
+    "objectIcon2": "",
+    "targetCount": 10,
+    "targetCount2": 2,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l27-gen_livi-8",
+    "gameId": "gen_living_math_garden",
+    "type": "gen_living_math_garden",
+    "prompt": "Đếm ếch và chọn số đúng!",
+    "correctAnswer": 2,
+    "options": [
+      1,
+      2,
+      3,
+      5
+    ],
+    "objectIcon": "/sprites/flower.png",
+    "objectIcon2": "",
+    "targetCount": 2,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l27-std_numb-9",
+    "gameId": "std_number_trace",
+    "type": "std_number_trace",
+    "prompt": "Đếm kim cương và chọn số đúng!",
+    "correctAnswer": 9,
+    "options": [
+      11,
+      9,
+      8,
+      7
+    ],
+    "objectIcon": "/sprites/diamond.png",
+    "objectIcon2": "",
+    "targetCount": 9,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l27-std_stic-9",
+    "gameId": "std_sticker_board",
+    "type": "std_sticker_board",
+    "prompt": "10 - 5 = ?",
+    "correctAnswer": 5,
+    "options": [
+      2,
+      7,
+      3,
+      5
+    ],
+    "objectIcon": "/sprites/rabbit.png",
+    "objectIcon2": "",
+    "targetCount": 10,
+    "targetCount2": 5,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l27-gen_livi-9",
+    "gameId": "gen_living_math_garden",
+    "type": "gen_living_math_garden",
+    "prompt": "Đếm cà rốt và chọn số đúng!",
+    "correctAnswer": 3,
+    "options": [
+      3,
+      5,
+      4,
+      1
+    ],
+    "objectIcon": "/sprites/cat.png",
+    "objectIcon2": "",
+    "targetCount": 3,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l27-std_numb-10",
+    "gameId": "std_number_trace",
+    "type": "std_number_trace",
+    "prompt": "Số nào lớn hơn: 12 hay 13?",
+    "correctAnswer": 13,
+    "options": [
+      16,
+      13,
+      14,
+      12
+    ],
+    "objectIcon": "/sprites/frog.png",
+    "objectIcon2": "",
+    "targetCount": 12,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l27-std_stic-10",
+    "gameId": "std_sticker_board",
+    "type": "std_sticker_board",
+    "prompt": "Đếm cà rốt và chọn số đúng!",
+    "correctAnswer": 1,
+    "options": [
+      3,
+      2,
+      4,
+      1
+    ],
+    "objectIcon": "/sprites/diamond.png",
+    "objectIcon2": "",
+    "targetCount": 1,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l27-gen_livi-10",
+    "gameId": "gen_living_math_garden",
+    "type": "gen_living_math_garden",
+    "prompt": "Đếm dâu và chọn số đúng!",
+    "correctAnswer": 8,
+    "options": [
+      7,
+      9,
+      8,
+      6
+    ],
+    "objectIcon": "/sprites/rabbit.png",
+    "objectIcon2": "",
+    "targetCount": 8,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l27-std_numb-11",
+    "gameId": "std_number_trace",
+    "type": "std_number_trace",
+    "prompt": "10 + ? = 13",
+    "correctAnswer": 3,
+    "options": [
+      3,
+      5,
+      1,
+      6
+    ],
+    "objectIcon": "/sprites/carrot.png",
+    "objectIcon2": "",
+    "targetCount": 10,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l27-std_stic-11",
+    "gameId": "std_sticker_board",
+    "type": "std_sticker_board",
+    "prompt": "7 + 4 = ?",
+    "correctAnswer": 11,
+    "options": [
+      12,
+      10,
+      11,
+      8
+    ],
+    "objectIcon": "/sprites/frog.png",
+    "objectIcon2": "",
+    "targetCount": 7,
+    "targetCount2": 4,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l27-gen_livi-11",
+    "gameId": "gen_living_math_garden",
+    "type": "gen_living_math_garden",
+    "prompt": "Đếm nấm và chọn số đúng!",
+    "correctAnswer": 5,
+    "options": [
+      8,
+      5,
+      7,
+      6
+    ],
+    "objectIcon": "/sprites/diamond.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l27-std_numb-12",
+    "gameId": "std_number_trace",
+    "type": "std_number_trace",
+    "prompt": "Nam có 11 dâu, mẹ cho thêm 1. Có tất cả bao nhiêu?",
+    "correctAnswer": 12,
+    "options": [
+      12,
+      15,
+      14,
+      10
+    ],
+    "objectIcon": "/sprites/strawberry.png",
+    "objectIcon2": "",
+    "targetCount": 11,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l27-std_stic-12",
+    "gameId": "std_sticker_board",
+    "type": "std_sticker_board",
+    "prompt": "🌸 4 - 2 = ?",
+    "correctAnswer": 2,
+    "options": [
+      3,
+      0,
+      2,
+      1
+    ],
+    "objectIcon": "/sprites/carrot.png",
+    "objectIcon2": "",
+    "targetCount": 4,
+    "targetCount2": 2,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l27-gen_livi-12",
+    "gameId": "gen_living_math_garden",
+    "type": "gen_living_math_garden",
+    "prompt": "Đếm cá và chọn số đúng!",
+    "correctAnswer": 1,
+    "options": [
+      3,
+      4,
+      2,
+      1
+    ],
+    "objectIcon": "/sprites/frog.png",
+    "objectIcon2": "",
+    "targetCount": 1,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l27-std_numb-13",
+    "gameId": "std_number_trace",
+    "type": "std_number_trace",
+    "prompt": "12 + 5 = ?",
+    "correctAnswer": 17,
+    "options": [
+      15,
+      17,
+      14,
+      20
+    ],
+    "objectIcon": "/sprites/mushroom.png",
+    "objectIcon2": "",
+    "targetCount": 12,
+    "targetCount2": 5,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l27-std_stic-13",
+    "gameId": "std_sticker_board",
+    "type": "std_sticker_board",
+    "prompt": "🍀 Đếm cá và chọn số đúng!",
+    "correctAnswer": 1,
+    "options": [
+      1,
+      3,
+      2,
+      4
+    ],
+    "objectIcon": "/sprites/strawberry.png",
+    "objectIcon2": "",
+    "targetCount": 1,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l27-gen_livi-13",
+    "gameId": "gen_living_math_garden",
+    "type": "gen_living_math_garden",
+    "prompt": "Đếm bướm và chọn số đúng!",
+    "correctAnswer": 7,
+    "options": [
+      8,
+      9,
+      5,
+      7
+    ],
+    "objectIcon": "/sprites/carrot.png",
+    "objectIcon2": "",
+    "targetCount": 7,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l27-std_numb-14",
+    "gameId": "std_number_trace",
+    "type": "std_number_trace",
+    "prompt": "3 - 1 = ?",
+    "correctAnswer": 2,
+    "options": [
+      2,
+      3,
+      0,
+      1
+    ],
+    "objectIcon": "/sprites/fish.png",
+    "objectIcon2": "",
+    "targetCount": 3,
+    "targetCount2": 1,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l27-std_stic-14",
+    "gameId": "std_sticker_board",
+    "type": "std_sticker_board",
+    "prompt": "5 + 3 = ?",
+    "correctAnswer": 8,
+    "options": [
+      6,
+      5,
+      8,
+      7
+    ],
+    "objectIcon": "/sprites/mushroom.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 3,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l27-gen_livi-14",
+    "gameId": "gen_living_math_garden",
+    "type": "gen_living_math_garden",
+    "prompt": "Đếm bánh và chọn số đúng!",
+    "correctAnswer": 1,
+    "options": [
+      4,
+      2,
+      3,
+      1
+    ],
+    "objectIcon": "/sprites/strawberry.png",
+    "objectIcon2": "",
+    "targetCount": 1,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l27-std_numb-15",
+    "gameId": "std_number_trace",
+    "type": "std_number_trace",
+    "prompt": "Đếm bướm và chọn số đúng!",
+    "correctAnswer": 2,
+    "options": [
+      2,
+      1,
+      4,
+      3
+    ],
+    "objectIcon": "/sprites/butterfly.png",
+    "objectIcon2": "",
+    "targetCount": 2,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l27-std_stic-15",
+    "gameId": "std_sticker_board",
+    "type": "std_sticker_board",
+    "prompt": "11 - 11 = ?",
+    "correctAnswer": 0,
+    "options": [
+      1,
+      0,
+      2,
+      3
+    ],
+    "objectIcon": "/sprites/fish.png",
+    "objectIcon2": "",
+    "targetCount": 11,
+    "targetCount2": 11,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l27-gen_livi-15",
+    "gameId": "gen_living_math_garden",
+    "type": "gen_living_math_garden",
+    "prompt": "Đếm táo và chọn số đúng!",
+    "correctAnswer": 4,
+    "options": [
+      1,
+      4,
+      7,
+      3
+    ],
+    "objectIcon": "/sprites/mushroom.png",
+    "objectIcon2": "",
+    "targetCount": 4,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l27-std_numb-16",
+    "gameId": "std_number_trace",
+    "type": "std_number_trace",
+    "prompt": "Số nào lớn hơn: 9 hay 12?",
+    "correctAnswer": 12,
+    "options": [
+      10,
+      13,
+      12,
+      9
+    ],
+    "objectIcon": "/sprites/cupcake.png",
+    "objectIcon2": "",
+    "targetCount": 9,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l27-std_stic-16",
+    "gameId": "std_sticker_board",
+    "type": "std_sticker_board",
+    "prompt": "Đếm táo và chọn số đúng!",
+    "correctAnswer": 3,
+    "options": [
+      2,
+      3,
+      1,
+      5
+    ],
+    "objectIcon": "/sprites/butterfly.png",
+    "objectIcon2": "",
+    "targetCount": 3,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l27-gen_livi-16",
+    "gameId": "gen_living_math_garden",
+    "type": "gen_living_math_garden",
+    "prompt": "Đếm sao và chọn số đúng!",
+    "correctAnswer": 9,
+    "options": [
+      8,
+      11,
+      9,
+      6
+    ],
+    "objectIcon": "/sprites/fish.png",
+    "objectIcon2": "",
+    "targetCount": 9,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l27-std_numb-17",
+    "gameId": "std_number_trace",
+    "type": "std_number_trace",
+    "prompt": "4 + ? = 16",
+    "correctAnswer": 12,
+    "options": [
+      12,
+      9,
+      11,
+      15
+    ],
+    "objectIcon": "/sprites/lollipop.png",
+    "objectIcon2": "",
+    "targetCount": 4,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l27-std_stic-17",
+    "gameId": "std_sticker_board",
+    "type": "std_sticker_board",
+    "prompt": "🌸 6 + 4 = ?",
+    "correctAnswer": 10,
+    "options": [
+      8,
+      11,
+      10,
+      12
+    ],
+    "objectIcon": "/sprites/cupcake.png",
+    "objectIcon2": "",
+    "targetCount": 6,
+    "targetCount2": 4,
+    "renderMode": "addition",
+    "displayPrompt": null
+  }
 ]

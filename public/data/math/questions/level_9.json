@@ -1,952 +1,952 @@
 [
- {
-  "id": "l09-detectiv-1",
-  "gameId": "detective_math_mystery",
-  "type": "detective_math_mystery",
-  "prompt": "🔍 Tìm số bí ẩn: nó là kết quả của phép tính này!",
-  "correctAnswer": 9,
-  "options": [
-   9,
-   7,
-   10,
-   6
-  ],
-  "objectIcon": "/sprites/apple.png",
-  "objectIcon2": "",
-  "targetCount": 9,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l09-rhythm_m-1",
-  "gameId": "rhythm_math_dance",
-  "type": "rhythm_math_dance",
-  "prompt": "Nam có 6 sao, mẹ cho thêm 2. Có tất cả bao nhiêu?",
-  "correctAnswer": 8,
-  "options": [
-   9,
-   8,
-   10,
-   5
-  ],
-  "objectIcon": "/sprites/crown.png",
-  "objectIcon2": "",
-  "targetCount": 6,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l09-math_coo-1",
-  "gameId": "math_cooking_lab",
-  "type": "math_cooking_lab",
-  "prompt": "2 + ? = 3",
-  "correctAnswer": 1,
-  "options": [
-   3,
-   1,
-   4,
-   2
-  ],
-  "objectIcon": "/sprites/lollipop.png",
-  "objectIcon2": "",
-  "targetCount": 2,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l09-detectiv-2",
-  "gameId": "detective_math_mystery",
-  "type": "detective_math_mystery",
-  "prompt": "🔍 Phá án: số lớn hơn 5 và là số chẵn. Đó là số mấy?",
-  "correctAnswer": 10,
-  "options": [
-   10,
-   8,
-   9,
-   7
-  ],
-  "objectIcon": "/sprites/star.png",
-  "objectIcon2": "",
-  "targetCount": 10,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l09-rhythm_m-2",
-  "gameId": "rhythm_math_dance",
-  "type": "rhythm_math_dance",
-  "prompt": "7 + 1 = ?",
-  "correctAnswer": 8,
-  "options": [
-   11,
-   10,
-   9,
-   8
-  ],
-  "objectIcon": "/sprites/apple.png",
-  "objectIcon2": "",
-  "targetCount": 7,
-  "targetCount2": 1,
-  "renderMode": "addition",
-  "displayPrompt": null
- },
- {
-  "id": "l09-math_coo-2",
-  "gameId": "math_cooking_lab",
-  "type": "math_cooking_lab",
-  "prompt": "Nam có 3 bóng, mẹ cho thêm 7. Có tất cả bao nhiêu?",
-  "correctAnswer": 10,
-  "options": [
-   11,
-   13,
-   10,
-   8
-  ],
-  "objectIcon": "/sprites/crown.png",
-  "objectIcon2": "",
-  "targetCount": 3,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l09-detectiv-3",
-  "gameId": "detective_math_mystery",
-  "type": "detective_math_mystery",
-  "prompt": "🔍 Thám tử ơi, tìm số 6!",
-  "correctAnswer": 6,
-  "options": [
-   9,
-   4,
-   6,
-   8
-  ],
-  "objectIcon": "/sprites/candy.png",
-  "objectIcon2": "",
-  "targetCount": 6,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l09-rhythm_m-3",
-  "gameId": "rhythm_math_dance",
-  "type": "rhythm_math_dance",
-  "prompt": "5 - 1 = ?",
-  "correctAnswer": 4,
-  "options": [
-   4,
-   3,
-   5,
-   1
-  ],
-  "objectIcon": "/sprites/star.png",
-  "objectIcon2": "",
-  "targetCount": 5,
-  "targetCount2": 1,
-  "renderMode": "subtraction",
-  "displayPrompt": null
- },
- {
-  "id": "l09-math_coo-3",
-  "gameId": "math_cooking_lab",
-  "type": "math_cooking_lab",
-  "prompt": "7 + 2 = ?",
-  "correctAnswer": 9,
-  "options": [
-   9,
-   8,
-   6,
-   12
-  ],
-  "objectIcon": "/sprites/apple.png",
-  "objectIcon2": "",
-  "targetCount": 7,
-  "targetCount2": 2,
-  "renderMode": "addition",
-  "displayPrompt": null
- },
- {
-  "id": "l09-detectiv-4",
-  "gameId": "detective_math_mystery",
-  "type": "detective_math_mystery",
-  "prompt": "🔍 Tìm số bí ẩn: nó là kết quả của phép tính này!",
-  "correctAnswer": 6,
-  "options": [
-   8,
-   5,
-   6,
-   9
-  ],
-  "objectIcon": "/sprites/ball.png",
-  "objectIcon2": "",
-  "targetCount": 6,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l09-rhythm_m-4",
-  "gameId": "rhythm_math_dance",
-  "type": "rhythm_math_dance",
-  "prompt": "Đếm xu và chọn số đúng!",
-  "correctAnswer": 6,
-  "options": [
-   3,
-   5,
-   6,
-   4
-  ],
-  "objectIcon": "/sprites/candy.png",
-  "objectIcon2": "",
-  "targetCount": 6,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l09-math_coo-4",
-  "gameId": "math_cooking_lab",
-  "type": "math_cooking_lab",
-  "prompt": "6 - 1 = ?",
-  "correctAnswer": 5,
-  "options": [
-   5,
-   4,
-   6,
-   2
-  ],
-  "objectIcon": "/sprites/star.png",
-  "objectIcon2": "",
-  "targetCount": 6,
-  "targetCount2": 1,
-  "renderMode": "subtraction",
-  "displayPrompt": null
- },
- {
-  "id": "l09-detectiv-5",
-  "gameId": "detective_math_mystery",
-  "type": "detective_math_mystery",
-  "prompt": "🔍 Phá án: số nhỏ hơn hoặc bằng 5 và là số chẵn. Đó là số mấy?",
-  "correctAnswer": 2,
-  "options": [
-   5,
-   4,
-   2,
-   3
-  ],
-  "objectIcon": "/sprites/coin.png",
-  "objectIcon2": "",
-  "targetCount": 2,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l09-rhythm_m-5",
-  "gameId": "rhythm_math_dance",
-  "type": "rhythm_math_dance",
-  "prompt": "Số nào lớn hơn: 5 hay 10?",
-  "correctAnswer": 10,
-  "options": [
-   9,
-   10,
-   8,
-   7
-  ],
-  "objectIcon": "/sprites/ball.png",
-  "objectIcon2": "",
-  "targetCount": 5,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l09-math_coo-5",
-  "gameId": "math_cooking_lab",
-  "type": "math_cooking_lab",
-  "prompt": "Đếm mèo và chọn số đúng!",
-  "correctAnswer": 3,
-  "options": [
-   3,
-   6,
-   2,
-   1
-  ],
-  "objectIcon": "/sprites/candy.png",
-  "objectIcon2": "",
-  "targetCount": 3,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l09-detectiv-6",
-  "gameId": "detective_math_mystery",
-  "type": "detective_math_mystery",
-  "prompt": "🔍 Thám tử ơi, tìm số 7!",
-  "correctAnswer": 7,
-  "options": [
-   7,
-   5,
-   8,
-   10
-  ],
-  "objectIcon": "/sprites/flower.png",
-  "objectIcon2": "",
-  "targetCount": 7,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l09-rhythm_m-6",
-  "gameId": "rhythm_math_dance",
-  "type": "rhythm_math_dance",
-  "prompt": "7 + ? = 10",
-  "correctAnswer": 3,
-  "options": [
-   2,
-   3,
-   1,
-   4
-  ],
-  "objectIcon": "/sprites/coin.png",
-  "objectIcon2": "",
-  "targetCount": 7,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l09-math_coo-6",
-  "gameId": "math_cooking_lab",
-  "type": "math_cooking_lab",
-  "prompt": "Số nào lớn hơn: 5 hay 8?",
-  "correctAnswer": 8,
-  "options": [
-   6,
-   9,
-   10,
-   8
-  ],
-  "objectIcon": "/sprites/ball.png",
-  "objectIcon2": "",
-  "targetCount": 5,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l09-detectiv-7",
-  "gameId": "detective_math_mystery",
-  "type": "detective_math_mystery",
-  "prompt": "🔍 Tìm số bí ẩn: nó là kết quả của phép tính này!",
-  "correctAnswer": 6,
-  "options": [
-   6,
-   3,
-   5,
-   4
-  ],
-  "objectIcon": "/sprites/cat.png",
-  "objectIcon2": "",
-  "targetCount": 6,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l09-rhythm_m-7",
-  "gameId": "rhythm_math_dance",
-  "type": "rhythm_math_dance",
-  "prompt": "Nam có 6 thỏ, mẹ cho thêm 1. Có tất cả bao nhiêu?",
-  "correctAnswer": 7,
-  "options": [
-   8,
-   6,
-   7,
-   10
-  ],
-  "objectIcon": "/sprites/flower.png",
-  "objectIcon2": "",
-  "targetCount": 6,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l09-math_coo-7",
-  "gameId": "math_cooking_lab",
-  "type": "math_cooking_lab",
-  "prompt": "3 + ? = 9",
-  "correctAnswer": 6,
-  "options": [
-   8,
-   5,
-   6,
-   7
-  ],
-  "objectIcon": "/sprites/coin.png",
-  "objectIcon2": "",
-  "targetCount": 3,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l09-detectiv-8",
-  "gameId": "detective_math_mystery",
-  "type": "detective_math_mystery",
-  "prompt": "🔍 Phá án: số lớn hơn 5 và là số lẻ. Đó là số mấy?",
-  "correctAnswer": 7,
-  "options": [
-   8,
-   4,
-   7,
-   6
-  ],
-  "objectIcon": "/sprites/rabbit.png",
-  "objectIcon2": "",
-  "targetCount": 7,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l09-rhythm_m-8",
-  "gameId": "rhythm_math_dance",
-  "type": "rhythm_math_dance",
-  "prompt": "2 + 5 = ?",
-  "correctAnswer": 7,
-  "options": [
-   10,
-   7,
-   9,
-   8
-  ],
-  "objectIcon": "/sprites/cat.png",
-  "objectIcon2": "",
-  "targetCount": 2,
-  "targetCount2": 5,
-  "renderMode": "addition",
-  "displayPrompt": null
- },
- {
-  "id": "l09-math_coo-8",
-  "gameId": "math_cooking_lab",
-  "type": "math_cooking_lab",
-  "prompt": "Nam có 4 ếch, mẹ cho thêm 6. Có tất cả bao nhiêu?",
-  "correctAnswer": 10,
-  "options": [
-   11,
-   10,
-   9,
-   8
-  ],
-  "objectIcon": "/sprites/flower.png",
-  "objectIcon2": "",
-  "targetCount": 4,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l09-detectiv-9",
-  "gameId": "detective_math_mystery",
-  "type": "detective_math_mystery",
-  "prompt": "🔍 Thám tử ơi, tìm số 6!",
-  "correctAnswer": 6,
-  "options": [
-   9,
-   8,
-   6,
-   3
-  ],
-  "objectIcon": "/sprites/diamond.png",
-  "objectIcon2": "",
-  "targetCount": 6,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l09-rhythm_m-9",
-  "gameId": "rhythm_math_dance",
-  "type": "rhythm_math_dance",
-  "prompt": "7 - 1 = ?",
-  "correctAnswer": 6,
-  "options": [
-   3,
-   7,
-   6,
-   4
-  ],
-  "objectIcon": "/sprites/rabbit.png",
-  "objectIcon2": "",
-  "targetCount": 7,
-  "targetCount2": 1,
-  "renderMode": "subtraction",
-  "displayPrompt": null
- },
- {
-  "id": "l09-math_coo-9",
-  "gameId": "math_cooking_lab",
-  "type": "math_cooking_lab",
-  "prompt": "6 + 1 = ?",
-  "correctAnswer": 7,
-  "options": [
-   5,
-   7,
-   10,
-   8
-  ],
-  "objectIcon": "/sprites/cat.png",
-  "objectIcon2": "",
-  "targetCount": 6,
-  "targetCount2": 1,
-  "renderMode": "addition",
-  "displayPrompt": null
- },
- {
-  "id": "l09-detectiv-10",
-  "gameId": "detective_math_mystery",
-  "type": "detective_math_mystery",
-  "prompt": "🔍 Tìm số bí ẩn: nó là kết quả của phép tính này!",
-  "correctAnswer": 7,
-  "options": [
-   7,
-   9,
-   5,
-   10
-  ],
-  "objectIcon": "/sprites/frog.png",
-  "objectIcon2": "",
-  "targetCount": 7,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l09-rhythm_m-10",
-  "gameId": "rhythm_math_dance",
-  "type": "rhythm_math_dance",
-  "prompt": "Đếm cà rốt và chọn số đúng!",
-  "correctAnswer": 1,
-  "options": [
-   2,
-   1,
-   3,
-   4
-  ],
-  "objectIcon": "/sprites/diamond.png",
-  "objectIcon2": "",
-  "targetCount": 1,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l09-math_coo-10",
-  "gameId": "math_cooking_lab",
-  "type": "math_cooking_lab",
-  "prompt": "5 - 3 = ?",
-  "correctAnswer": 2,
-  "options": [
-   5,
-   0,
-   1,
-   2
-  ],
-  "objectIcon": "/sprites/rabbit.png",
-  "objectIcon2": "",
-  "targetCount": 5,
-  "targetCount2": 3,
-  "renderMode": "subtraction",
-  "displayPrompt": null
- },
- {
-  "id": "l09-detectiv-11",
-  "gameId": "detective_math_mystery",
-  "type": "detective_math_mystery",
-  "prompt": "🔍 Phá án: số lớn hơn 5 và là số lẻ. Đó là số mấy?",
-  "correctAnswer": 7,
-  "options": [
-   9,
-   7,
-   10,
-   8
-  ],
-  "objectIcon": "/sprites/carrot.png",
-  "objectIcon2": "",
-  "targetCount": 7,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l09-rhythm_m-11",
-  "gameId": "rhythm_math_dance",
-  "type": "rhythm_math_dance",
-  "prompt": "Số nào lớn hơn: 5 hay 9?",
-  "correctAnswer": 9,
-  "options": [
-   8,
-   10,
-   6,
-   9
-  ],
-  "objectIcon": "/sprites/frog.png",
-  "objectIcon2": "",
-  "targetCount": 5,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l09-math_coo-11",
-  "gameId": "math_cooking_lab",
-  "type": "math_cooking_lab",
-  "prompt": "Đếm nấm và chọn số đúng!",
-  "correctAnswer": 10,
-  "options": [
-   9,
-   8,
-   10,
-   7
-  ],
-  "objectIcon": "/sprites/diamond.png",
-  "objectIcon2": "",
-  "targetCount": 10,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l09-detectiv-12",
-  "gameId": "detective_math_mystery",
-  "type": "detective_math_mystery",
-  "prompt": "🔍 Thám tử ơi, tìm số 10!",
-  "correctAnswer": 10,
-  "options": [
-   9,
-   10,
-   8,
-   7
-  ],
-  "objectIcon": "/sprites/strawberry.png",
-  "objectIcon2": "",
-  "targetCount": 10,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l09-rhythm_m-12",
-  "gameId": "rhythm_math_dance",
-  "type": "rhythm_math_dance",
-  "prompt": "5 + ? = 6",
-  "correctAnswer": 1,
-  "options": [
-   3,
-   1,
-   2,
-   4
-  ],
-  "objectIcon": "/sprites/carrot.png",
-  "objectIcon2": "",
-  "targetCount": 5,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l09-math_coo-12",
-  "gameId": "math_cooking_lab",
-  "type": "math_cooking_lab",
-  "prompt": "Số nào lớn hơn: 10 hay 5?",
-  "correctAnswer": 10,
-  "options": [
-   7,
-   10,
-   9,
-   8
-  ],
-  "objectIcon": "/sprites/frog.png",
-  "objectIcon2": "",
-  "targetCount": 10,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l09-detectiv-13",
-  "gameId": "detective_math_mystery",
-  "type": "detective_math_mystery",
-  "prompt": "🔍 Tìm số bí ẩn: nó là kết quả của phép tính này!",
-  "correctAnswer": 10,
-  "options": [
-   10,
-   9,
-   7,
-   8
-  ],
-  "objectIcon": "/sprites/mushroom.png",
-  "objectIcon2": "",
-  "targetCount": 10,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l09-rhythm_m-13",
-  "gameId": "rhythm_math_dance",
-  "type": "rhythm_math_dance",
-  "prompt": "Nam có 2 cá, mẹ cho thêm 7. Có tất cả bao nhiêu?",
-  "correctAnswer": 9,
-  "options": [
-   10,
-   9,
-   7,
-   11
-  ],
-  "objectIcon": "/sprites/strawberry.png",
-  "objectIcon2": "",
-  "targetCount": 2,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l09-math_coo-13",
-  "gameId": "math_cooking_lab",
-  "type": "math_cooking_lab",
-  "prompt": "4 + ? = 9",
-  "correctAnswer": 5,
-  "options": [
-   4,
-   5,
-   2,
-   7
-  ],
-  "objectIcon": "/sprites/carrot.png",
-  "objectIcon2": "",
-  "targetCount": 4,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l09-detectiv-14",
-  "gameId": "detective_math_mystery",
-  "type": "detective_math_mystery",
-  "prompt": "🔍 Phá án: số nhỏ hơn hoặc bằng 5 và là số lẻ. Đó là số mấy?",
-  "correctAnswer": 5,
-  "options": [
-   8,
-   3,
-   2,
-   5
-  ],
-  "objectIcon": "/sprites/fish.png",
-  "objectIcon2": "",
-  "targetCount": 5,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l09-rhythm_m-14",
-  "gameId": "rhythm_math_dance",
-  "type": "rhythm_math_dance",
-  "prompt": "3 + 2 = ?",
-  "correctAnswer": 5,
-  "options": [
-   6,
-   4,
-   3,
-   5
-  ],
-  "objectIcon": "/sprites/mushroom.png",
-  "objectIcon2": "",
-  "targetCount": 3,
-  "targetCount2": 2,
-  "renderMode": "addition",
-  "displayPrompt": null
- },
- {
-  "id": "l09-math_coo-14",
-  "gameId": "math_cooking_lab",
-  "type": "math_cooking_lab",
-  "prompt": "Nam có 4 bánh, mẹ cho thêm 5. Có tất cả bao nhiêu?",
-  "correctAnswer": 9,
-  "options": [
-   8,
-   9,
-   10,
-   12
-  ],
-  "objectIcon": "/sprites/strawberry.png",
-  "objectIcon2": "",
-  "targetCount": 4,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l09-detectiv-15",
-  "gameId": "detective_math_mystery",
-  "type": "detective_math_mystery",
-  "prompt": "🔍 Thám tử ơi, tìm số 8!",
-  "correctAnswer": 8,
-  "options": [
-   8,
-   5,
-   6,
-   10
-  ],
-  "objectIcon": "/sprites/butterfly.png",
-  "objectIcon2": "",
-  "targetCount": 8,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l09-rhythm_m-15",
-  "gameId": "rhythm_math_dance",
-  "type": "rhythm_math_dance",
-  "prompt": "6 - 2 = ?",
-  "correctAnswer": 4,
-  "options": [
-   5,
-   4,
-   3,
-   2
-  ],
-  "objectIcon": "/sprites/fish.png",
-  "objectIcon2": "",
-  "targetCount": 6,
-  "targetCount2": 2,
-  "renderMode": "subtraction",
-  "displayPrompt": null
- },
- {
-  "id": "l09-math_coo-15",
-  "gameId": "math_cooking_lab",
-  "type": "math_cooking_lab",
-  "prompt": "2 + 7 = ?",
-  "correctAnswer": 9,
-  "options": [
-   12,
-   9,
-   8,
-   11
-  ],
-  "objectIcon": "/sprites/mushroom.png",
-  "objectIcon2": "",
-  "targetCount": 2,
-  "targetCount2": 7,
-  "renderMode": "addition",
-  "displayPrompt": null
- },
- {
-  "id": "l09-detectiv-16",
-  "gameId": "detective_math_mystery",
-  "type": "detective_math_mystery",
-  "prompt": "🔍 Tìm số bí ẩn: nó là kết quả của phép tính này!",
-  "correctAnswer": 8,
-  "options": [
-   8,
-   6,
-   10,
-   5
-  ],
-  "objectIcon": "/sprites/cupcake.png",
-  "objectIcon2": "",
-  "targetCount": 8,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l09-rhythm_m-16",
-  "gameId": "rhythm_math_dance",
-  "type": "rhythm_math_dance",
-  "prompt": "Đếm táo và chọn số đúng!",
-  "correctAnswer": 7,
-  "options": [
-   7,
-   9,
-   5,
-   10
-  ],
-  "objectIcon": "/sprites/butterfly.png",
-  "objectIcon2": "",
-  "targetCount": 7,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l09-math_coo-16",
-  "gameId": "math_cooking_lab",
-  "type": "math_cooking_lab",
-  "prompt": "7 - 5 = ?",
-  "correctAnswer": 2,
-  "options": [
-   3,
-   0,
-   1,
-   2
-  ],
-  "objectIcon": "/sprites/fish.png",
-  "objectIcon2": "",
-  "targetCount": 7,
-  "targetCount2": 5,
-  "renderMode": "subtraction",
-  "displayPrompt": null
- },
- {
-  "id": "l09-detectiv-17",
-  "gameId": "detective_math_mystery",
-  "type": "detective_math_mystery",
-  "prompt": "🔍 Phá án: số lớn hơn 5 và là số lẻ. Đó là số mấy?",
-  "correctAnswer": 7,
-  "options": [
-   10,
-   5,
-   7,
-   9
-  ],
-  "objectIcon": "/sprites/lollipop.png",
-  "objectIcon2": "",
-  "targetCount": 7,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l09-rhythm_m-17",
-  "gameId": "rhythm_math_dance",
-  "type": "rhythm_math_dance",
-  "prompt": "Số nào lớn hơn: 8 hay 10?",
-  "correctAnswer": 10,
-  "options": [
-   10,
-   9,
-   7,
-   8
-  ],
-  "objectIcon": "/sprites/cupcake.png",
-  "objectIcon2": "",
-  "targetCount": 8,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- }
+  {
+    "id": "l09-detectiv-1",
+    "gameId": "detective_math_mystery",
+    "type": "detective_math_mystery",
+    "prompt": "Đếm và chọn số đúng!",
+    "correctAnswer": 9,
+    "options": [
+      9,
+      7,
+      10,
+      6
+    ],
+    "objectIcon": "/sprites/apple.png",
+    "objectIcon2": "",
+    "targetCount": 9,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l09-rhythm_m-1",
+    "gameId": "rhythm_math_dance",
+    "type": "rhythm_math_dance",
+    "prompt": "Nam có 6 sao, mẹ cho thêm 2. Có tất cả bao nhiêu?",
+    "correctAnswer": 8,
+    "options": [
+      9,
+      8,
+      10,
+      5
+    ],
+    "objectIcon": "/sprites/crown.png",
+    "objectIcon2": "",
+    "targetCount": 6,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l09-math_coo-1",
+    "gameId": "math_cooking_lab",
+    "type": "math_cooking_lab",
+    "prompt": "2 + ? = 3",
+    "correctAnswer": 1,
+    "options": [
+      3,
+      1,
+      4,
+      2
+    ],
+    "objectIcon": "/sprites/lollipop.png",
+    "objectIcon2": "",
+    "targetCount": 2,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l09-detectiv-2",
+    "gameId": "detective_math_mystery",
+    "type": "detective_math_mystery",
+    "prompt": "số lớn hơn 5 và là số chẵn. Đó là số mấy?",
+    "correctAnswer": 10,
+    "options": [
+      10,
+      8,
+      9,
+      7
+    ],
+    "objectIcon": "/sprites/star.png",
+    "objectIcon2": "",
+    "targetCount": 10,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l09-rhythm_m-2",
+    "gameId": "rhythm_math_dance",
+    "type": "rhythm_math_dance",
+    "prompt": "7 + 1 = ?",
+    "correctAnswer": 8,
+    "options": [
+      11,
+      10,
+      9,
+      8
+    ],
+    "objectIcon": "/sprites/apple.png",
+    "objectIcon2": "",
+    "targetCount": 7,
+    "targetCount2": 1,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l09-math_coo-2",
+    "gameId": "math_cooking_lab",
+    "type": "math_cooking_lab",
+    "prompt": "Nam có 3 bóng, mẹ cho thêm 7. Có tất cả bao nhiêu?",
+    "correctAnswer": 10,
+    "options": [
+      11,
+      13,
+      10,
+      8
+    ],
+    "objectIcon": "/sprites/crown.png",
+    "objectIcon2": "",
+    "targetCount": 3,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l09-detectiv-3",
+    "gameId": "detective_math_mystery",
+    "type": "detective_math_mystery",
+    "prompt": "Chọn số đúng trong 4 thẻ số!",
+    "correctAnswer": 6,
+    "options": [
+      9,
+      4,
+      6,
+      8
+    ],
+    "objectIcon": "/sprites/candy.png",
+    "objectIcon2": "",
+    "targetCount": 6,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l09-rhythm_m-3",
+    "gameId": "rhythm_math_dance",
+    "type": "rhythm_math_dance",
+    "prompt": "5 - 1 = ?",
+    "correctAnswer": 4,
+    "options": [
+      4,
+      3,
+      5,
+      1
+    ],
+    "objectIcon": "/sprites/star.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 1,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l09-math_coo-3",
+    "gameId": "math_cooking_lab",
+    "type": "math_cooking_lab",
+    "prompt": "7 + 2 = ?",
+    "correctAnswer": 9,
+    "options": [
+      9,
+      8,
+      6,
+      12
+    ],
+    "objectIcon": "/sprites/apple.png",
+    "objectIcon2": "",
+    "targetCount": 7,
+    "targetCount2": 2,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l09-detectiv-4",
+    "gameId": "detective_math_mystery",
+    "type": "detective_math_mystery",
+    "prompt": "Nhìn và đếm — chọn số đúng!",
+    "correctAnswer": 6,
+    "options": [
+      8,
+      5,
+      6,
+      9
+    ],
+    "objectIcon": "/sprites/ball.png",
+    "objectIcon2": "",
+    "targetCount": 6,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l09-rhythm_m-4",
+    "gameId": "rhythm_math_dance",
+    "type": "rhythm_math_dance",
+    "prompt": "Đếm xu và chọn số đúng!",
+    "correctAnswer": 6,
+    "options": [
+      3,
+      5,
+      6,
+      4
+    ],
+    "objectIcon": "/sprites/candy.png",
+    "objectIcon2": "",
+    "targetCount": 6,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l09-math_coo-4",
+    "gameId": "math_cooking_lab",
+    "type": "math_cooking_lab",
+    "prompt": "6 - 1 = ?",
+    "correctAnswer": 5,
+    "options": [
+      5,
+      4,
+      6,
+      2
+    ],
+    "objectIcon": "/sprites/star.png",
+    "objectIcon2": "",
+    "targetCount": 6,
+    "targetCount2": 1,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l09-detectiv-5",
+    "gameId": "detective_math_mystery",
+    "type": "detective_math_mystery",
+    "prompt": "số nhỏ hơn hoặc bằng 5 và là số chẵn. Đó là số mấy?",
+    "correctAnswer": 2,
+    "options": [
+      5,
+      4,
+      2,
+      3
+    ],
+    "objectIcon": "/sprites/coin.png",
+    "objectIcon2": "",
+    "targetCount": 2,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l09-rhythm_m-5",
+    "gameId": "rhythm_math_dance",
+    "type": "rhythm_math_dance",
+    "prompt": "Số nào lớn hơn: 5 hay 10?",
+    "correctAnswer": 10,
+    "options": [
+      9,
+      10,
+      8,
+      7
+    ],
+    "objectIcon": "/sprites/ball.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l09-math_coo-5",
+    "gameId": "math_cooking_lab",
+    "type": "math_cooking_lab",
+    "prompt": "Đếm mèo và chọn số đúng!",
+    "correctAnswer": 3,
+    "options": [
+      3,
+      6,
+      2,
+      1
+    ],
+    "objectIcon": "/sprites/candy.png",
+    "objectIcon2": "",
+    "targetCount": 3,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l09-detectiv-6",
+    "gameId": "detective_math_mystery",
+    "type": "detective_math_mystery",
+    "prompt": "Chọn số đúng trong 4 thẻ số!",
+    "correctAnswer": 7,
+    "options": [
+      7,
+      5,
+      8,
+      10
+    ],
+    "objectIcon": "/sprites/flower.png",
+    "objectIcon2": "",
+    "targetCount": 7,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l09-rhythm_m-6",
+    "gameId": "rhythm_math_dance",
+    "type": "rhythm_math_dance",
+    "prompt": "7 + ? = 10",
+    "correctAnswer": 3,
+    "options": [
+      2,
+      3,
+      1,
+      4
+    ],
+    "objectIcon": "/sprites/coin.png",
+    "objectIcon2": "",
+    "targetCount": 7,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l09-math_coo-6",
+    "gameId": "math_cooking_lab",
+    "type": "math_cooking_lab",
+    "prompt": "Số nào lớn hơn: 5 hay 8?",
+    "correctAnswer": 8,
+    "options": [
+      6,
+      9,
+      10,
+      8
+    ],
+    "objectIcon": "/sprites/ball.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l09-detectiv-7",
+    "gameId": "detective_math_mystery",
+    "type": "detective_math_mystery",
+    "prompt": "Đếm xem có mấy cái? Chọn số đúng!",
+    "correctAnswer": 6,
+    "options": [
+      6,
+      3,
+      5,
+      4
+    ],
+    "objectIcon": "/sprites/cat.png",
+    "objectIcon2": "",
+    "targetCount": 6,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l09-rhythm_m-7",
+    "gameId": "rhythm_math_dance",
+    "type": "rhythm_math_dance",
+    "prompt": "Nam có 6 thỏ, mẹ cho thêm 1. Có tất cả bao nhiêu?",
+    "correctAnswer": 7,
+    "options": [
+      8,
+      6,
+      7,
+      10
+    ],
+    "objectIcon": "/sprites/flower.png",
+    "objectIcon2": "",
+    "targetCount": 6,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l09-math_coo-7",
+    "gameId": "math_cooking_lab",
+    "type": "math_cooking_lab",
+    "prompt": "3 + ? = 9",
+    "correctAnswer": 6,
+    "options": [
+      8,
+      5,
+      6,
+      7
+    ],
+    "objectIcon": "/sprites/coin.png",
+    "objectIcon2": "",
+    "targetCount": 3,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l09-detectiv-8",
+    "gameId": "detective_math_mystery",
+    "type": "detective_math_mystery",
+    "prompt": "số lớn hơn 5 và là số lẻ. Đó là số mấy?",
+    "correctAnswer": 7,
+    "options": [
+      8,
+      4,
+      7,
+      6
+    ],
+    "objectIcon": "/sprites/rabbit.png",
+    "objectIcon2": "",
+    "targetCount": 7,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l09-rhythm_m-8",
+    "gameId": "rhythm_math_dance",
+    "type": "rhythm_math_dance",
+    "prompt": "2 + 5 = ?",
+    "correctAnswer": 7,
+    "options": [
+      10,
+      7,
+      9,
+      8
+    ],
+    "objectIcon": "/sprites/cat.png",
+    "objectIcon2": "",
+    "targetCount": 2,
+    "targetCount2": 5,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l09-math_coo-8",
+    "gameId": "math_cooking_lab",
+    "type": "math_cooking_lab",
+    "prompt": "Nam có 4 ếch, mẹ cho thêm 6. Có tất cả bao nhiêu?",
+    "correctAnswer": 10,
+    "options": [
+      11,
+      10,
+      9,
+      8
+    ],
+    "objectIcon": "/sprites/flower.png",
+    "objectIcon2": "",
+    "targetCount": 4,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l09-detectiv-9",
+    "gameId": "detective_math_mystery",
+    "type": "detective_math_mystery",
+    "prompt": "Chọn số đúng trong 4 thẻ số!",
+    "correctAnswer": 6,
+    "options": [
+      9,
+      8,
+      6,
+      3
+    ],
+    "objectIcon": "/sprites/diamond.png",
+    "objectIcon2": "",
+    "targetCount": 6,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l09-rhythm_m-9",
+    "gameId": "rhythm_math_dance",
+    "type": "rhythm_math_dance",
+    "prompt": "7 - 1 = ?",
+    "correctAnswer": 6,
+    "options": [
+      3,
+      7,
+      6,
+      4
+    ],
+    "objectIcon": "/sprites/rabbit.png",
+    "objectIcon2": "",
+    "targetCount": 7,
+    "targetCount2": 1,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l09-math_coo-9",
+    "gameId": "math_cooking_lab",
+    "type": "math_cooking_lab",
+    "prompt": "6 + 1 = ?",
+    "correctAnswer": 7,
+    "options": [
+      5,
+      7,
+      10,
+      8
+    ],
+    "objectIcon": "/sprites/cat.png",
+    "objectIcon2": "",
+    "targetCount": 6,
+    "targetCount2": 1,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l09-detectiv-10",
+    "gameId": "detective_math_mystery",
+    "type": "detective_math_mystery",
+    "prompt": "Bé hãy đếm và chọn đáp án!",
+    "correctAnswer": 7,
+    "options": [
+      7,
+      9,
+      5,
+      10
+    ],
+    "objectIcon": "/sprites/frog.png",
+    "objectIcon2": "",
+    "targetCount": 7,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l09-rhythm_m-10",
+    "gameId": "rhythm_math_dance",
+    "type": "rhythm_math_dance",
+    "prompt": "Đếm cà rốt và chọn số đúng!",
+    "correctAnswer": 1,
+    "options": [
+      2,
+      1,
+      3,
+      4
+    ],
+    "objectIcon": "/sprites/diamond.png",
+    "objectIcon2": "",
+    "targetCount": 1,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l09-math_coo-10",
+    "gameId": "math_cooking_lab",
+    "type": "math_cooking_lab",
+    "prompt": "5 - 3 = ?",
+    "correctAnswer": 2,
+    "options": [
+      5,
+      0,
+      1,
+      2
+    ],
+    "objectIcon": "/sprites/rabbit.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 3,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l09-detectiv-11",
+    "gameId": "detective_math_mystery",
+    "type": "detective_math_mystery",
+    "prompt": "số lớn hơn 5 và là số lẻ. Đó là số mấy?",
+    "correctAnswer": 7,
+    "options": [
+      9,
+      7,
+      10,
+      8
+    ],
+    "objectIcon": "/sprites/carrot.png",
+    "objectIcon2": "",
+    "targetCount": 7,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l09-rhythm_m-11",
+    "gameId": "rhythm_math_dance",
+    "type": "rhythm_math_dance",
+    "prompt": "Số nào lớn hơn: 5 hay 9?",
+    "correctAnswer": 9,
+    "options": [
+      8,
+      10,
+      6,
+      9
+    ],
+    "objectIcon": "/sprites/frog.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l09-math_coo-11",
+    "gameId": "math_cooking_lab",
+    "type": "math_cooking_lab",
+    "prompt": "Đếm nấm và chọn số đúng!",
+    "correctAnswer": 10,
+    "options": [
+      9,
+      8,
+      10,
+      7
+    ],
+    "objectIcon": "/sprites/diamond.png",
+    "objectIcon2": "",
+    "targetCount": 10,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l09-detectiv-12",
+    "gameId": "detective_math_mystery",
+    "type": "detective_math_mystery",
+    "prompt": "Chọn số đúng trong 4 thẻ số!",
+    "correctAnswer": 10,
+    "options": [
+      9,
+      10,
+      8,
+      7
+    ],
+    "objectIcon": "/sprites/strawberry.png",
+    "objectIcon2": "",
+    "targetCount": 10,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l09-rhythm_m-12",
+    "gameId": "rhythm_math_dance",
+    "type": "rhythm_math_dance",
+    "prompt": "5 + ? = 6",
+    "correctAnswer": 1,
+    "options": [
+      3,
+      1,
+      2,
+      4
+    ],
+    "objectIcon": "/sprites/carrot.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l09-math_coo-12",
+    "gameId": "math_cooking_lab",
+    "type": "math_cooking_lab",
+    "prompt": "Số nào lớn hơn: 10 hay 5?",
+    "correctAnswer": 10,
+    "options": [
+      7,
+      10,
+      9,
+      8
+    ],
+    "objectIcon": "/sprites/frog.png",
+    "objectIcon2": "",
+    "targetCount": 10,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l09-detectiv-13",
+    "gameId": "detective_math_mystery",
+    "type": "detective_math_mystery",
+    "prompt": "Có bao nhiêu vật? Chọn số đúng nhé!",
+    "correctAnswer": 10,
+    "options": [
+      10,
+      9,
+      7,
+      8
+    ],
+    "objectIcon": "/sprites/mushroom.png",
+    "objectIcon2": "",
+    "targetCount": 10,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l09-rhythm_m-13",
+    "gameId": "rhythm_math_dance",
+    "type": "rhythm_math_dance",
+    "prompt": "Nam có 2 cá, mẹ cho thêm 7. Có tất cả bao nhiêu?",
+    "correctAnswer": 9,
+    "options": [
+      10,
+      9,
+      7,
+      11
+    ],
+    "objectIcon": "/sprites/strawberry.png",
+    "objectIcon2": "",
+    "targetCount": 2,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l09-math_coo-13",
+    "gameId": "math_cooking_lab",
+    "type": "math_cooking_lab",
+    "prompt": "4 + ? = 9",
+    "correctAnswer": 5,
+    "options": [
+      4,
+      5,
+      2,
+      7
+    ],
+    "objectIcon": "/sprites/carrot.png",
+    "objectIcon2": "",
+    "targetCount": 4,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l09-detectiv-14",
+    "gameId": "detective_math_mystery",
+    "type": "detective_math_mystery",
+    "prompt": "số nhỏ hơn hoặc bằng 5 và là số lẻ. Đó là số mấy?",
+    "correctAnswer": 5,
+    "options": [
+      8,
+      3,
+      2,
+      5
+    ],
+    "objectIcon": "/sprites/fish.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l09-rhythm_m-14",
+    "gameId": "rhythm_math_dance",
+    "type": "rhythm_math_dance",
+    "prompt": "3 + 2 = ?",
+    "correctAnswer": 5,
+    "options": [
+      6,
+      4,
+      3,
+      5
+    ],
+    "objectIcon": "/sprites/mushroom.png",
+    "objectIcon2": "",
+    "targetCount": 3,
+    "targetCount2": 2,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l09-math_coo-14",
+    "gameId": "math_cooking_lab",
+    "type": "math_cooking_lab",
+    "prompt": "Nam có 4 bánh, mẹ cho thêm 5. Có tất cả bao nhiêu?",
+    "correctAnswer": 9,
+    "options": [
+      8,
+      9,
+      10,
+      12
+    ],
+    "objectIcon": "/sprites/strawberry.png",
+    "objectIcon2": "",
+    "targetCount": 4,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l09-detectiv-15",
+    "gameId": "detective_math_mystery",
+    "type": "detective_math_mystery",
+    "prompt": "Chọn số đúng trong 4 thẻ số!",
+    "correctAnswer": 8,
+    "options": [
+      8,
+      5,
+      6,
+      10
+    ],
+    "objectIcon": "/sprites/butterfly.png",
+    "objectIcon2": "",
+    "targetCount": 8,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l09-rhythm_m-15",
+    "gameId": "rhythm_math_dance",
+    "type": "rhythm_math_dance",
+    "prompt": "6 - 2 = ?",
+    "correctAnswer": 4,
+    "options": [
+      5,
+      4,
+      3,
+      2
+    ],
+    "objectIcon": "/sprites/fish.png",
+    "objectIcon2": "",
+    "targetCount": 6,
+    "targetCount2": 2,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l09-math_coo-15",
+    "gameId": "math_cooking_lab",
+    "type": "math_cooking_lab",
+    "prompt": "2 + 7 = ?",
+    "correctAnswer": 9,
+    "options": [
+      12,
+      9,
+      8,
+      11
+    ],
+    "objectIcon": "/sprites/mushroom.png",
+    "objectIcon2": "",
+    "targetCount": 2,
+    "targetCount2": 7,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l09-detectiv-16",
+    "gameId": "detective_math_mystery",
+    "type": "detective_math_mystery",
+    "prompt": "Đếm và chọn số đúng!",
+    "correctAnswer": 8,
+    "options": [
+      8,
+      6,
+      10,
+      5
+    ],
+    "objectIcon": "/sprites/cupcake.png",
+    "objectIcon2": "",
+    "targetCount": 8,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l09-rhythm_m-16",
+    "gameId": "rhythm_math_dance",
+    "type": "rhythm_math_dance",
+    "prompt": "Đếm táo và chọn số đúng!",
+    "correctAnswer": 7,
+    "options": [
+      7,
+      9,
+      5,
+      10
+    ],
+    "objectIcon": "/sprites/butterfly.png",
+    "objectIcon2": "",
+    "targetCount": 7,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l09-math_coo-16",
+    "gameId": "math_cooking_lab",
+    "type": "math_cooking_lab",
+    "prompt": "7 - 5 = ?",
+    "correctAnswer": 2,
+    "options": [
+      3,
+      0,
+      1,
+      2
+    ],
+    "objectIcon": "/sprites/fish.png",
+    "objectIcon2": "",
+    "targetCount": 7,
+    "targetCount2": 5,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l09-detectiv-17",
+    "gameId": "detective_math_mystery",
+    "type": "detective_math_mystery",
+    "prompt": "số lớn hơn 5 và là số lẻ. Đó là số mấy?",
+    "correctAnswer": 7,
+    "options": [
+      10,
+      5,
+      7,
+      9
+    ],
+    "objectIcon": "/sprites/lollipop.png",
+    "objectIcon2": "",
+    "targetCount": 7,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l09-rhythm_m-17",
+    "gameId": "rhythm_math_dance",
+    "type": "rhythm_math_dance",
+    "prompt": "Số nào lớn hơn: 8 hay 10?",
+    "correctAnswer": 10,
+    "options": [
+      10,
+      9,
+      7,
+      8
+    ],
+    "objectIcon": "/sprites/cupcake.png",
+    "objectIcon2": "",
+    "targetCount": 8,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  }
 ]
