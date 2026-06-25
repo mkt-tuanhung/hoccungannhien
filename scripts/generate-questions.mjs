@@ -302,8 +302,209 @@ function pickIcon(obj) {
   return 'apple';
 }
 
-// ─── LEVEL DEFINITIONS ────────────────────────────────────
-// Mỗi level: 50 câu, cân bằng các dạng bài
+// ─── BUILDERS NÂNG CAO ────────────────────────────────────
+
+// Chục và đơn vị: "Số 23 gồm mấy chục và mấy đơn vị?"
+function tensUnitsQ(levelNum, i) {
+  const chuc = rnd(1, 9);
+  const donVi = rnd(0, 9);
+  const n = chuc * 10 + donVi;
+  const prompts = [
+    `Số ${n} gồm mấy chục?`,
+    `Số ${n} có bao nhiêu chục?`,
+    `${n} = ? chục + ${donVi} đơn vị`,
+  ];
+  const ws = wrongOptions(chuc, Math.max(1, chuc - 3), Math.min(9, chuc + 3), 3);
+  return {
+    id: qId(levelNum, i), gameId: `level_${levelNum}`, type: `level_${levelNum}`,
+    prompt: pick(prompts), correctAnswer: chuc, options: buildOptions(chuc, ws),
+    objectIcon: '/icons/star_icon.png', objectIcon2: '',
+    targetCount: 0, targetCount2: 0, renderMode: 'single', displayPrompt: null
+  };
+}
+
+// Cộng chục tròn: 20 + 30 = ?
+function addRoundTenQ(levelNum, i) {
+  const a = rnd(1, 8) * 10;
+  const b = rnd(1, Math.floor((100 - a) / 10)) * 10;
+  const ans = a + b;
+  const ws = [ans - 10, ans + 10, ans - 20].filter(v => v > 0 && v <= 100 && v !== ans).slice(0, 3);
+  while (ws.length < 3) ws.push(ans + (ws.length + 1) * 10);
+  return {
+    id: qId(levelNum, i), gameId: `level_${levelNum}`, type: `level_${levelNum}`,
+    prompt: `${a} + ${b} = ?`, correctAnswer: ans, options: buildOptions(ans, ws.slice(0,3)),
+    objectIcon: '/icons/star_icon.png', objectIcon2: '',
+    targetCount: 0, targetCount2: 0, renderMode: 'single', displayPrompt: null
+  };
+}
+
+// Trừ chục tròn: 70 - 30 = ?
+function subRoundTenQ(levelNum, i) {
+  const b = rnd(1, 8) * 10;
+  const a = b + rnd(1, Math.floor((100 - b) / 10)) * 10;
+  const ans = a - b;
+  const ws = [ans - 10, ans + 10, ans + 20].filter(v => v >= 0 && v <= 100 && v !== ans).slice(0, 3);
+  while (ws.length < 3) ws.push(ans + (ws.length + 1) * 10);
+  return {
+    id: qId(levelNum, i), gameId: `level_${levelNum}`, type: `level_${levelNum}`,
+    prompt: `${a} - ${b} = ?`, correctAnswer: ans, options: buildOptions(ans, ws.slice(0,3)),
+    objectIcon: '/icons/star_icon.png', objectIcon2: '',
+    targetCount: 0, targetCount2: 0, renderMode: 'single', displayPrompt: null
+  };
+}
+
+// Cộng 2 chữ số + 1 chữ số (không nhớ): 23 + 4 = ?
+function addTwoOneQ(levelNum, i) {
+  const a = rnd(10, 89);
+  const maxB = 9 - (a % 10);
+  if (maxB < 1) return addTwoOneQ(levelNum, i); // retry nếu không hợp lệ
+  const b = rnd(1, maxB);
+  const ans = a + b;
+  const ws = wrongOptions(ans, ans - 5, ans + 5, 3);
+  return {
+    id: qId(levelNum, i), gameId: `level_${levelNum}`, type: `level_${levelNum}`,
+    prompt: `${a} + ${b} = ?`, correctAnswer: ans, options: buildOptions(ans, ws),
+    objectIcon: '/icons/apple_icon.png', objectIcon2: '',
+    targetCount: 0, targetCount2: 0, renderMode: 'single', displayPrompt: null
+  };
+}
+
+// Trừ 2 chữ số - 1 chữ số (không mượn): 27 - 4 = ?
+function subTwoOneQ(levelNum, i) {
+  const b = rnd(1, 9);
+  const units = rnd(b, 9);
+  const tens = rnd(1, 9);
+  const a = tens * 10 + units;
+  const ans = a - b;
+  const ws = wrongOptions(ans, ans - 5, ans + 5, 3);
+  return {
+    id: qId(levelNum, i), gameId: `level_${levelNum}`, type: `level_${levelNum}`,
+    prompt: `${a} - ${b} = ?`, correctAnswer: ans, options: buildOptions(ans, ws),
+    objectIcon: '/icons/apple_icon.png', objectIcon2: '',
+    targetCount: 0, targetCount2: 0, renderMode: 'single', displayPrompt: null
+  };
+}
+
+// Cộng/trừ 2 chữ số không nhớ
+function addTwoTwoQ(levelNum, i) {
+  const a1 = rnd(1, 5); const a2 = rnd(0, 4);
+  const b1 = rnd(1, 9 - a1); const b2 = rnd(0, 9 - a2);
+  const a = a1 * 10 + a2; const b = b1 * 10 + b2;
+  const ans = a + b;
+  const ws = wrongOptions(ans, ans - 10, ans + 10, 3);
+  return {
+    id: qId(levelNum, i), gameId: `level_${levelNum}`, type: `level_${levelNum}`,
+    prompt: `${a} + ${b} = ?`, correctAnswer: ans, options: buildOptions(ans, ws),
+    objectIcon: '/icons/star_icon.png', objectIcon2: '',
+    targetCount: 0, targetCount2: 0, renderMode: 'single', displayPrompt: null
+  };
+}
+
+// Thời gian: "Kim dài chỉ 12, kim ngắn chỉ 3. Mấy giờ?"
+function timeQ(levelNum, i) {
+  const h = rnd(1, 12);
+  const prompt = `Đồng hồ chỉ ${h} giờ đúng. Bé chọn đáp án đúng:`;
+  const ws = wrongOptions(h, 1, 12, 3).map(v => `${v} giờ`);
+  return {
+    id: qId(levelNum, i), gameId: `level_${levelNum}`, type: `level_${levelNum}`,
+    prompt, correctAnswer: `${h} giờ`, options: buildOptions(`${h} giờ`, ws),
+    objectIcon: '/icons/star_icon.png', objectIcon2: '',
+    targetCount: 0, targetCount2: 0, renderMode: 'single', displayPrompt: null
+  };
+}
+
+// Hình học: nhận biết hình
+function shapeQ(levelNum, i) {
+  const shapes = [
+    { name: 'hình tròn', sides: 0 },
+    { name: 'hình vuông', sides: 4 },
+    { name: 'hình tam giác', sides: 3 },
+    { name: 'hình chữ nhật', sides: 4 },
+  ];
+  const s = pick(shapes);
+  const prompts = [
+    `${s.name.charAt(0).toUpperCase() + s.name.slice(1)} có mấy cạnh?`,
+    `Hình nào có ${s.sides === 3 ? '3' : s.sides === 4 ? '4' : '0'} cạnh?`,
+    `Chọn đúng: ${s.name} có bao nhiêu góc?`,
+  ];
+  const allShapeNames = shapes.map(x => x.name);
+  // For "mấy cạnh" → answer is number; for "hình nào" → answer is name
+  const isNameQ = Math.random() < 0.4;
+  if (isNameQ && s.sides > 0) {
+    const sameAngle = shapes.filter(x => x.sides === s.sides);
+    const ans = sameAngle[0].name;
+    const ws = shapes.filter(x => x.name !== ans).map(x => x.name).slice(0, 3);
+    return {
+      id: qId(levelNum, i), gameId: `level_${levelNum}`, type: `level_${levelNum}`,
+      prompt: `Hình nào có ${s.sides} cạnh?`,
+      correctAnswer: s.name, options: buildOptions(s.name, ws),
+      objectIcon: '/icons/star_icon.png', objectIcon2: '',
+      targetCount: 0, targetCount2: 0, renderMode: 'single', displayPrompt: null
+    };
+  }
+  const ans = s.sides;
+  const ws = [0,3,4].filter(v => v !== ans).slice(0,3);
+  return {
+    id: qId(levelNum, i), gameId: `level_${levelNum}`, type: `level_${levelNum}`,
+    prompt: `${s.name.charAt(0).toUpperCase() + s.name.slice(1)} có mấy cạnh?`,
+    correctAnswer: ans, options: buildOptions(ans, ws),
+    objectIcon: '/icons/star_icon.png', objectIcon2: '',
+    targetCount: 0, targetCount2: 0, renderMode: 'single', displayPrompt: null
+  };
+}
+
+// Tiền (đơn giản): "Mua 1 cái kẹo 3 đồng, 1 quả táo 5 đồng. Tất cả bao nhiêu?"
+function moneyQ(levelNum, i) {
+  const items = [
+    {name: 'viên kẹo', price: rnd(1,5)},
+    {name: 'quả táo', price: rnd(2,8)},
+    {name: 'chiếc bánh', price: rnd(3,9)},
+    {name: 'bông hoa', price: rnd(1,6)},
+  ];
+  const a = pick(items);
+  const b = pick(items.filter(x => x.name !== a.name));
+  const ans = a.price + b.price;
+  const ws = wrongOptions(ans, 1, 20, 3);
+  return {
+    id: qId(levelNum, i), gameId: `level_${levelNum}`, type: `level_${levelNum}`,
+    prompt: `Mua 1 ${a.name} giá ${a.price} nghìn và 1 ${b.name} giá ${b.price} nghìn. Tất cả bao nhiêu nghìn?`,
+    correctAnswer: ans, options: buildOptions(ans, ws),
+    objectIcon: '/icons/coin_icon.png', objectIcon2: '',
+    targetCount: 0, targetCount2: 0, renderMode: 'single', displayPrompt: null
+  };
+}
+
+// ─── LEVEL DEFINITIONS — theo đúng thứ tự MD ──────────────
+// L01: Nhận biết số 0-10
+// L02: Đếm đồ vật 1-10
+// L03: So sánh số trong phạm vi 10 (>, <, =)
+// L04: Thứ tự số từ 1-20 (dãy số)
+// L05: Cộng trong phạm vi 5
+// L06: Trừ trong phạm vi 5
+// L07: Cộng trong phạm vi 10
+// L08: Trừ trong phạm vi 10
+// L09: Cộng trừ hỗn hợp phạm vi 10
+// L10: Toán có lời văn phạm vi 10
+// L11: Nhận biết số 11-20
+// L12: So sánh số 11-20
+// L13: Cộng trong phạm vi 20
+// L14: Trừ trong phạm vi 20
+// L15: Tìm số còn thiếu (điền chỗ trống)
+// L16: Chục và đơn vị
+// L17: Nhận biết số đến 100
+// L18: So sánh số đến 100
+// L19: Cộng các chục tròn
+// L20: Trừ các chục tròn
+// L21: Cộng số hai chữ số + một chữ số
+// L22: Trừ số hai chữ số - một chữ số
+// L23: Cộng trừ hai chữ số không nhớ
+// L24: Toán có lời văn đến 20
+// L25: Đo độ dài (so sánh cm)
+// L26: Thời gian (nhận biết giờ)
+// L27: Hình học cơ bản
+// L28: Quy luật dãy số và hình
+// L29: Tiền và đồ vật
+// L30: Tổng hợp thử thách lớp 1
 
 function generateLevel(levelNum) {
   const qs = [];
@@ -312,208 +513,167 @@ function generateLevel(levelNum) {
   const add = (q) => { qs.push(q); i++; };
 
   switch (levelNum) {
-    // ── GIAI ĐOẠN 1: Nhận biết & đếm số ──────────────────
-    case 1: // Đếm số 1-5
-      while (i < 30) add(countQ(1, i, 1, 5));
-      while (i < 40) add(recognizeQ(1, i, 1, 5));
-      while (i < 50) add(countQ(1, i, 1, 5));
+    case 1: // Nhận biết số 0-10
+      while (i < 30) add(recognizeQ(1, i, 0, 10));
+      while (i < 50) add(countQ(1, i, 1, 10));
       break;
 
-    case 2: // Cộng trong 10
-      while (i < 35) add(addQ(2, i, 10));
-      while (i < 45) add(storyAddQ(2, i, 10));
-      while (i < 50) add(fillQ(2, i, 10, false));
+    case 2: // Đếm đồ vật 1-10
+      while (i < 40) add(countQ(2, i, 1, 10));
+      while (i < 50) add(recognizeQ(2, i, 1, 10));
       break;
 
-    case 3: // Trừ trong 10
-      while (i < 35) add(subQ(3, i, 10));
-      while (i < 45) add(storySubQ(3, i, 10));
-      while (i < 50) add(fillQ(3, i, 10, true));
+    case 3: // So sánh số trong phạm vi 10 (>, <, =)
+      while (i < 50) add(anyCompareQ(3, i, 0, 10));
       break;
 
-    case 4: // So sánh hai số (1-10)
-      while (i < 35) add(anyCompareQ(4, i, 1, 10));
-      while (i < 50) add(recognizeQ(4, i, 1, 10));
+    case 4: // Thứ tự số từ 1-20 (dãy số, số liền trước/sau)
+      while (i < 35) add(sequenceQ(4, i, 20));
+      while (i < 50) add(recognizeQ(4, i, 1, 20));
       break;
 
-    case 5: // Cộng và trừ hỗn hợp trong 10
-      while (i < 20) add(addQ(5, i, 10));
-      while (i < 40) add(subQ(5, i, 10));
-      while (i < 50) add(anyCompareQ(5, i, 1, 10));
+    case 5: // Cộng trong phạm vi 5
+      while (i < 30) add(addQ(5, i, 5, 1));
+      while (i < 45) add(countQ(5, i, 1, 5));
+      while (i < 50) add(fillQ(5, i, 5, false));
       break;
 
-    case 6: // Toán có lời văn đơn giản (trong 10)
-      while (i < 25) add(storyAddQ(6, i, 10));
-      while (i < 50) add(storySubQ(6, i, 10));
+    case 6: // Trừ trong phạm vi 5
+      while (i < 30) add(subQ(6, i, 5));
+      while (i < 45) add(countQ(6, i, 1, 5));
+      while (i < 50) add(fillQ(6, i, 5, true));
       break;
 
-    case 7: // Điền số vào chỗ trống (trong 10)
-      while (i < 20) add(fillQ(7, i, 10, false));
-      while (i < 40) add(fillQ(7, i, 10, true));
-      while (i < 50) add(addQ(7, i, 10));
+    case 7: // Cộng trong phạm vi 10
+      while (i < 35) add(addQ(7, i, 10));
+      while (i < 45) add(storyAddQ(7, i, 10));
+      while (i < 50) add(fillQ(7, i, 10, false));
       break;
 
-    case 8: // Ôn tập tổng hợp 1-10
-      while (i < 12) add(addQ(8, i, 10));
-      while (i < 24) add(subQ(8, i, 10));
-      while (i < 36) add(anyCompareQ(8, i, 1, 10));
-      while (i < 43) add(storyAddQ(8, i, 10));
-      while (i < 50) add(storySubQ(8, i, 10));
+    case 8: // Trừ trong phạm vi 10
+      while (i < 35) add(subQ(8, i, 10));
+      while (i < 45) add(storySubQ(8, i, 10));
+      while (i < 50) add(fillQ(8, i, 10, true));
       break;
 
-    case 9: // Thử thách: điền chỗ trống + dãy số trong 10
-      while (i < 20) add(sequenceQ(9, i, 10));
-      while (i < 35) add(fillQ(9, i, 10, false));
-      while (i < 50) add(fillQ(9, i, 10, true));
+    case 9: // Cộng trừ hỗn hợp phạm vi 10
+      while (i < 20) add(addQ(9, i, 10));
+      while (i < 40) add(subQ(9, i, 10));
+      while (i < 50) add(anyCompareQ(9, i, 1, 10));
       break;
 
-    case 10: // Boss level: tổng hợp trong 10
-      while (i < 10) add(addQ(10, i, 10));
-      while (i < 20) add(subQ(10, i, 10));
-      while (i < 30) add(anyCompareQ(10, i, 1, 10));
-      while (i < 38) add(storyAddQ(10, i, 10));
-      while (i < 44) add(storySubQ(10, i, 10));
-      while (i < 50) add(fillQ(10, i, 10, false));
+    case 10: // Toán có lời văn phạm vi 10
+      while (i < 25) add(storyAddQ(10, i, 10));
+      while (i < 50) add(storySubQ(10, i, 10));
       break;
 
-    // ── GIAI ĐOẠN 2: Số 11-15 ─────────────────────────────
-    case 11: // Cộng trong 15
-      while (i < 30) add(addQ(11, i, 15, 1));
-      while (i < 45) add(storyAddQ(11, i, 15));
-      while (i < 50) add(anyCompareQ(11, i, 1, 15));
+    case 11: // Nhận biết số 11-20
+      while (i < 30) add(recognizeQ(11, i, 11, 20));
+      while (i < 50) add(countQ(11, i, 11, 20));
       break;
 
-    case 12: // Trừ trong 15
-      while (i < 30) add(subQ(12, i, 15));
-      while (i < 40) add(addQ(12, i, 15));
-      while (i < 50) add(anyCompareQ(12, i, 1, 15));
+    case 12: // So sánh số 11-20
+      while (i < 50) add(anyCompareQ(12, i, 10, 20));
       break;
 
-    case 13: // Ôn tập + kiểm tra 1-15
-      while (i < 12) add(addQ(13, i, 15));
-      while (i < 24) add(subQ(13, i, 15));
-      while (i < 34) add(storyAddQ(13, i, 15));
-      while (i < 42) add(storySubQ(13, i, 15));
-      while (i < 50) add(fillQ(13, i, 15, false));
+    case 13: // Cộng trong phạm vi 20 không nhớ
+      while (i < 35) add(addQ(13, i, 20));
+      while (i < 45) add(storyAddQ(13, i, 20));
+      while (i < 50) add(fillQ(13, i, 20, false));
       break;
 
-    case 14: // Cộng trừ hỗn hợp trong 15
-      while (i < 15) add(addQ(14, i, 15));
-      while (i < 30) add(subQ(14, i, 15));
-      while (i < 40) add(anyCompareQ(14, i, 1, 15));
-      while (i < 50) add(fillQ(14, i, 15, true));
+    case 14: // Trừ trong phạm vi 20 không mượn
+      while (i < 35) add(subQ(14, i, 20));
+      while (i < 45) add(storySubQ(14, i, 20));
+      while (i < 50) add(fillQ(14, i, 20, true));
       break;
 
-    case 15: // Toán có lời văn nâng cao (trong 15)
-      while (i < 25) add(storyAddQ(15, i, 15));
-      while (i < 45) add(storySubQ(15, i, 15));
-      while (i < 50) add(anyCompareQ(15, i, 1, 15));
+    case 15: // Tìm số còn thiếu (điền chỗ trống)
+      while (i < 25) add(fillQ(15, i, 10, false));
+      while (i < 50) add(fillQ(15, i, 10, true));
       break;
 
-    // ── GIAI ĐOẠN 3: Số 16-20 ─────────────────────────────
-    case 16: // Cộng trong 20
-      while (i < 30) add(addQ(16, i, 20));
-      while (i < 45) add(storyAddQ(16, i, 20));
-      while (i < 50) add(anyCompareQ(16, i, 1, 20));
+    case 16: // Chục và đơn vị
+      while (i < 35) add(tensUnitsQ(16, i));
+      while (i < 50) add(anyCompareQ(16, i, 10, 99));
       break;
 
-    case 17: // Trừ trong 20
-      while (i < 35) add(subQ(17, i, 20));
-      while (i < 45) add(addQ(17, i, 20));
-      while (i < 50) add(anyCompareQ(17, i, 1, 20));
+    case 17: // Nhận biết số đến 100
+      while (i < 35) add(recognizeQ(17, i, 20, 100));
+      while (i < 50) add(sequenceQ(17, i, 100));
       break;
 
-    case 18: // Toán có lời văn trong 20
-      while (i < 25) add(storyAddQ(18, i, 20));
-      while (i < 50) add(storySubQ(18, i, 20));
+    case 18: // So sánh số đến 100
+      while (i < 50) add(anyCompareQ(18, i, 10, 100));
       break;
 
-    case 19: // Dãy số + điền chỗ trống trong 20
-      while (i < 25) add(sequenceQ(19, i, 20));
-      while (i < 40) add(fillQ(19, i, 20, false));
-      while (i < 50) add(fillQ(19, i, 20, true));
+    case 19: // Cộng các chục tròn
+      while (i < 40) add(addRoundTenQ(19, i));
+      while (i < 50) add(addQ(19, i, 20));
       break;
 
-    case 20: // Ôn tập tổng hợp 11-20
-      while (i < 10) add(addQ(20, i, 20));
-      while (i < 20) add(subQ(20, i, 20));
-      while (i < 30) add(anyCompareQ(20, i, 1, 20));
-      while (i < 38) add(storyAddQ(20, i, 20));
-      while (i < 44) add(storySubQ(20, i, 20));
-      while (i < 50) add(sequenceQ(20, i, 20));
+    case 20: // Trừ các chục tròn
+      while (i < 40) add(subRoundTenQ(20, i));
+      while (i < 50) add(subQ(20, i, 20));
       break;
 
-    // ── GIAI ĐOẠN 4: Nâng cao ─────────────────────────────
-    case 21: // Cộng trừ nhanh trong 20 (nhiều bài tập)
-      while (i < 25) add(addQ(21, i, 20));
-      while (i < 50) add(subQ(21, i, 20));
+    case 21: // Cộng số hai chữ số + một chữ số (không nhớ)
+      while (i < 40) add(addTwoOneQ(21, i));
+      while (i < 50) add(addQ(21, i, 20));
       break;
 
-    case 22: // Số chẵn, số lẻ trong 20
-      while (i < 30) add(evenOddQ(22, i, 20));
-      while (i < 40) add(anyCompareQ(22, i, 1, 20));
-      while (i < 50) add(sequenceQ(22, i, 20));
+    case 22: // Trừ số hai chữ số - một chữ số (không mượn)
+      while (i < 40) add(subTwoOneQ(22, i));
+      while (i < 50) add(subQ(22, i, 20));
       break;
 
-    case 23: // Điền vào chỗ trống (x + ? = y) trong 20
-      while (i < 25) add(fillQ(23, i, 20, false));
-      while (i < 50) add(fillQ(23, i, 20, true));
+    case 23: // Cộng trừ hai chữ số không nhớ/mượn
+      while (i < 25) add(addTwoTwoQ(23, i));
+      while (i < 45) add(subTwoOneQ(23, i));
+      while (i < 50) add(anyCompareQ(23, i, 10, 99));
       break;
 
-    case 24: // Toán đố tổng hợp trong 20
+    case 24: // Toán có lời văn đến 20
       while (i < 25) add(storyAddQ(24, i, 20));
-      while (i < 45) add(storySubQ(24, i, 20));
-      while (i < 50) add(anyCompareQ(24, i, 1, 20));
+      while (i < 50) add(storySubQ(24, i, 20));
       break;
 
-    case 25: // Cộng 3 số trong 15
-      while (i < 30) add(add3Q(25, i, 15));
+    case 25: // Đo độ dài đơn giản (so sánh cm)
+      while (i < 30) add(anyCompareQ(25, i, 1, 30));
       while (i < 45) add(addQ(25, i, 20));
-      while (i < 50) add(fillQ(25, i, 20, false));
+      while (i < 50) add(subQ(25, i, 20));
       break;
 
-    // ── GIAI ĐOẠN 5: Ôn luyện sáng tạo ──────────────────
-    case 26: // Ôn tập sáng tạo: mix tất cả trong 20
-      while (i < 10) add(addQ(26, i, 20));
-      while (i < 20) add(subQ(26, i, 20));
-      while (i < 28) add(storyAddQ(26, i, 20));
-      while (i < 36) add(storySubQ(26, i, 20));
-      while (i < 43) add(fillQ(26, i, 20, false));
-      while (i < 50) add(anyCompareQ(26, i, 1, 20));
+    case 26: // Thời gian đơn giản (giờ đúng)
+      while (i < 35) add(timeQ(26, i));
+      while (i < 50) add(anyCompareQ(26, i, 1, 12));
       break;
 
-    case 27: // Thử thách tư duy: dãy số + số chẵn/lẻ + điền
-      while (i < 18) add(sequenceQ(27, i, 20));
-      while (i < 34) add(evenOddQ(27, i, 20));
-      while (i < 50) add(fillQ(27, i, 20, true));
+    case 27: // Hình học cơ bản
+      while (i < 35) add(shapeQ(27, i));
+      while (i < 50) add(recognizeQ(27, i, 1, 20));
       break;
 
-    case 28: // Kiểm tra kỹ năng: tổng hợp có lời văn
-      while (i < 20) add(storyAddQ(28, i, 20));
-      while (i < 40) add(storySubQ(28, i, 20));
-      while (i < 50) add(add3Q(28, i, 15));
+    case 28: // Quy luật dãy số và hình
+      while (i < 35) add(sequenceQ(28, i, 20));
+      while (i < 45) add(evenOddQ(28, i, 20));
+      while (i < 50) add(fillQ(28, i, 20, false));
       break;
 
-    case 29: // Ôn luyện cuối: tất cả dạng bài
-      while (i < 8)  add(addQ(29, i, 20));
-      while (i < 16) add(subQ(29, i, 20));
-      while (i < 24) add(storyAddQ(29, i, 20));
-      while (i < 30) add(storySubQ(29, i, 20));
-      while (i < 36) add(anyCompareQ(29, i, 1, 20));
-      while (i < 42) add(sequenceQ(29, i, 20));
-      while (i < 46) add(evenOddQ(29, i, 20));
-      while (i < 50) add(fillQ(29, i, 20, false));
+    case 29: // Tiền và đồ vật
+      while (i < 35) add(moneyQ(29, i));
+      while (i < 50) add(storyAddQ(29, i, 20));
       break;
 
-    case 30: // Boss cuối: tổng hợp khó nhất
+    case 30: // Tổng hợp thử thách lớp 1
       while (i < 8)  add(addQ(30, i, 20));
       while (i < 16) add(subQ(30, i, 20));
-      while (i < 22) add(add3Q(30, i, 15));
+      while (i < 22) add(anyCompareQ(30, i, 1, 20));
       while (i < 28) add(storyAddQ(30, i, 20));
       while (i < 34) add(storySubQ(30, i, 20));
       while (i < 40) add(fillQ(30, i, 20, false));
-      while (i < 46) add(fillQ(30, i, 20, true));
-      while (i < 50) add(anyCompareQ(30, i, 1, 20));
+      while (i < 45) add(sequenceQ(30, i, 20));
+      while (i < 50) add(moneyQ(30, i));
       break;
 
     default:

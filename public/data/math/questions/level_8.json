@@ -3,246 +3,246 @@
     "id": "l08-q001",
     "gameId": "level_8",
     "type": "level_8",
-    "prompt": "5 + 5 = ?",
-    "correctAnswer": 10,
+    "prompt": "4 - 2 = ?",
+    "correctAnswer": 2,
     "options": [
-      9,
-      10,
-      8,
-      7
+      1,
+      0,
+      2,
+      3
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
-    "targetCount": 5,
-    "targetCount2": 5,
-    "renderMode": "addition",
+    "targetCount": 4,
+    "targetCount2": 2,
+    "renderMode": "subtraction",
     "displayPrompt": null
   },
   {
     "id": "l08-q002",
     "gameId": "level_8",
     "type": "level_8",
-    "prompt": "5 + 4 = ?",
-    "correctAnswer": 9,
+    "prompt": "9 - 8 = ?",
+    "correctAnswer": 1,
     "options": [
-      8,
-      9,
-      6,
-      7
+      3,
+      0,
+      2,
+      1
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
-    "targetCount": 5,
-    "targetCount2": 4,
-    "renderMode": "addition",
+    "targetCount": 9,
+    "targetCount2": 8,
+    "renderMode": "subtraction",
     "displayPrompt": null
   },
   {
     "id": "l08-q003",
     "gameId": "level_8",
     "type": "level_8",
-    "prompt": "Tính: 8 + 2 = ?",
-    "correctAnswer": 10,
+    "prompt": "10 - 3 = ?",
+    "correctAnswer": 7,
     "options": [
-      10,
-      9,
       7,
-      8
+      6,
+      5,
+      4
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
-    "targetCount": 8,
-    "targetCount2": 2,
-    "renderMode": "addition",
+    "targetCount": 10,
+    "targetCount2": 3,
+    "renderMode": "subtraction",
     "displayPrompt": null
   },
   {
     "id": "l08-q004",
     "gameId": "level_8",
     "type": "level_8",
-    "prompt": "Tính: 1 + 6 = ?",
-    "correctAnswer": 7,
+    "prompt": "6 - 1 = ?",
+    "correctAnswer": 5,
     "options": [
       5,
       4,
-      6,
-      7
+      2,
+      3
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
-    "targetCount": 1,
-    "targetCount2": 6,
-    "renderMode": "addition",
+    "targetCount": 6,
+    "targetCount2": 1,
+    "renderMode": "subtraction",
     "displayPrompt": null
   },
   {
     "id": "l08-q005",
     "gameId": "level_8",
     "type": "level_8",
-    "prompt": "9 + 1 = ?",
-    "correctAnswer": 10,
+    "prompt": "8 - 3 = ?",
+    "correctAnswer": 5,
     "options": [
-      7,
-      10,
-      8,
-      9
+      4,
+      5,
+      3,
+      2
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
-    "targetCount": 9,
-    "targetCount2": 1,
-    "renderMode": "addition",
+    "targetCount": 8,
+    "targetCount2": 3,
+    "renderMode": "subtraction",
     "displayPrompt": null
   },
   {
     "id": "l08-q006",
     "gameId": "level_8",
     "type": "level_8",
-    "prompt": "9 + 1 = ?",
-    "correctAnswer": 10,
+    "prompt": "Tính: 3 - 1 = ?",
+    "correctAnswer": 2,
     "options": [
-      9,
-      7,
-      8,
-      10
+      2,
+      1,
+      3,
+      0
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
-    "targetCount": 9,
+    "targetCount": 3,
     "targetCount2": 1,
-    "renderMode": "addition",
+    "renderMode": "subtraction",
     "displayPrompt": null
   },
   {
     "id": "l08-q007",
     "gameId": "level_8",
     "type": "level_8",
-    "prompt": "5 + 2 = ?",
-    "correctAnswer": 7,
+    "prompt": "Tính: 2 - 0 = ?",
+    "correctAnswer": 2,
     "options": [
-      5,
-      6,
-      7,
-      4
+      1,
+      2,
+      3,
+      0
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
-    "targetCount": 5,
-    "targetCount2": 2,
-    "renderMode": "addition",
+    "targetCount": 2,
+    "targetCount2": 0,
+    "renderMode": "subtraction",
     "displayPrompt": null
   },
   {
     "id": "l08-q008",
     "gameId": "level_8",
     "type": "level_8",
-    "prompt": "8 + 2 = ?",
-    "correctAnswer": 10,
+    "prompt": "8 - 1 = ?",
+    "correctAnswer": 7,
     "options": [
-      10,
-      9,
+      6,
       7,
-      8
+      4,
+      5
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
     "targetCount": 8,
-    "targetCount2": 2,
-    "renderMode": "addition",
+    "targetCount2": 1,
+    "renderMode": "subtraction",
     "displayPrompt": null
   },
   {
     "id": "l08-q009",
     "gameId": "level_8",
     "type": "level_8",
-    "prompt": "8 + 1 = ?",
-    "correctAnswer": 9,
+    "prompt": "Tính: 10 - 0 = ?",
+    "correctAnswer": 10,
     "options": [
+      10,
       7,
-      6,
-      9,
-      8
+      8,
+      9
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
-    "targetCount": 8,
-    "targetCount2": 1,
-    "renderMode": "addition",
+    "targetCount": 10,
+    "targetCount2": 0,
+    "renderMode": "subtraction",
     "displayPrompt": null
   },
   {
     "id": "l08-q010",
     "gameId": "level_8",
     "type": "level_8",
-    "prompt": "9 + 1 = ?",
-    "correctAnswer": 10,
+    "prompt": "5 - 3 = ?",
+    "correctAnswer": 2,
     "options": [
-      8,
-      7,
-      9,
-      10
+      2,
+      3,
+      1,
+      0
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
-    "targetCount": 9,
-    "targetCount2": 1,
-    "renderMode": "addition",
+    "targetCount": 5,
+    "targetCount2": 3,
+    "renderMode": "subtraction",
     "displayPrompt": null
   },
   {
     "id": "l08-q011",
     "gameId": "level_8",
     "type": "level_8",
-    "prompt": "4 + 4 = ?",
-    "correctAnswer": 8,
+    "prompt": "Tính: 6 - 3 = ?",
+    "correctAnswer": 3,
     "options": [
-      6,
-      7,
-      8,
-      5
+      3,
+      1,
+      2,
+      0
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
-    "targetCount": 4,
-    "targetCount2": 4,
-    "renderMode": "addition",
+    "targetCount": 6,
+    "targetCount2": 3,
+    "renderMode": "subtraction",
     "displayPrompt": null
   },
   {
     "id": "l08-q012",
     "gameId": "level_8",
     "type": "level_8",
-    "prompt": "5 + 4 = ?",
-    "correctAnswer": 9,
+    "prompt": "8 - 0 = ?",
+    "correctAnswer": 8,
     "options": [
       8,
-      9,
       6,
+      5,
       7
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
-    "targetCount": 5,
-    "targetCount2": 4,
-    "renderMode": "addition",
+    "targetCount": 8,
+    "targetCount2": 0,
+    "renderMode": "subtraction",
     "displayPrompt": null
   },
   {
     "id": "l08-q013",
     "gameId": "level_8",
     "type": "level_8",
-    "prompt": "9 - 2 = ?",
-    "correctAnswer": 7,
+    "prompt": "Tính: 5 - 4 = ?",
+    "correctAnswer": 1,
     "options": [
-      5,
-      7,
-      6,
-      4
+      2,
+      0,
+      1,
+      3
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
-    "targetCount": 9,
-    "targetCount2": 2,
+    "targetCount": 5,
+    "targetCount2": 4,
     "renderMode": "subtraction",
     "displayPrompt": null
   },
@@ -250,18 +250,18 @@
     "id": "l08-q014",
     "gameId": "level_8",
     "type": "level_8",
-    "prompt": "Tính: 8 - 7 = ?",
-    "correctAnswer": 1,
+    "prompt": "10 - 4 = ?",
+    "correctAnswer": 6,
     "options": [
+      6,
       3,
-      1,
-      0,
-      2
+      5,
+      4
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
-    "targetCount": 8,
-    "targetCount2": 7,
+    "targetCount": 10,
+    "targetCount2": 4,
     "renderMode": "subtraction",
     "displayPrompt": null
   },
@@ -269,42 +269,23 @@
     "id": "l08-q015",
     "gameId": "level_8",
     "type": "level_8",
-    "prompt": "Tính: 7 - 4 = ?",
-    "correctAnswer": 3,
+    "prompt": "Tính: 6 - 5 = ?",
+    "correctAnswer": 1,
     "options": [
       3,
-      2,
       0,
+      2,
       1
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
-    "targetCount": 7,
-    "targetCount2": 4,
+    "targetCount": 6,
+    "targetCount2": 5,
     "renderMode": "subtraction",
     "displayPrompt": null
   },
   {
     "id": "l08-q016",
-    "gameId": "level_8",
-    "type": "level_8",
-    "prompt": "10 - 2 = ?",
-    "correctAnswer": 8,
-    "options": [
-      5,
-      8,
-      7,
-      6
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 10,
-    "targetCount2": 2,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l08-q017",
     "gameId": "level_8",
     "type": "level_8",
     "prompt": "3 - 0 = ?",
@@ -323,21 +304,40 @@
     "displayPrompt": null
   },
   {
-    "id": "l08-q018",
+    "id": "l08-q017",
     "gameId": "level_8",
     "type": "level_8",
-    "prompt": "3 - 2 = ?",
+    "prompt": "4 - 3 = ?",
     "correctAnswer": 1,
     "options": [
-      2,
       0,
+      3,
       1,
-      3
+      2
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
-    "targetCount": 3,
-    "targetCount2": 2,
+    "targetCount": 4,
+    "targetCount2": 3,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l08-q018",
+    "gameId": "level_8",
+    "type": "level_8",
+    "prompt": "2 - 0 = ?",
+    "correctAnswer": 2,
+    "options": [
+      2,
+      3,
+      0,
+      1
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 2,
+    "targetCount2": 0,
     "renderMode": "subtraction",
     "displayPrompt": null
   },
@@ -345,18 +345,18 @@
     "id": "l08-q019",
     "gameId": "level_8",
     "type": "level_8",
-    "prompt": "Tính: 10 - 1 = ?",
-    "correctAnswer": 9,
+    "prompt": "5 - 4 = ?",
+    "correctAnswer": 1,
     "options": [
-      6,
-      9,
-      7,
-      8
+      0,
+      1,
+      2,
+      3
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
-    "targetCount": 10,
-    "targetCount2": 1,
+    "targetCount": 5,
+    "targetCount2": 4,
     "renderMode": "subtraction",
     "displayPrompt": null
   },
@@ -364,18 +364,18 @@
     "id": "l08-q020",
     "gameId": "level_8",
     "type": "level_8",
-    "prompt": "Tính: 4 - 2 = ?",
-    "correctAnswer": 2,
+    "prompt": "10 - 3 = ?",
+    "correctAnswer": 7,
     "options": [
-      1,
-      3,
-      2,
-      0
+      5,
+      4,
+      7,
+      6
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
-    "targetCount": 4,
-    "targetCount2": 2,
+    "targetCount": 10,
+    "targetCount2": 3,
     "renderMode": "subtraction",
     "displayPrompt": null
   },
@@ -383,18 +383,18 @@
     "id": "l08-q021",
     "gameId": "level_8",
     "type": "level_8",
-    "prompt": "8 - 0 = ?",
-    "correctAnswer": 8,
+    "prompt": "10 - 6 = ?",
+    "correctAnswer": 4,
     "options": [
-      5,
-      7,
-      6,
-      8
+      3,
+      4,
+      2,
+      1
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
-    "targetCount": 8,
-    "targetCount2": 0,
+    "targetCount": 10,
+    "targetCount2": 6,
     "renderMode": "subtraction",
     "displayPrompt": null
   },
@@ -402,18 +402,18 @@
     "id": "l08-q022",
     "gameId": "level_8",
     "type": "level_8",
-    "prompt": "Tính: 7 - 6 = ?",
-    "correctAnswer": 1,
+    "prompt": "3 - 0 = ?",
+    "correctAnswer": 3,
     "options": [
-      0,
       3,
-      2,
-      1
+      0,
+      1,
+      2
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
-    "targetCount": 7,
-    "targetCount2": 6,
+    "targetCount": 3,
+    "targetCount2": 0,
     "renderMode": "subtraction",
     "displayPrompt": null
   },
@@ -421,12 +421,12 @@
     "id": "l08-q023",
     "gameId": "level_8",
     "type": "level_8",
-    "prompt": "Tính: 7 - 0 = ?",
+    "prompt": "7 - 0 = ?",
     "correctAnswer": 7,
     "options": [
-      6,
-      5,
       7,
+      5,
+      6,
       4
     ],
     "objectIcon": "/icons/apple_icon.png",
@@ -444,9 +444,9 @@
     "correctAnswer": 2,
     "options": [
       1,
+      0,
       2,
-      3,
-      0
+      3
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
@@ -459,360 +459,30 @@
     "id": "l08-q025",
     "gameId": "level_8",
     "type": "level_8",
-    "prompt": "So sánh: 5 ☐ 9",
-    "correctAnswer": "<",
+    "prompt": "4 - 3 = ?",
+    "correctAnswer": 1,
     "options": [
-      ">",
-      "<",
-      "="
+      0,
+      1,
+      3,
+      2
     ],
-    "objectIcon": "",
+    "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
+    "targetCount": 4,
+    "targetCount2": 3,
+    "renderMode": "subtraction",
     "displayPrompt": null
   },
   {
     "id": "l08-q026",
     "gameId": "level_8",
     "type": "level_8",
-    "prompt": "Điền dấu đúng: 7 __ 3",
-    "correctAnswer": ">",
-    "options": [
-      ">",
-      "<",
-      "="
-    ],
-    "objectIcon": "",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l08-q027",
-    "gameId": "level_8",
-    "type": "level_8",
-    "prompt": "7 ___ 8. Chọn dấu thích hợp:",
-    "correctAnswer": "<",
-    "options": [
-      ">",
-      "<",
-      "="
-    ],
-    "objectIcon": "",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l08-q028",
-    "gameId": "level_8",
-    "type": "level_8",
-    "prompt": "So sánh: 5 ☐ 6",
-    "correctAnswer": "<",
-    "options": [
-      ">",
-      "<",
-      "="
-    ],
-    "objectIcon": "",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l08-q029",
-    "gameId": "level_8",
-    "type": "level_8",
-    "prompt": "Điền dấu đúng: 5 __ 5",
-    "correctAnswer": "=",
-    "options": [
-      ">",
-      "<",
-      "="
-    ],
-    "objectIcon": "",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l08-q030",
-    "gameId": "level_8",
-    "type": "level_8",
-    "prompt": "9 ___ 5. Chọn dấu thích hợp:",
-    "correctAnswer": ">",
-    "options": [
-      ">",
-      "<",
-      "="
-    ],
-    "objectIcon": "",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l08-q031",
-    "gameId": "level_8",
-    "type": "level_8",
-    "prompt": "So sánh: 8 ☐ 4",
-    "correctAnswer": ">",
-    "options": [
-      ">",
-      "<",
-      "="
-    ],
-    "objectIcon": "",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l08-q032",
-    "gameId": "level_8",
-    "type": "level_8",
-    "prompt": "Điền dấu đúng: 2 __ 9",
-    "correctAnswer": "<",
-    "options": [
-      ">",
-      "<",
-      "="
-    ],
-    "objectIcon": "",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l08-q033",
-    "gameId": "level_8",
-    "type": "level_8",
-    "prompt": "9 ___ 2. Chọn dấu thích hợp:",
-    "correctAnswer": ">",
-    "options": [
-      ">",
-      "<",
-      "="
-    ],
-    "objectIcon": "",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l08-q034",
-    "gameId": "level_8",
-    "type": "level_8",
-    "prompt": "2 ___ 4. Chọn dấu thích hợp:",
-    "correctAnswer": "<",
-    "options": [
-      ">",
-      "<",
-      "="
-    ],
-    "objectIcon": "",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l08-q035",
-    "gameId": "level_8",
-    "type": "level_8",
-    "prompt": "Điền dấu đúng: 6 __ 7",
-    "correctAnswer": "<",
-    "options": [
-      ">",
-      "<",
-      "="
-    ],
-    "objectIcon": "",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l08-q036",
-    "gameId": "level_8",
-    "type": "level_8",
-    "prompt": "Điền dấu đúng: 9 __ 9",
-    "correctAnswer": "=",
-    "options": [
-      ">",
-      "<",
-      "="
-    ],
-    "objectIcon": "",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l08-q037",
-    "gameId": "level_8",
-    "type": "level_8",
-    "prompt": "Bình có 6 viên kẹo, mẹ cho thêm 2. Có tất cả bao nhiêu?",
-    "correctAnswer": 8,
-    "options": [
-      7,
-      5,
-      6,
-      8
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 6,
-    "targetCount2": 2,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l08-q038",
-    "gameId": "level_8",
-    "type": "level_8",
-    "prompt": "Lan có 7 quả chuối, mẹ cho thêm 3. Có tất cả bao nhiêu?",
-    "correctAnswer": 10,
-    "options": [
-      8,
-      7,
-      9,
-      10
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 7,
-    "targetCount2": 3,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l08-q039",
-    "gameId": "level_8",
-    "type": "level_8",
-    "prompt": "Lan có 1 chiếc bánh, mẹ cho thêm 4. Có tất cả bao nhiêu?",
-    "correctAnswer": 5,
-    "options": [
-      3,
-      2,
-      4,
-      5
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 1,
-    "targetCount2": 4,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l08-q040",
-    "gameId": "level_8",
-    "type": "level_8",
-    "prompt": "Hoa nhặt được 3 quả cam rồi nhặt thêm 4 quả cam. Có tất cả mấy quả cam?",
-    "correctAnswer": 7,
-    "options": [
-      4,
-      6,
-      7,
-      5
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 3,
-    "targetCount2": 4,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l08-q041",
-    "gameId": "level_8",
-    "type": "level_8",
-    "prompt": "Buổi sáng có 7 bông hoa, buổi chiều thêm 1 bông hoa. Tất cả là bao nhiêu?",
-    "correctAnswer": 8,
-    "options": [
-      8,
-      7,
-      5,
-      6
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 7,
-    "targetCount2": 1,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l08-q042",
-    "gameId": "level_8",
-    "type": "level_8",
-    "prompt": "Mai nhặt được 3 viên kẹo rồi nhặt thêm 7 viên kẹo. Có tất cả mấy viên kẹo?",
-    "correctAnswer": 10,
-    "options": [
-      10,
-      8,
-      9,
-      7
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 3,
-    "targetCount2": 7,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l08-q043",
-    "gameId": "level_8",
-    "type": "level_8",
-    "prompt": "Buổi sáng có 6 viên kẹo, buổi chiều thêm 3 viên kẹo. Tất cả là bao nhiêu?",
-    "correctAnswer": 9,
-    "options": [
-      6,
-      9,
-      8,
-      7
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 6,
-    "targetCount2": 3,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l08-q044",
-    "gameId": "level_8",
-    "type": "level_8",
-    "prompt": "Nam có 2 chiếc bánh, cho bạn 1. Còn lại bao nhiêu?",
+    "prompt": "Tính: 2 - 1 = ?",
     "correctAnswer": 1,
     "options": [
-      2,
       3,
+      2,
       1,
       0
     ],
@@ -824,21 +494,363 @@
     "displayPrompt": null
   },
   {
-    "id": "l08-q045",
+    "id": "l08-q027",
     "gameId": "level_8",
     "type": "level_8",
-    "prompt": "Hộp có 8 viên kẹo, lấy ra 7. Còn lại bao nhiêu?",
+    "prompt": "7 - 6 = ?",
     "correctAnswer": 1,
     "options": [
+      2,
       1,
+      0,
+      3
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 7,
+    "targetCount2": 6,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l08-q028",
+    "gameId": "level_8",
+    "type": "level_8",
+    "prompt": "Tính: 6 - 1 = ?",
+    "correctAnswer": 5,
+    "options": [
       3,
       2,
-      0
+      5,
+      4
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 6,
+    "targetCount2": 1,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l08-q029",
+    "gameId": "level_8",
+    "type": "level_8",
+    "prompt": "Tính: 6 - 3 = ?",
+    "correctAnswer": 3,
+    "options": [
+      0,
+      1,
+      3,
+      2
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 6,
+    "targetCount2": 3,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l08-q030",
+    "gameId": "level_8",
+    "type": "level_8",
+    "prompt": "9 - 4 = ?",
+    "correctAnswer": 5,
+    "options": [
+      2,
+      4,
+      3,
+      5
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 9,
+    "targetCount2": 4,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l08-q031",
+    "gameId": "level_8",
+    "type": "level_8",
+    "prompt": "5 - 0 = ?",
+    "correctAnswer": 5,
+    "options": [
+      3,
+      5,
+      2,
+      4
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l08-q032",
+    "gameId": "level_8",
+    "type": "level_8",
+    "prompt": "6 - 2 = ?",
+    "correctAnswer": 4,
+    "options": [
+      2,
+      4,
+      3,
+      1
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 6,
+    "targetCount2": 2,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l08-q033",
+    "gameId": "level_8",
+    "type": "level_8",
+    "prompt": "7 - 0 = ?",
+    "correctAnswer": 7,
+    "options": [
+      7,
+      6,
+      4,
+      5
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 7,
+    "targetCount2": 0,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l08-q034",
+    "gameId": "level_8",
+    "type": "level_8",
+    "prompt": "8 - 3 = ?",
+    "correctAnswer": 5,
+    "options": [
+      2,
+      3,
+      5,
+      4
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
     "targetCount": 8,
-    "targetCount2": 7,
+    "targetCount2": 3,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l08-q035",
+    "gameId": "level_8",
+    "type": "level_8",
+    "prompt": "9 - 4 = ?",
+    "correctAnswer": 5,
+    "options": [
+      4,
+      2,
+      3,
+      5
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 9,
+    "targetCount2": 4,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l08-q036",
+    "gameId": "level_8",
+    "type": "level_8",
+    "prompt": "Có 6 viên kẹo, dùng hết 4. Còn lại mấy viên kẹo?",
+    "correctAnswer": 2,
+    "options": [
+      1,
+      2,
+      3,
+      0
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 6,
+    "targetCount2": 4,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l08-q037",
+    "gameId": "level_8",
+    "type": "level_8",
+    "prompt": "Có 7 quả bóng, dùng hết 5. Còn lại mấy quả bóng?",
+    "correctAnswer": 2,
+    "options": [
+      1,
+      2,
+      3,
+      0
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 7,
+    "targetCount2": 5,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l08-q038",
+    "gameId": "level_8",
+    "type": "level_8",
+    "prompt": "Hộp có 6 quả chuối, lấy ra 2. Còn lại bao nhiêu?",
+    "correctAnswer": 4,
+    "options": [
+      3,
+      1,
+      4,
+      2
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 6,
+    "targetCount2": 2,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l08-q039",
+    "gameId": "level_8",
+    "type": "level_8",
+    "prompt": "Có 6 quả bóng, dùng hết 2. Còn lại mấy quả bóng?",
+    "correctAnswer": 4,
+    "options": [
+      1,
+      3,
+      4,
+      2
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 6,
+    "targetCount2": 2,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l08-q040",
+    "gameId": "level_8",
+    "type": "level_8",
+    "prompt": "Hộp có 6 quả táo, lấy ra 1. Còn lại bao nhiêu?",
+    "correctAnswer": 5,
+    "options": [
+      2,
+      3,
+      5,
+      4
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 6,
+    "targetCount2": 1,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l08-q041",
+    "gameId": "level_8",
+    "type": "level_8",
+    "prompt": "Có 7 quả bóng, dùng hết 5. Còn lại mấy quả bóng?",
+    "correctAnswer": 2,
+    "options": [
+      1,
+      3,
+      0,
+      2
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 7,
+    "targetCount2": 5,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l08-q042",
+    "gameId": "level_8",
+    "type": "level_8",
+    "prompt": "Có 6 quả bóng, dùng hết 4. Còn lại mấy quả bóng?",
+    "correctAnswer": 2,
+    "options": [
+      2,
+      1,
+      3,
+      0
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 6,
+    "targetCount2": 4,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l08-q043",
+    "gameId": "level_8",
+    "type": "level_8",
+    "prompt": "Có 9 viên kẹo, dùng hết 4. Còn lại mấy viên kẹo?",
+    "correctAnswer": 5,
+    "options": [
+      5,
+      3,
+      2,
+      4
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 9,
+    "targetCount2": 4,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l08-q044",
+    "gameId": "level_8",
+    "type": "level_8",
+    "prompt": "Hộp có 9 viên kẹo, lấy ra 4. Còn lại bao nhiêu?",
+    "correctAnswer": 5,
+    "options": [
+      2,
+      4,
+      3,
+      5
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 9,
+    "targetCount2": 4,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l08-q045",
+    "gameId": "level_8",
+    "type": "level_8",
+    "prompt": "Hộp có 9 viên kẹo, lấy ra 3. Còn lại bao nhiêu?",
+    "correctAnswer": 6,
+    "options": [
+      3,
+      6,
+      4,
+      5
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 9,
+    "targetCount2": 3,
     "renderMode": "subtraction",
     "displayPrompt": null
   },
@@ -846,95 +858,95 @@
     "id": "l08-q046",
     "gameId": "level_8",
     "type": "level_8",
-    "prompt": "Có 10 quả bóng, dùng hết 8. Còn lại mấy quả bóng?",
-    "correctAnswer": 2,
+    "prompt": "9 - ? = 1",
+    "correctAnswer": 8,
     "options": [
-      3,
       2,
       0,
-      1
+      8,
+      3
     ],
-    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
-    "targetCount": 10,
-    "targetCount2": 8,
-    "renderMode": "subtraction",
+    "targetCount": 9,
+    "targetCount2": 0,
+    "renderMode": "single",
     "displayPrompt": null
   },
   {
     "id": "l08-q047",
     "gameId": "level_8",
     "type": "level_8",
-    "prompt": "Hộp có 5 chiếc bánh, lấy ra 1. Còn lại bao nhiêu?",
-    "correctAnswer": 4,
+    "prompt": "4 - ? = 3",
+    "correctAnswer": 1,
     "options": [
       1,
-      3,
-      4,
+      0,
+      1,
       2
     ],
-    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
-    "targetCount": 5,
-    "targetCount2": 1,
-    "renderMode": "subtraction",
+    "targetCount": 4,
+    "targetCount2": 0,
+    "renderMode": "single",
     "displayPrompt": null
   },
   {
     "id": "l08-q048",
     "gameId": "level_8",
     "type": "level_8",
-    "prompt": "Hộp có 8 viên kẹo, lấy ra 2. Còn lại bao nhiêu?",
-    "correctAnswer": 6,
+    "prompt": "7 - ? = 5",
+    "correctAnswer": 2,
     "options": [
-      5,
+      2,
       4,
       3,
-      6
+      2
     ],
-    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
-    "targetCount": 8,
-    "targetCount2": 2,
-    "renderMode": "subtraction",
+    "targetCount": 7,
+    "targetCount2": 0,
+    "renderMode": "single",
     "displayPrompt": null
   },
   {
     "id": "l08-q049",
     "gameId": "level_8",
     "type": "level_8",
-    "prompt": "Hộp có 7 chiếc bánh, lấy ra 3. Còn lại bao nhiêu?",
-    "correctAnswer": 4,
+    "prompt": "10 - ? = 7",
+    "correctAnswer": 3,
     "options": [
+      6,
       3,
-      4,
-      1,
-      2
+      5,
+      4
     ],
-    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
-    "targetCount": 7,
-    "targetCount2": 3,
-    "renderMode": "subtraction",
+    "targetCount": 10,
+    "targetCount2": 0,
+    "renderMode": "single",
     "displayPrompt": null
   },
   {
     "id": "l08-q050",
     "gameId": "level_8",
     "type": "level_8",
-    "prompt": "Hộp có 3 chiếc bánh, lấy ra 2. Còn lại bao nhiêu?",
-    "correctAnswer": 1,
+    "prompt": "9 - ? = 2",
+    "correctAnswer": 7,
     "options": [
-      0,
       1,
-      2,
-      3
+      7,
+      3,
+      0
     ],
-    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
-    "targetCount": 3,
-    "targetCount2": 2,
-    "renderMode": "subtraction",
+    "targetCount": 9,
+    "targetCount2": 0,
+    "renderMode": "single",
     "displayPrompt": null
   }
 ]

@@ -3,17 +3,17 @@
     "id": "l27-q001",
     "gameId": "level_27",
     "type": "level_27",
-    "prompt": "Điền số còn thiếu: 15, ?, 17, 18",
-    "correctAnswer": 16,
+    "prompt": "Hình nào có 4 cạnh?",
+    "correctAnswer": "hình vuông",
     "options": [
-      17,
-      15,
-      14,
-      16
+      "hình tam giác",
+      "hình vuông",
+      "hình tròn",
+      "hình chữ nhật"
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
-    "targetCount": 16,
+    "targetCount": 0,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
@@ -22,13 +22,673 @@
     "id": "l27-q002",
     "gameId": "level_27",
     "type": "level_27",
-    "prompt": "Điền số còn thiếu: 11, 12, 13, 14, ?",
+    "prompt": "Hình tròn có mấy cạnh?",
+    "correctAnswer": 0,
+    "options": [
+      0,
+      4,
+      3
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 0,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l27-q003",
+    "gameId": "level_27",
+    "type": "level_27",
+    "prompt": "Hình nào có 4 cạnh?",
+    "correctAnswer": "hình chữ nhật",
+    "options": [
+      "hình chữ nhật",
+      "hình chữ nhật",
+      "hình tam giác",
+      "hình tròn"
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 0,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l27-q004",
+    "gameId": "level_27",
+    "type": "level_27",
+    "prompt": "Hình tròn có mấy cạnh?",
+    "correctAnswer": 0,
+    "options": [
+      0,
+      3,
+      4
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 0,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l27-q005",
+    "gameId": "level_27",
+    "type": "level_27",
+    "prompt": "Hình chữ nhật có mấy cạnh?",
+    "correctAnswer": 4,
+    "options": [
+      4,
+      3,
+      0
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 0,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l27-q006",
+    "gameId": "level_27",
+    "type": "level_27",
+    "prompt": "Hình tròn có mấy cạnh?",
+    "correctAnswer": 0,
+    "options": [
+      3,
+      0,
+      4
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 0,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l27-q007",
+    "gameId": "level_27",
+    "type": "level_27",
+    "prompt": "Hình tròn có mấy cạnh?",
+    "correctAnswer": 0,
+    "options": [
+      3,
+      4,
+      0
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 0,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l27-q008",
+    "gameId": "level_27",
+    "type": "level_27",
+    "prompt": "Hình nào có 4 cạnh?",
+    "correctAnswer": "hình vuông",
+    "options": [
+      "hình tròn",
+      "hình chữ nhật",
+      "hình tam giác",
+      "hình vuông"
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 0,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l27-q009",
+    "gameId": "level_27",
+    "type": "level_27",
+    "prompt": "Hình tam giác có mấy cạnh?",
+    "correctAnswer": 3,
+    "options": [
+      4,
+      0,
+      3
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 0,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l27-q010",
+    "gameId": "level_27",
+    "type": "level_27",
+    "prompt": "Hình vuông có mấy cạnh?",
+    "correctAnswer": 4,
+    "options": [
+      3,
+      0,
+      4
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 0,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l27-q011",
+    "gameId": "level_27",
+    "type": "level_27",
+    "prompt": "Hình nào có 4 cạnh?",
+    "correctAnswer": "hình chữ nhật",
+    "options": [
+      "hình chữ nhật",
+      "hình tròn",
+      "hình tam giác",
+      "hình chữ nhật"
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 0,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l27-q012",
+    "gameId": "level_27",
+    "type": "level_27",
+    "prompt": "Hình nào có 4 cạnh?",
+    "correctAnswer": "hình vuông",
+    "options": [
+      "hình vuông",
+      "hình tam giác",
+      "hình chữ nhật",
+      "hình tròn"
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 0,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l27-q013",
+    "gameId": "level_27",
+    "type": "level_27",
+    "prompt": "Hình tam giác có mấy cạnh?",
+    "correctAnswer": 3,
+    "options": [
+      0,
+      4,
+      3
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 0,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l27-q014",
+    "gameId": "level_27",
+    "type": "level_27",
+    "prompt": "Hình tam giác có mấy cạnh?",
+    "correctAnswer": 3,
+    "options": [
+      0,
+      4,
+      3
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 0,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l27-q015",
+    "gameId": "level_27",
+    "type": "level_27",
+    "prompt": "Hình tròn có mấy cạnh?",
+    "correctAnswer": 0,
+    "options": [
+      4,
+      3,
+      0
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 0,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l27-q016",
+    "gameId": "level_27",
+    "type": "level_27",
+    "prompt": "Hình vuông có mấy cạnh?",
+    "correctAnswer": 4,
+    "options": [
+      3,
+      4,
+      0
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 0,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l27-q017",
+    "gameId": "level_27",
+    "type": "level_27",
+    "prompt": "Hình tam giác có mấy cạnh?",
+    "correctAnswer": 3,
+    "options": [
+      0,
+      4,
+      3
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 0,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l27-q018",
+    "gameId": "level_27",
+    "type": "level_27",
+    "prompt": "Hình tròn có mấy cạnh?",
+    "correctAnswer": 0,
+    "options": [
+      3,
+      0,
+      4
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 0,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l27-q019",
+    "gameId": "level_27",
+    "type": "level_27",
+    "prompt": "Hình tam giác có mấy cạnh?",
+    "correctAnswer": 3,
+    "options": [
+      0,
+      4,
+      3
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 0,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l27-q020",
+    "gameId": "level_27",
+    "type": "level_27",
+    "prompt": "Hình nào có 3 cạnh?",
+    "correctAnswer": "hình tam giác",
+    "options": [
+      "hình tròn",
+      "hình tam giác",
+      "hình chữ nhật",
+      "hình vuông"
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 0,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l27-q021",
+    "gameId": "level_27",
+    "type": "level_27",
+    "prompt": "Hình chữ nhật có mấy cạnh?",
+    "correctAnswer": 4,
+    "options": [
+      0,
+      4,
+      3
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 0,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l27-q022",
+    "gameId": "level_27",
+    "type": "level_27",
+    "prompt": "Hình tròn có mấy cạnh?",
+    "correctAnswer": 0,
+    "options": [
+      0,
+      3,
+      4
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 0,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l27-q023",
+    "gameId": "level_27",
+    "type": "level_27",
+    "prompt": "Hình chữ nhật có mấy cạnh?",
+    "correctAnswer": 4,
+    "options": [
+      3,
+      0,
+      4
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 0,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l27-q024",
+    "gameId": "level_27",
+    "type": "level_27",
+    "prompt": "Hình nào có 4 cạnh?",
+    "correctAnswer": "hình chữ nhật",
+    "options": [
+      "hình tròn",
+      "hình chữ nhật",
+      "hình chữ nhật",
+      "hình tam giác"
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 0,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l27-q025",
+    "gameId": "level_27",
+    "type": "level_27",
+    "prompt": "Hình nào có 4 cạnh?",
+    "correctAnswer": "hình vuông",
+    "options": [
+      "hình tam giác",
+      "hình tròn",
+      "hình chữ nhật",
+      "hình vuông"
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 0,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l27-q026",
+    "gameId": "level_27",
+    "type": "level_27",
+    "prompt": "Hình vuông có mấy cạnh?",
+    "correctAnswer": 4,
+    "options": [
+      3,
+      0,
+      4
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 0,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l27-q027",
+    "gameId": "level_27",
+    "type": "level_27",
+    "prompt": "Hình vuông có mấy cạnh?",
+    "correctAnswer": 4,
+    "options": [
+      3,
+      4,
+      0
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 0,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l27-q028",
+    "gameId": "level_27",
+    "type": "level_27",
+    "prompt": "Hình tam giác có mấy cạnh?",
+    "correctAnswer": 3,
+    "options": [
+      3,
+      0,
+      4
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 0,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l27-q029",
+    "gameId": "level_27",
+    "type": "level_27",
+    "prompt": "Hình nào có 3 cạnh?",
+    "correctAnswer": "hình tam giác",
+    "options": [
+      "hình vuông",
+      "hình tròn",
+      "hình chữ nhật",
+      "hình tam giác"
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 0,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l27-q030",
+    "gameId": "level_27",
+    "type": "level_27",
+    "prompt": "Hình tam giác có mấy cạnh?",
+    "correctAnswer": 3,
+    "options": [
+      4,
+      0,
+      3
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 0,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l27-q031",
+    "gameId": "level_27",
+    "type": "level_27",
+    "prompt": "Hình chữ nhật có mấy cạnh?",
+    "correctAnswer": 4,
+    "options": [
+      4,
+      0,
+      3
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 0,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l27-q032",
+    "gameId": "level_27",
+    "type": "level_27",
+    "prompt": "Hình tam giác có mấy cạnh?",
+    "correctAnswer": 3,
+    "options": [
+      3,
+      0,
+      4
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 0,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l27-q033",
+    "gameId": "level_27",
+    "type": "level_27",
+    "prompt": "Hình vuông có mấy cạnh?",
+    "correctAnswer": 4,
+    "options": [
+      3,
+      0,
+      4
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 0,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l27-q034",
+    "gameId": "level_27",
+    "type": "level_27",
+    "prompt": "Hình nào có 3 cạnh?",
+    "correctAnswer": "hình tam giác",
+    "options": [
+      "hình vuông",
+      "hình tam giác",
+      "hình chữ nhật",
+      "hình tròn"
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 0,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l27-q035",
+    "gameId": "level_27",
+    "type": "level_27",
+    "prompt": "Hình nào có 4 cạnh?",
+    "correctAnswer": "hình chữ nhật",
+    "options": [
+      "hình tam giác",
+      "hình chữ nhật",
+      "hình chữ nhật",
+      "hình tròn"
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 0,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l27-q036",
+    "gameId": "level_27",
+    "type": "level_27",
+    "prompt": "Tìm số 14 trong các thẻ dưới đây!",
+    "correctAnswer": 14,
+    "options": [
+      14,
+      12,
+      11,
+      13
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 14,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l27-q037",
+    "gameId": "level_27",
+    "type": "level_27",
+    "prompt": "Chọn đúng số 20 nhé!",
+    "correctAnswer": 20,
+    "options": [
+      20,
+      18,
+      19,
+      17
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 20,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l27-q038",
+    "gameId": "level_27",
+    "type": "level_27",
+    "prompt": "Tìm số 15 trong các thẻ dưới đây!",
     "correctAnswer": 15,
     "options": [
+      14,
       12,
-      13,
       15,
-      14
+      13
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
@@ -38,567 +698,16 @@
     "displayPrompt": null
   },
   {
-    "id": "l27-q003",
+    "id": "l27-q039",
     "gameId": "level_27",
     "type": "level_27",
-    "prompt": "Điền số còn thiếu: 12, ?, 14, 15",
-    "correctAnswer": 13,
-    "options": [
-      12,
-      11,
-      14,
-      13
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 13,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l27-q004",
-    "gameId": "level_27",
-    "type": "level_27",
-    "prompt": "Điền số còn thiếu: 13, ?, 15, 16",
-    "correctAnswer": 14,
-    "options": [
-      13,
-      14,
-      15,
-      12
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 14,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l27-q005",
-    "gameId": "level_27",
-    "type": "level_27",
-    "prompt": "Điền số còn thiếu: 9, 10, ?",
-    "correctAnswer": 11,
-    "options": [
-      11,
-      8,
-      10,
-      9
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 11,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l27-q006",
-    "gameId": "level_27",
-    "type": "level_27",
-    "prompt": "Điền số còn thiếu: 9, 10, ?",
-    "correctAnswer": 11,
-    "options": [
-      10,
-      8,
-      9,
-      11
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 11,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l27-q007",
-    "gameId": "level_27",
-    "type": "level_27",
-    "prompt": "Điền số còn thiếu: 14, 15, ?, 17, 18",
-    "correctAnswer": 16,
-    "options": [
-      13,
-      16,
-      15,
-      14
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 16,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l27-q008",
-    "gameId": "level_27",
-    "type": "level_27",
-    "prompt": "Điền số còn thiếu: 14, 15, ?, 17",
-    "correctAnswer": 16,
-    "options": [
-      16,
-      15,
-      13,
-      14
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 16,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l27-q009",
-    "gameId": "level_27",
-    "type": "level_27",
-    "prompt": "Điền số còn thiếu: 3, ?, 5",
-    "correctAnswer": 4,
-    "options": [
-      2,
-      3,
-      4,
-      5
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 4,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l27-q010",
-    "gameId": "level_27",
-    "type": "level_27",
-    "prompt": "Điền số còn thiếu: 17, 18, ?",
-    "correctAnswer": 19,
-    "options": [
-      18,
-      19,
-      17,
-      16
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 19,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l27-q011",
-    "gameId": "level_27",
-    "type": "level_27",
-    "prompt": "Điền số còn thiếu: 7, 8, 9, 10, ?",
-    "correctAnswer": 11,
-    "options": [
-      9,
-      11,
-      10,
-      8
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 11,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l27-q012",
-    "gameId": "level_27",
-    "type": "level_27",
-    "prompt": "Điền số còn thiếu: 16, ?, 18, 19, 20",
-    "correctAnswer": 17,
-    "options": [
-      15,
-      18,
-      16,
-      17
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 17,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l27-q013",
-    "gameId": "level_27",
-    "type": "level_27",
-    "prompt": "Điền số còn thiếu: 11, 12, ?",
-    "correctAnswer": 13,
-    "options": [
-      13,
-      10,
-      11,
-      12
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 13,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l27-q014",
-    "gameId": "level_27",
-    "type": "level_27",
-    "prompt": "Điền số còn thiếu: 12, ?, 14, 15, 16",
-    "correctAnswer": 13,
-    "options": [
-      11,
-      13,
-      12,
-      14
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 13,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l27-q015",
-    "gameId": "level_27",
-    "type": "level_27",
-    "prompt": "Điền số còn thiếu: 8, 9, ?, 11, 12",
-    "correctAnswer": 10,
-    "options": [
-      7,
-      8,
-      10,
-      9
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 10,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l27-q016",
-    "gameId": "level_27",
-    "type": "level_27",
-    "prompt": "Điền số còn thiếu: 10, 11, 12, ?, 14",
-    "correctAnswer": 13,
-    "options": [
-      11,
-      10,
-      12,
-      13
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 13,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l27-q017",
-    "gameId": "level_27",
-    "type": "level_27",
-    "prompt": "Điền số còn thiếu: 12, 13, ?, 15",
-    "correctAnswer": 14,
-    "options": [
-      12,
-      14,
-      13,
-      11
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 14,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l27-q018",
-    "gameId": "level_27",
-    "type": "level_27",
-    "prompt": "Điền số còn thiếu: 11, ?, 13, 14",
-    "correctAnswer": 12,
-    "options": [
-      11,
-      10,
-      12,
-      13
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 12,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l27-q019",
-    "gameId": "level_27",
-    "type": "level_27",
-    "prompt": "Số nào là số chẵn?",
-    "correctAnswer": 8,
-    "options": [
-      15,
-      13,
-      1,
-      8
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 8,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l27-q020",
-    "gameId": "level_27",
-    "type": "level_27",
-    "prompt": "Số nào là số chẵn?",
-    "correctAnswer": 12,
-    "options": [
-      3,
-      12,
-      5,
-      7
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 12,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l27-q021",
-    "gameId": "level_27",
-    "type": "level_27",
-    "prompt": "Số nào là số chẵn?",
-    "correctAnswer": 16,
-    "options": [
-      1,
-      7,
-      16,
-      3
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 16,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l27-q022",
-    "gameId": "level_27",
-    "type": "level_27",
-    "prompt": "Số nào là số lẻ?",
-    "correctAnswer": 17,
-    "options": [
-      6,
-      16,
-      17,
-      10
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 17,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l27-q023",
-    "gameId": "level_27",
-    "type": "level_27",
-    "prompt": "Số nào là số lẻ?",
-    "correctAnswer": 13,
-    "options": [
-      13,
-      8,
-      12,
-      14
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 13,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l27-q024",
-    "gameId": "level_27",
-    "type": "level_27",
-    "prompt": "Số nào là số lẻ?",
-    "correctAnswer": 7,
-    "options": [
-      12,
-      7,
-      16,
-      14
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 7,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l27-q025",
-    "gameId": "level_27",
-    "type": "level_27",
-    "prompt": "Số nào là số chẵn?",
-    "correctAnswer": 20,
-    "options": [
-      13,
-      20,
-      19,
-      5
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 20,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l27-q026",
-    "gameId": "level_27",
-    "type": "level_27",
-    "prompt": "Số nào là số chẵn?",
-    "correctAnswer": 2,
-    "options": [
-      3,
-      2,
-      1,
-      17
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 2,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l27-q027",
-    "gameId": "level_27",
-    "type": "level_27",
-    "prompt": "Số nào là số chẵn?",
-    "correctAnswer": 20,
-    "options": [
-      20,
-      11,
-      1,
-      15
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 20,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l27-q028",
-    "gameId": "level_27",
-    "type": "level_27",
-    "prompt": "Số nào là số chẵn?",
-    "correctAnswer": 4,
-    "options": [
-      4,
-      7,
-      5,
-      3
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 4,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l27-q029",
-    "gameId": "level_27",
-    "type": "level_27",
-    "prompt": "Số nào là số chẵn?",
-    "correctAnswer": 12,
-    "options": [
-      5,
-      7,
-      11,
-      12
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 12,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l27-q030",
-    "gameId": "level_27",
-    "type": "level_27",
-    "prompt": "Số nào là số chẵn?",
-    "correctAnswer": 12,
-    "options": [
-      11,
-      7,
-      13,
-      12
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 12,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l27-q031",
-    "gameId": "level_27",
-    "type": "level_27",
-    "prompt": "Số nào là số lẻ?",
-    "correctAnswer": 17,
-    "options": [
-      17,
-      12,
-      2,
-      10
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 17,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l27-q032",
-    "gameId": "level_27",
-    "type": "level_27",
-    "prompt": "Số nào là số lẻ?",
+    "prompt": "Chọn đúng số 1 nhé!",
     "correctAnswer": 1,
     "options": [
-      6,
-      1,
       2,
-      16
+      3,
+      0,
+      1
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
@@ -608,91 +717,34 @@
     "displayPrompt": null
   },
   {
-    "id": "l27-q033",
+    "id": "l27-q040",
     "gameId": "level_27",
     "type": "level_27",
-    "prompt": "Số nào là số chẵn?",
-    "correctAnswer": 8,
+    "prompt": "Bé hãy chọn thẻ số 16!",
+    "correctAnswer": 16,
     "options": [
+      16,
+      14,
       15,
-      8,
-      3,
-      11
+      13
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
-    "targetCount": 8,
+    "targetCount": 16,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
   },
   {
-    "id": "l27-q034",
+    "id": "l27-q041",
     "gameId": "level_27",
     "type": "level_27",
-    "prompt": "Số nào là số chẵn?",
-    "correctAnswer": 12,
+    "prompt": "Chọn đúng số 7 nhé!",
+    "correctAnswer": 7,
     "options": [
-      5,
-      9,
-      12,
-      11
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 12,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l27-q035",
-    "gameId": "level_27",
-    "type": "level_27",
-    "prompt": "12 - ? = 8",
-    "correctAnswer": 4,
-    "options": [
-      4,
       7,
       6,
-      5
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 12,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l27-q036",
-    "gameId": "level_27",
-    "type": "level_27",
-    "prompt": "2 - ? = 1",
-    "correctAnswer": 1,
-    "options": [
-      2,
-      1,
-      0,
-      3
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 2,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l27-q037",
-    "gameId": "level_27",
-    "type": "level_27",
-    "prompt": "7 - ? = 3",
-    "correctAnswer": 4,
-    "options": [
-      0,
-      2,
-      1,
+      5,
       4
     ],
     "objectIcon": "/icons/star_icon.png",
@@ -703,96 +755,20 @@
     "displayPrompt": null
   },
   {
-    "id": "l27-q038",
-    "gameId": "level_27",
-    "type": "level_27",
-    "prompt": "13 - ? = 5",
-    "correctAnswer": 8,
-    "options": [
-      3,
-      8,
-      2,
-      4
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 13,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l27-q039",
-    "gameId": "level_27",
-    "type": "level_27",
-    "prompt": "9 - ? = 1",
-    "correctAnswer": 8,
-    "options": [
-      0,
-      3,
-      2,
-      8
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 9,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l27-q040",
-    "gameId": "level_27",
-    "type": "level_27",
-    "prompt": "18 - ? = 1",
-    "correctAnswer": 17,
-    "options": [
-      2,
-      17,
-      3,
-      0
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 18,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l27-q041",
-    "gameId": "level_27",
-    "type": "level_27",
-    "prompt": "2 - ? = 1",
-    "correctAnswer": 1,
-    "options": [
-      2,
-      0,
-      1,
-      3
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 2,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
     "id": "l27-q042",
     "gameId": "level_27",
     "type": "level_27",
-    "prompt": "5 - ? = 2",
-    "correctAnswer": 3,
+    "prompt": "Chọn đúng số 14 nhé!",
+    "correctAnswer": 14,
     "options": [
-      0,
-      3,
-      3,
-      1
+      14,
+      12,
+      11,
+      13
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
-    "targetCount": 5,
+    "targetCount": 14,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
@@ -801,32 +777,13 @@
     "id": "l27-q043",
     "gameId": "level_27",
     "type": "level_27",
-    "prompt": "10 - ? = 2",
-    "correctAnswer": 8,
+    "prompt": "Tìm số 19 trong các thẻ dưới đây!",
+    "correctAnswer": 19,
     "options": [
-      3,
-      8,
-      1,
-      0
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 10,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l27-q044",
-    "gameId": "level_27",
-    "type": "level_27",
-    "prompt": "19 - ? = 17",
-    "correctAnswer": 2,
-    "options": [
-      15,
-      16,
-      2,
-      14
+      18,
+      17,
+      19,
+      16
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
@@ -836,20 +793,39 @@
     "displayPrompt": null
   },
   {
-    "id": "l27-q045",
+    "id": "l27-q044",
     "gameId": "level_27",
     "type": "level_27",
-    "prompt": "11 - ? = 4",
-    "correctAnswer": 7,
+    "prompt": "Tìm số 8 trong các thẻ dưới đây!",
+    "correctAnswer": 8,
     "options": [
-      3,
-      2,
-      1,
+      6,
+      5,
+      8,
       7
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
-    "targetCount": 11,
+    "targetCount": 8,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l27-q045",
+    "gameId": "level_27",
+    "type": "level_27",
+    "prompt": "Tìm số 17 trong các thẻ dưới đây!",
+    "correctAnswer": 17,
+    "options": [
+      14,
+      16,
+      17,
+      15
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 17,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
@@ -858,17 +834,17 @@
     "id": "l27-q046",
     "gameId": "level_27",
     "type": "level_27",
-    "prompt": "16 - ? = 4",
-    "correctAnswer": 12,
+    "prompt": "Bé hãy chọn thẻ số 1!",
+    "correctAnswer": 1,
     "options": [
-      12,
-      2,
       3,
-      1
+      2,
+      1,
+      0
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
-    "targetCount": 16,
+    "targetCount": 1,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
@@ -877,17 +853,17 @@
     "id": "l27-q047",
     "gameId": "level_27",
     "type": "level_27",
-    "prompt": "13 - ? = 6",
+    "prompt": "Chọn đúng số 7 nhé!",
     "correctAnswer": 7,
     "options": [
-      4,
       5,
-      3,
-      7
+      7,
+      6,
+      4
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
-    "targetCount": 13,
+    "targetCount": 7,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
@@ -896,17 +872,17 @@
     "id": "l27-q048",
     "gameId": "level_27",
     "type": "level_27",
-    "prompt": "10 - ? = 4",
-    "correctAnswer": 6,
+    "prompt": "Bé hãy chọn thẻ số 4!",
+    "correctAnswer": 4,
     "options": [
-      3,
-      6,
+      4,
+      2,
       1,
-      2
+      3
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
-    "targetCount": 10,
+    "targetCount": 4,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
@@ -915,17 +891,17 @@
     "id": "l27-q049",
     "gameId": "level_27",
     "type": "level_27",
-    "prompt": "2 - ? = 1",
-    "correctAnswer": 1,
+    "prompt": "Tìm số 12 trong các thẻ dưới đây!",
+    "correctAnswer": 12,
     "options": [
-      0,
-      2,
-      3,
-      1
+      11,
+      12,
+      10,
+      9
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
-    "targetCount": 2,
+    "targetCount": 12,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
@@ -934,13 +910,13 @@
     "id": "l27-q050",
     "gameId": "level_27",
     "type": "level_27",
-    "prompt": "17 - ? = 10",
-    "correctAnswer": 7,
+    "prompt": "Bé hãy chọn thẻ số 17!",
+    "correctAnswer": 17,
     "options": [
-      9,
-      7,
-      8,
-      7
+      16,
+      15,
+      14,
+      17
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",

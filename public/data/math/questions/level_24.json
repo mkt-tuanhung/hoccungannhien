@@ -3,17 +3,17 @@
     "id": "l24-q001",
     "gameId": "level_24",
     "type": "level_24",
-    "prompt": "Minh có 19 quả cam, mẹ cho thêm 1. Có tất cả bao nhiêu?",
-    "correctAnswer": 20,
+    "prompt": "Buổi sáng có 14 quả táo, buổi chiều thêm 1 quả táo. Tất cả là bao nhiêu?",
+    "correctAnswer": 15,
     "options": [
-      19,
-      20,
-      18,
-      17
+      14,
+      12,
+      13,
+      15
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
-    "targetCount": 19,
+    "targetCount": 14,
     "targetCount2": 1,
     "renderMode": "addition",
     "displayPrompt": null
@@ -22,70 +22,13 @@
     "id": "l24-q002",
     "gameId": "level_24",
     "type": "level_24",
-    "prompt": "Buổi sáng có 4 quả chuối, buổi chiều thêm 5 quả chuối. Tất cả là bao nhiêu?",
-    "correctAnswer": 9,
-    "options": [
-      7,
-      8,
-      6,
-      9
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 4,
-    "targetCount2": 5,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l24-q003",
-    "gameId": "level_24",
-    "type": "level_24",
-    "prompt": "Mai có 5 viên kẹo, mẹ cho thêm 3. Có tất cả bao nhiêu?",
-    "correctAnswer": 8,
-    "options": [
-      7,
-      8,
-      5,
-      6
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 5,
-    "targetCount2": 3,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l24-q004",
-    "gameId": "level_24",
-    "type": "level_24",
-    "prompt": "Buổi sáng có 10 chiếc bánh, buổi chiều thêm 8 chiếc bánh. Tất cả là bao nhiêu?",
-    "correctAnswer": 18,
-    "options": [
-      15,
-      17,
-      16,
-      18
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 10,
-    "targetCount2": 8,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l24-q005",
-    "gameId": "level_24",
-    "type": "level_24",
-    "prompt": "Buổi sáng có 18 quả bóng, buổi chiều thêm 2 quả bóng. Tất cả là bao nhiêu?",
+    "prompt": "Minh nhặt được 18 quả dâu rồi nhặt thêm 2 quả dâu. Có tất cả mấy quả dâu?",
     "correctAnswer": 20,
     "options": [
       17,
-      18,
+      20,
       19,
-      20
+      18
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
@@ -95,15 +38,91 @@
     "displayPrompt": null
   },
   {
+    "id": "l24-q003",
+    "gameId": "level_24",
+    "type": "level_24",
+    "prompt": "Buổi sáng có 9 quả táo, buổi chiều thêm 7 quả táo. Tất cả là bao nhiêu?",
+    "correctAnswer": 16,
+    "options": [
+      14,
+      13,
+      16,
+      15
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 9,
+    "targetCount2": 7,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l24-q004",
+    "gameId": "level_24",
+    "type": "level_24",
+    "prompt": "Linh có 15 quả cam, mẹ cho thêm 5. Có tất cả bao nhiêu?",
+    "correctAnswer": 20,
+    "options": [
+      17,
+      20,
+      18,
+      19
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 15,
+    "targetCount2": 5,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l24-q005",
+    "gameId": "level_24",
+    "type": "level_24",
+    "prompt": "Linh có 17 bông hoa, mẹ cho thêm 1. Có tất cả bao nhiêu?",
+    "correctAnswer": 18,
+    "options": [
+      16,
+      17,
+      18,
+      15
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 17,
+    "targetCount2": 1,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
     "id": "l24-q006",
     "gameId": "level_24",
     "type": "level_24",
-    "prompt": "Nam có 4 quả cam, mẹ cho thêm 10. Có tất cả bao nhiêu?",
+    "prompt": "Buổi sáng có 6 quả cam, buổi chiều thêm 14 quả cam. Tất cả là bao nhiêu?",
+    "correctAnswer": 20,
+    "options": [
+      17,
+      19,
+      18,
+      20
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 6,
+    "targetCount2": 14,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l24-q007",
+    "gameId": "level_24",
+    "type": "level_24",
+    "prompt": "Buổi sáng có 4 viên kẹo, buổi chiều thêm 10 viên kẹo. Tất cả là bao nhiêu?",
     "correctAnswer": 14,
     "options": [
       13,
-      14,
       11,
+      14,
       12
     ],
     "objectIcon": "/icons/apple_icon.png",
@@ -114,40 +133,21 @@
     "displayPrompt": null
   },
   {
-    "id": "l24-q007",
-    "gameId": "level_24",
-    "type": "level_24",
-    "prompt": "Lan nhặt được 6 chiếc bánh rồi nhặt thêm 7 chiếc bánh. Có tất cả mấy chiếc bánh?",
-    "correctAnswer": 13,
-    "options": [
-      11,
-      12,
-      13,
-      10
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 6,
-    "targetCount2": 7,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
     "id": "l24-q008",
     "gameId": "level_24",
     "type": "level_24",
-    "prompt": "Minh nhặt được 3 bông hoa rồi nhặt thêm 15 bông hoa. Có tất cả mấy bông hoa?",
-    "correctAnswer": 18,
+    "prompt": "Bình có 13 quả dâu, mẹ cho thêm 7. Có tất cả bao nhiêu?",
+    "correctAnswer": 20,
     "options": [
       18,
-      15,
+      20,
       17,
-      16
+      19
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
-    "targetCount": 3,
-    "targetCount2": 15,
+    "targetCount": 13,
+    "targetCount2": 7,
     "renderMode": "addition",
     "displayPrompt": null
   },
@@ -155,18 +155,18 @@
     "id": "l24-q009",
     "gameId": "level_24",
     "type": "level_24",
-    "prompt": "Minh có 9 quả dâu, mẹ cho thêm 5. Có tất cả bao nhiêu?",
-    "correctAnswer": 14,
+    "prompt": "Buổi sáng có 16 quả chuối, buổi chiều thêm 2 quả chuối. Tất cả là bao nhiêu?",
+    "correctAnswer": 18,
     "options": [
-      14,
-      12,
-      13,
-      11
+      15,
+      16,
+      18,
+      17
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
-    "targetCount": 9,
-    "targetCount2": 5,
+    "targetCount": 16,
+    "targetCount2": 2,
     "renderMode": "addition",
     "displayPrompt": null
   },
@@ -174,18 +174,18 @@
     "id": "l24-q010",
     "gameId": "level_24",
     "type": "level_24",
-    "prompt": "Nam có 9 bông hoa, mẹ cho thêm 4. Có tất cả bao nhiêu?",
-    "correctAnswer": 13,
+    "prompt": "Hoa nhặt được 18 quả cam rồi nhặt thêm 2 quả cam. Có tất cả mấy quả cam?",
+    "correctAnswer": 20,
     "options": [
-      11,
-      10,
-      12,
-      13
+      17,
+      18,
+      20,
+      19
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
-    "targetCount": 9,
-    "targetCount2": 4,
+    "targetCount": 18,
+    "targetCount2": 2,
     "renderMode": "addition",
     "displayPrompt": null
   },
@@ -193,18 +193,18 @@
     "id": "l24-q011",
     "gameId": "level_24",
     "type": "level_24",
-    "prompt": "Buổi sáng có 8 quả chuối, buổi chiều thêm 8 quả chuối. Tất cả là bao nhiêu?",
-    "correctAnswer": 16,
+    "prompt": "Buổi sáng có 10 quả bóng, buổi chiều thêm 3 quả bóng. Tất cả là bao nhiêu?",
+    "correctAnswer": 13,
     "options": [
-      14,
-      15,
+      11,
       13,
-      16
+      10,
+      12
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
-    "targetCount": 8,
-    "targetCount2": 8,
+    "targetCount": 10,
+    "targetCount2": 3,
     "renderMode": "addition",
     "displayPrompt": null
   },
@@ -212,17 +212,17 @@
     "id": "l24-q012",
     "gameId": "level_24",
     "type": "level_24",
-    "prompt": "Mai nhặt được 1 quả dâu rồi nhặt thêm 4 quả dâu. Có tất cả mấy quả dâu?",
-    "correctAnswer": 5,
+    "prompt": "Buổi sáng có 14 bông hoa, buổi chiều thêm 4 bông hoa. Tất cả là bao nhiêu?",
+    "correctAnswer": 18,
     "options": [
-      3,
-      5,
-      4,
-      2
+      15,
+      17,
+      16,
+      18
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
-    "targetCount": 1,
+    "targetCount": 14,
     "targetCount2": 4,
     "renderMode": "addition",
     "displayPrompt": null
@@ -231,18 +231,18 @@
     "id": "l24-q013",
     "gameId": "level_24",
     "type": "level_24",
-    "prompt": "Buổi sáng có 2 quả cam, buổi chiều thêm 11 quả cam. Tất cả là bao nhiêu?",
-    "correctAnswer": 13,
+    "prompt": "Buổi sáng có 10 quả cam, buổi chiều thêm 2 quả cam. Tất cả là bao nhiêu?",
+    "correctAnswer": 12,
     "options": [
-      13,
+      9,
       10,
       11,
       12
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
-    "targetCount": 2,
-    "targetCount2": 11,
+    "targetCount": 10,
+    "targetCount2": 2,
     "renderMode": "addition",
     "displayPrompt": null
   },
@@ -250,18 +250,18 @@
     "id": "l24-q014",
     "gameId": "level_24",
     "type": "level_24",
-    "prompt": "Nam có 13 bông hoa, mẹ cho thêm 2. Có tất cả bao nhiêu?",
+    "prompt": "Linh có 14 chiếc bánh, mẹ cho thêm 1. Có tất cả bao nhiêu?",
     "correctAnswer": 15,
     "options": [
-      12,
-      14,
       13,
-      15
+      15,
+      12,
+      14
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
-    "targetCount": 13,
-    "targetCount2": 2,
+    "targetCount": 14,
+    "targetCount2": 1,
     "renderMode": "addition",
     "displayPrompt": null
   },
@@ -269,18 +269,18 @@
     "id": "l24-q015",
     "gameId": "level_24",
     "type": "level_24",
-    "prompt": "Hoa có 4 quả dâu, mẹ cho thêm 1. Có tất cả bao nhiêu?",
-    "correctAnswer": 5,
+    "prompt": "Buổi sáng có 11 quả bóng, buổi chiều thêm 9 quả bóng. Tất cả là bao nhiêu?",
+    "correctAnswer": 20,
     "options": [
-      5,
-      3,
-      4,
-      2
+      19,
+      20,
+      17,
+      18
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
-    "targetCount": 4,
-    "targetCount2": 1,
+    "targetCount": 11,
+    "targetCount2": 9,
     "renderMode": "addition",
     "displayPrompt": null
   },
@@ -288,18 +288,18 @@
     "id": "l24-q016",
     "gameId": "level_24",
     "type": "level_24",
-    "prompt": "Buổi sáng có 4 chiếc bánh, buổi chiều thêm 9 chiếc bánh. Tất cả là bao nhiêu?",
-    "correctAnswer": 13,
+    "prompt": "Buổi sáng có 14 bông hoa, buổi chiều thêm 3 bông hoa. Tất cả là bao nhiêu?",
+    "correctAnswer": 17,
     "options": [
-      11,
-      10,
-      13,
-      12
+      17,
+      14,
+      15,
+      16
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
-    "targetCount": 4,
-    "targetCount2": 9,
+    "targetCount": 14,
+    "targetCount2": 3,
     "renderMode": "addition",
     "displayPrompt": null
   },
@@ -307,18 +307,18 @@
     "id": "l24-q017",
     "gameId": "level_24",
     "type": "level_24",
-    "prompt": "Buổi sáng có 12 quả chuối, buổi chiều thêm 3 quả chuối. Tất cả là bao nhiêu?",
-    "correctAnswer": 15,
+    "prompt": "Linh có 17 chiếc bánh, mẹ cho thêm 2. Có tất cả bao nhiêu?",
+    "correctAnswer": 19,
     "options": [
-      14,
-      13,
-      12,
-      15
+      16,
+      17,
+      18,
+      19
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
-    "targetCount": 12,
-    "targetCount2": 3,
+    "targetCount": 17,
+    "targetCount2": 2,
     "renderMode": "addition",
     "displayPrompt": null
   },
@@ -326,387 +326,7 @@
     "id": "l24-q018",
     "gameId": "level_24",
     "type": "level_24",
-    "prompt": "Buổi sáng có 2 quả bóng, buổi chiều thêm 17 quả bóng. Tất cả là bao nhiêu?",
-    "correctAnswer": 19,
-    "options": [
-      19,
-      16,
-      18,
-      17
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 2,
-    "targetCount2": 17,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l24-q019",
-    "gameId": "level_24",
-    "type": "level_24",
-    "prompt": "Minh có 18 quả chuối, mẹ cho thêm 1. Có tất cả bao nhiêu?",
-    "correctAnswer": 19,
-    "options": [
-      19,
-      17,
-      18,
-      16
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 18,
-    "targetCount2": 1,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l24-q020",
-    "gameId": "level_24",
-    "type": "level_24",
-    "prompt": "Lan nhặt được 5 chiếc bánh rồi nhặt thêm 9 chiếc bánh. Có tất cả mấy chiếc bánh?",
-    "correctAnswer": 14,
-    "options": [
-      13,
-      14,
-      11,
-      12
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 5,
-    "targetCount2": 9,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l24-q021",
-    "gameId": "level_24",
-    "type": "level_24",
-    "prompt": "Buổi sáng có 12 quả chuối, buổi chiều thêm 7 quả chuối. Tất cả là bao nhiêu?",
-    "correctAnswer": 19,
-    "options": [
-      19,
-      16,
-      18,
-      17
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 12,
-    "targetCount2": 7,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l24-q022",
-    "gameId": "level_24",
-    "type": "level_24",
-    "prompt": "Bình có 13 quả cam, mẹ cho thêm 6. Có tất cả bao nhiêu?",
-    "correctAnswer": 19,
-    "options": [
-      19,
-      18,
-      16,
-      17
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 13,
-    "targetCount2": 6,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l24-q023",
-    "gameId": "level_24",
-    "type": "level_24",
-    "prompt": "Lan có 2 viên kẹo, mẹ cho thêm 9. Có tất cả bao nhiêu?",
-    "correctAnswer": 11,
-    "options": [
-      9,
-      10,
-      11,
-      8
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 2,
-    "targetCount2": 9,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l24-q024",
-    "gameId": "level_24",
-    "type": "level_24",
-    "prompt": "Minh nhặt được 1 bông hoa rồi nhặt thêm 12 bông hoa. Có tất cả mấy bông hoa?",
-    "correctAnswer": 13,
-    "options": [
-      13,
-      10,
-      12,
-      11
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 1,
-    "targetCount2": 12,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l24-q025",
-    "gameId": "level_24",
-    "type": "level_24",
-    "prompt": "Buổi sáng có 19 bông hoa, buổi chiều thêm 1 bông hoa. Tất cả là bao nhiêu?",
-    "correctAnswer": 20,
-    "options": [
-      17,
-      19,
-      20,
-      18
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 19,
-    "targetCount2": 1,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l24-q026",
-    "gameId": "level_24",
-    "type": "level_24",
-    "prompt": "Có 10 quả chuối, dùng hết 2. Còn lại mấy quả chuối?",
-    "correctAnswer": 8,
-    "options": [
-      6,
-      8,
-      7,
-      5
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 10,
-    "targetCount2": 2,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l24-q027",
-    "gameId": "level_24",
-    "type": "level_24",
-    "prompt": "Có 20 viên kẹo, dùng hết 18. Còn lại mấy viên kẹo?",
-    "correctAnswer": 2,
-    "options": [
-      2,
-      1,
-      0,
-      3
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 20,
-    "targetCount2": 18,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l24-q028",
-    "gameId": "level_24",
-    "type": "level_24",
-    "prompt": "Có 11 quả táo, dùng hết 4. Còn lại mấy quả táo?",
-    "correctAnswer": 7,
-    "options": [
-      7,
-      4,
-      6,
-      5
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 11,
-    "targetCount2": 4,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l24-q029",
-    "gameId": "level_24",
-    "type": "level_24",
-    "prompt": "Có 17 quả bóng, dùng hết 8. Còn lại mấy quả bóng?",
-    "correctAnswer": 9,
-    "options": [
-      9,
-      7,
-      6,
-      8
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 17,
-    "targetCount2": 8,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l24-q030",
-    "gameId": "level_24",
-    "type": "level_24",
-    "prompt": "Có 10 quả dâu, dùng hết 5. Còn lại mấy quả dâu?",
-    "correctAnswer": 5,
-    "options": [
-      5,
-      3,
-      2,
-      4
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 10,
-    "targetCount2": 5,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l24-q031",
-    "gameId": "level_24",
-    "type": "level_24",
-    "prompt": "Có 17 chiếc bánh, dùng hết 4. Còn lại mấy chiếc bánh?",
-    "correctAnswer": 13,
-    "options": [
-      10,
-      11,
-      13,
-      12
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 17,
-    "targetCount2": 4,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l24-q032",
-    "gameId": "level_24",
-    "type": "level_24",
-    "prompt": "Linh có 6 quả táo, cho bạn 1. Còn lại bao nhiêu?",
-    "correctAnswer": 5,
-    "options": [
-      4,
-      2,
-      3,
-      5
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 6,
-    "targetCount2": 1,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l24-q033",
-    "gameId": "level_24",
-    "type": "level_24",
-    "prompt": "An có 4 quả cam, cho bạn 2. Còn lại bao nhiêu?",
-    "correctAnswer": 2,
-    "options": [
-      0,
-      1,
-      2,
-      3
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 4,
-    "targetCount2": 2,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l24-q034",
-    "gameId": "level_24",
-    "type": "level_24",
-    "prompt": "Lan có 6 viên kẹo, cho bạn 5. Còn lại bao nhiêu?",
-    "correctAnswer": 1,
-    "options": [
-      2,
-      0,
-      1,
-      3
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 6,
-    "targetCount2": 5,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l24-q035",
-    "gameId": "level_24",
-    "type": "level_24",
-    "prompt": "Hộp có 5 quả chuối, lấy ra 4. Còn lại bao nhiêu?",
-    "correctAnswer": 1,
-    "options": [
-      0,
-      1,
-      2,
-      3
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 5,
-    "targetCount2": 4,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l24-q036",
-    "gameId": "level_24",
-    "type": "level_24",
-    "prompt": "Hộp có 12 quả cam, lấy ra 9. Còn lại bao nhiêu?",
-    "correctAnswer": 3,
-    "options": [
-      1,
-      3,
-      0,
-      2
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 12,
-    "targetCount2": 9,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l24-q037",
-    "gameId": "level_24",
-    "type": "level_24",
-    "prompt": "Hộp có 6 viên kẹo, lấy ra 4. Còn lại bao nhiêu?",
-    "correctAnswer": 2,
-    "options": [
-      1,
-      2,
-      3,
-      0
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 6,
-    "targetCount2": 4,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l24-q038",
-    "gameId": "level_24",
-    "type": "level_24",
-    "prompt": "An có 14 viên kẹo, cho bạn 8. Còn lại bao nhiêu?",
+    "prompt": "Hoa có 3 quả táo, mẹ cho thêm 3. Có tất cả bao nhiêu?",
     "correctAnswer": 6,
     "options": [
       6,
@@ -716,8 +336,388 @@
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
-    "targetCount": 14,
+    "targetCount": 3,
+    "targetCount2": 3,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l24-q019",
+    "gameId": "level_24",
+    "type": "level_24",
+    "prompt": "Minh có 1 quả chuối, mẹ cho thêm 8. Có tất cả bao nhiêu?",
+    "correctAnswer": 9,
+    "options": [
+      7,
+      6,
+      9,
+      8
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 1,
     "targetCount2": 8,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l24-q020",
+    "gameId": "level_24",
+    "type": "level_24",
+    "prompt": "Mai nhặt được 10 viên kẹo rồi nhặt thêm 6 viên kẹo. Có tất cả mấy viên kẹo?",
+    "correctAnswer": 16,
+    "options": [
+      14,
+      15,
+      16,
+      13
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 10,
+    "targetCount2": 6,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l24-q021",
+    "gameId": "level_24",
+    "type": "level_24",
+    "prompt": "Buổi sáng có 3 quả bóng, buổi chiều thêm 14 quả bóng. Tất cả là bao nhiêu?",
+    "correctAnswer": 17,
+    "options": [
+      14,
+      16,
+      15,
+      17
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 3,
+    "targetCount2": 14,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l24-q022",
+    "gameId": "level_24",
+    "type": "level_24",
+    "prompt": "Mai có 10 bông hoa, mẹ cho thêm 9. Có tất cả bao nhiêu?",
+    "correctAnswer": 19,
+    "options": [
+      19,
+      16,
+      18,
+      17
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 10,
+    "targetCount2": 9,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l24-q023",
+    "gameId": "level_24",
+    "type": "level_24",
+    "prompt": "Linh có 14 quả chuối, mẹ cho thêm 3. Có tất cả bao nhiêu?",
+    "correctAnswer": 17,
+    "options": [
+      17,
+      16,
+      15,
+      14
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 14,
+    "targetCount2": 3,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l24-q024",
+    "gameId": "level_24",
+    "type": "level_24",
+    "prompt": "Lan nhặt được 14 quả cam rồi nhặt thêm 6 quả cam. Có tất cả mấy quả cam?",
+    "correctAnswer": 20,
+    "options": [
+      17,
+      20,
+      18,
+      19
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 14,
+    "targetCount2": 6,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l24-q025",
+    "gameId": "level_24",
+    "type": "level_24",
+    "prompt": "Buổi sáng có 13 chiếc bánh, buổi chiều thêm 4 chiếc bánh. Tất cả là bao nhiêu?",
+    "correctAnswer": 17,
+    "options": [
+      14,
+      17,
+      15,
+      16
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 13,
+    "targetCount2": 4,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l24-q026",
+    "gameId": "level_24",
+    "type": "level_24",
+    "prompt": "Minh có 16 bông hoa, cho bạn 10. Còn lại bao nhiêu?",
+    "correctAnswer": 6,
+    "options": [
+      3,
+      4,
+      6,
+      5
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 16,
+    "targetCount2": 10,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l24-q027",
+    "gameId": "level_24",
+    "type": "level_24",
+    "prompt": "Có 15 quả dâu, dùng hết 1. Còn lại mấy quả dâu?",
+    "correctAnswer": 14,
+    "options": [
+      11,
+      13,
+      14,
+      12
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 15,
+    "targetCount2": 1,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l24-q028",
+    "gameId": "level_24",
+    "type": "level_24",
+    "prompt": "Có 15 quả bóng, dùng hết 5. Còn lại mấy quả bóng?",
+    "correctAnswer": 10,
+    "options": [
+      9,
+      8,
+      10,
+      7
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 15,
+    "targetCount2": 5,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l24-q029",
+    "gameId": "level_24",
+    "type": "level_24",
+    "prompt": "Lan có 17 quả chuối, cho bạn 13. Còn lại bao nhiêu?",
+    "correctAnswer": 4,
+    "options": [
+      2,
+      3,
+      1,
+      4
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 17,
+    "targetCount2": 13,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l24-q030",
+    "gameId": "level_24",
+    "type": "level_24",
+    "prompt": "Có 11 bông hoa, dùng hết 4. Còn lại mấy bông hoa?",
+    "correctAnswer": 7,
+    "options": [
+      6,
+      5,
+      4,
+      7
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 11,
+    "targetCount2": 4,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l24-q031",
+    "gameId": "level_24",
+    "type": "level_24",
+    "prompt": "Có 17 quả cam, dùng hết 2. Còn lại mấy quả cam?",
+    "correctAnswer": 15,
+    "options": [
+      12,
+      13,
+      15,
+      14
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 17,
+    "targetCount2": 2,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l24-q032",
+    "gameId": "level_24",
+    "type": "level_24",
+    "prompt": "Hộp có 2 quả táo, lấy ra 1. Còn lại bao nhiêu?",
+    "correctAnswer": 1,
+    "options": [
+      1,
+      3,
+      2,
+      0
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 2,
+    "targetCount2": 1,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l24-q033",
+    "gameId": "level_24",
+    "type": "level_24",
+    "prompt": "Hộp có 13 viên kẹo, lấy ra 1. Còn lại bao nhiêu?",
+    "correctAnswer": 12,
+    "options": [
+      10,
+      9,
+      12,
+      11
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 13,
+    "targetCount2": 1,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l24-q034",
+    "gameId": "level_24",
+    "type": "level_24",
+    "prompt": "Có 5 quả bóng, dùng hết 3. Còn lại mấy quả bóng?",
+    "correctAnswer": 2,
+    "options": [
+      1,
+      3,
+      0,
+      2
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 3,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l24-q035",
+    "gameId": "level_24",
+    "type": "level_24",
+    "prompt": "Bình có 4 viên kẹo, cho bạn 2. Còn lại bao nhiêu?",
+    "correctAnswer": 2,
+    "options": [
+      1,
+      3,
+      0,
+      2
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 4,
+    "targetCount2": 2,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l24-q036",
+    "gameId": "level_24",
+    "type": "level_24",
+    "prompt": "Linh có 5 quả cam, cho bạn 4. Còn lại bao nhiêu?",
+    "correctAnswer": 1,
+    "options": [
+      1,
+      2,
+      3,
+      0
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 4,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l24-q037",
+    "gameId": "level_24",
+    "type": "level_24",
+    "prompt": "Hộp có 14 chiếc bánh, lấy ra 9. Còn lại bao nhiêu?",
+    "correctAnswer": 5,
+    "options": [
+      3,
+      4,
+      5,
+      2
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 14,
+    "targetCount2": 9,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l24-q038",
+    "gameId": "level_24",
+    "type": "level_24",
+    "prompt": "Bình có 14 quả bóng, cho bạn 11. Còn lại bao nhiêu?",
+    "correctAnswer": 3,
+    "options": [
+      0,
+      1,
+      3,
+      2
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 14,
+    "targetCount2": 11,
     "renderMode": "subtraction",
     "displayPrompt": null
   },
@@ -725,18 +725,18 @@
     "id": "l24-q039",
     "gameId": "level_24",
     "type": "level_24",
-    "prompt": "Hộp có 15 quả chuối, lấy ra 2. Còn lại bao nhiêu?",
-    "correctAnswer": 13,
+    "prompt": "Hộp có 17 viên kẹo, lấy ra 12. Còn lại bao nhiêu?",
+    "correctAnswer": 5,
     "options": [
-      11,
-      10,
-      12,
-      13
+      4,
+      2,
+      3,
+      5
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
-    "targetCount": 15,
-    "targetCount2": 2,
+    "targetCount": 17,
+    "targetCount2": 12,
     "renderMode": "subtraction",
     "displayPrompt": null
   },
@@ -744,18 +744,18 @@
     "id": "l24-q040",
     "gameId": "level_24",
     "type": "level_24",
-    "prompt": "Có 14 quả bóng, dùng hết 13. Còn lại mấy quả bóng?",
-    "correctAnswer": 1,
+    "prompt": "Có 17 quả bóng, dùng hết 12. Còn lại mấy quả bóng?",
+    "correctAnswer": 5,
     "options": [
-      0,
+      3,
       2,
-      1,
-      3
+      5,
+      4
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
-    "targetCount": 14,
-    "targetCount2": 13,
+    "targetCount": 17,
+    "targetCount2": 12,
     "renderMode": "subtraction",
     "displayPrompt": null
   },
@@ -763,18 +763,18 @@
     "id": "l24-q041",
     "gameId": "level_24",
     "type": "level_24",
-    "prompt": "Linh có 12 chiếc bánh, cho bạn 11. Còn lại bao nhiêu?",
+    "prompt": "Nam có 10 viên kẹo, cho bạn 9. Còn lại bao nhiêu?",
     "correctAnswer": 1,
     "options": [
-      0,
+      2,
       1,
-      3,
-      2
+      0,
+      3
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
-    "targetCount": 12,
-    "targetCount2": 11,
+    "targetCount": 10,
+    "targetCount2": 9,
     "renderMode": "subtraction",
     "displayPrompt": null
   },
@@ -782,18 +782,18 @@
     "id": "l24-q042",
     "gameId": "level_24",
     "type": "level_24",
-    "prompt": "Có 13 quả táo, dùng hết 3. Còn lại mấy quả táo?",
-    "correctAnswer": 10,
+    "prompt": "Có 3 quả chuối, dùng hết 1. Còn lại mấy quả chuối?",
+    "correctAnswer": 2,
     "options": [
-      9,
-      8,
-      7,
-      10
+      3,
+      2,
+      1,
+      0
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
-    "targetCount": 13,
-    "targetCount2": 3,
+    "targetCount": 3,
+    "targetCount2": 1,
     "renderMode": "subtraction",
     "displayPrompt": null
   },
@@ -801,18 +801,18 @@
     "id": "l24-q043",
     "gameId": "level_24",
     "type": "level_24",
-    "prompt": "Có 6 quả táo, dùng hết 3. Còn lại mấy quả táo?",
-    "correctAnswer": 3,
+    "prompt": "Hộp có 3 quả cam, lấy ra 2. Còn lại bao nhiêu?",
+    "correctAnswer": 1,
     "options": [
       2,
-      3,
       1,
-      0
+      0,
+      3
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
-    "targetCount": 6,
-    "targetCount2": 3,
+    "targetCount": 3,
+    "targetCount2": 2,
     "renderMode": "subtraction",
     "displayPrompt": null
   },
@@ -820,18 +820,18 @@
     "id": "l24-q044",
     "gameId": "level_24",
     "type": "level_24",
-    "prompt": "Bình có 10 quả táo, cho bạn 1. Còn lại bao nhiêu?",
+    "prompt": "Có 13 quả cam, dùng hết 4. Còn lại mấy quả cam?",
     "correctAnswer": 9,
     "options": [
-      7,
       8,
       6,
+      7,
       9
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
-    "targetCount": 10,
-    "targetCount2": 1,
+    "targetCount": 13,
+    "targetCount2": 4,
     "renderMode": "subtraction",
     "displayPrompt": null
   },
@@ -839,18 +839,18 @@
     "id": "l24-q045",
     "gameId": "level_24",
     "type": "level_24",
-    "prompt": "Hộp có 5 chiếc bánh, lấy ra 1. Còn lại bao nhiêu?",
-    "correctAnswer": 4,
+    "prompt": "Lan có 3 quả cam, cho bạn 2. Còn lại bao nhiêu?",
+    "correctAnswer": 1,
     "options": [
       3,
-      4,
       1,
-      2
+      2,
+      0
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
-    "targetCount": 5,
-    "targetCount2": 1,
+    "targetCount": 3,
+    "targetCount2": 2,
     "renderMode": "subtraction",
     "displayPrompt": null
   },
@@ -858,90 +858,95 @@
     "id": "l24-q046",
     "gameId": "level_24",
     "type": "level_24",
-    "prompt": "3 và 20, điền dấu so sánh:",
-    "correctAnswer": "<",
+    "prompt": "Có 4 chiếc bánh, dùng hết 3. Còn lại mấy chiếc bánh?",
+    "correctAnswer": 1,
     "options": [
-      ">",
-      "<",
-      "="
+      0,
+      3,
+      1,
+      2
     ],
-    "objectIcon": "",
+    "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
+    "targetCount": 4,
+    "targetCount2": 3,
+    "renderMode": "subtraction",
     "displayPrompt": null
   },
   {
     "id": "l24-q047",
     "gameId": "level_24",
     "type": "level_24",
-    "prompt": "11 và 20, điền dấu so sánh:",
-    "correctAnswer": "<",
+    "prompt": "Hoa có 6 quả dâu, cho bạn 2. Còn lại bao nhiêu?",
+    "correctAnswer": 4,
     "options": [
-      ">",
-      "<",
-      "="
+      4,
+      1,
+      2,
+      3
     ],
-    "objectIcon": "",
+    "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
+    "targetCount": 6,
+    "targetCount2": 2,
+    "renderMode": "subtraction",
     "displayPrompt": null
   },
   {
     "id": "l24-q048",
     "gameId": "level_24",
     "type": "level_24",
-    "prompt": "17 ___ 5. Chọn dấu thích hợp:",
-    "correctAnswer": ">",
+    "prompt": "Linh có 11 quả táo, cho bạn 3. Còn lại bao nhiêu?",
+    "correctAnswer": 8,
     "options": [
-      ">",
-      "<",
-      "="
+      6,
+      5,
+      8,
+      7
     ],
-    "objectIcon": "",
+    "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
+    "targetCount": 11,
+    "targetCount2": 3,
+    "renderMode": "subtraction",
     "displayPrompt": null
   },
   {
     "id": "l24-q049",
     "gameId": "level_24",
     "type": "level_24",
-    "prompt": "6 và 4, điền dấu so sánh:",
-    "correctAnswer": ">",
+    "prompt": "Hộp có 20 viên kẹo, lấy ra 3. Còn lại bao nhiêu?",
+    "correctAnswer": 17,
     "options": [
-      ">",
-      "<",
-      "="
+      15,
+      17,
+      14,
+      16
     ],
-    "objectIcon": "",
+    "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
+    "targetCount": 20,
+    "targetCount2": 3,
+    "renderMode": "subtraction",
     "displayPrompt": null
   },
   {
     "id": "l24-q050",
     "gameId": "level_24",
     "type": "level_24",
-    "prompt": "Điền dấu đúng: 17 __ 2",
-    "correctAnswer": ">",
+    "prompt": "Có 2 viên kẹo, dùng hết 1. Còn lại mấy viên kẹo?",
+    "correctAnswer": 1,
     "options": [
-      ">",
-      "<",
-      "="
+      3,
+      2,
+      1,
+      0
     ],
-    "objectIcon": "",
+    "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
+    "targetCount": 2,
+    "targetCount2": 1,
+    "renderMode": "subtraction",
     "displayPrompt": null
   }
 ]
