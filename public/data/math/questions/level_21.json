@@ -3,13 +3,13 @@
     "id": "l21-q001",
     "gameId": "level_21",
     "type": "level_21",
-    "prompt": "32 + 6 = ?",
-    "correctAnswer": 38,
+    "prompt": "46 + 2 = ?",
+    "correctAnswer": 48,
     "options": [
-      35,
-      38,
-      36,
-      37
+      48,
+      45,
+      47,
+      46
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
@@ -22,13 +22,13 @@
     "id": "l21-q002",
     "gameId": "level_21",
     "type": "level_21",
-    "prompt": "76 + 1 = ?",
-    "correctAnswer": 77,
+    "prompt": "62 + 3 = ?",
+    "correctAnswer": 65,
     "options": [
-      77,
-      76,
-      74,
-      75
+      62,
+      65,
+      64,
+      63
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
@@ -41,13 +41,13 @@
     "id": "l21-q003",
     "gameId": "level_21",
     "type": "level_21",
-    "prompt": "37 + 2 = ?",
-    "correctAnswer": 39,
+    "prompt": "72 + 3 = ?",
+    "correctAnswer": 75,
     "options": [
-      38,
-      39,
-      37,
-      36
+      73,
+      72,
+      75,
+      74
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
@@ -60,13 +60,13 @@
     "id": "l21-q004",
     "gameId": "level_21",
     "type": "level_21",
-    "prompt": "37 + 1 = ?",
-    "correctAnswer": 38,
+    "prompt": "56 + 1 = ?",
+    "correctAnswer": 57,
     "options": [
-      38,
-      36,
-      35,
-      37
+      55,
+      56,
+      57,
+      54
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
@@ -79,13 +79,13 @@
     "id": "l21-q005",
     "gameId": "level_21",
     "type": "level_21",
-    "prompt": "47 + 1 = ?",
-    "correctAnswer": 48,
+    "prompt": "72 + 1 = ?",
+    "correctAnswer": 73,
     "options": [
-      47,
-      48,
-      45,
-      46
+      70,
+      71,
+      72,
+      73
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
@@ -98,13 +98,13 @@
     "id": "l21-q006",
     "gameId": "level_21",
     "type": "level_21",
-    "prompt": "73 + 4 = ?",
-    "correctAnswer": 77,
+    "prompt": "37 + 2 = ?",
+    "correctAnswer": 39,
     "options": [
-      77,
-      76,
-      74,
-      75
+      39,
+      37,
+      38,
+      36
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
@@ -117,13 +117,13 @@
     "id": "l21-q007",
     "gameId": "level_21",
     "type": "level_21",
-    "prompt": "88 + 1 = ?",
-    "correctAnswer": 89,
+    "prompt": "68 + 1 = ?",
+    "correctAnswer": 69,
     "options": [
-      89,
-      87,
-      88,
-      86
+      66,
+      69,
+      67,
+      68
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
@@ -136,13 +136,13 @@
     "id": "l21-q008",
     "gameId": "level_21",
     "type": "level_21",
-    "prompt": "67 + 2 = ?",
-    "correctAnswer": 69,
+    "prompt": "54 + 1 = ?",
+    "correctAnswer": 55,
     "options": [
-      67,
-      69,
-      68,
-      66
+      53,
+      55,
+      54,
+      52
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
@@ -155,13 +155,13 @@
     "id": "l21-q009",
     "gameId": "level_21",
     "type": "level_21",
-    "prompt": "71 + 7 = ?",
-    "correctAnswer": 78,
+    "prompt": "40 + 8 = ?",
+    "correctAnswer": 48,
     "options": [
-      76,
-      75,
-      78,
-      77
+      47,
+      46,
+      48,
+      45
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
@@ -174,13 +174,13 @@
     "id": "l21-q010",
     "gameId": "level_21",
     "type": "level_21",
-    "prompt": "61 + 7 = ?",
-    "correctAnswer": 68,
+    "prompt": "33 + 5 = ?",
+    "correctAnswer": 38,
     "options": [
-      66,
-      65,
-      67,
-      68
+      37,
+      35,
+      36,
+      38
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
@@ -193,13 +193,13 @@
     "id": "l21-q011",
     "gameId": "level_21",
     "type": "level_21",
-    "prompt": "36 + 2 = ?",
-    "correctAnswer": 38,
+    "prompt": "23 + 2 = ?",
+    "correctAnswer": 25,
     "options": [
-      38,
-      36,
-      35,
-      37
+      25,
+      23,
+      22,
+      24
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
@@ -212,13 +212,13 @@
     "id": "l21-q012",
     "gameId": "level_21",
     "type": "level_21",
-    "prompt": "85 + 2 = ?",
-    "correctAnswer": 87,
+    "prompt": "14 + 3 = ?",
+    "correctAnswer": 17,
     "options": [
-      84,
-      86,
-      85,
-      87
+      16,
+      14,
+      15,
+      17
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
@@ -231,13 +231,13 @@
     "id": "l21-q013",
     "gameId": "level_21",
     "type": "level_21",
-    "prompt": "16 + 3 = ?",
-    "correctAnswer": 19,
+    "prompt": "27 + 2 = ?",
+    "correctAnswer": 29,
     "options": [
-      18,
-      16,
-      17,
-      19
+      29,
+      26,
+      28,
+      27
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
@@ -250,13 +250,13 @@
     "id": "l21-q014",
     "gameId": "level_21",
     "type": "level_21",
-    "prompt": "48 + 1 = ?",
-    "correctAnswer": 49,
+    "prompt": "55 + 4 = ?",
+    "correctAnswer": 59,
     "options": [
-      48,
-      46,
-      47,
-      49
+      56,
+      57,
+      59,
+      58
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
@@ -269,13 +269,13 @@
     "id": "l21-q015",
     "gameId": "level_21",
     "type": "level_21",
-    "prompt": "35 + 2 = ?",
-    "correctAnswer": 37,
+    "prompt": "73 + 6 = ?",
+    "correctAnswer": 79,
     "options": [
-      34,
-      37,
-      35,
-      36
+      79,
+      76,
+      78,
+      77
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
@@ -288,13 +288,13 @@
     "id": "l21-q016",
     "gameId": "level_21",
     "type": "level_21",
-    "prompt": "76 + 2 = ?",
-    "correctAnswer": 78,
+    "prompt": "75 + 1 = ?",
+    "correctAnswer": 76,
     "options": [
-      78,
+      73,
+      75,
       76,
-      77,
-      75
+      74
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
@@ -307,13 +307,13 @@
     "id": "l21-q017",
     "gameId": "level_21",
     "type": "level_21",
-    "prompt": "31 + 3 = ?",
-    "correctAnswer": 34,
+    "prompt": "66 + 1 = ?",
+    "correctAnswer": 67,
     "options": [
-      31,
-      34,
-      33,
-      32
+      67,
+      66,
+      65,
+      64
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
@@ -326,13 +326,13 @@
     "id": "l21-q018",
     "gameId": "level_21",
     "type": "level_21",
-    "prompt": "37 + 2 = ?",
-    "correctAnswer": 39,
+    "prompt": "28 + 1 = ?",
+    "correctAnswer": 29,
     "options": [
-      38,
-      37,
-      36,
-      39
+      27,
+      29,
+      26,
+      28
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
@@ -345,13 +345,13 @@
     "id": "l21-q019",
     "gameId": "level_21",
     "type": "level_21",
-    "prompt": "40 + 6 = ?",
-    "correctAnswer": 46,
+    "prompt": "28 + 1 = ?",
+    "correctAnswer": 29,
     "options": [
-      44,
-      43,
-      46,
-      45
+      28,
+      26,
+      29,
+      27
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
@@ -364,13 +364,13 @@
     "id": "l21-q020",
     "gameId": "level_21",
     "type": "level_21",
-    "prompt": "60 + 6 = ?",
-    "correctAnswer": 66,
+    "prompt": "18 + 1 = ?",
+    "correctAnswer": 19,
     "options": [
-      63,
-      65,
-      66,
-      64
+      19,
+      16,
+      18,
+      17
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
@@ -383,13 +383,13 @@
     "id": "l21-q021",
     "gameId": "level_21",
     "type": "level_21",
-    "prompt": "10 + 5 = ?",
-    "correctAnswer": 15,
+    "prompt": "56 + 1 = ?",
+    "correctAnswer": 57,
     "options": [
-      15,
-      12,
-      13,
-      14
+      54,
+      55,
+      57,
+      56
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
@@ -402,13 +402,13 @@
     "id": "l21-q022",
     "gameId": "level_21",
     "type": "level_21",
-    "prompt": "68 + 1 = ?",
-    "correctAnswer": 69,
+    "prompt": "73 + 4 = ?",
+    "correctAnswer": 77,
     "options": [
-      68,
-      66,
-      67,
-      69
+      77,
+      74,
+      76,
+      75
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
@@ -421,13 +421,13 @@
     "id": "l21-q023",
     "gameId": "level_21",
     "type": "level_21",
-    "prompt": "42 + 3 = ?",
-    "correctAnswer": 45,
+    "prompt": "43 + 1 = ?",
+    "correctAnswer": 44,
     "options": [
-      44,
       42,
+      41,
       43,
-      45
+      44
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
@@ -440,13 +440,13 @@
     "id": "l21-q024",
     "gameId": "level_21",
     "type": "level_21",
-    "prompt": "58 + 1 = ?",
-    "correctAnswer": 59,
+    "prompt": "41 + 2 = ?",
+    "correctAnswer": 43,
     "options": [
-      57,
-      59,
-      58,
-      56
+      40,
+      43,
+      41,
+      42
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
@@ -459,13 +459,13 @@
     "id": "l21-q025",
     "gameId": "level_21",
     "type": "level_21",
-    "prompt": "21 + 1 = ?",
-    "correctAnswer": 22,
+    "prompt": "47 + 1 = ?",
+    "correctAnswer": 48,
     "options": [
-      22,
-      20,
-      19,
-      21
+      46,
+      48,
+      45,
+      47
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
@@ -478,13 +478,13 @@
     "id": "l21-q026",
     "gameId": "level_21",
     "type": "level_21",
-    "prompt": "85 + 3 = ?",
-    "correctAnswer": 88,
+    "prompt": "44 + 2 = ?",
+    "correctAnswer": 46,
     "options": [
-      88,
-      85,
-      86,
-      87
+      43,
+      45,
+      44,
+      46
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
@@ -497,13 +497,13 @@
     "id": "l21-q027",
     "gameId": "level_21",
     "type": "level_21",
-    "prompt": "63 + 5 = ?",
-    "correctAnswer": 68,
+    "prompt": "33 + 3 = ?",
+    "correctAnswer": 36,
     "options": [
-      68,
-      67,
-      65,
-      66
+      33,
+      36,
+      35,
+      34
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
@@ -516,13 +516,13 @@
     "id": "l21-q028",
     "gameId": "level_21",
     "type": "level_21",
-    "prompt": "46 + 1 = ?",
-    "correctAnswer": 47,
+    "prompt": "13 + 4 = ?",
+    "correctAnswer": 17,
     "options": [
-      47,
-      44,
-      45,
-      46
+      16,
+      14,
+      15,
+      17
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
@@ -535,13 +535,13 @@
     "id": "l21-q029",
     "gameId": "level_21",
     "type": "level_21",
-    "prompt": "13 + 4 = ?",
-    "correctAnswer": 17,
+    "prompt": "68 + 1 = ?",
+    "correctAnswer": 69,
     "options": [
-      16,
-      15,
-      14,
-      17
+      68,
+      69,
+      67,
+      66
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
@@ -554,13 +554,13 @@
     "id": "l21-q030",
     "gameId": "level_21",
     "type": "level_21",
-    "prompt": "52 + 6 = ?",
-    "correctAnswer": 58,
+    "prompt": "64 + 2 = ?",
+    "correctAnswer": 66,
     "options": [
-      56,
-      57,
-      55,
-      58
+      64,
+      66,
+      63,
+      65
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
@@ -573,13 +573,13 @@
     "id": "l21-q031",
     "gameId": "level_21",
     "type": "level_21",
-    "prompt": "36 + 1 = ?",
-    "correctAnswer": 37,
+    "prompt": "56 + 3 = ?",
+    "correctAnswer": 59,
     "options": [
-      35,
-      37,
-      36,
-      34
+      57,
+      58,
+      56,
+      59
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
@@ -592,13 +592,13 @@
     "id": "l21-q032",
     "gameId": "level_21",
     "type": "level_21",
-    "prompt": "82 + 2 = ?",
-    "correctAnswer": 84,
+    "prompt": "30 + 4 = ?",
+    "correctAnswer": 34,
     "options": [
-      81,
-      83,
-      82,
-      84
+      31,
+      33,
+      32,
+      34
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
@@ -611,13 +611,13 @@
     "id": "l21-q033",
     "gameId": "level_21",
     "type": "level_21",
-    "prompt": "18 + 1 = ?",
-    "correctAnswer": 19,
+    "prompt": "70 + 4 = ?",
+    "correctAnswer": 74,
     "options": [
-      19,
-      17,
-      16,
-      18
+      71,
+      74,
+      73,
+      72
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
@@ -630,13 +630,13 @@
     "id": "l21-q034",
     "gameId": "level_21",
     "type": "level_21",
-    "prompt": "32 + 5 = ?",
-    "correctAnswer": 37,
+    "prompt": "61 + 3 = ?",
+    "correctAnswer": 64,
     "options": [
-      34,
-      35,
-      37,
-      36
+      64,
+      61,
+      63,
+      62
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
@@ -649,13 +649,13 @@
     "id": "l21-q035",
     "gameId": "level_21",
     "type": "level_21",
-    "prompt": "61 + 1 = ?",
-    "correctAnswer": 62,
+    "prompt": "70 + 5 = ?",
+    "correctAnswer": 75,
     "options": [
-      61,
-      59,
-      62,
-      60
+      72,
+      74,
+      75,
+      73
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
@@ -668,13 +668,13 @@
     "id": "l21-q036",
     "gameId": "level_21",
     "type": "level_21",
-    "prompt": "42 + 7 = ?",
-    "correctAnswer": 49,
+    "prompt": "22 + 4 = ?",
+    "correctAnswer": 26,
     "options": [
-      46,
-      48,
-      49,
-      47
+      26,
+      23,
+      25,
+      24
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
@@ -687,13 +687,13 @@
     "id": "l21-q037",
     "gameId": "level_21",
     "type": "level_21",
-    "prompt": "32 + 6 = ?",
-    "correctAnswer": 38,
+    "prompt": "18 + 1 = ?",
+    "correctAnswer": 19,
     "options": [
-      37,
-      38,
-      36,
-      35
+      18,
+      17,
+      16,
+      19
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
@@ -706,13 +706,13 @@
     "id": "l21-q038",
     "gameId": "level_21",
     "type": "level_21",
-    "prompt": "74 + 2 = ?",
-    "correctAnswer": 76,
+    "prompt": "42 + 6 = ?",
+    "correctAnswer": 48,
     "options": [
-      75,
-      73,
-      74,
-      76
+      47,
+      48,
+      46,
+      45
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
@@ -725,13 +725,13 @@
     "id": "l21-q039",
     "gameId": "level_21",
     "type": "level_21",
-    "prompt": "76 + 3 = ?",
-    "correctAnswer": 79,
+    "prompt": "87 + 2 = ?",
+    "correctAnswer": 89,
     "options": [
-      76,
-      77,
-      79,
-      78
+      87,
+      88,
+      86,
+      89
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
@@ -744,13 +744,13 @@
     "id": "l21-q040",
     "gameId": "level_21",
     "type": "level_21",
-    "prompt": "27 + 2 = ?",
-    "correctAnswer": 29,
+    "prompt": "47 + 1 = ?",
+    "correctAnswer": 48,
     "options": [
-      26,
-      29,
-      28,
-      27
+      47,
+      45,
+      46,
+      48
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
@@ -763,18 +763,18 @@
     "id": "l21-q041",
     "gameId": "level_21",
     "type": "level_21",
-    "prompt": "16 + 1 = ?",
-    "correctAnswer": 17,
+    "prompt": "Tính: 9 + 5 = ?",
+    "correctAnswer": 14,
     "options": [
-      17,
+      12,
+      13,
       14,
-      15,
-      16
+      11
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
-    "targetCount": 16,
-    "targetCount2": 1,
+    "targetCount": 9,
+    "targetCount2": 5,
     "renderMode": "addition",
     "displayPrompt": null
   },
@@ -782,18 +782,18 @@
     "id": "l21-q042",
     "gameId": "level_21",
     "type": "level_21",
-    "prompt": "Tính: 11 + 6 = ?",
-    "correctAnswer": 17,
+    "prompt": "17 + 3 = ?",
+    "correctAnswer": 20,
     "options": [
-      16,
+      18,
+      19,
       17,
-      15,
-      14
+      20
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
-    "targetCount": 11,
-    "targetCount2": 6,
+    "targetCount": 17,
+    "targetCount2": 3,
     "renderMode": "addition",
     "displayPrompt": null
   },
@@ -801,18 +801,18 @@
     "id": "l21-q043",
     "gameId": "level_21",
     "type": "level_21",
-    "prompt": "Tính: 2 + 6 = ?",
-    "correctAnswer": 8,
+    "prompt": "12 + 3 = ?",
+    "correctAnswer": 15,
     "options": [
-      7,
-      8,
-      5,
-      6
+      13,
+      15,
+      12,
+      14
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
-    "targetCount": 2,
-    "targetCount2": 6,
+    "targetCount": 12,
+    "targetCount2": 3,
     "renderMode": "addition",
     "displayPrompt": null
   },
@@ -820,30 +820,11 @@
     "id": "l21-q044",
     "gameId": "level_21",
     "type": "level_21",
-    "prompt": "Tính: 1 + 13 = ?",
-    "correctAnswer": 14,
-    "options": [
-      11,
-      12,
-      13,
-      14
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 1,
-    "targetCount2": 13,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l21-q045",
-    "gameId": "level_21",
-    "type": "level_21",
     "prompt": "11 + 1 = ?",
     "correctAnswer": 12,
     "options": [
-      10,
       9,
+      10,
       11,
       12
     ],
@@ -855,21 +836,40 @@
     "displayPrompt": null
   },
   {
-    "id": "l21-q046",
+    "id": "l21-q045",
     "gameId": "level_21",
     "type": "level_21",
-    "prompt": "17 + 2 = ?",
-    "correctAnswer": 19,
+    "prompt": "2 + 1 = ?",
+    "correctAnswer": 3,
     "options": [
-      19,
-      16,
-      18,
-      17
+      1,
+      2,
+      3,
+      0
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
-    "targetCount": 17,
-    "targetCount2": 2,
+    "targetCount": 2,
+    "targetCount2": 1,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l21-q046",
+    "gameId": "level_21",
+    "type": "level_21",
+    "prompt": "3 + 14 = ?",
+    "correctAnswer": 17,
+    "options": [
+      14,
+      17,
+      16,
+      15
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 3,
+    "targetCount2": 14,
     "renderMode": "addition",
     "displayPrompt": null
   },
@@ -877,17 +877,17 @@
     "id": "l21-q047",
     "gameId": "level_21",
     "type": "level_21",
-    "prompt": "17 + 2 = ?",
-    "correctAnswer": 19,
+    "prompt": "Tính: 15 + 2 = ?",
+    "correctAnswer": 17,
     "options": [
-      19,
       17,
       16,
-      18
+      15,
+      14
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
-    "targetCount": 17,
+    "targetCount": 15,
     "targetCount2": 2,
     "renderMode": "addition",
     "displayPrompt": null
@@ -896,18 +896,18 @@
     "id": "l21-q048",
     "gameId": "level_21",
     "type": "level_21",
-    "prompt": "17 + 2 = ?",
-    "correctAnswer": 19,
+    "prompt": "13 + 7 = ?",
+    "correctAnswer": 20,
     "options": [
+      20,
       18,
       17,
-      16,
       19
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
-    "targetCount": 17,
-    "targetCount2": 2,
+    "targetCount": 13,
+    "targetCount2": 7,
     "renderMode": "addition",
     "displayPrompt": null
   },
@@ -915,18 +915,18 @@
     "id": "l21-q049",
     "gameId": "level_21",
     "type": "level_21",
-    "prompt": "Tính: 8 + 3 = ?",
-    "correctAnswer": 11,
+    "prompt": "12 + 5 = ?",
+    "correctAnswer": 17,
     "options": [
-      11,
-      8,
-      10,
-      9
+      17,
+      14,
+      15,
+      16
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
-    "targetCount": 8,
-    "targetCount2": 3,
+    "targetCount": 12,
+    "targetCount2": 5,
     "renderMode": "addition",
     "displayPrompt": null
   },
@@ -934,18 +934,18 @@
     "id": "l21-q050",
     "gameId": "level_21",
     "type": "level_21",
-    "prompt": "Tính: 18 + 1 = ?",
-    "correctAnswer": 19,
+    "prompt": "18 + 2 = ?",
+    "correctAnswer": 20,
     "options": [
+      19,
       18,
-      17,
-      16,
-      19
+      20,
+      17
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
     "targetCount": 18,
-    "targetCount2": 1,
+    "targetCount2": 2,
     "renderMode": "addition",
     "displayPrompt": null
   }

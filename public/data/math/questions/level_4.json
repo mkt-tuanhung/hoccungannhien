@@ -3,17 +3,17 @@
     "id": "l04-q001",
     "gameId": "level_4",
     "type": "level_4",
-    "prompt": "Điền số còn thiếu: 1, 2, ?",
-    "correctAnswer": 3,
+    "prompt": "Điền số còn thiếu: 9, 10, 11, 12, ?",
+    "correctAnswer": 13,
     "options": [
-      3,
-      0,
-      2,
-      1
+      13,
+      12,
+      10,
+      11
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
-    "targetCount": 3,
+    "targetCount": 13,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
@@ -22,137 +22,23 @@
     "id": "l04-q002",
     "gameId": "level_4",
     "type": "level_4",
-    "prompt": "Điền số còn thiếu: 5, ?, 7",
-    "correctAnswer": 6,
+    "prompt": "Điền số còn thiếu: 12, 13, ?",
+    "correctAnswer": 14,
     "options": [
-      7,
-      4,
-      5,
-      6
+      13,
+      12,
+      14,
+      11
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
-    "targetCount": 6,
+    "targetCount": 14,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
   },
   {
     "id": "l04-q003",
-    "gameId": "level_4",
-    "type": "level_4",
-    "prompt": "Điền số còn thiếu: 10, 11, ?, 13",
-    "correctAnswer": 12,
-    "options": [
-      10,
-      12,
-      11,
-      9
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 12,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l04-q004",
-    "gameId": "level_4",
-    "type": "level_4",
-    "prompt": "Điền số còn thiếu: 3, ?, 5",
-    "correctAnswer": 4,
-    "options": [
-      2,
-      5,
-      3,
-      4
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 4,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l04-q005",
-    "gameId": "level_4",
-    "type": "level_4",
-    "prompt": "Điền số còn thiếu: 17, 18, 19, ?, 21",
-    "correctAnswer": 20,
-    "options": [
-      20,
-      17,
-      18,
-      19
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 20,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l04-q006",
-    "gameId": "level_4",
-    "type": "level_4",
-    "prompt": "Điền số còn thiếu: 4, ?, 6, 7",
-    "correctAnswer": 5,
-    "options": [
-      3,
-      6,
-      5,
-      4
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 5,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l04-q007",
-    "gameId": "level_4",
-    "type": "level_4",
-    "prompt": "Điền số còn thiếu: 7, ?, 9",
-    "correctAnswer": 8,
-    "options": [
-      9,
-      7,
-      6,
-      8
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 8,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l04-q008",
-    "gameId": "level_4",
-    "type": "level_4",
-    "prompt": "Điền số còn thiếu: 14, ?, 16, 17, 18",
-    "correctAnswer": 15,
-    "options": [
-      13,
-      14,
-      16,
-      15
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 15,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l04-q009",
     "gameId": "level_4",
     "type": "level_4",
     "prompt": "Điền số còn thiếu: 9, ?, 11",
@@ -171,67 +57,10 @@
     "displayPrompt": null
   },
   {
-    "id": "l04-q010",
+    "id": "l04-q004",
     "gameId": "level_4",
     "type": "level_4",
-    "prompt": "Điền số còn thiếu: 1, 2, ?",
-    "correctAnswer": 3,
-    "options": [
-      2,
-      3,
-      1,
-      0
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 3,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l04-q011",
-    "gameId": "level_4",
-    "type": "level_4",
-    "prompt": "Điền số còn thiếu: 6, ?, 8",
-    "correctAnswer": 7,
-    "options": [
-      6,
-      7,
-      8,
-      5
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 7,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l04-q012",
-    "gameId": "level_4",
-    "type": "level_4",
-    "prompt": "Điền số còn thiếu: 4, 5, 6, ?",
-    "correctAnswer": 7,
-    "options": [
-      5,
-      6,
-      7,
-      4
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 7,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l04-q013",
-    "gameId": "level_4",
-    "type": "level_4",
-    "prompt": "Điền số còn thiếu: 11, ?, 13",
+    "prompt": "Điền số còn thiếu: 11, ?, 13, 14",
     "correctAnswer": 12,
     "options": [
       11,
@@ -247,20 +76,191 @@
     "displayPrompt": null
   },
   {
-    "id": "l04-q014",
+    "id": "l04-q005",
     "gameId": "level_4",
     "type": "level_4",
-    "prompt": "Điền số còn thiếu: 14, 15, ?",
-    "correctAnswer": 16,
+    "prompt": "Điền số còn thiếu: 1, ?, 3, 4, 5",
+    "correctAnswer": 2,
     "options": [
-      16,
-      15,
+      3,
+      2,
+      0,
+      1
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 2,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l04-q006",
+    "gameId": "level_4",
+    "type": "level_4",
+    "prompt": "Điền số còn thiếu: 3, ?, 5",
+    "correctAnswer": 4,
+    "options": [
+      5,
+      3,
+      4,
+      2
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 4,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l04-q007",
+    "gameId": "level_4",
+    "type": "level_4",
+    "prompt": "Điền số còn thiếu: 5, ?, 7",
+    "correctAnswer": 6,
+    "options": [
+      4,
+      5,
+      6,
+      7
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 6,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l04-q008",
+    "gameId": "level_4",
+    "type": "level_4",
+    "prompt": "Điền số còn thiếu: 12, 13, ?, 15, 16",
+    "correctAnswer": 14,
+    "options": [
+      12,
       13,
+      14,
+      11
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 14,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l04-q009",
+    "gameId": "level_4",
+    "type": "level_4",
+    "prompt": "Điền số còn thiếu: 12, 13, ?, 15, 16",
+    "correctAnswer": 14,
+    "options": [
+      13,
+      12,
+      11,
       14
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
-    "targetCount": 16,
+    "targetCount": 14,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l04-q010",
+    "gameId": "level_4",
+    "type": "level_4",
+    "prompt": "Điền số còn thiếu: 10, 11, ?, 13, 14",
+    "correctAnswer": 12,
+    "options": [
+      11,
+      9,
+      12,
+      10
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 12,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l04-q011",
+    "gameId": "level_4",
+    "type": "level_4",
+    "prompt": "Điền số còn thiếu: 15, 16, ?, 18",
+    "correctAnswer": 17,
+    "options": [
+      17,
+      14,
+      15,
+      16
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 17,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l04-q012",
+    "gameId": "level_4",
+    "type": "level_4",
+    "prompt": "Điền số còn thiếu: 8, 9, 10, 11, ?",
+    "correctAnswer": 12,
+    "options": [
+      12,
+      9,
+      10,
+      11
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 12,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l04-q013",
+    "gameId": "level_4",
+    "type": "level_4",
+    "prompt": "Điền số còn thiếu: 13, 14, ?",
+    "correctAnswer": 15,
+    "options": [
+      12,
+      14,
+      13,
+      15
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 15,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l04-q014",
+    "gameId": "level_4",
+    "type": "level_4",
+    "prompt": "Điền số còn thiếu: 2, 3, ?",
+    "correctAnswer": 4,
+    "options": [
+      4,
+      3,
+      1,
+      2
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 4,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
@@ -269,17 +269,17 @@
     "id": "l04-q015",
     "gameId": "level_4",
     "type": "level_4",
-    "prompt": "Điền số còn thiếu: 7, ?, 9, 10, 11",
-    "correctAnswer": 8,
+    "prompt": "Điền số còn thiếu: 10, 11, ?",
+    "correctAnswer": 12,
     "options": [
-      7,
-      6,
-      8,
-      9
+      12,
+      10,
+      9,
+      11
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
-    "targetCount": 8,
+    "targetCount": 12,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
@@ -288,12 +288,12 @@
     "id": "l04-q016",
     "gameId": "level_4",
     "type": "level_4",
-    "prompt": "Điền số còn thiếu: 8, 9, ?",
+    "prompt": "Điền số còn thiếu: 7, 8, 9, ?",
     "correctAnswer": 10,
     "options": [
-      7,
       8,
       9,
+      7,
       10
     ],
     "objectIcon": "/icons/star_icon.png",
@@ -307,17 +307,17 @@
     "id": "l04-q017",
     "gameId": "level_4",
     "type": "level_4",
-    "prompt": "Điền số còn thiếu: 6, 7, ?, 9",
-    "correctAnswer": 8,
+    "prompt": "Điền số còn thiếu: 17, 18, ?, 20",
+    "correctAnswer": 19,
     "options": [
-      8,
-      7,
-      5,
-      6
+      18,
+      19,
+      17,
+      16
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
-    "targetCount": 8,
+    "targetCount": 19,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
@@ -326,17 +326,17 @@
     "id": "l04-q018",
     "gameId": "level_4",
     "type": "level_4",
-    "prompt": "Điền số còn thiếu: 6, 7, ?, 9",
-    "correctAnswer": 8,
+    "prompt": "Điền số còn thiếu: 10, 11, ?",
+    "correctAnswer": 12,
     "options": [
-      5,
-      6,
-      7,
-      8
+      12,
+      9,
+      10,
+      11
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
-    "targetCount": 8,
+    "targetCount": 12,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
@@ -345,13 +345,89 @@
     "id": "l04-q019",
     "gameId": "level_4",
     "type": "level_4",
-    "prompt": "Điền số còn thiếu: 4, ?, 6, 7, 8",
-    "correctAnswer": 5,
+    "prompt": "Điền số còn thiếu: 7, 8, ?",
+    "correctAnswer": 9,
     "options": [
-      3,
+      9,
+      8,
+      6,
+      7
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 9,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l04-q020",
+    "gameId": "level_4",
+    "type": "level_4",
+    "prompt": "Điền số còn thiếu: 5, ?, 7",
+    "correctAnswer": 6,
+    "options": [
+      7,
       4,
       5,
       6
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 6,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l04-q021",
+    "gameId": "level_4",
+    "type": "level_4",
+    "prompt": "Điền số còn thiếu: 17, 18, ?",
+    "correctAnswer": 19,
+    "options": [
+      19,
+      16,
+      17,
+      18
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 19,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l04-q022",
+    "gameId": "level_4",
+    "type": "level_4",
+    "prompt": "Điền số còn thiếu: 8, 9, 10, 11, ?",
+    "correctAnswer": 12,
+    "options": [
+      12,
+      9,
+      10,
+      11
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 12,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l04-q023",
+    "gameId": "level_4",
+    "type": "level_4",
+    "prompt": "Điền số còn thiếu: 4, ?, 6, 7",
+    "correctAnswer": 5,
+    "options": [
+      4,
+      6,
+      3,
+      5
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
@@ -361,96 +437,20 @@
     "displayPrompt": null
   },
   {
-    "id": "l04-q020",
-    "gameId": "level_4",
-    "type": "level_4",
-    "prompt": "Điền số còn thiếu: 16, ?, 18, 19",
-    "correctAnswer": 17,
-    "options": [
-      15,
-      17,
-      18,
-      16
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 17,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l04-q021",
-    "gameId": "level_4",
-    "type": "level_4",
-    "prompt": "Điền số còn thiếu: 10, ?, 12",
-    "correctAnswer": 11,
-    "options": [
-      10,
-      9,
-      12,
-      11
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 11,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l04-q022",
-    "gameId": "level_4",
-    "type": "level_4",
-    "prompt": "Điền số còn thiếu: 14, ?, 16, 17",
-    "correctAnswer": 15,
-    "options": [
-      15,
-      16,
-      13,
-      14
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 15,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l04-q023",
-    "gameId": "level_4",
-    "type": "level_4",
-    "prompt": "Điền số còn thiếu: 16, 17, ?, 19, 20",
-    "correctAnswer": 18,
-    "options": [
-      15,
-      16,
-      17,
-      18
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 18,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
     "id": "l04-q024",
     "gameId": "level_4",
     "type": "level_4",
-    "prompt": "Điền số còn thiếu: 12, 13, 14, ?",
-    "correctAnswer": 15,
+    "prompt": "Điền số còn thiếu: 1, ?, 3, 4",
+    "correctAnswer": 2,
     "options": [
-      12,
-      15,
-      13,
-      14
+      0,
+      3,
+      2,
+      1
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
-    "targetCount": 15,
+    "targetCount": 2,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
@@ -459,13 +459,13 @@
     "id": "l04-q025",
     "gameId": "level_4",
     "type": "level_4",
-    "prompt": "Điền số còn thiếu: 9, 10, ?",
+    "prompt": "Điền số còn thiếu: 9, 10, ?, 12",
     "correctAnswer": 11,
     "options": [
-      10,
-      9,
+      11,
       8,
-      11
+      9,
+      10
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
@@ -478,32 +478,13 @@
     "id": "l04-q026",
     "gameId": "level_4",
     "type": "level_4",
-    "prompt": "Điền số còn thiếu: 8, 9, ?",
-    "correctAnswer": 10,
-    "options": [
-      9,
-      10,
-      7,
-      8
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 10,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l04-q027",
-    "gameId": "level_4",
-    "type": "level_4",
-    "prompt": "Điền số còn thiếu: 10, 11, 12, ?, 14",
+    "prompt": "Điền số còn thiếu: 11, 12, ?",
     "correctAnswer": 13,
     "options": [
       12,
-      10,
+      13,
       11,
-      13
+      10
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
@@ -513,16 +494,35 @@
     "displayPrompt": null
   },
   {
+    "id": "l04-q027",
+    "gameId": "level_4",
+    "type": "level_4",
+    "prompt": "Điền số còn thiếu: 6, ?, 8, 9, 10",
+    "correctAnswer": 7,
+    "options": [
+      5,
+      6,
+      8,
+      7
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 7,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
     "id": "l04-q028",
     "gameId": "level_4",
     "type": "level_4",
-    "prompt": "Điền số còn thiếu: 8, ?, 10",
+    "prompt": "Điền số còn thiếu: 7, 8, ?, 10",
     "correctAnswer": 9,
     "options": [
-      9,
-      7,
+      6,
       8,
-      10
+      7,
+      9
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
@@ -535,17 +535,17 @@
     "id": "l04-q029",
     "gameId": "level_4",
     "type": "level_4",
-    "prompt": "Điền số còn thiếu: 15, 16, 17, ?, 19",
-    "correctAnswer": 18,
+    "prompt": "Điền số còn thiếu: 3, 4, ?, 6",
+    "correctAnswer": 5,
     "options": [
-      15,
-      18,
-      16,
-      17
+      3,
+      2,
+      4,
+      5
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
-    "targetCount": 18,
+    "targetCount": 5,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
@@ -554,17 +554,17 @@
     "id": "l04-q030",
     "gameId": "level_4",
     "type": "level_4",
-    "prompt": "Điền số còn thiếu: 14, ?, 16, 17, 18",
-    "correctAnswer": 15,
+    "prompt": "Điền số còn thiếu: 4, ?, 6, 7",
+    "correctAnswer": 5,
     "options": [
-      13,
-      16,
-      15,
-      14
+      6,
+      3,
+      4,
+      5
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
-    "targetCount": 15,
+    "targetCount": 5,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
@@ -573,354 +573,12 @@
     "id": "l04-q031",
     "gameId": "level_4",
     "type": "level_4",
-    "prompt": "Điền số còn thiếu: 15, ?, 17",
-    "correctAnswer": 16,
-    "options": [
-      15,
-      16,
-      14,
-      17
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 16,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l04-q032",
-    "gameId": "level_4",
-    "type": "level_4",
-    "prompt": "Điền số còn thiếu: 14, 15, 16, ?, 18",
-    "correctAnswer": 17,
-    "options": [
-      15,
-      17,
-      16,
-      14
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 17,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l04-q033",
-    "gameId": "level_4",
-    "type": "level_4",
-    "prompt": "Điền số còn thiếu: 3, 4, 5, 6, ?",
-    "correctAnswer": 7,
-    "options": [
-      4,
-      7,
-      6,
-      5
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 7,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l04-q034",
-    "gameId": "level_4",
-    "type": "level_4",
-    "prompt": "Điền số còn thiếu: 11, ?, 13",
-    "correctAnswer": 12,
-    "options": [
-      12,
-      13,
-      10,
-      11
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 12,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l04-q035",
-    "gameId": "level_4",
-    "type": "level_4",
-    "prompt": "Điền số còn thiếu: 9, 10, 11, 12, ?",
-    "correctAnswer": 13,
-    "options": [
-      13,
-      11,
-      10,
-      12
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 13,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l04-q036",
-    "gameId": "level_4",
-    "type": "level_4",
-    "prompt": "Bé hãy chọn thẻ số 20!",
-    "correctAnswer": 20,
-    "options": [
-      18,
-      20,
-      17,
-      19
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 20,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l04-q037",
-    "gameId": "level_4",
-    "type": "level_4",
-    "prompt": "Tìm số 19 trong các thẻ dưới đây!",
-    "correctAnswer": 19,
-    "options": [
-      16,
-      17,
-      18,
-      19
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 19,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l04-q038",
-    "gameId": "level_4",
-    "type": "level_4",
-    "prompt": "Bé hãy chọn thẻ số 18!",
-    "correctAnswer": 18,
-    "options": [
-      18,
-      16,
-      15,
-      17
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 18,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l04-q039",
-    "gameId": "level_4",
-    "type": "level_4",
-    "prompt": "Chọn đúng số 17 nhé!",
-    "correctAnswer": 17,
-    "options": [
-      14,
-      15,
-      16,
-      17
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 17,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l04-q040",
-    "gameId": "level_4",
-    "type": "level_4",
-    "prompt": "Bé hãy chọn thẻ số 19!",
-    "correctAnswer": 19,
-    "options": [
-      17,
-      16,
-      18,
-      19
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 19,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l04-q041",
-    "gameId": "level_4",
-    "type": "level_4",
-    "prompt": "Bé hãy chọn thẻ số 13!",
-    "correctAnswer": 13,
-    "options": [
-      13,
-      12,
-      10,
-      11
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 13,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l04-q042",
-    "gameId": "level_4",
-    "type": "level_4",
-    "prompt": "Chọn đúng số 1 nhé!",
-    "correctAnswer": 1,
-    "options": [
-      1,
-      2,
-      0,
-      3
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 1,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l04-q043",
-    "gameId": "level_4",
-    "type": "level_4",
-    "prompt": "Tìm số 18 trong các thẻ dưới đây!",
-    "correctAnswer": 18,
-    "options": [
-      15,
-      18,
-      16,
-      17
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 18,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l04-q044",
-    "gameId": "level_4",
-    "type": "level_4",
-    "prompt": "Chọn đúng số 13 nhé!",
-    "correctAnswer": 13,
-    "options": [
-      10,
-      13,
-      11,
-      12
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 13,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l04-q045",
-    "gameId": "level_4",
-    "type": "level_4",
-    "prompt": "Chọn đúng số 16 nhé!",
-    "correctAnswer": 16,
-    "options": [
-      14,
-      15,
-      13,
-      16
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 16,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l04-q046",
-    "gameId": "level_4",
-    "type": "level_4",
-    "prompt": "Tìm số 14 trong các thẻ dưới đây!",
-    "correctAnswer": 14,
-    "options": [
-      11,
-      14,
-      13,
-      12
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 14,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l04-q047",
-    "gameId": "level_4",
-    "type": "level_4",
-    "prompt": "Tìm số 20 trong các thẻ dưới đây!",
-    "correctAnswer": 20,
-    "options": [
-      18,
-      19,
-      20,
-      17
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 20,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l04-q048",
-    "gameId": "level_4",
-    "type": "level_4",
-    "prompt": "Tìm số 9 trong các thẻ dưới đây!",
-    "correctAnswer": 9,
-    "options": [
-      8,
-      6,
-      9,
-      7
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 9,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l04-q049",
-    "gameId": "level_4",
-    "type": "level_4",
-    "prompt": "Tìm số 4 trong các thẻ dưới đây!",
+    "prompt": "Điền số còn thiếu: 2, 3, ?, 5",
     "correctAnswer": 4,
     "options": [
+      3,
       1,
       2,
-      3,
       4
     ],
     "objectIcon": "/icons/star_icon.png",
@@ -931,20 +589,362 @@
     "displayPrompt": null
   },
   {
-    "id": "l04-q050",
+    "id": "l04-q032",
     "gameId": "level_4",
     "type": "level_4",
-    "prompt": "Bé hãy chọn thẻ số 1!",
+    "prompt": "Điền số còn thiếu: 10, 11, ?",
+    "correctAnswer": 12,
+    "options": [
+      10,
+      9,
+      12,
+      11
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 12,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l04-q033",
+    "gameId": "level_4",
+    "type": "level_4",
+    "prompt": "Điền số còn thiếu: 6, 7, 8, ?, 10",
+    "correctAnswer": 9,
+    "options": [
+      8,
+      9,
+      7,
+      6
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 9,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l04-q034",
+    "gameId": "level_4",
+    "type": "level_4",
+    "prompt": "Điền số còn thiếu: 4, 5, ?, 7, 8",
+    "correctAnswer": 6,
+    "options": [
+      4,
+      3,
+      5,
+      6
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 6,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l04-q035",
+    "gameId": "level_4",
+    "type": "level_4",
+    "prompt": "Điền số còn thiếu: 2, 3, 4, ?",
+    "correctAnswer": 5,
+    "options": [
+      4,
+      2,
+      3,
+      5
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l04-q036",
+    "gameId": "level_4",
+    "type": "level_4",
+    "prompt": "Chọn đúng số 14 nhé!",
+    "correctAnswer": 14,
+    "options": [
+      12,
+      13,
+      11,
+      14
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 14,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l04-q037",
+    "gameId": "level_4",
+    "type": "level_4",
+    "prompt": "Chọn đúng số 12 nhé!",
+    "correctAnswer": 12,
+    "options": [
+      12,
+      11,
+      9,
+      10
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 12,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l04-q038",
+    "gameId": "level_4",
+    "type": "level_4",
+    "prompt": "Chọn đúng số 8 nhé!",
+    "correctAnswer": 8,
+    "options": [
+      5,
+      6,
+      8,
+      7
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 8,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l04-q039",
+    "gameId": "level_4",
+    "type": "level_4",
+    "prompt": "Tìm số 20 trong các thẻ dưới đây!",
+    "correctAnswer": 20,
+    "options": [
+      17,
+      19,
+      20,
+      18
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 20,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l04-q040",
+    "gameId": "level_4",
+    "type": "level_4",
+    "prompt": "Tìm số 1 trong các thẻ dưới đây!",
     "correctAnswer": 1,
     "options": [
-      0,
+      2,
+      3,
       1,
+      0
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 1,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l04-q041",
+    "gameId": "level_4",
+    "type": "level_4",
+    "prompt": "Bé hãy chọn thẻ số 4!",
+    "correctAnswer": 4,
+    "options": [
+      3,
+      2,
+      1,
+      4
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 4,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l04-q042",
+    "gameId": "level_4",
+    "type": "level_4",
+    "prompt": "Chọn đúng số 4 nhé!",
+    "correctAnswer": 4,
+    "options": [
+      1,
+      4,
+      3,
+      2
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 4,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l04-q043",
+    "gameId": "level_4",
+    "type": "level_4",
+    "prompt": "Tìm số 12 trong các thẻ dưới đây!",
+    "correctAnswer": 12,
+    "options": [
+      12,
+      9,
+      11,
+      10
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 12,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l04-q044",
+    "gameId": "level_4",
+    "type": "level_4",
+    "prompt": "Tìm số 9 trong các thẻ dưới đây!",
+    "correctAnswer": 9,
+    "options": [
+      7,
+      9,
+      8,
+      6
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 9,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l04-q045",
+    "gameId": "level_4",
+    "type": "level_4",
+    "prompt": "Bé hãy chọn thẻ số 10!",
+    "correctAnswer": 10,
+    "options": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 10,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l04-q046",
+    "gameId": "level_4",
+    "type": "level_4",
+    "prompt": "Bé hãy chọn thẻ số 3!",
+    "correctAnswer": 3,
+    "options": [
+      1,
+      0,
       2,
       3
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
+    "targetCount": 3,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l04-q047",
+    "gameId": "level_4",
+    "type": "level_4",
+    "prompt": "Bé hãy chọn thẻ số 13!",
+    "correctAnswer": 13,
+    "options": [
+      13,
+      11,
+      12,
+      10
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 13,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l04-q048",
+    "gameId": "level_4",
+    "type": "level_4",
+    "prompt": "Chọn đúng số 13 nhé!",
+    "correctAnswer": 13,
+    "options": [
+      13,
+      12,
+      11,
+      10
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 13,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l04-q049",
+    "gameId": "level_4",
+    "type": "level_4",
+    "prompt": "Tìm số 1 trong các thẻ dưới đây!",
+    "correctAnswer": 1,
+    "options": [
+      0,
+      1,
+      3,
+      2
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
     "targetCount": 1,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l04-q050",
+    "gameId": "level_4",
+    "type": "level_4",
+    "prompt": "Tìm số 13 trong các thẻ dưới đây!",
+    "correctAnswer": 13,
+    "options": [
+      13,
+      12,
+      11,
+      10
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 13,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null

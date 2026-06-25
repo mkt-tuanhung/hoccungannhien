@@ -3,13 +3,13 @@
     "id": "l23-q001",
     "gameId": "level_23",
     "type": "level_23",
-    "prompt": "32 + 15 = ?",
-    "correctAnswer": 47,
+    "prompt": "12 + 66 = ?",
+    "correctAnswer": 78,
     "options": [
-      47,
-      46,
-      45,
-      44
+      76,
+      75,
+      78,
+      77
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
@@ -22,13 +22,13 @@
     "id": "l23-q002",
     "gameId": "level_23",
     "type": "level_23",
-    "prompt": "21 + 42 = ?",
-    "correctAnswer": 63,
+    "prompt": "40 + 15 = ?",
+    "correctAnswer": 55,
     "options": [
-      61,
-      62,
-      63,
-      60
+      52,
+      54,
+      53,
+      55
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
@@ -41,13 +41,13 @@
     "id": "l23-q003",
     "gameId": "level_23",
     "type": "level_23",
-    "prompt": "54 + 14 = ?",
-    "correctAnswer": 68,
+    "prompt": "31 + 46 = ?",
+    "correctAnswer": 77,
     "options": [
-      67,
-      66,
-      65,
-      68
+      77,
+      76,
+      74,
+      75
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
@@ -60,13 +60,13 @@
     "id": "l23-q004",
     "gameId": "level_23",
     "type": "level_23",
-    "prompt": "20 + 77 = ?",
-    "correctAnswer": 97,
+    "prompt": "51 + 47 = ?",
+    "correctAnswer": 98,
     "options": [
       95,
+      98,
       96,
-      97,
-      94
+      97
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
@@ -79,13 +79,13 @@
     "id": "l23-q005",
     "gameId": "level_23",
     "type": "level_23",
-    "prompt": "14 + 23 = ?",
-    "correctAnswer": 37,
+    "prompt": "14 + 85 = ?",
+    "correctAnswer": 99,
     "options": [
-      35,
-      34,
-      36,
-      37
+      97,
+      98,
+      99,
+      96
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
@@ -98,13 +98,13 @@
     "id": "l23-q006",
     "gameId": "level_23",
     "type": "level_23",
-    "prompt": "23 + 74 = ?",
-    "correctAnswer": 97,
+    "prompt": "31 + 38 = ?",
+    "correctAnswer": 69,
     "options": [
-      95,
-      97,
-      94,
-      96
+      68,
+      69,
+      66,
+      67
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
@@ -117,13 +117,13 @@
     "id": "l23-q007",
     "gameId": "level_23",
     "type": "level_23",
-    "prompt": "32 + 52 = ?",
-    "correctAnswer": 84,
+    "prompt": "21 + 25 = ?",
+    "correctAnswer": 46,
     "options": [
-      82,
-      83,
-      84,
-      81
+      46,
+      44,
+      45,
+      43
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
@@ -136,13 +136,13 @@
     "id": "l23-q008",
     "gameId": "level_23",
     "type": "level_23",
-    "prompt": "14 + 81 = ?",
-    "correctAnswer": 95,
+    "prompt": "14 + 74 = ?",
+    "correctAnswer": 88,
     "options": [
-      95,
-      93,
-      94,
-      92
+      87,
+      88,
+      86,
+      85
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
@@ -155,13 +155,13 @@
     "id": "l23-q009",
     "gameId": "level_23",
     "type": "level_23",
-    "prompt": "33 + 41 = ?",
-    "correctAnswer": 74,
+    "prompt": "34 + 44 = ?",
+    "correctAnswer": 78,
     "options": [
-      71,
-      73,
-      72,
-      74
+      75,
+      76,
+      77,
+      78
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
@@ -174,13 +174,13 @@
     "id": "l23-q010",
     "gameId": "level_23",
     "type": "level_23",
-    "prompt": "23 + 34 = ?",
-    "correctAnswer": 57,
+    "prompt": "40 + 19 = ?",
+    "correctAnswer": 59,
     "options": [
-      54,
+      59,
       56,
       57,
-      55
+      58
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
@@ -193,13 +193,13 @@
     "id": "l23-q011",
     "gameId": "level_23",
     "type": "level_23",
-    "prompt": "33 + 43 = ?",
-    "correctAnswer": 76,
+    "prompt": "51 + 38 = ?",
+    "correctAnswer": 89,
     "options": [
-      75,
-      74,
-      76,
-      73
+      88,
+      87,
+      89,
+      86
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
@@ -212,13 +212,13 @@
     "id": "l23-q012",
     "gameId": "level_23",
     "type": "level_23",
-    "prompt": "10 + 76 = ?",
-    "correctAnswer": 86,
+    "prompt": "30 + 57 = ?",
+    "correctAnswer": 87,
     "options": [
-      83,
-      86,
+      87,
+      84,
       85,
-      84
+      86
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
@@ -231,13 +231,13 @@
     "id": "l23-q013",
     "gameId": "level_23",
     "type": "level_23",
-    "prompt": "34 + 32 = ?",
-    "correctAnswer": 66,
+    "prompt": "10 + 67 = ?",
+    "correctAnswer": 77,
     "options": [
-      65,
-      63,
-      64,
-      66
+      77,
+      74,
+      76,
+      75
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
@@ -250,13 +250,13 @@
     "id": "l23-q014",
     "gameId": "level_23",
     "type": "level_23",
-    "prompt": "21 + 46 = ?",
-    "correctAnswer": 67,
+    "prompt": "12 + 75 = ?",
+    "correctAnswer": 87,
     "options": [
-      67,
-      66,
-      64,
-      65
+      84,
+      86,
+      87,
+      85
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
@@ -269,13 +269,13 @@
     "id": "l23-q015",
     "gameId": "level_23",
     "type": "level_23",
-    "prompt": "30 + 40 = ?",
-    "correctAnswer": 70,
+    "prompt": "52 + 46 = ?",
+    "correctAnswer": 98,
     "options": [
-      69,
-      67,
-      68,
-      70
+      98,
+      95,
+      97,
+      96
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
@@ -288,13 +288,13 @@
     "id": "l23-q016",
     "gameId": "level_23",
     "type": "level_23",
-    "prompt": "54 + 22 = ?",
-    "correctAnswer": 76,
+    "prompt": "10 + 57 = ?",
+    "correctAnswer": 67,
     "options": [
-      73,
-      75,
-      76,
-      74
+      65,
+      64,
+      67,
+      66
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
@@ -307,13 +307,13 @@
     "id": "l23-q017",
     "gameId": "level_23",
     "type": "level_23",
-    "prompt": "10 + 11 = ?",
-    "correctAnswer": 21,
+    "prompt": "42 + 40 = ?",
+    "correctAnswer": 82,
     "options": [
-      21,
-      19,
-      18,
-      20
+      82,
+      79,
+      80,
+      81
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
@@ -326,13 +326,13 @@
     "id": "l23-q018",
     "gameId": "level_23",
     "type": "level_23",
-    "prompt": "31 + 25 = ?",
-    "correctAnswer": 56,
+    "prompt": "24 + 70 = ?",
+    "correctAnswer": 94,
     "options": [
-      54,
-      53,
-      56,
-      55
+      92,
+      91,
+      93,
+      94
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
@@ -345,13 +345,13 @@
     "id": "l23-q019",
     "gameId": "level_23",
     "type": "level_23",
-    "prompt": "51 + 35 = ?",
-    "correctAnswer": 86,
+    "prompt": "34 + 23 = ?",
+    "correctAnswer": 57,
     "options": [
-      84,
-      86,
-      85,
-      83
+      56,
+      55,
+      57,
+      54
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
@@ -364,13 +364,13 @@
     "id": "l23-q020",
     "gameId": "level_23",
     "type": "level_23",
-    "prompt": "31 + 36 = ?",
-    "correctAnswer": 67,
+    "prompt": "42 + 14 = ?",
+    "correctAnswer": 56,
     "options": [
-      67,
-      65,
-      64,
-      66
+      55,
+      54,
+      56,
+      53
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
@@ -383,13 +383,13 @@
     "id": "l23-q021",
     "gameId": "level_23",
     "type": "level_23",
-    "prompt": "51 + 44 = ?",
+    "prompt": "14 + 81 = ?",
     "correctAnswer": 95,
     "options": [
+      94,
       93,
       92,
-      95,
-      94
+      95
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
@@ -402,13 +402,13 @@
     "id": "l23-q022",
     "gameId": "level_23",
     "type": "level_23",
-    "prompt": "24 + 51 = ?",
-    "correctAnswer": 75,
+    "prompt": "52 + 24 = ?",
+    "correctAnswer": 76,
     "options": [
-      73,
-      72,
       75,
-      74
+      73,
+      74,
+      76
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
@@ -421,13 +421,13 @@
     "id": "l23-q023",
     "gameId": "level_23",
     "type": "level_23",
-    "prompt": "24 + 60 = ?",
-    "correctAnswer": 84,
+    "prompt": "52 + 17 = ?",
+    "correctAnswer": 69,
     "options": [
-      83,
-      81,
-      82,
-      84
+      68,
+      69,
+      67,
+      66
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
@@ -440,13 +440,13 @@
     "id": "l23-q024",
     "gameId": "level_23",
     "type": "level_23",
-    "prompt": "24 + 44 = ?",
-    "correctAnswer": 68,
+    "prompt": "14 + 25 = ?",
+    "correctAnswer": 39,
     "options": [
-      66,
-      67,
-      65,
-      68
+      38,
+      36,
+      37,
+      39
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
@@ -459,13 +459,13 @@
     "id": "l23-q025",
     "gameId": "level_23",
     "type": "level_23",
-    "prompt": "43 + 33 = ?",
-    "correctAnswer": 76,
+    "prompt": "22 + 27 = ?",
+    "correctAnswer": 49,
     "options": [
-      76,
-      75,
-      74,
-      73
+      48,
+      49,
+      46,
+      47
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
@@ -478,13 +478,13 @@
     "id": "l23-q026",
     "gameId": "level_23",
     "type": "level_23",
-    "prompt": "19 - 9 = ?",
-    "correctAnswer": 10,
+    "prompt": "68 - 5 = ?",
+    "correctAnswer": 63,
     "options": [
-      8,
-      7,
-      10,
-      9
+      63,
+      62,
+      61,
+      60
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
@@ -497,13 +497,13 @@
     "id": "l23-q027",
     "gameId": "level_23",
     "type": "level_23",
-    "prompt": "57 - 7 = ?",
-    "correctAnswer": 50,
+    "prompt": "87 - 6 = ?",
+    "correctAnswer": 81,
     "options": [
-      47,
-      49,
-      50,
-      48
+      79,
+      78,
+      81,
+      80
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
@@ -516,13 +516,13 @@
     "id": "l23-q028",
     "gameId": "level_23",
     "type": "level_23",
-    "prompt": "19 - 7 = ?",
-    "correctAnswer": 12,
+    "prompt": "15 - 1 = ?",
+    "correctAnswer": 14,
     "options": [
-      9,
-      10,
+      14,
+      11,
       12,
-      11
+      13
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
@@ -535,13 +535,13 @@
     "id": "l23-q029",
     "gameId": "level_23",
     "type": "level_23",
-    "prompt": "48 - 3 = ?",
-    "correctAnswer": 45,
+    "prompt": "19 - 9 = ?",
+    "correctAnswer": 10,
     "options": [
-      43,
-      44,
-      42,
-      45
+      10,
+      8,
+      9,
+      7
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
@@ -554,13 +554,13 @@
     "id": "l23-q030",
     "gameId": "level_23",
     "type": "level_23",
-    "prompt": "29 - 9 = ?",
-    "correctAnswer": 20,
+    "prompt": "79 - 8 = ?",
+    "correctAnswer": 71,
     "options": [
-      17,
-      19,
-      18,
-      20
+      68,
+      69,
+      71,
+      70
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
@@ -573,13 +573,13 @@
     "id": "l23-q031",
     "gameId": "level_23",
     "type": "level_23",
-    "prompt": "37 - 5 = ?",
-    "correctAnswer": 32,
+    "prompt": "79 - 5 = ?",
+    "correctAnswer": 74,
     "options": [
-      29,
-      30,
-      32,
-      31
+      72,
+      71,
+      73,
+      74
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
@@ -592,13 +592,13 @@
     "id": "l23-q032",
     "gameId": "level_23",
     "type": "level_23",
-    "prompt": "89 - 9 = ?",
-    "correctAnswer": 80,
+    "prompt": "88 - 7 = ?",
+    "correctAnswer": 81,
     "options": [
-      77,
-      78,
+      79,
       80,
-      79
+      78,
+      81
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
@@ -611,13 +611,13 @@
     "id": "l23-q033",
     "gameId": "level_23",
     "type": "level_23",
-    "prompt": "26 - 4 = ?",
-    "correctAnswer": 22,
+    "prompt": "29 - 9 = ?",
+    "correctAnswer": 20,
     "options": [
-      21,
+      19,
+      18,
       20,
-      22,
-      19
+      17
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
@@ -630,13 +630,13 @@
     "id": "l23-q034",
     "gameId": "level_23",
     "type": "level_23",
-    "prompt": "93 - 2 = ?",
-    "correctAnswer": 91,
+    "prompt": "39 - 3 = ?",
+    "correctAnswer": 36,
     "options": [
-      88,
-      89,
-      90,
-      91
+      33,
+      34,
+      35,
+      36
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
@@ -649,13 +649,13 @@
     "id": "l23-q035",
     "gameId": "level_23",
     "type": "level_23",
-    "prompt": "68 - 7 = ?",
-    "correctAnswer": 61,
+    "prompt": "99 - 9 = ?",
+    "correctAnswer": 90,
     "options": [
-      60,
-      58,
-      61,
-      59
+      90,
+      89,
+      87,
+      88
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
@@ -668,13 +668,13 @@
     "id": "l23-q036",
     "gameId": "level_23",
     "type": "level_23",
-    "prompt": "14 - 4 = ?",
-    "correctAnswer": 10,
+    "prompt": "69 - 8 = ?",
+    "correctAnswer": 61,
     "options": [
-      9,
-      10,
-      7,
-      8
+      60,
+      59,
+      61,
+      58
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
@@ -687,13 +687,13 @@
     "id": "l23-q037",
     "gameId": "level_23",
     "type": "level_23",
-    "prompt": "74 - 1 = ?",
-    "correctAnswer": 73,
+    "prompt": "55 - 1 = ?",
+    "correctAnswer": 54,
     "options": [
-      72,
-      73,
-      71,
-      70
+      53,
+      52,
+      51,
+      54
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
@@ -706,13 +706,13 @@
     "id": "l23-q038",
     "gameId": "level_23",
     "type": "level_23",
-    "prompt": "94 - 4 = ?",
-    "correctAnswer": 90,
+    "prompt": "59 - 9 = ?",
+    "correctAnswer": 50,
     "options": [
-      90,
-      88,
-      89,
-      87
+      48,
+      47,
+      50,
+      49
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
@@ -725,13 +725,13 @@
     "id": "l23-q039",
     "gameId": "level_23",
     "type": "level_23",
-    "prompt": "37 - 7 = ?",
-    "correctAnswer": 30,
+    "prompt": "82 - 1 = ?",
+    "correctAnswer": 81,
     "options": [
-      28,
-      29,
-      27,
-      30
+      80,
+      79,
+      78,
+      81
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
@@ -744,13 +744,13 @@
     "id": "l23-q040",
     "gameId": "level_23",
     "type": "level_23",
-    "prompt": "93 - 1 = ?",
-    "correctAnswer": 92,
+    "prompt": "46 - 2 = ?",
+    "correctAnswer": 44,
     "options": [
-      90,
-      91,
-      89,
-      92
+      41,
+      42,
+      43,
+      44
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
@@ -763,13 +763,13 @@
     "id": "l23-q041",
     "gameId": "level_23",
     "type": "level_23",
-    "prompt": "15 - 5 = ?",
-    "correctAnswer": 10,
+    "prompt": "51 - 1 = ?",
+    "correctAnswer": 50,
     "options": [
-      8,
-      7,
-      10,
-      9
+      47,
+      50,
+      49,
+      48
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
@@ -782,13 +782,13 @@
     "id": "l23-q042",
     "gameId": "level_23",
     "type": "level_23",
-    "prompt": "97 - 7 = ?",
-    "correctAnswer": 90,
+    "prompt": "58 - 8 = ?",
+    "correctAnswer": 50,
     "options": [
-      88,
-      90,
-      87,
-      89
+      50,
+      47,
+      48,
+      49
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
@@ -801,13 +801,13 @@
     "id": "l23-q043",
     "gameId": "level_23",
     "type": "level_23",
-    "prompt": "37 - 5 = ?",
-    "correctAnswer": 32,
+    "prompt": "28 - 6 = ?",
+    "correctAnswer": 22,
     "options": [
-      31,
-      29,
-      32,
-      30
+      19,
+      22,
+      21,
+      20
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
@@ -820,13 +820,13 @@
     "id": "l23-q044",
     "gameId": "level_23",
     "type": "level_23",
-    "prompt": "38 - 4 = ?",
-    "correctAnswer": 34,
+    "prompt": "99 - 7 = ?",
+    "correctAnswer": 92,
     "options": [
-      34,
-      31,
-      32,
-      33
+      92,
+      91,
+      90,
+      89
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
@@ -839,13 +839,13 @@
     "id": "l23-q045",
     "gameId": "level_23",
     "type": "level_23",
-    "prompt": "64 - 3 = ?",
-    "correctAnswer": 61,
+    "prompt": "32 - 2 = ?",
+    "correctAnswer": 30,
     "options": [
-      59,
-      58,
-      61,
-      60
+      29,
+      30,
+      28,
+      27
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
@@ -858,8 +858,8 @@
     "id": "l23-q046",
     "gameId": "level_23",
     "type": "level_23",
-    "prompt": "So sánh: 41 ☐ 20",
-    "correctAnswer": ">",
+    "prompt": "61 ___ 83. Chọn dấu thích hợp:",
+    "correctAnswer": "<",
     "options": [
       ">",
       "<",
@@ -876,8 +876,8 @@
     "id": "l23-q047",
     "gameId": "level_23",
     "type": "level_23",
-    "prompt": "Điền dấu đúng: 38 __ 73",
-    "correctAnswer": "<",
+    "prompt": "Điền dấu đúng: 92 __ 30",
+    "correctAnswer": ">",
     "options": [
       ">",
       "<",
@@ -894,8 +894,8 @@
     "id": "l23-q048",
     "gameId": "level_23",
     "type": "level_23",
-    "prompt": "Điền dấu đúng: 52 __ 52",
-    "correctAnswer": "=",
+    "prompt": "Điền dấu đúng: 19 __ 27",
+    "correctAnswer": "<",
     "options": [
       ">",
       "<",
@@ -912,7 +912,7 @@
     "id": "l23-q049",
     "gameId": "level_23",
     "type": "level_23",
-    "prompt": "So sánh: 65 ☐ 53",
+    "prompt": "28 ___ 15. Chọn dấu thích hợp:",
     "correctAnswer": ">",
     "options": [
       ">",
@@ -930,8 +930,8 @@
     "id": "l23-q050",
     "gameId": "level_23",
     "type": "level_23",
-    "prompt": "42 ___ 47. Chọn dấu thích hợp:",
-    "correctAnswer": "<",
+    "prompt": "Điền dấu đúng: 50 __ 44",
+    "correctAnswer": ">",
     "options": [
       ">",
       "<",

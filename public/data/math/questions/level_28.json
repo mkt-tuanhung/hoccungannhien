@@ -3,17 +3,17 @@
     "id": "l28-q001",
     "gameId": "level_28",
     "type": "level_28",
-    "prompt": "Điền số còn thiếu: 14, ?, 16",
-    "correctAnswer": 15,
+    "prompt": "Điền số còn thiếu: 3, ?, 5",
+    "correctAnswer": 4,
     "options": [
-      16,
-      13,
-      15,
-      14
+      3,
+      4,
+      2,
+      5
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
-    "targetCount": 15,
+    "targetCount": 4,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
@@ -22,11 +22,11 @@
     "id": "l28-q002",
     "gameId": "level_28",
     "type": "level_28",
-    "prompt": "Điền số còn thiếu: 7, ?, 9, 10, 11",
+    "prompt": "Điền số còn thiếu: 7, ?, 9",
     "correctAnswer": 8,
     "options": [
-      6,
       9,
+      6,
       8,
       7
     ],
@@ -41,17 +41,17 @@
     "id": "l28-q003",
     "gameId": "level_28",
     "type": "level_28",
-    "prompt": "Điền số còn thiếu: 10, 11, 12, ?, 14",
-    "correctAnswer": 13,
+    "prompt": "Điền số còn thiếu: 8, 9, ?, 11",
+    "correctAnswer": 10,
     "options": [
-      12,
-      11,
       10,
-      13
+      7,
+      9,
+      8
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
-    "targetCount": 13,
+    "targetCount": 10,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
@@ -60,70 +60,13 @@
     "id": "l28-q004",
     "gameId": "level_28",
     "type": "level_28",
-    "prompt": "Điền số còn thiếu: 5, ?, 7, 8",
-    "correctAnswer": 6,
-    "options": [
-      7,
-      6,
-      5,
-      4
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 6,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l28-q005",
-    "gameId": "level_28",
-    "type": "level_28",
-    "prompt": "Điền số còn thiếu: 14, ?, 16, 17",
-    "correctAnswer": 15,
-    "options": [
-      13,
-      16,
-      15,
-      14
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 15,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l28-q006",
-    "gameId": "level_28",
-    "type": "level_28",
-    "prompt": "Điền số còn thiếu: 11, 12, ?, 14",
-    "correctAnswer": 13,
-    "options": [
-      13,
-      11,
-      10,
-      12
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 13,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l28-q007",
-    "gameId": "level_28",
-    "type": "level_28",
     "prompt": "Điền số còn thiếu: 1, 2, ?",
     "correctAnswer": 3,
     "options": [
-      2,
+      3,
       1,
       0,
-      3
+      2
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
@@ -133,10 +76,29 @@
     "displayPrompt": null
   },
   {
-    "id": "l28-q008",
+    "id": "l28-q005",
     "gameId": "level_28",
     "type": "level_28",
-    "prompt": "Điền số còn thiếu: 4, ?, 6",
+    "prompt": "Điền số còn thiếu: 16, ?, 18",
+    "correctAnswer": 17,
+    "options": [
+      17,
+      15,
+      18,
+      16
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 17,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l28-q006",
+    "gameId": "level_28",
+    "type": "level_28",
+    "prompt": "Điền số còn thiếu: 4, ?, 6, 7",
     "correctAnswer": 5,
     "options": [
       3,
@@ -152,71 +114,14 @@
     "displayPrompt": null
   },
   {
-    "id": "l28-q009",
+    "id": "l28-q007",
     "gameId": "level_28",
     "type": "level_28",
-    "prompt": "Điền số còn thiếu: 9, 10, ?, 12, 13",
-    "correctAnswer": 11,
-    "options": [
-      11,
-      8,
-      9,
-      10
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 11,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l28-q010",
-    "gameId": "level_28",
-    "type": "level_28",
-    "prompt": "Điền số còn thiếu: 9, 10, 11, ?",
-    "correctAnswer": 12,
-    "options": [
-      12,
-      9,
-      10,
-      11
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 12,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l28-q011",
-    "gameId": "level_28",
-    "type": "level_28",
-    "prompt": "Điền số còn thiếu: 14, 15, 16, ?",
-    "correctAnswer": 17,
-    "options": [
-      15,
-      14,
-      16,
-      17
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 17,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l28-q012",
-    "gameId": "level_28",
-    "type": "level_28",
-    "prompt": "Điền số còn thiếu: 5, 6, ?, 8",
+    "prompt": "Điền số còn thiếu: 6, ?, 8, 9",
     "correctAnswer": 7,
     "options": [
-      4,
       7,
+      8,
       5,
       6
     ],
@@ -228,187 +133,16 @@
     "displayPrompt": null
   },
   {
-    "id": "l28-q013",
+    "id": "l28-q008",
     "gameId": "level_28",
     "type": "level_28",
-    "prompt": "Điền số còn thiếu: 7, ?, 9",
-    "correctAnswer": 8,
-    "options": [
-      6,
-      8,
-      9,
-      7
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 8,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l28-q014",
-    "gameId": "level_28",
-    "type": "level_28",
-    "prompt": "Điền số còn thiếu: 15, ?, 17",
-    "correctAnswer": 16,
-    "options": [
-      16,
-      15,
-      17,
-      14
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 16,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l28-q015",
-    "gameId": "level_28",
-    "type": "level_28",
-    "prompt": "Điền số còn thiếu: 5, ?, 7",
-    "correctAnswer": 6,
-    "options": [
-      5,
-      4,
-      6,
-      7
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 6,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l28-q016",
-    "gameId": "level_28",
-    "type": "level_28",
-    "prompt": "Điền số còn thiếu: 6, 7, 8, 9, ?",
-    "correctAnswer": 10,
-    "options": [
-      10,
-      8,
-      9,
-      7
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 10,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l28-q017",
-    "gameId": "level_28",
-    "type": "level_28",
-    "prompt": "Điền số còn thiếu: 7, 8, 9, 10, ?",
-    "correctAnswer": 11,
-    "options": [
-      8,
-      9,
-      10,
-      11
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 11,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l28-q018",
-    "gameId": "level_28",
-    "type": "level_28",
-    "prompt": "Điền số còn thiếu: 16, 17, ?, 19",
-    "correctAnswer": 18,
-    "options": [
-      17,
-      15,
-      18,
-      16
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 18,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l28-q019",
-    "gameId": "level_28",
-    "type": "level_28",
-    "prompt": "Điền số còn thiếu: 2, ?, 4, 5, 6",
-    "correctAnswer": 3,
-    "options": [
-      4,
-      2,
-      1,
-      3
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 3,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l28-q020",
-    "gameId": "level_28",
-    "type": "level_28",
-    "prompt": "Điền số còn thiếu: 4, 5, 6, 7, ?",
-    "correctAnswer": 8,
-    "options": [
-      5,
-      7,
-      6,
-      8
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 8,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l28-q021",
-    "gameId": "level_28",
-    "type": "level_28",
-    "prompt": "Điền số còn thiếu: 1, ?, 3",
-    "correctAnswer": 2,
-    "options": [
-      1,
-      2,
-      0,
-      3
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 2,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l28-q022",
-    "gameId": "level_28",
-    "type": "level_28",
-    "prompt": "Điền số còn thiếu: 7, 8, ?, 10",
+    "prompt": "Điền số còn thiếu: 6, 7, 8, ?",
     "correctAnswer": 9,
     "options": [
       8,
+      7,
       6,
-      9,
-      7
+      9
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
@@ -418,54 +152,35 @@
     "displayPrompt": null
   },
   {
-    "id": "l28-q023",
+    "id": "l28-q009",
     "gameId": "level_28",
     "type": "level_28",
-    "prompt": "Điền số còn thiếu: 11, 12, ?",
-    "correctAnswer": 13,
+    "prompt": "Điền số còn thiếu: 13, ?, 15",
+    "correctAnswer": 14,
     "options": [
-      10,
       12,
-      11,
+      14,
+      15,
       13
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
-    "targetCount": 13,
+    "targetCount": 14,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
   },
   {
-    "id": "l28-q024",
+    "id": "l28-q010",
     "gameId": "level_28",
     "type": "level_28",
-    "prompt": "Điền số còn thiếu: 5, 6, 7, ?, 9",
-    "correctAnswer": 8,
-    "options": [
-      5,
-      8,
-      6,
-      7
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 8,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l28-q025",
-    "gameId": "level_28",
-    "type": "level_28",
-    "prompt": "Điền số còn thiếu: 17, ?, 19",
+    "prompt": "Điền số còn thiếu: 16, 17, ?",
     "correctAnswer": 18,
     "options": [
-      17,
       16,
       18,
-      19
+      15,
+      17
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
@@ -475,15 +190,53 @@
     "displayPrompt": null
   },
   {
-    "id": "l28-q026",
+    "id": "l28-q011",
     "gameId": "level_28",
     "type": "level_28",
-    "prompt": "Điền số còn thiếu: 1, 2, ?, 4, 5",
+    "prompt": "Điền số còn thiếu: 12, 13, ?, 15",
+    "correctAnswer": 14,
+    "options": [
+      12,
+      11,
+      13,
+      14
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 14,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l28-q012",
+    "gameId": "level_28",
+    "type": "level_28",
+    "prompt": "Điền số còn thiếu: 17, 18, ?",
+    "correctAnswer": 19,
+    "options": [
+      19,
+      18,
+      16,
+      17
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 19,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l28-q013",
+    "gameId": "level_28",
+    "type": "level_28",
+    "prompt": "Điền số còn thiếu: 1, 2, ?",
     "correctAnswer": 3,
     "options": [
-      3,
-      0,
       1,
+      0,
+      3,
       2
     ],
     "objectIcon": "/icons/star_icon.png",
@@ -494,34 +247,15 @@
     "displayPrompt": null
   },
   {
-    "id": "l28-q027",
+    "id": "l28-q014",
     "gameId": "level_28",
     "type": "level_28",
-    "prompt": "Điền số còn thiếu: 11, 12, 13, ?",
-    "correctAnswer": 14,
-    "options": [
-      14,
-      11,
-      13,
-      12
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 14,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l28-q028",
-    "gameId": "level_28",
-    "type": "level_28",
-    "prompt": "Điền số còn thiếu: 15, 16, ?, 18, 19",
+    "prompt": "Điền số còn thiếu: 13, 14, 15, 16, ?",
     "correctAnswer": 17,
     "options": [
       16,
-      17,
       14,
+      17,
       15
     ],
     "objectIcon": "/icons/star_icon.png",
@@ -532,54 +266,35 @@
     "displayPrompt": null
   },
   {
-    "id": "l28-q029",
+    "id": "l28-q015",
     "gameId": "level_28",
     "type": "level_28",
-    "prompt": "Điền số còn thiếu: 10, 11, ?, 13, 14",
-    "correctAnswer": 12,
+    "prompt": "Điền số còn thiếu: 9, 10, ?",
+    "correctAnswer": 11,
     "options": [
+      9,
       10,
       11,
-      12,
-      9
+      8
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
-    "targetCount": 12,
+    "targetCount": 11,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
   },
   {
-    "id": "l28-q030",
+    "id": "l28-q016",
     "gameId": "level_28",
     "type": "level_28",
-    "prompt": "Điền số còn thiếu: 1, 2, 3, 4, ?",
-    "correctAnswer": 5,
-    "options": [
-      3,
-      2,
-      4,
-      5
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 5,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l28-q031",
-    "gameId": "level_28",
-    "type": "level_28",
-    "prompt": "Điền số còn thiếu: 14, 15, ?",
+    "prompt": "Điền số còn thiếu: 13, 14, 15, ?",
     "correctAnswer": 16,
     "options": [
-      13,
       16,
+      15,
       14,
-      15
+      13
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
@@ -589,35 +304,149 @@
     "displayPrompt": null
   },
   {
-    "id": "l28-q032",
+    "id": "l28-q017",
     "gameId": "level_28",
     "type": "level_28",
-    "prompt": "Điền số còn thiếu: 8, 9, ?, 11",
-    "correctAnswer": 10,
+    "prompt": "Điền số còn thiếu: 3, ?, 5, 6, 7",
+    "correctAnswer": 4,
     "options": [
-      7,
-      8,
-      9,
-      10
+      4,
+      5,
+      3,
+      2
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
-    "targetCount": 10,
+    "targetCount": 4,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
   },
   {
-    "id": "l28-q033",
+    "id": "l28-q018",
     "gameId": "level_28",
     "type": "level_28",
-    "prompt": "Điền số còn thiếu: 17, ?, 19",
+    "prompt": "Điền số còn thiếu: 9, 10, 11, 12, ?",
+    "correctAnswer": 13,
+    "options": [
+      12,
+      13,
+      10,
+      11
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 13,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l28-q019",
+    "gameId": "level_28",
+    "type": "level_28",
+    "prompt": "Điền số còn thiếu: 10, ?, 12",
+    "correctAnswer": 11,
+    "options": [
+      11,
+      10,
+      12,
+      9
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 11,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l28-q020",
+    "gameId": "level_28",
+    "type": "level_28",
+    "prompt": "Điền số còn thiếu: 11, ?, 13",
+    "correctAnswer": 12,
+    "options": [
+      13,
+      12,
+      11,
+      10
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 12,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l28-q021",
+    "gameId": "level_28",
+    "type": "level_28",
+    "prompt": "Điền số còn thiếu: 15, 16, ?, 18",
+    "correctAnswer": 17,
+    "options": [
+      17,
+      15,
+      16,
+      14
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 17,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l28-q022",
+    "gameId": "level_28",
+    "type": "level_28",
+    "prompt": "Điền số còn thiếu: 9, 10, ?, 12",
+    "correctAnswer": 11,
+    "options": [
+      8,
+      10,
+      11,
+      9
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 11,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l28-q023",
+    "gameId": "level_28",
+    "type": "level_28",
+    "prompt": "Điền số còn thiếu: 12, 13, 14, 15, ?",
+    "correctAnswer": 16,
+    "options": [
+      14,
+      16,
+      15,
+      13
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 16,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l28-q024",
+    "gameId": "level_28",
+    "type": "level_28",
+    "prompt": "Điền số còn thiếu: 16, 17, ?, 19",
     "correctAnswer": 18,
     "options": [
-      19,
-      17,
       16,
-      18
+      17,
+      18,
+      15
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
@@ -627,34 +456,53 @@
     "displayPrompt": null
   },
   {
-    "id": "l28-q034",
+    "id": "l28-q025",
     "gameId": "level_28",
     "type": "level_28",
-    "prompt": "Điền số còn thiếu: 13, 14, ?, 16",
-    "correctAnswer": 15,
+    "prompt": "Điền số còn thiếu: 16, ?, 18",
+    "correctAnswer": 17,
     "options": [
-      13,
-      14,
-      15,
-      12
+      16,
+      17,
+      18,
+      15
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
-    "targetCount": 15,
+    "targetCount": 17,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
   },
   {
-    "id": "l28-q035",
+    "id": "l28-q026",
     "gameId": "level_28",
     "type": "level_28",
-    "prompt": "Điền số còn thiếu: 5, ?, 7",
+    "prompt": "Điền số còn thiếu: 3, ?, 5, 6, 7",
+    "correctAnswer": 4,
+    "options": [
+      2,
+      3,
+      4,
+      5
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 4,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l28-q027",
+    "gameId": "level_28",
+    "type": "level_28",
+    "prompt": "Điền số còn thiếu: 4, 5, ?",
     "correctAnswer": 6,
     "options": [
-      7,
-      5,
+      3,
       6,
+      5,
       4
     ],
     "objectIcon": "/icons/star_icon.png",
@@ -665,16 +513,35 @@
     "displayPrompt": null
   },
   {
-    "id": "l28-q036",
+    "id": "l28-q028",
     "gameId": "level_28",
     "type": "level_28",
-    "prompt": "Số nào là số lẻ?",
+    "prompt": "Điền số còn thiếu: 11, 12, ?",
+    "correctAnswer": 13,
+    "options": [
+      11,
+      10,
+      12,
+      13
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 13,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l28-q029",
+    "gameId": "level_28",
+    "type": "level_28",
+    "prompt": "Điền số còn thiếu: 10, ?, 12, 13",
     "correctAnswer": 11,
     "options": [
-      14,
-      8,
+      10,
       11,
-      10
+      9,
+      12
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
@@ -684,34 +551,34 @@
     "displayPrompt": null
   },
   {
-    "id": "l28-q037",
+    "id": "l28-q030",
     "gameId": "level_28",
     "type": "level_28",
-    "prompt": "Số nào là số chẵn?",
-    "correctAnswer": 18,
+    "prompt": "Điền số còn thiếu: 9, 10, 11, 12, ?",
+    "correctAnswer": 13,
     "options": [
-      19,
-      18,
-      11,
-      13
+      10,
+      12,
+      13,
+      11
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
-    "targetCount": 18,
+    "targetCount": 13,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
   },
   {
-    "id": "l28-q038",
+    "id": "l28-q031",
     "gameId": "level_28",
     "type": "level_28",
-    "prompt": "Số nào là số chẵn?",
+    "prompt": "Điền số còn thiếu: 5, ?, 7",
     "correctAnswer": 6,
     "options": [
-      11,
-      13,
-      3,
+      5,
+      4,
+      7,
       6
     ],
     "objectIcon": "/icons/star_icon.png",
@@ -722,20 +589,153 @@
     "displayPrompt": null
   },
   {
-    "id": "l28-q039",
+    "id": "l28-q032",
     "gameId": "level_28",
     "type": "level_28",
-    "prompt": "Số nào là số chẵn?",
+    "prompt": "Điền số còn thiếu: 7, ?, 9, 10",
+    "correctAnswer": 8,
+    "options": [
+      8,
+      9,
+      6,
+      7
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 8,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l28-q033",
+    "gameId": "level_28",
+    "type": "level_28",
+    "prompt": "Điền số còn thiếu: 7, 8, 9, ?",
     "correctAnswer": 10,
     "options": [
+      8,
       10,
-      1,
-      3,
-      19
+      7,
+      9
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
     "targetCount": 10,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l28-q034",
+    "gameId": "level_28",
+    "type": "level_28",
+    "prompt": "Điền số còn thiếu: 17, 18, 19, ?",
+    "correctAnswer": 20,
+    "options": [
+      18,
+      17,
+      20,
+      19
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 20,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l28-q035",
+    "gameId": "level_28",
+    "type": "level_28",
+    "prompt": "Điền số còn thiếu: 9, 10, 11, ?",
+    "correctAnswer": 12,
+    "options": [
+      10,
+      12,
+      11,
+      9
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 12,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l28-q036",
+    "gameId": "level_28",
+    "type": "level_28",
+    "prompt": "Số nào là số lẻ?",
+    "correctAnswer": 19,
+    "options": [
+      19,
+      12,
+      4,
+      14
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 19,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l28-q037",
+    "gameId": "level_28",
+    "type": "level_28",
+    "prompt": "Số nào là số lẻ?",
+    "correctAnswer": 1,
+    "options": [
+      18,
+      2,
+      1,
+      16
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 1,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l28-q038",
+    "gameId": "level_28",
+    "type": "level_28",
+    "prompt": "Số nào là số chẵn?",
+    "correctAnswer": 8,
+    "options": [
+      5,
+      3,
+      8,
+      1
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 8,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l28-q039",
+    "gameId": "level_28",
+    "type": "level_28",
+    "prompt": "Số nào là số lẻ?",
+    "correctAnswer": 19,
+    "options": [
+      6,
+      12,
+      8,
+      19
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 19,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
@@ -745,68 +745,11 @@
     "gameId": "level_28",
     "type": "level_28",
     "prompt": "Số nào là số lẻ?",
-    "correctAnswer": 13,
-    "options": [
-      13,
-      16,
-      14,
-      10
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 13,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l28-q041",
-    "gameId": "level_28",
-    "type": "level_28",
-    "prompt": "Số nào là số lẻ?",
-    "correctAnswer": 17,
-    "options": [
-      6,
-      12,
-      17,
-      2
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 17,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l28-q042",
-    "gameId": "level_28",
-    "type": "level_28",
-    "prompt": "Số nào là số chẵn?",
-    "correctAnswer": 10,
-    "options": [
-      17,
-      5,
-      10,
-      3
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 10,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l28-q043",
-    "gameId": "level_28",
-    "type": "level_28",
-    "prompt": "Số nào là số lẻ?",
     "correctAnswer": 1,
     "options": [
-      12,
-      8,
+      18,
       16,
+      14,
       1
     ],
     "objectIcon": "/icons/star_icon.png",
@@ -817,111 +760,16 @@
     "displayPrompt": null
   },
   {
-    "id": "l28-q044",
+    "id": "l28-q041",
     "gameId": "level_28",
     "type": "level_28",
     "prompt": "Số nào là số lẻ?",
-    "correctAnswer": 13,
+    "correctAnswer": 9,
     "options": [
-      14,
+      9,
       4,
-      13,
-      10
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 13,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l28-q045",
-    "gameId": "level_28",
-    "type": "level_28",
-    "prompt": "Số nào là số chẵn?",
-    "correctAnswer": 2,
-    "options": [
-      15,
-      1,
-      2,
-      5
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 2,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l28-q046",
-    "gameId": "level_28",
-    "type": "level_28",
-    "prompt": "13 + ? = 20",
-    "correctAnswer": 7,
-    "options": [
-      5,
-      4,
-      6,
-      7
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 20,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l28-q047",
-    "gameId": "level_28",
-    "type": "level_28",
-    "prompt": "11 + ? = 13",
-    "correctAnswer": 2,
-    "options": [
-      3,
-      0,
-      2,
-      1
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 13,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l28-q048",
-    "gameId": "level_28",
-    "type": "level_28",
-    "prompt": "1 + ? = 14",
-    "correctAnswer": 13,
-    "options": [
-      11,
-      13,
-      10,
-      12
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 14,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l28-q049",
-    "gameId": "level_28",
-    "type": "level_28",
-    "prompt": "8 + ? = 9",
-    "correctAnswer": 1,
-    "options": [
-      2,
-      3,
-      0,
-      1
+      16,
+      6
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
@@ -931,20 +779,172 @@
     "displayPrompt": null
   },
   {
-    "id": "l28-q050",
+    "id": "l28-q042",
     "gameId": "level_28",
     "type": "level_28",
-    "prompt": "6 + ? = 17",
-    "correctAnswer": 11,
+    "prompt": "Số nào là số lẻ?",
+    "correctAnswer": 17,
     "options": [
-      11,
-      8,
-      9,
-      10
+      17,
+      14,
+      12,
+      16
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
     "targetCount": 17,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l28-q043",
+    "gameId": "level_28",
+    "type": "level_28",
+    "prompt": "Số nào là số lẻ?",
+    "correctAnswer": 11,
+    "options": [
+      12,
+      11,
+      14,
+      2
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 11,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l28-q044",
+    "gameId": "level_28",
+    "type": "level_28",
+    "prompt": "Số nào là số lẻ?",
+    "correctAnswer": 7,
+    "options": [
+      16,
+      10,
+      7,
+      18
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 7,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l28-q045",
+    "gameId": "level_28",
+    "type": "level_28",
+    "prompt": "Số nào là số lẻ?",
+    "correctAnswer": 19,
+    "options": [
+      16,
+      20,
+      19,
+      8
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 19,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l28-q046",
+    "gameId": "level_28",
+    "type": "level_28",
+    "prompt": "7 + ? = 12",
+    "correctAnswer": 5,
+    "options": [
+      3,
+      2,
+      5,
+      4
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 12,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l28-q047",
+    "gameId": "level_28",
+    "type": "level_28",
+    "prompt": "18 + ? = 19",
+    "correctAnswer": 1,
+    "options": [
+      3,
+      2,
+      0,
+      1
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 19,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l28-q048",
+    "gameId": "level_28",
+    "type": "level_28",
+    "prompt": "2 + ? = 20",
+    "correctAnswer": 18,
+    "options": [
+      17,
+      16,
+      18,
+      15
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 20,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l28-q049",
+    "gameId": "level_28",
+    "type": "level_28",
+    "prompt": "5 + ? = 7",
+    "correctAnswer": 2,
+    "options": [
+      1,
+      0,
+      3,
+      2
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 7,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l28-q050",
+    "gameId": "level_28",
+    "type": "level_28",
+    "prompt": "2 + ? = 3",
+    "correctAnswer": 1,
+    "options": [
+      1,
+      3,
+      2,
+      0
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 3,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null

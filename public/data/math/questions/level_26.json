@@ -3,13 +3,13 @@
     "id": "l26-q001",
     "gameId": "level_26",
     "type": "level_26",
-    "prompt": "Đồng hồ chỉ 12 giờ đúng. Bé chọn đáp án đúng:",
-    "correctAnswer": "12 giờ",
+    "prompt": "Đồng hồ chỉ 1 giờ đúng. Bé chọn đáp án đúng:",
+    "correctAnswer": "1 giờ",
     "options": [
-      "10 giờ",
-      "12 giờ",
-      "9 giờ",
-      "11 giờ"
+      "3 giờ",
+      "1 giờ",
+      "2 giờ",
+      "4 giờ"
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
@@ -22,13 +22,13 @@
     "id": "l26-q002",
     "gameId": "level_26",
     "type": "level_26",
-    "prompt": "Đồng hồ chỉ 11 giờ đúng. Bé chọn đáp án đúng:",
-    "correctAnswer": "11 giờ",
+    "prompt": "Đồng hồ chỉ 5 giờ đúng. Bé chọn đáp án đúng:",
+    "correctAnswer": "5 giờ",
     "options": [
-      "10 giờ",
-      "9 giờ",
-      "11 giờ",
-      "8 giờ"
+      "5 giờ",
+      "4 giờ",
+      "2 giờ",
+      "3 giờ"
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
@@ -41,13 +41,13 @@
     "id": "l26-q003",
     "gameId": "level_26",
     "type": "level_26",
-    "prompt": "Đồng hồ chỉ 7 giờ đúng. Bé chọn đáp án đúng:",
-    "correctAnswer": "7 giờ",
+    "prompt": "Đồng hồ chỉ 11 giờ đúng. Bé chọn đáp án đúng:",
+    "correctAnswer": "11 giờ",
     "options": [
-      "7 giờ",
-      "4 giờ",
-      "6 giờ",
-      "5 giờ"
+      "11 giờ",
+      "10 giờ",
+      "9 giờ",
+      "8 giờ"
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
@@ -60,13 +60,13 @@
     "id": "l26-q004",
     "gameId": "level_26",
     "type": "level_26",
-    "prompt": "Đồng hồ chỉ 10 giờ đúng. Bé chọn đáp án đúng:",
-    "correctAnswer": "10 giờ",
+    "prompt": "Đồng hồ chỉ 11 giờ đúng. Bé chọn đáp án đúng:",
+    "correctAnswer": "11 giờ",
     "options": [
-      "7 giờ",
       "9 giờ",
       "10 giờ",
-      "8 giờ"
+      "8 giờ",
+      "11 giờ"
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
@@ -79,12 +79,12 @@
     "id": "l26-q005",
     "gameId": "level_26",
     "type": "level_26",
-    "prompt": "Đồng hồ chỉ 2 giờ đúng. Bé chọn đáp án đúng:",
-    "correctAnswer": "2 giờ",
+    "prompt": "Đồng hồ chỉ 3 giờ đúng. Bé chọn đáp án đúng:",
+    "correctAnswer": "3 giờ",
     "options": [
       "3 giờ",
-      "1 giờ",
       "4 giờ",
+      "1 giờ",
       "2 giờ"
     ],
     "objectIcon": "/icons/star_icon.png",
@@ -98,13 +98,13 @@
     "id": "l26-q006",
     "gameId": "level_26",
     "type": "level_26",
-    "prompt": "Đồng hồ chỉ 10 giờ đúng. Bé chọn đáp án đúng:",
-    "correctAnswer": "10 giờ",
+    "prompt": "Đồng hồ chỉ 1 giờ đúng. Bé chọn đáp án đúng:",
+    "correctAnswer": "1 giờ",
     "options": [
-      "7 giờ",
-      "10 giờ",
-      "9 giờ",
-      "8 giờ"
+      "4 giờ",
+      "1 giờ",
+      "3 giờ",
+      "2 giờ"
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
@@ -117,13 +117,13 @@
     "id": "l26-q007",
     "gameId": "level_26",
     "type": "level_26",
-    "prompt": "Đồng hồ chỉ 5 giờ đúng. Bé chọn đáp án đúng:",
-    "correctAnswer": "5 giờ",
+    "prompt": "Đồng hồ chỉ 10 giờ đúng. Bé chọn đáp án đúng:",
+    "correctAnswer": "10 giờ",
     "options": [
-      "2 giờ",
-      "3 giờ",
-      "4 giờ",
-      "5 giờ"
+      "10 giờ",
+      "7 giờ",
+      "8 giờ",
+      "9 giờ"
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
@@ -136,13 +136,13 @@
     "id": "l26-q008",
     "gameId": "level_26",
     "type": "level_26",
-    "prompt": "Đồng hồ chỉ 5 giờ đúng. Bé chọn đáp án đúng:",
-    "correctAnswer": "5 giờ",
+    "prompt": "Đồng hồ chỉ 6 giờ đúng. Bé chọn đáp án đúng:",
+    "correctAnswer": "6 giờ",
     "options": [
+      "6 giờ",
       "3 giờ",
-      "2 giờ",
-      "5 giờ",
-      "4 giờ"
+      "4 giờ",
+      "5 giờ"
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
@@ -153,101 +153,6 @@
   },
   {
     "id": "l26-q009",
-    "gameId": "level_26",
-    "type": "level_26",
-    "prompt": "Đồng hồ chỉ 3 giờ đúng. Bé chọn đáp án đúng:",
-    "correctAnswer": "3 giờ",
-    "options": [
-      "2 giờ",
-      "3 giờ",
-      "4 giờ",
-      "1 giờ"
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l26-q010",
-    "gameId": "level_26",
-    "type": "level_26",
-    "prompt": "Đồng hồ chỉ 4 giờ đúng. Bé chọn đáp án đúng:",
-    "correctAnswer": "4 giờ",
-    "options": [
-      "1 giờ",
-      "3 giờ",
-      "2 giờ",
-      "4 giờ"
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l26-q011",
-    "gameId": "level_26",
-    "type": "level_26",
-    "prompt": "Đồng hồ chỉ 9 giờ đúng. Bé chọn đáp án đúng:",
-    "correctAnswer": "9 giờ",
-    "options": [
-      "8 giờ",
-      "9 giờ",
-      "7 giờ",
-      "6 giờ"
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l26-q012",
-    "gameId": "level_26",
-    "type": "level_26",
-    "prompt": "Đồng hồ chỉ 8 giờ đúng. Bé chọn đáp án đúng:",
-    "correctAnswer": "8 giờ",
-    "options": [
-      "7 giờ",
-      "8 giờ",
-      "5 giờ",
-      "6 giờ"
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l26-q013",
-    "gameId": "level_26",
-    "type": "level_26",
-    "prompt": "Đồng hồ chỉ 10 giờ đúng. Bé chọn đáp án đúng:",
-    "correctAnswer": "10 giờ",
-    "options": [
-      "10 giờ",
-      "8 giờ",
-      "7 giờ",
-      "9 giờ"
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l26-q014",
     "gameId": "level_26",
     "type": "level_26",
     "prompt": "Đồng hồ chỉ 7 giờ đúng. Bé chọn đáp án đúng:",
@@ -266,16 +171,111 @@
     "displayPrompt": null
   },
   {
+    "id": "l26-q010",
+    "gameId": "level_26",
+    "type": "level_26",
+    "prompt": "Đồng hồ chỉ 10 giờ đúng. Bé chọn đáp án đúng:",
+    "correctAnswer": "10 giờ",
+    "options": [
+      "10 giờ",
+      "7 giờ",
+      "9 giờ",
+      "8 giờ"
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 0,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l26-q011",
+    "gameId": "level_26",
+    "type": "level_26",
+    "prompt": "Đồng hồ chỉ 1 giờ đúng. Bé chọn đáp án đúng:",
+    "correctAnswer": "1 giờ",
+    "options": [
+      "1 giờ",
+      "3 giờ",
+      "2 giờ",
+      "4 giờ"
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 0,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l26-q012",
+    "gameId": "level_26",
+    "type": "level_26",
+    "prompt": "Đồng hồ chỉ 2 giờ đúng. Bé chọn đáp án đúng:",
+    "correctAnswer": "2 giờ",
+    "options": [
+      "1 giờ",
+      "4 giờ",
+      "3 giờ",
+      "2 giờ"
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 0,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l26-q013",
+    "gameId": "level_26",
+    "type": "level_26",
+    "prompt": "Đồng hồ chỉ 3 giờ đúng. Bé chọn đáp án đúng:",
+    "correctAnswer": "3 giờ",
+    "options": [
+      "1 giờ",
+      "3 giờ",
+      "4 giờ",
+      "2 giờ"
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 0,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l26-q014",
+    "gameId": "level_26",
+    "type": "level_26",
+    "prompt": "Đồng hồ chỉ 1 giờ đúng. Bé chọn đáp án đúng:",
+    "correctAnswer": "1 giờ",
+    "options": [
+      "4 giờ",
+      "2 giờ",
+      "3 giờ",
+      "1 giờ"
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 0,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
     "id": "l26-q015",
     "gameId": "level_26",
     "type": "level_26",
-    "prompt": "Đồng hồ chỉ 8 giờ đúng. Bé chọn đáp án đúng:",
-    "correctAnswer": "8 giờ",
+    "prompt": "Đồng hồ chỉ 9 giờ đúng. Bé chọn đáp án đúng:",
+    "correctAnswer": "9 giờ",
     "options": [
-      "8 giờ",
+      "9 giờ",
       "7 giờ",
       "6 giờ",
-      "5 giờ"
+      "8 giờ"
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
@@ -288,13 +288,13 @@
     "id": "l26-q016",
     "gameId": "level_26",
     "type": "level_26",
-    "prompt": "Đồng hồ chỉ 11 giờ đúng. Bé chọn đáp án đúng:",
-    "correctAnswer": "11 giờ",
+    "prompt": "Đồng hồ chỉ 4 giờ đúng. Bé chọn đáp án đúng:",
+    "correctAnswer": "4 giờ",
     "options": [
-      "9 giờ",
-      "10 giờ",
-      "11 giờ",
-      "8 giờ"
+      "1 giờ",
+      "4 giờ",
+      "3 giờ",
+      "2 giờ"
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
@@ -307,13 +307,13 @@
     "id": "l26-q017",
     "gameId": "level_26",
     "type": "level_26",
-    "prompt": "Đồng hồ chỉ 2 giờ đúng. Bé chọn đáp án đúng:",
-    "correctAnswer": "2 giờ",
+    "prompt": "Đồng hồ chỉ 12 giờ đúng. Bé chọn đáp án đúng:",
+    "correctAnswer": "12 giờ",
     "options": [
-      "3 giờ",
-      "2 giờ",
-      "4 giờ",
-      "1 giờ"
+      "11 giờ",
+      "12 giờ",
+      "9 giờ",
+      "10 giờ"
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
@@ -326,13 +326,13 @@
     "id": "l26-q018",
     "gameId": "level_26",
     "type": "level_26",
-    "prompt": "Đồng hồ chỉ 11 giờ đúng. Bé chọn đáp án đúng:",
-    "correctAnswer": "11 giờ",
+    "prompt": "Đồng hồ chỉ 7 giờ đúng. Bé chọn đáp án đúng:",
+    "correctAnswer": "7 giờ",
     "options": [
-      "10 giờ",
-      "8 giờ",
-      "11 giờ",
-      "9 giờ"
+      "6 giờ",
+      "4 giờ",
+      "5 giờ",
+      "7 giờ"
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
@@ -345,13 +345,13 @@
     "id": "l26-q019",
     "gameId": "level_26",
     "type": "level_26",
-    "prompt": "Đồng hồ chỉ 9 giờ đúng. Bé chọn đáp án đúng:",
-    "correctAnswer": "9 giờ",
+    "prompt": "Đồng hồ chỉ 11 giờ đúng. Bé chọn đáp án đúng:",
+    "correctAnswer": "11 giờ",
     "options": [
-      "9 giờ",
-      "7 giờ",
       "8 giờ",
-      "6 giờ"
+      "9 giờ",
+      "11 giờ",
+      "10 giờ"
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
@@ -364,13 +364,13 @@
     "id": "l26-q020",
     "gameId": "level_26",
     "type": "level_26",
-    "prompt": "Đồng hồ chỉ 11 giờ đúng. Bé chọn đáp án đúng:",
-    "correctAnswer": "11 giờ",
+    "prompt": "Đồng hồ chỉ 3 giờ đúng. Bé chọn đáp án đúng:",
+    "correctAnswer": "3 giờ",
     "options": [
-      "9 giờ",
-      "8 giờ",
-      "10 giờ",
-      "11 giờ"
+      "2 giờ",
+      "1 giờ",
+      "3 giờ",
+      "4 giờ"
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
@@ -383,13 +383,13 @@
     "id": "l26-q021",
     "gameId": "level_26",
     "type": "level_26",
-    "prompt": "Đồng hồ chỉ 3 giờ đúng. Bé chọn đáp án đúng:",
-    "correctAnswer": "3 giờ",
+    "prompt": "Đồng hồ chỉ 8 giờ đúng. Bé chọn đáp án đúng:",
+    "correctAnswer": "8 giờ",
     "options": [
-      "4 giờ",
-      "2 giờ",
-      "3 giờ",
-      "1 giờ"
+      "7 giờ",
+      "8 giờ",
+      "5 giờ",
+      "6 giờ"
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
@@ -402,13 +402,13 @@
     "id": "l26-q022",
     "gameId": "level_26",
     "type": "level_26",
-    "prompt": "Đồng hồ chỉ 3 giờ đúng. Bé chọn đáp án đúng:",
-    "correctAnswer": "3 giờ",
+    "prompt": "Đồng hồ chỉ 5 giờ đúng. Bé chọn đáp án đúng:",
+    "correctAnswer": "5 giờ",
     "options": [
-      "1 giờ",
-      "2 giờ",
       "3 giờ",
-      "4 giờ"
+      "2 giờ",
+      "4 giờ",
+      "5 giờ"
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
@@ -421,13 +421,13 @@
     "id": "l26-q023",
     "gameId": "level_26",
     "type": "level_26",
-    "prompt": "Đồng hồ chỉ 3 giờ đúng. Bé chọn đáp án đúng:",
-    "correctAnswer": "3 giờ",
+    "prompt": "Đồng hồ chỉ 8 giờ đúng. Bé chọn đáp án đúng:",
+    "correctAnswer": "8 giờ",
     "options": [
-      "1 giờ",
-      "2 giờ",
-      "4 giờ",
-      "3 giờ"
+      "5 giờ",
+      "6 giờ",
+      "8 giờ",
+      "7 giờ"
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
@@ -440,13 +440,13 @@
     "id": "l26-q024",
     "gameId": "level_26",
     "type": "level_26",
-    "prompt": "Đồng hồ chỉ 2 giờ đúng. Bé chọn đáp án đúng:",
-    "correctAnswer": "2 giờ",
+    "prompt": "Đồng hồ chỉ 9 giờ đúng. Bé chọn đáp án đúng:",
+    "correctAnswer": "9 giờ",
     "options": [
-      "2 giờ",
-      "4 giờ",
-      "3 giờ",
-      "1 giờ"
+      "6 giờ",
+      "8 giờ",
+      "7 giờ",
+      "9 giờ"
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
@@ -459,13 +459,13 @@
     "id": "l26-q025",
     "gameId": "level_26",
     "type": "level_26",
-    "prompt": "Đồng hồ chỉ 1 giờ đúng. Bé chọn đáp án đúng:",
-    "correctAnswer": "1 giờ",
+    "prompt": "Đồng hồ chỉ 2 giờ đúng. Bé chọn đáp án đúng:",
+    "correctAnswer": "2 giờ",
     "options": [
-      "1 giờ",
-      "3 giờ",
+      "4 giờ",
       "2 giờ",
-      "4 giờ"
+      "3 giờ",
+      "1 giờ"
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
@@ -478,13 +478,13 @@
     "id": "l26-q026",
     "gameId": "level_26",
     "type": "level_26",
-    "prompt": "Đồng hồ chỉ 1 giờ đúng. Bé chọn đáp án đúng:",
-    "correctAnswer": "1 giờ",
+    "prompt": "Đồng hồ chỉ 10 giờ đúng. Bé chọn đáp án đúng:",
+    "correctAnswer": "10 giờ",
     "options": [
-      "2 giờ",
-      "1 giờ",
-      "3 giờ",
-      "4 giờ"
+      "7 giờ",
+      "8 giờ",
+      "10 giờ",
+      "9 giờ"
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
@@ -497,13 +497,13 @@
     "id": "l26-q027",
     "gameId": "level_26",
     "type": "level_26",
-    "prompt": "Đồng hồ chỉ 12 giờ đúng. Bé chọn đáp án đúng:",
-    "correctAnswer": "12 giờ",
+    "prompt": "Đồng hồ chỉ 8 giờ đúng. Bé chọn đáp án đúng:",
+    "correctAnswer": "8 giờ",
     "options": [
-      "12 giờ",
-      "11 giờ",
-      "9 giờ",
-      "10 giờ"
+      "5 giờ",
+      "7 giờ",
+      "6 giờ",
+      "8 giờ"
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
@@ -516,10 +516,10 @@
     "id": "l26-q028",
     "gameId": "level_26",
     "type": "level_26",
-    "prompt": "Đồng hồ chỉ 6 giờ đúng. Bé chọn đáp án đúng:",
-    "correctAnswer": "6 giờ",
+    "prompt": "Đồng hồ chỉ 7 giờ đúng. Bé chọn đáp án đúng:",
+    "correctAnswer": "7 giờ",
     "options": [
-      "3 giờ",
+      "7 giờ",
       "6 giờ",
       "5 giờ",
       "4 giờ"
@@ -535,13 +535,13 @@
     "id": "l26-q029",
     "gameId": "level_26",
     "type": "level_26",
-    "prompt": "Đồng hồ chỉ 8 giờ đúng. Bé chọn đáp án đúng:",
-    "correctAnswer": "8 giờ",
+    "prompt": "Đồng hồ chỉ 3 giờ đúng. Bé chọn đáp án đúng:",
+    "correctAnswer": "3 giờ",
     "options": [
-      "5 giờ",
-      "8 giờ",
-      "6 giờ",
-      "7 giờ"
+      "2 giờ",
+      "3 giờ",
+      "1 giờ",
+      "4 giờ"
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
@@ -554,13 +554,13 @@
     "id": "l26-q030",
     "gameId": "level_26",
     "type": "level_26",
-    "prompt": "Đồng hồ chỉ 12 giờ đúng. Bé chọn đáp án đúng:",
-    "correctAnswer": "12 giờ",
+    "prompt": "Đồng hồ chỉ 7 giờ đúng. Bé chọn đáp án đúng:",
+    "correctAnswer": "7 giờ",
     "options": [
-      "11 giờ",
-      "10 giờ",
-      "9 giờ",
-      "12 giờ"
+      "6 giờ",
+      "5 giờ",
+      "4 giờ",
+      "7 giờ"
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
@@ -577,9 +577,9 @@
     "correctAnswer": "8 giờ",
     "options": [
       "6 giờ",
-      "7 giờ",
       "5 giờ",
-      "8 giờ"
+      "8 giờ",
+      "7 giờ"
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
@@ -592,13 +592,13 @@
     "id": "l26-q032",
     "gameId": "level_26",
     "type": "level_26",
-    "prompt": "Đồng hồ chỉ 6 giờ đúng. Bé chọn đáp án đúng:",
-    "correctAnswer": "6 giờ",
+    "prompt": "Đồng hồ chỉ 11 giờ đúng. Bé chọn đáp án đúng:",
+    "correctAnswer": "11 giờ",
     "options": [
-      "4 giờ",
-      "6 giờ",
-      "3 giờ",
-      "5 giờ"
+      "10 giờ",
+      "9 giờ",
+      "11 giờ",
+      "8 giờ"
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
@@ -611,13 +611,13 @@
     "id": "l26-q033",
     "gameId": "level_26",
     "type": "level_26",
-    "prompt": "Đồng hồ chỉ 8 giờ đúng. Bé chọn đáp án đúng:",
-    "correctAnswer": "8 giờ",
+    "prompt": "Đồng hồ chỉ 9 giờ đúng. Bé chọn đáp án đúng:",
+    "correctAnswer": "9 giờ",
     "options": [
       "7 giờ",
-      "6 giờ",
-      "5 giờ",
-      "8 giờ"
+      "9 giờ",
+      "8 giờ",
+      "6 giờ"
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
@@ -630,13 +630,13 @@
     "id": "l26-q034",
     "gameId": "level_26",
     "type": "level_26",
-    "prompt": "Đồng hồ chỉ 8 giờ đúng. Bé chọn đáp án đúng:",
-    "correctAnswer": "8 giờ",
+    "prompt": "Đồng hồ chỉ 1 giờ đúng. Bé chọn đáp án đúng:",
+    "correctAnswer": "1 giờ",
     "options": [
-      "8 giờ",
-      "5 giờ",
-      "7 giờ",
-      "6 giờ"
+      "3 giờ",
+      "1 giờ",
+      "2 giờ",
+      "4 giờ"
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
@@ -649,13 +649,13 @@
     "id": "l26-q035",
     "gameId": "level_26",
     "type": "level_26",
-    "prompt": "Đồng hồ chỉ 11 giờ đúng. Bé chọn đáp án đúng:",
-    "correctAnswer": "11 giờ",
+    "prompt": "Đồng hồ chỉ 10 giờ đúng. Bé chọn đáp án đúng:",
+    "correctAnswer": "10 giờ",
     "options": [
-      "10 giờ",
-      "9 giờ",
       "8 giờ",
-      "11 giờ"
+      "9 giờ",
+      "10 giờ",
+      "7 giờ"
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
@@ -668,8 +668,8 @@
     "id": "l26-q036",
     "gameId": "level_26",
     "type": "level_26",
-    "prompt": "12 ___ 10. Chọn dấu thích hợp:",
-    "correctAnswer": ">",
+    "prompt": "So sánh: 1 ☐ 3",
+    "correctAnswer": "<",
     "options": [
       ">",
       "<",
@@ -686,7 +686,7 @@
     "id": "l26-q037",
     "gameId": "level_26",
     "type": "level_26",
-    "prompt": "3 và 9, điền dấu so sánh:",
+    "prompt": "6 và 11, điền dấu so sánh:",
     "correctAnswer": "<",
     "options": [
       ">",
@@ -704,8 +704,8 @@
     "id": "l26-q038",
     "gameId": "level_26",
     "type": "level_26",
-    "prompt": "Điền dấu đúng: 2 __ 8",
-    "correctAnswer": "<",
+    "prompt": "So sánh: 10 ☐ 9",
+    "correctAnswer": ">",
     "options": [
       ">",
       "<",
@@ -722,8 +722,8 @@
     "id": "l26-q039",
     "gameId": "level_26",
     "type": "level_26",
-    "prompt": "Điền dấu đúng: 5 __ 8",
-    "correctAnswer": "<",
+    "prompt": "11 và 10, điền dấu so sánh:",
+    "correctAnswer": ">",
     "options": [
       ">",
       "<",
@@ -740,7 +740,7 @@
     "id": "l26-q040",
     "gameId": "level_26",
     "type": "level_26",
-    "prompt": "3 ___ 4. Chọn dấu thích hợp:",
+    "prompt": "So sánh: 4 ☐ 11",
     "correctAnswer": "<",
     "options": [
       ">",
@@ -758,7 +758,7 @@
     "id": "l26-q041",
     "gameId": "level_26",
     "type": "level_26",
-    "prompt": "Điền dấu đúng: 3 __ 7",
+    "prompt": "5 ___ 8. Chọn dấu thích hợp:",
     "correctAnswer": "<",
     "options": [
       ">",
@@ -776,7 +776,7 @@
     "id": "l26-q042",
     "gameId": "level_26",
     "type": "level_26",
-    "prompt": "6 và 9, điền dấu so sánh:",
+    "prompt": "So sánh: 2 ☐ 3",
     "correctAnswer": "<",
     "options": [
       ">",
@@ -794,8 +794,8 @@
     "id": "l26-q043",
     "gameId": "level_26",
     "type": "level_26",
-    "prompt": "So sánh: 2 ☐ 3",
-    "correctAnswer": "<",
+    "prompt": "4 ___ 2. Chọn dấu thích hợp:",
+    "correctAnswer": ">",
     "options": [
       ">",
       "<",
@@ -812,8 +812,8 @@
     "id": "l26-q044",
     "gameId": "level_26",
     "type": "level_26",
-    "prompt": "11 ___ 1. Chọn dấu thích hợp:",
-    "correctAnswer": ">",
+    "prompt": "1 ___ 4. Chọn dấu thích hợp:",
+    "correctAnswer": "<",
     "options": [
       ">",
       "<",
@@ -830,7 +830,7 @@
     "id": "l26-q045",
     "gameId": "level_26",
     "type": "level_26",
-    "prompt": "4 ___ 11. Chọn dấu thích hợp:",
+    "prompt": "Điền dấu đúng: 3 __ 6",
     "correctAnswer": "<",
     "options": [
       ">",
@@ -848,7 +848,7 @@
     "id": "l26-q046",
     "gameId": "level_26",
     "type": "level_26",
-    "prompt": "2 và 1, điền dấu so sánh:",
+    "prompt": "9 ___ 8. Chọn dấu thích hợp:",
     "correctAnswer": ">",
     "options": [
       ">",
@@ -866,7 +866,7 @@
     "id": "l26-q047",
     "gameId": "level_26",
     "type": "level_26",
-    "prompt": "So sánh: 7 ☐ 4",
+    "prompt": "9 và 1, điền dấu so sánh:",
     "correctAnswer": ">",
     "options": [
       ">",
@@ -884,7 +884,7 @@
     "id": "l26-q048",
     "gameId": "level_26",
     "type": "level_26",
-    "prompt": "So sánh: 9 ☐ 4",
+    "prompt": "9 và 1, điền dấu so sánh:",
     "correctAnswer": ">",
     "options": [
       ">",
@@ -902,8 +902,8 @@
     "id": "l26-q049",
     "gameId": "level_26",
     "type": "level_26",
-    "prompt": "3 và 8, điền dấu so sánh:",
-    "correctAnswer": "<",
+    "prompt": "So sánh: 7 ☐ 7",
+    "correctAnswer": "=",
     "options": [
       ">",
       "<",
@@ -920,7 +920,7 @@
     "id": "l26-q050",
     "gameId": "level_26",
     "type": "level_26",
-    "prompt": "So sánh: 7 ☐ 7",
+    "prompt": "So sánh: 5 ☐ 5",
     "correctAnswer": "=",
     "options": [
       ">",

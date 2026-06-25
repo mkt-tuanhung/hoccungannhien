@@ -3,26 +3,7 @@
     "id": "l19-q001",
     "gameId": "level_19",
     "type": "level_19",
-    "prompt": "10 + 10 = ?",
-    "correctAnswer": 20,
-    "options": [
-      10,
-      30,
-      50,
-      20
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l19-q002",
-    "gameId": "level_19",
-    "type": "level_19",
-    "prompt": "10 + 80 = ?",
+    "prompt": "70 + 20 = ?",
     "correctAnswer": 90,
     "options": [
       80,
@@ -38,16 +19,35 @@
     "displayPrompt": null
   },
   {
+    "id": "l19-q002",
+    "gameId": "level_19",
+    "type": "level_19",
+    "prompt": "80 + 20 = ?",
+    "correctAnswer": 100,
+    "options": [
+      130,
+      90,
+      100,
+      80
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 0,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
     "id": "l19-q003",
     "gameId": "level_19",
     "type": "level_19",
-    "prompt": "30 + 10 = ?",
+    "prompt": "10 + 30 = ?",
     "correctAnswer": 40,
     "options": [
-      20,
+      30,
       40,
       50,
-      30
+      20
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
@@ -60,13 +60,13 @@
     "id": "l19-q004",
     "gameId": "level_19",
     "type": "level_19",
-    "prompt": "20 + 40 = ?",
-    "correctAnswer": 60,
+    "prompt": "70 + 10 = ?",
+    "correctAnswer": 80,
     "options": [
-      50,
+      70,
       60,
-      40,
-      70
+      90,
+      80
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
@@ -79,12 +79,12 @@
     "id": "l19-q005",
     "gameId": "level_19",
     "type": "level_19",
-    "prompt": "50 + 50 = ?",
-    "correctAnswer": 100,
+    "prompt": "50 + 30 = ?",
+    "correctAnswer": 80,
     "options": [
-      100,
-      130,
+      60,
       90,
+      70,
       80
     ],
     "objectIcon": "/icons/star_icon.png",
@@ -98,13 +98,13 @@
     "id": "l19-q006",
     "gameId": "level_19",
     "type": "level_19",
-    "prompt": "10 + 80 = ?",
-    "correctAnswer": 90,
+    "prompt": "20 + 60 = ?",
+    "correctAnswer": 80,
     "options": [
-      70,
+      80,
       90,
-      100,
-      80
+      60,
+      70
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
@@ -117,13 +117,13 @@
     "id": "l19-q007",
     "gameId": "level_19",
     "type": "level_19",
-    "prompt": "40 + 20 = ?",
-    "correctAnswer": 60,
+    "prompt": "80 + 10 = ?",
+    "correctAnswer": 90,
     "options": [
-      50,
-      70,
-      40,
-      60
+      80,
+      100,
+      90,
+      70
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
@@ -136,13 +136,13 @@
     "id": "l19-q008",
     "gameId": "level_19",
     "type": "level_19",
-    "prompt": "70 + 10 = ?",
-    "correctAnswer": 80,
+    "prompt": "40 + 20 = ?",
+    "correctAnswer": 60,
     "options": [
-      70,
+      40,
       60,
-      80,
-      90
+      50,
+      70
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
@@ -155,13 +155,13 @@
     "id": "l19-q009",
     "gameId": "level_19",
     "type": "level_19",
-    "prompt": "30 + 50 = ?",
-    "correctAnswer": 80,
+    "prompt": "30 + 20 = ?",
+    "correctAnswer": 50,
     "options": [
+      50,
       60,
-      80,
-      70,
-      90
+      40,
+      30
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
@@ -174,11 +174,11 @@
     "id": "l19-q010",
     "gameId": "level_19",
     "type": "level_19",
-    "prompt": "20 + 80 = ?",
-    "correctAnswer": 100,
+    "prompt": "50 + 30 = ?",
+    "correctAnswer": 80,
     "options": [
-      130,
-      100,
+      60,
+      70,
       90,
       80
     ],
@@ -193,13 +193,13 @@
     "id": "l19-q011",
     "gameId": "level_19",
     "type": "level_19",
-    "prompt": "40 + 30 = ?",
-    "correctAnswer": 70,
+    "prompt": "20 + 80 = ?",
+    "correctAnswer": 100,
     "options": [
-      60,
-      70,
-      50,
-      80
+      80,
+      130,
+      100,
+      90
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
@@ -212,13 +212,13 @@
     "id": "l19-q012",
     "gameId": "level_19",
     "type": "level_19",
-    "prompt": "30 + 40 = ?",
-    "correctAnswer": 70,
+    "prompt": "50 + 30 = ?",
+    "correctAnswer": 80,
     "options": [
       60,
-      50,
-      70,
-      80
+      90,
+      80,
+      70
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
@@ -231,13 +231,13 @@
     "id": "l19-q013",
     "gameId": "level_19",
     "type": "level_19",
-    "prompt": "10 + 50 = ?",
-    "correctAnswer": 60,
+    "prompt": "10 + 60 = ?",
+    "correctAnswer": 70,
     "options": [
-      50,
-      70,
       60,
-      40
+      70,
+      50,
+      80
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
@@ -250,13 +250,13 @@
     "id": "l19-q014",
     "gameId": "level_19",
     "type": "level_19",
-    "prompt": "60 + 40 = ?",
+    "prompt": "80 + 20 = ?",
     "correctAnswer": 100,
     "options": [
-      100,
       80,
+      130,
       90,
-      130
+      100
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
@@ -269,67 +269,10 @@
     "id": "l19-q015",
     "gameId": "level_19",
     "type": "level_19",
-    "prompt": "10 + 30 = ?",
-    "correctAnswer": 40,
-    "options": [
-      40,
-      50,
-      20,
-      30
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l19-q016",
-    "gameId": "level_19",
-    "type": "level_19",
-    "prompt": "60 + 20 = ?",
+    "prompt": "50 + 30 = ?",
     "correctAnswer": 80,
     "options": [
       90,
-      70,
-      80,
-      60
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l19-q017",
-    "gameId": "level_19",
-    "type": "level_19",
-    "prompt": "50 + 10 = ?",
-    "correctAnswer": 60,
-    "options": [
-      50,
-      70,
-      60,
-      40
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l19-q018",
-    "gameId": "level_19",
-    "type": "level_19",
-    "prompt": "50 + 20 = ?",
-    "correctAnswer": 70,
-    "options": [
-      50,
       60,
       80,
       70
@@ -342,15 +285,72 @@
     "displayPrompt": null
   },
   {
-    "id": "l19-q019",
+    "id": "l19-q016",
     "gameId": "level_19",
     "type": "level_19",
-    "prompt": "70 + 10 = ?",
-    "correctAnswer": 80,
+    "prompt": "80 + 20 = ?",
+    "correctAnswer": 100,
+    "options": [
+      80,
+      130,
+      100,
+      90
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 0,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l19-q017",
+    "gameId": "level_19",
+    "type": "level_19",
+    "prompt": "80 + 10 = ?",
+    "correctAnswer": 90,
+    "options": [
+      80,
+      70,
+      90,
+      100
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 0,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l19-q018",
+    "gameId": "level_19",
+    "type": "level_19",
+    "prompt": "80 + 10 = ?",
+    "correctAnswer": 90,
     "options": [
       90,
       70,
       80,
+      100
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 0,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l19-q019",
+    "gameId": "level_19",
+    "type": "level_19",
+    "prompt": "50 + 30 = ?",
+    "correctAnswer": 80,
+    "options": [
+      80,
+      70,
+      90,
       60
     ],
     "objectIcon": "/icons/star_icon.png",
@@ -364,12 +364,12 @@
     "id": "l19-q020",
     "gameId": "level_19",
     "type": "level_19",
-    "prompt": "10 + 40 = ?",
-    "correctAnswer": 50,
+    "prompt": "70 + 10 = ?",
+    "correctAnswer": 80,
     "options": [
-      30,
-      50,
-      40,
+      90,
+      80,
+      70,
       60
     ],
     "objectIcon": "/icons/star_icon.png",
@@ -383,13 +383,13 @@
     "id": "l19-q021",
     "gameId": "level_19",
     "type": "level_19",
-    "prompt": "80 + 10 = ?",
+    "prompt": "60 + 30 = ?",
     "correctAnswer": 90,
     "options": [
-      70,
+      90,
       100,
-      80,
-      90
+      70,
+      80
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
@@ -402,13 +402,13 @@
     "id": "l19-q022",
     "gameId": "level_19",
     "type": "level_19",
-    "prompt": "30 + 10 = ?",
-    "correctAnswer": 40,
+    "prompt": "40 + 50 = ?",
+    "correctAnswer": 90,
     "options": [
-      50,
-      40,
-      30,
-      20
+      70,
+      80,
+      100,
+      90
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
@@ -421,13 +421,13 @@
     "id": "l19-q023",
     "gameId": "level_19",
     "type": "level_19",
-    "prompt": "70 + 10 = ?",
-    "correctAnswer": 80,
+    "prompt": "80 + 10 = ?",
+    "correctAnswer": 90,
     "options": [
       90,
-      70,
-      60,
-      80
+      100,
+      80,
+      70
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
@@ -440,13 +440,13 @@
     "id": "l19-q024",
     "gameId": "level_19",
     "type": "level_19",
-    "prompt": "20 + 40 = ?",
-    "correctAnswer": 60,
+    "prompt": "10 + 20 = ?",
+    "correctAnswer": 30,
     "options": [
-      50,
+      30,
       40,
-      70,
-      60
+      20,
+      10
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
@@ -462,10 +462,10 @@
     "prompt": "70 + 30 = ?",
     "correctAnswer": 100,
     "options": [
-      80,
-      90,
+      100,
       130,
-      100
+      80,
+      90
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
@@ -478,13 +478,13 @@
     "id": "l19-q026",
     "gameId": "level_19",
     "type": "level_19",
-    "prompt": "30 + 40 = ?",
-    "correctAnswer": 70,
+    "prompt": "50 + 50 = ?",
+    "correctAnswer": 100,
     "options": [
-      50,
-      70,
       80,
-      60
+      90,
+      130,
+      100
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
@@ -497,13 +497,13 @@
     "id": "l19-q027",
     "gameId": "level_19",
     "type": "level_19",
-    "prompt": "40 + 30 = ?",
-    "correctAnswer": 70,
+    "prompt": "10 + 90 = ?",
+    "correctAnswer": 100,
     "options": [
-      60,
-      50,
-      70,
-      80
+      80,
+      100,
+      90,
+      130
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
@@ -516,13 +516,13 @@
     "id": "l19-q028",
     "gameId": "level_19",
     "type": "level_19",
-    "prompt": "20 + 80 = ?",
-    "correctAnswer": 100,
+    "prompt": "40 + 40 = ?",
+    "correctAnswer": 80,
     "options": [
+      60,
       90,
-      130,
       80,
-      100
+      70
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
@@ -535,13 +535,13 @@
     "id": "l19-q029",
     "gameId": "level_19",
     "type": "level_19",
-    "prompt": "60 + 40 = ?",
-    "correctAnswer": 100,
+    "prompt": "20 + 20 = ?",
+    "correctAnswer": 40,
     "options": [
-      130,
-      80,
-      90,
-      100
+      30,
+      20,
+      40,
+      50
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
@@ -552,6 +552,196 @@
   },
   {
     "id": "l19-q030",
+    "gameId": "level_19",
+    "type": "level_19",
+    "prompt": "80 + 10 = ?",
+    "correctAnswer": 90,
+    "options": [
+      80,
+      90,
+      100,
+      70
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 0,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l19-q031",
+    "gameId": "level_19",
+    "type": "level_19",
+    "prompt": "70 + 20 = ?",
+    "correctAnswer": 90,
+    "options": [
+      90,
+      70,
+      80,
+      100
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 0,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l19-q032",
+    "gameId": "level_19",
+    "type": "level_19",
+    "prompt": "80 + 10 = ?",
+    "correctAnswer": 90,
+    "options": [
+      100,
+      80,
+      70,
+      90
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 0,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l19-q033",
+    "gameId": "level_19",
+    "type": "level_19",
+    "prompt": "80 + 10 = ?",
+    "correctAnswer": 90,
+    "options": [
+      90,
+      70,
+      80,
+      100
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 0,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l19-q034",
+    "gameId": "level_19",
+    "type": "level_19",
+    "prompt": "20 + 40 = ?",
+    "correctAnswer": 60,
+    "options": [
+      60,
+      40,
+      70,
+      50
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 0,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l19-q035",
+    "gameId": "level_19",
+    "type": "level_19",
+    "prompt": "10 + 50 = ?",
+    "correctAnswer": 60,
+    "options": [
+      60,
+      50,
+      70,
+      40
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 0,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l19-q036",
+    "gameId": "level_19",
+    "type": "level_19",
+    "prompt": "20 + 30 = ?",
+    "correctAnswer": 50,
+    "options": [
+      60,
+      40,
+      30,
+      50
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 0,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l19-q037",
+    "gameId": "level_19",
+    "type": "level_19",
+    "prompt": "50 + 50 = ?",
+    "correctAnswer": 100,
+    "options": [
+      130,
+      80,
+      100,
+      90
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 0,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l19-q038",
+    "gameId": "level_19",
+    "type": "level_19",
+    "prompt": "50 + 40 = ?",
+    "correctAnswer": 90,
+    "options": [
+      100,
+      80,
+      70,
+      90
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 0,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l19-q039",
+    "gameId": "level_19",
+    "type": "level_19",
+    "prompt": "30 + 20 = ?",
+    "correctAnswer": 50,
+    "options": [
+      60,
+      40,
+      50,
+      30
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 0,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l19-q040",
     "gameId": "level_19",
     "type": "level_19",
     "prompt": "80 + 10 = ?",
@@ -570,211 +760,21 @@
     "displayPrompt": null
   },
   {
-    "id": "l19-q031",
-    "gameId": "level_19",
-    "type": "level_19",
-    "prompt": "10 + 50 = ?",
-    "correctAnswer": 60,
-    "options": [
-      40,
-      50,
-      70,
-      60
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l19-q032",
-    "gameId": "level_19",
-    "type": "level_19",
-    "prompt": "60 + 20 = ?",
-    "correctAnswer": 80,
-    "options": [
-      90,
-      70,
-      60,
-      80
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l19-q033",
-    "gameId": "level_19",
-    "type": "level_19",
-    "prompt": "60 + 10 = ?",
-    "correctAnswer": 70,
-    "options": [
-      70,
-      60,
-      80,
-      50
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l19-q034",
-    "gameId": "level_19",
-    "type": "level_19",
-    "prompt": "10 + 90 = ?",
-    "correctAnswer": 100,
-    "options": [
-      90,
-      130,
-      100,
-      80
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l19-q035",
-    "gameId": "level_19",
-    "type": "level_19",
-    "prompt": "60 + 40 = ?",
-    "correctAnswer": 100,
-    "options": [
-      100,
-      130,
-      80,
-      90
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l19-q036",
-    "gameId": "level_19",
-    "type": "level_19",
-    "prompt": "80 + 10 = ?",
-    "correctAnswer": 90,
-    "options": [
-      90,
-      80,
-      70,
-      100
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l19-q037",
-    "gameId": "level_19",
-    "type": "level_19",
-    "prompt": "80 + 20 = ?",
-    "correctAnswer": 100,
-    "options": [
-      100,
-      80,
-      90,
-      130
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l19-q038",
-    "gameId": "level_19",
-    "type": "level_19",
-    "prompt": "60 + 40 = ?",
-    "correctAnswer": 100,
-    "options": [
-      90,
-      100,
-      80,
-      130
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l19-q039",
-    "gameId": "level_19",
-    "type": "level_19",
-    "prompt": "20 + 20 = ?",
-    "correctAnswer": 40,
-    "options": [
-      40,
-      30,
-      50,
-      20
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l19-q040",
-    "gameId": "level_19",
-    "type": "level_19",
-    "prompt": "40 + 20 = ?",
-    "correctAnswer": 60,
-    "options": [
-      40,
-      50,
-      70,
-      60
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
     "id": "l19-q041",
     "gameId": "level_19",
     "type": "level_19",
-    "prompt": "5 + 12 = ?",
-    "correctAnswer": 17,
+    "prompt": "1 + 5 = ?",
+    "correctAnswer": 6,
     "options": [
-      14,
-      17,
-      16,
-      15
+      3,
+      6,
+      5,
+      4
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
-    "targetCount": 5,
-    "targetCount2": 12,
+    "targetCount": 1,
+    "targetCount2": 5,
     "renderMode": "addition",
     "displayPrompt": null
   },
@@ -782,18 +782,18 @@
     "id": "l19-q042",
     "gameId": "level_19",
     "type": "level_19",
-    "prompt": "9 + 2 = ?",
-    "correctAnswer": 11,
+    "prompt": "Tính: 10 + 5 = ?",
+    "correctAnswer": 15,
     "options": [
-      11,
-      8,
-      9,
-      10
+      12,
+      14,
+      15,
+      13
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
-    "targetCount": 9,
-    "targetCount2": 2,
+    "targetCount": 10,
+    "targetCount2": 5,
     "renderMode": "addition",
     "displayPrompt": null
   },
@@ -801,18 +801,18 @@
     "id": "l19-q043",
     "gameId": "level_19",
     "type": "level_19",
-    "prompt": "1 + 13 = ?",
-    "correctAnswer": 14,
+    "prompt": "1 + 8 = ?",
+    "correctAnswer": 9,
     "options": [
-      13,
-      11,
-      14,
-      12
+      7,
+      8,
+      9,
+      6
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
     "targetCount": 1,
-    "targetCount2": 13,
+    "targetCount2": 8,
     "renderMode": "addition",
     "displayPrompt": null
   },
@@ -820,18 +820,18 @@
     "id": "l19-q044",
     "gameId": "level_19",
     "type": "level_19",
-    "prompt": "13 + 6 = ?",
-    "correctAnswer": 19,
+    "prompt": "10 + 5 = ?",
+    "correctAnswer": 15,
     "options": [
-      17,
-      19,
-      18,
-      16
+      14,
+      13,
+      15,
+      12
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
-    "targetCount": 13,
-    "targetCount2": 6,
+    "targetCount": 10,
+    "targetCount2": 5,
     "renderMode": "addition",
     "displayPrompt": null
   },
@@ -839,18 +839,18 @@
     "id": "l19-q045",
     "gameId": "level_19",
     "type": "level_19",
-    "prompt": "Tính: 13 + 2 = ?",
+    "prompt": "7 + 8 = ?",
     "correctAnswer": 15,
     "options": [
-      15,
       14,
-      12,
-      13
+      13,
+      15,
+      12
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
-    "targetCount": 13,
-    "targetCount2": 2,
+    "targetCount": 7,
+    "targetCount2": 8,
     "renderMode": "addition",
     "displayPrompt": null
   },
@@ -858,18 +858,18 @@
     "id": "l19-q046",
     "gameId": "level_19",
     "type": "level_19",
-    "prompt": "Tính: 5 + 3 = ?",
-    "correctAnswer": 8,
+    "prompt": "6 + 1 = ?",
+    "correctAnswer": 7,
     "options": [
-      6,
+      4,
       7,
-      8,
-      5
+      5,
+      6
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
-    "targetCount": 5,
-    "targetCount2": 3,
+    "targetCount": 6,
+    "targetCount2": 1,
     "renderMode": "addition",
     "displayPrompt": null
   },
@@ -877,18 +877,18 @@
     "id": "l19-q047",
     "gameId": "level_19",
     "type": "level_19",
-    "prompt": "11 + 6 = ?",
-    "correctAnswer": 17,
+    "prompt": "1 + 12 = ?",
+    "correctAnswer": 13,
     "options": [
-      15,
-      17,
-      14,
-      16
+      10,
+      11,
+      13,
+      12
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
-    "targetCount": 11,
-    "targetCount2": 6,
+    "targetCount": 1,
+    "targetCount2": 12,
     "renderMode": "addition",
     "displayPrompt": null
   },
@@ -896,17 +896,17 @@
     "id": "l19-q048",
     "gameId": "level_19",
     "type": "level_19",
-    "prompt": "13 + 2 = ?",
-    "correctAnswer": 15,
+    "prompt": "18 + 2 = ?",
+    "correctAnswer": 20,
     "options": [
-      13,
-      14,
-      12,
-      15
+      19,
+      20,
+      17,
+      18
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
-    "targetCount": 13,
+    "targetCount": 18,
     "targetCount2": 2,
     "renderMode": "addition",
     "displayPrompt": null
@@ -915,18 +915,18 @@
     "id": "l19-q049",
     "gameId": "level_19",
     "type": "level_19",
-    "prompt": "17 + 1 = ?",
-    "correctAnswer": 18,
+    "prompt": "11 + 4 = ?",
+    "correctAnswer": 15,
     "options": [
-      18,
-      16,
-      17,
-      15
+      15,
+      12,
+      13,
+      14
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
-    "targetCount": 17,
-    "targetCount2": 1,
+    "targetCount": 11,
+    "targetCount2": 4,
     "renderMode": "addition",
     "displayPrompt": null
   },
@@ -934,18 +934,18 @@
     "id": "l19-q050",
     "gameId": "level_19",
     "type": "level_19",
-    "prompt": "18 + 2 = ?",
-    "correctAnswer": 20,
+    "prompt": "Tính: 18 + 1 = ?",
+    "correctAnswer": 19,
     "options": [
       17,
-      20,
-      19,
-      18
+      16,
+      18,
+      19
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
     "targetCount": 18,
-    "targetCount2": 2,
+    "targetCount2": 1,
     "renderMode": "addition",
     "displayPrompt": null
   }

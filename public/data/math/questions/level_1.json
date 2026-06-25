@@ -3,17 +3,17 @@
     "id": "l01-q001",
     "gameId": "level_1",
     "type": "level_1",
-    "prompt": "Tìm số 9 trong các thẻ dưới đây!",
-    "correctAnswer": 9,
+    "prompt": "Bé hãy chọn thẻ số 0!",
+    "correctAnswer": 0,
     "options": [
-      6,
-      8,
-      9,
-      7
+      2,
+      0,
+      1,
+      3
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
-    "targetCount": 9,
+    "targetCount": 0,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
@@ -22,108 +22,13 @@
     "id": "l01-q002",
     "gameId": "level_1",
     "type": "level_1",
-    "prompt": "Chọn đúng số 1 nhé!",
-    "correctAnswer": 1,
-    "options": [
-      3,
-      1,
-      2,
-      0
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 1,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l01-q003",
-    "gameId": "level_1",
-    "type": "level_1",
-    "prompt": "Bé hãy chọn thẻ số 4!",
-    "correctAnswer": 4,
-    "options": [
-      3,
-      4,
-      1,
-      2
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 4,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l01-q004",
-    "gameId": "level_1",
-    "type": "level_1",
-    "prompt": "Tìm số 7 trong các thẻ dưới đây!",
-    "correctAnswer": 7,
-    "options": [
-      6,
-      5,
-      7,
-      4
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 7,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l01-q005",
-    "gameId": "level_1",
-    "type": "level_1",
-    "prompt": "Tìm số 8 trong các thẻ dưới đây!",
-    "correctAnswer": 8,
-    "options": [
-      6,
-      8,
-      5,
-      7
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 8,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l01-q006",
-    "gameId": "level_1",
-    "type": "level_1",
-    "prompt": "Bé hãy chọn thẻ số 8!",
-    "correctAnswer": 8,
-    "options": [
-      5,
-      8,
-      6,
-      7
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 8,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l01-q007",
-    "gameId": "level_1",
-    "type": "level_1",
-    "prompt": "Bé hãy chọn thẻ số 5!",
+    "prompt": "Tìm số 5 trong các thẻ dưới đây!",
     "correctAnswer": 5,
     "options": [
-      2,
+      3,
       5,
       4,
-      3
+      2
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
@@ -133,16 +38,16 @@
     "displayPrompt": null
   },
   {
-    "id": "l01-q008",
+    "id": "l01-q003",
     "gameId": "level_1",
     "type": "level_1",
     "prompt": "Tìm số 8 trong các thẻ dưới đây!",
     "correctAnswer": 8,
     "options": [
-      5,
+      7,
       6,
-      8,
-      7
+      5,
+      8
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
@@ -152,15 +57,110 @@
     "displayPrompt": null
   },
   {
+    "id": "l01-q004",
+    "gameId": "level_1",
+    "type": "level_1",
+    "prompt": "Chọn đúng số 2 nhé!",
+    "correctAnswer": 2,
+    "options": [
+      0,
+      2,
+      3,
+      1
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 2,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l01-q005",
+    "gameId": "level_1",
+    "type": "level_1",
+    "prompt": "Tìm số 7 trong các thẻ dưới đây!",
+    "correctAnswer": 7,
+    "options": [
+      5,
+      4,
+      6,
+      7
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 7,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l01-q006",
+    "gameId": "level_1",
+    "type": "level_1",
+    "prompt": "Tìm số 9 trong các thẻ dưới đây!",
+    "correctAnswer": 9,
+    "options": [
+      7,
+      6,
+      8,
+      9
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 9,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l01-q007",
+    "gameId": "level_1",
+    "type": "level_1",
+    "prompt": "Chọn đúng số 1 nhé!",
+    "correctAnswer": 1,
+    "options": [
+      0,
+      3,
+      1,
+      2
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 1,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l01-q008",
+    "gameId": "level_1",
+    "type": "level_1",
+    "prompt": "Tìm số 6 trong các thẻ dưới đây!",
+    "correctAnswer": 6,
+    "options": [
+      3,
+      4,
+      5,
+      6
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 6,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
     "id": "l01-q009",
     "gameId": "level_1",
     "type": "level_1",
-    "prompt": "Chọn đúng số 5 nhé!",
+    "prompt": "Bé hãy chọn thẻ số 5!",
     "correctAnswer": 5,
     "options": [
-      3,
       5,
       4,
+      3,
       2
     ],
     "objectIcon": "/icons/star_icon.png",
@@ -174,17 +174,17 @@
     "id": "l01-q010",
     "gameId": "level_1",
     "type": "level_1",
-    "prompt": "Bé hãy chọn thẻ số 5!",
-    "correctAnswer": 5,
+    "prompt": "Chọn đúng số 0 nhé!",
+    "correctAnswer": 0,
     "options": [
+      0,
       3,
-      5,
-      4,
-      2
+      2,
+      1
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
-    "targetCount": 5,
+    "targetCount": 0,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
@@ -193,12 +193,69 @@
     "id": "l01-q011",
     "gameId": "level_1",
     "type": "level_1",
-    "prompt": "Bé hãy chọn thẻ số 7!",
+    "prompt": "Chọn đúng số 6 nhé!",
+    "correctAnswer": 6,
+    "options": [
+      4,
+      5,
+      3,
+      6
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 6,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l01-q012",
+    "gameId": "level_1",
+    "type": "level_1",
+    "prompt": "Chọn đúng số 6 nhé!",
+    "correctAnswer": 6,
+    "options": [
+      6,
+      3,
+      4,
+      5
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 6,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l01-q013",
+    "gameId": "level_1",
+    "type": "level_1",
+    "prompt": "Chọn đúng số 8 nhé!",
+    "correctAnswer": 8,
+    "options": [
+      6,
+      5,
+      7,
+      8
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 8,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l01-q014",
+    "gameId": "level_1",
+    "type": "level_1",
+    "prompt": "Chọn đúng số 7 nhé!",
     "correctAnswer": 7,
     "options": [
-      5,
-      6,
       7,
+      6,
+      5,
       4
     ],
     "objectIcon": "/icons/star_icon.png",
@@ -209,72 +266,34 @@
     "displayPrompt": null
   },
   {
-    "id": "l01-q012",
+    "id": "l01-q015",
     "gameId": "level_1",
     "type": "level_1",
-    "prompt": "Bé hãy chọn thẻ số 2!",
-    "correctAnswer": 2,
+    "prompt": "Bé hãy chọn thẻ số 1!",
+    "correctAnswer": 1,
     "options": [
       1,
-      2,
       3,
+      2,
       0
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
-    "targetCount": 2,
+    "targetCount": 1,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
   },
   {
-    "id": "l01-q013",
+    "id": "l01-q016",
     "gameId": "level_1",
     "type": "level_1",
-    "prompt": "Tìm số 5 trong các thẻ dưới đây!",
-    "correctAnswer": 5,
-    "options": [
-      3,
-      5,
-      2,
-      4
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 5,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l01-q014",
-    "gameId": "level_1",
-    "type": "level_1",
-    "prompt": "Bé hãy chọn thẻ số 4!",
-    "correctAnswer": 4,
-    "options": [
-      4,
-      3,
-      1,
-      2
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 4,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l01-q015",
-    "gameId": "level_1",
-    "type": "level_1",
-    "prompt": "Tìm số 8 trong các thẻ dưới đây!",
+    "prompt": "Bé hãy chọn thẻ số 8!",
     "correctAnswer": 8,
     "options": [
-      8,
-      7,
       5,
+      7,
+      8,
       6
     ],
     "objectIcon": "/icons/star_icon.png",
@@ -285,39 +304,20 @@
     "displayPrompt": null
   },
   {
-    "id": "l01-q016",
-    "gameId": "level_1",
-    "type": "level_1",
-    "prompt": "Bé hãy chọn thẻ số 0!",
-    "correctAnswer": 0,
-    "options": [
-      1,
-      2,
-      3,
-      0
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
     "id": "l01-q017",
     "gameId": "level_1",
     "type": "level_1",
-    "prompt": "Chọn đúng số 9 nhé!",
-    "correctAnswer": 9,
+    "prompt": "Bé hãy chọn thẻ số 10!",
+    "correctAnswer": 10,
     "options": [
-      9,
-      6,
       8,
+      9,
+      10,
       7
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
-    "targetCount": 9,
+    "targetCount": 10,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
@@ -326,17 +326,17 @@
     "id": "l01-q018",
     "gameId": "level_1",
     "type": "level_1",
-    "prompt": "Bé hãy chọn thẻ số 7!",
-    "correctAnswer": 7,
+    "prompt": "Tìm số 3 trong các thẻ dưới đây!",
+    "correctAnswer": 3,
     "options": [
-      7,
-      5,
-      6,
-      4
+      0,
+      2,
+      3,
+      1
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
-    "targetCount": 7,
+    "targetCount": 3,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
@@ -345,17 +345,17 @@
     "id": "l01-q019",
     "gameId": "level_1",
     "type": "level_1",
-    "prompt": "Bé hãy chọn thẻ số 2!",
-    "correctAnswer": 2,
+    "prompt": "Tìm số 10 trong các thẻ dưới đây!",
+    "correctAnswer": 10,
     "options": [
-      3,
-      1,
-      2,
-      0
+      10,
+      8,
+      9,
+      7
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
-    "targetCount": 2,
+    "targetCount": 10,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
@@ -367,10 +367,10 @@
     "prompt": "Tìm số 7 trong các thẻ dưới đây!",
     "correctAnswer": 7,
     "options": [
-      7,
-      6,
       4,
-      5
+      5,
+      6,
+      7
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
@@ -383,106 +383,11 @@
     "id": "l01-q021",
     "gameId": "level_1",
     "type": "level_1",
-    "prompt": "Chọn đúng số 1 nhé!",
-    "correctAnswer": 1,
-    "options": [
-      2,
-      0,
-      3,
-      1
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 1,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l01-q022",
-    "gameId": "level_1",
-    "type": "level_1",
-    "prompt": "Bé hãy chọn thẻ số 10!",
-    "correctAnswer": 10,
-    "options": [
-      9,
-      7,
-      10,
-      8
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 10,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l01-q023",
-    "gameId": "level_1",
-    "type": "level_1",
-    "prompt": "Tìm số 6 trong các thẻ dưới đây!",
-    "correctAnswer": 6,
-    "options": [
-      4,
-      6,
-      5,
-      3
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 6,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l01-q024",
-    "gameId": "level_1",
-    "type": "level_1",
-    "prompt": "Tìm số 1 trong các thẻ dưới đây!",
-    "correctAnswer": 1,
-    "options": [
-      1,
-      0,
-      3,
-      2
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 1,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l01-q025",
-    "gameId": "level_1",
-    "type": "level_1",
-    "prompt": "Bé hãy chọn thẻ số 4!",
-    "correctAnswer": 4,
-    "options": [
-      3,
-      4,
-      1,
-      2
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 4,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l01-q026",
-    "gameId": "level_1",
-    "type": "level_1",
-    "prompt": "Chọn đúng số 3 nhé!",
+    "prompt": "Bé hãy chọn thẻ số 3!",
     "correctAnswer": 3,
     "options": [
-      3,
       2,
+      3,
       0,
       1
     ],
@@ -494,30 +399,49 @@
     "displayPrompt": null
   },
   {
-    "id": "l01-q027",
+    "id": "l01-q022",
     "gameId": "level_1",
     "type": "level_1",
-    "prompt": "Bé hãy chọn thẻ số 7!",
-    "correctAnswer": 7,
+    "prompt": "Bé hãy chọn thẻ số 2!",
+    "correctAnswer": 2,
     "options": [
-      6,
-      4,
-      7,
-      5
+      0,
+      2,
+      3,
+      1
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
-    "targetCount": 7,
+    "targetCount": 2,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
   },
   {
-    "id": "l01-q028",
+    "id": "l01-q023",
     "gameId": "level_1",
     "type": "level_1",
-    "prompt": "Tìm số 0 trong các thẻ dưới đây!",
-    "correctAnswer": 0,
+    "prompt": "Bé hãy chọn thẻ số 4!",
+    "correctAnswer": 4,
+    "options": [
+      2,
+      3,
+      4,
+      1
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 4,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l01-q024",
+    "gameId": "level_1",
+    "type": "level_1",
+    "prompt": "Chọn đúng số 2 nhé!",
+    "correctAnswer": 2,
     "options": [
       3,
       1,
@@ -526,41 +450,41 @@
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
-    "targetCount": 0,
+    "targetCount": 2,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
   },
   {
-    "id": "l01-q029",
+    "id": "l01-q025",
     "gameId": "level_1",
     "type": "level_1",
-    "prompt": "Tìm số 8 trong các thẻ dưới đây!",
-    "correctAnswer": 8,
+    "prompt": "Tìm số 9 trong các thẻ dưới đây!",
+    "correctAnswer": 9,
     "options": [
-      6,
+      9,
+      7,
       8,
-      5,
-      7
+      6
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
-    "targetCount": 8,
+    "targetCount": 9,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
   },
   {
-    "id": "l01-q030",
+    "id": "l01-q026",
     "gameId": "level_1",
     "type": "level_1",
-    "prompt": "Bé hãy chọn thẻ số 6!",
+    "prompt": "Chọn đúng số 6 nhé!",
     "correctAnswer": 6,
     "options": [
-      6,
-      3,
+      5,
       4,
-      5
+      3,
+      6
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
@@ -570,18 +494,94 @@
     "displayPrompt": null
   },
   {
+    "id": "l01-q027",
+    "gameId": "level_1",
+    "type": "level_1",
+    "prompt": "Tìm số 2 trong các thẻ dưới đây!",
+    "correctAnswer": 2,
+    "options": [
+      1,
+      0,
+      3,
+      2
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 2,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l01-q028",
+    "gameId": "level_1",
+    "type": "level_1",
+    "prompt": "Chọn đúng số 9 nhé!",
+    "correctAnswer": 9,
+    "options": [
+      6,
+      9,
+      7,
+      8
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 9,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l01-q029",
+    "gameId": "level_1",
+    "type": "level_1",
+    "prompt": "Bé hãy chọn thẻ số 9!",
+    "correctAnswer": 9,
+    "options": [
+      8,
+      9,
+      7,
+      6
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 9,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l01-q030",
+    "gameId": "level_1",
+    "type": "level_1",
+    "prompt": "Bé hãy chọn thẻ số 2!",
+    "correctAnswer": 2,
+    "options": [
+      3,
+      2,
+      1,
+      0
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 2,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
     "id": "l01-q031",
     "gameId": "level_1",
     "type": "level_1",
-    "prompt": "Đếm ngôi sao và chọn số đúng!",
+    "prompt": "Đếm quả chuối và chọn số đúng!",
     "correctAnswer": 7,
     "options": [
-      7,
+      5,
       6,
-      4,
-      5
+      7,
+      4
     ],
-    "objectIcon": "/icons/star_icon.png",
+    "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
     "targetCount": 7,
     "targetCount2": 0,
@@ -592,17 +592,17 @@
     "id": "l01-q032",
     "gameId": "level_1",
     "type": "level_1",
-    "prompt": "Đếm quả táo và chọn số đúng!",
-    "correctAnswer": 9,
+    "prompt": "Đếm bông hoa và chọn số đúng!",
+    "correctAnswer": 3,
     "options": [
-      6,
-      8,
-      9,
-      7
+      3,
+      2,
+      0,
+      1
     ],
-    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
-    "targetCount": 9,
+    "targetCount": 3,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
@@ -611,17 +611,17 @@
     "id": "l01-q033",
     "gameId": "level_1",
     "type": "level_1",
-    "prompt": "Đếm quả chuối và chọn số đúng!",
-    "correctAnswer": 10,
+    "prompt": "Đếm chiếc bánh và chọn số đúng!",
+    "correctAnswer": 7,
     "options": [
-      10,
-      8,
-      7,
-      9
+      4,
+      5,
+      6,
+      7
     ],
-    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon": "/icons/candy_icon.png",
     "objectIcon2": "",
-    "targetCount": 10,
+    "targetCount": 7,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
@@ -630,17 +630,17 @@
     "id": "l01-q034",
     "gameId": "level_1",
     "type": "level_1",
-    "prompt": "Đếm quả bóng và chọn số đúng!",
-    "correctAnswer": 7,
+    "prompt": "Đếm quả táo và chọn số đúng!",
+    "correctAnswer": 5,
     "options": [
-      6,
       4,
-      5,
-      7
+      2,
+      3,
+      5
     ],
-    "objectIcon": "/icons/ball_icon.png",
+    "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
-    "targetCount": 7,
+    "targetCount": 5,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
@@ -650,16 +650,16 @@
     "gameId": "level_1",
     "type": "level_1",
     "prompt": "Đếm quả chuối và chọn số đúng!",
-    "correctAnswer": 4,
+    "correctAnswer": 2,
     "options": [
-      1,
+      3,
       2,
-      4,
-      3
+      0,
+      1
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
-    "targetCount": 4,
+    "targetCount": 2,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
@@ -668,7 +668,7 @@
     "id": "l01-q036",
     "gameId": "level_1",
     "type": "level_1",
-    "prompt": "Đếm ngôi sao và chọn số đúng!",
+    "prompt": "Đếm quả bóng và chọn số đúng!",
     "correctAnswer": 5,
     "options": [
       2,
@@ -676,7 +676,7 @@
       4,
       5
     ],
-    "objectIcon": "/icons/star_icon.png",
+    "objectIcon": "/icons/ball_icon.png",
     "objectIcon2": "",
     "targetCount": 5,
     "targetCount2": 0,
@@ -687,17 +687,17 @@
     "id": "l01-q037",
     "gameId": "level_1",
     "type": "level_1",
-    "prompt": "Đếm viên kẹo và chọn số đúng!",
-    "correctAnswer": 2,
+    "prompt": "Đếm chiếc bánh và chọn số đúng!",
+    "correctAnswer": 8,
     "options": [
-      1,
-      2,
-      0,
-      3
+      6,
+      7,
+      5,
+      8
     ],
     "objectIcon": "/icons/candy_icon.png",
     "objectIcon2": "",
-    "targetCount": 2,
+    "targetCount": 8,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
@@ -706,17 +706,17 @@
     "id": "l01-q038",
     "gameId": "level_1",
     "type": "level_1",
-    "prompt": "Đếm quả táo và chọn số đúng!",
-    "correctAnswer": 2,
+    "prompt": "Đếm bông hoa và chọn số đúng!",
+    "correctAnswer": 9,
     "options": [
-      3,
-      1,
-      0,
-      2
+      7,
+      8,
+      6,
+      9
     ],
-    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
-    "targetCount": 2,
+    "targetCount": 9,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
@@ -725,15 +725,15 @@
     "id": "l01-q039",
     "gameId": "level_1",
     "type": "level_1",
-    "prompt": "Đếm ngôi sao và chọn số đúng!",
+    "prompt": "Đếm viên kẹo và chọn số đúng!",
     "correctAnswer": 5,
     "options": [
-      4,
-      2,
       3,
-      5
+      2,
+      5,
+      4
     ],
-    "objectIcon": "/icons/star_icon.png",
+    "objectIcon": "/icons/candy_icon.png",
     "objectIcon2": "",
     "targetCount": 5,
     "targetCount2": 0,
@@ -744,17 +744,17 @@
     "id": "l01-q040",
     "gameId": "level_1",
     "type": "level_1",
-    "prompt": "Đếm quả táo và chọn số đúng!",
-    "correctAnswer": 2,
+    "prompt": "Đếm quả dâu và chọn số đúng!",
+    "correctAnswer": 4,
     "options": [
-      2,
-      0,
       1,
+      4,
+      2,
       3
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
-    "targetCount": 2,
+    "targetCount": 4,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
@@ -763,15 +763,15 @@
     "id": "l01-q041",
     "gameId": "level_1",
     "type": "level_1",
-    "prompt": "Đếm quả chuối và chọn số đúng!",
+    "prompt": "Đếm viên kẹo và chọn số đúng!",
     "correctAnswer": 3,
     "options": [
+      1,
       0,
       3,
-      2,
-      1
+      2
     ],
-    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon": "/icons/candy_icon.png",
     "objectIcon2": "",
     "targetCount": 3,
     "targetCount2": 0,
@@ -782,15 +782,15 @@
     "id": "l01-q042",
     "gameId": "level_1",
     "type": "level_1",
-    "prompt": "Đếm bông hoa và chọn số đúng!",
+    "prompt": "Đếm quả táo và chọn số đúng!",
     "correctAnswer": 2,
     "options": [
+      0,
       1,
-      3,
       2,
-      0
+      3
     ],
-    "objectIcon": "/icons/star_icon.png",
+    "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
     "targetCount": 2,
     "targetCount2": 0,
@@ -801,17 +801,17 @@
     "id": "l01-q043",
     "gameId": "level_1",
     "type": "level_1",
-    "prompt": "Đếm quả bóng và chọn số đúng!",
-    "correctAnswer": 3,
+    "prompt": "Đếm quả táo và chọn số đúng!",
+    "correctAnswer": 8,
     "options": [
-      1,
-      3,
-      2,
-      0
+      7,
+      6,
+      8,
+      5
     ],
-    "objectIcon": "/icons/ball_icon.png",
+    "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
-    "targetCount": 3,
+    "targetCount": 8,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
@@ -820,12 +820,88 @@
     "id": "l01-q044",
     "gameId": "level_1",
     "type": "level_1",
-    "prompt": "Đếm viên kẹo và chọn số đúng!",
+    "prompt": "Đếm quả bóng và chọn số đúng!",
+    "correctAnswer": 5,
+    "options": [
+      4,
+      3,
+      5,
+      2
+    ],
+    "objectIcon": "/icons/ball_icon.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l01-q045",
+    "gameId": "level_1",
+    "type": "level_1",
+    "prompt": "Đếm bông hoa và chọn số đúng!",
     "correctAnswer": 1,
+    "options": [
+      2,
+      3,
+      0,
+      1
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 1,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l01-q046",
+    "gameId": "level_1",
+    "type": "level_1",
+    "prompt": "Đếm chiếc bánh và chọn số đúng!",
+    "correctAnswer": 3,
     "options": [
       1,
       2,
       3,
+      0
+    ],
+    "objectIcon": "/icons/candy_icon.png",
+    "objectIcon2": "",
+    "targetCount": 3,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l01-q047",
+    "gameId": "level_1",
+    "type": "level_1",
+    "prompt": "Đếm quả bóng và chọn số đúng!",
+    "correctAnswer": 1,
+    "options": [
+      0,
+      2,
+      3,
+      1
+    ],
+    "objectIcon": "/icons/ball_icon.png",
+    "objectIcon2": "",
+    "targetCount": 1,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l01-q048",
+    "gameId": "level_1",
+    "type": "level_1",
+    "prompt": "Đếm chiếc bánh và chọn số đúng!",
+    "correctAnswer": 1,
+    "options": [
+      3,
+      2,
+      1,
       0
     ],
     "objectIcon": "/icons/candy_icon.png",
@@ -836,96 +912,20 @@
     "displayPrompt": null
   },
   {
-    "id": "l01-q045",
-    "gameId": "level_1",
-    "type": "level_1",
-    "prompt": "Đếm bông hoa và chọn số đúng!",
-    "correctAnswer": 10,
-    "options": [
-      7,
-      8,
-      10,
-      9
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 10,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l01-q046",
-    "gameId": "level_1",
-    "type": "level_1",
-    "prompt": "Đếm chiếc bánh và chọn số đúng!",
-    "correctAnswer": 4,
-    "options": [
-      3,
-      2,
-      4,
-      1
-    ],
-    "objectIcon": "/icons/candy_icon.png",
-    "objectIcon2": "",
-    "targetCount": 4,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l01-q047",
-    "gameId": "level_1",
-    "type": "level_1",
-    "prompt": "Đếm quả dâu và chọn số đúng!",
-    "correctAnswer": 7,
-    "options": [
-      5,
-      6,
-      4,
-      7
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 7,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l01-q048",
-    "gameId": "level_1",
-    "type": "level_1",
-    "prompt": "Đếm viên kẹo và chọn số đúng!",
-    "correctAnswer": 7,
-    "options": [
-      6,
-      5,
-      4,
-      7
-    ],
-    "objectIcon": "/icons/candy_icon.png",
-    "objectIcon2": "",
-    "targetCount": 7,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
     "id": "l01-q049",
     "gameId": "level_1",
     "type": "level_1",
-    "prompt": "Đếm quả cam và chọn số đúng!",
-    "correctAnswer": 5,
+    "prompt": "Đếm quả dâu và chọn số đúng!",
+    "correctAnswer": 8,
     "options": [
-      2,
-      5,
-      4,
-      3
+      6,
+      7,
+      8,
+      5
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
-    "targetCount": 5,
+    "targetCount": 8,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
@@ -934,17 +934,17 @@
     "id": "l01-q050",
     "gameId": "level_1",
     "type": "level_1",
-    "prompt": "Đếm quả cam và chọn số đúng!",
-    "correctAnswer": 2,
+    "prompt": "Đếm chiếc bánh và chọn số đúng!",
+    "correctAnswer": 1,
     "options": [
       2,
-      0,
       1,
-      3
+      3,
+      0
     ],
-    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon": "/icons/candy_icon.png",
     "objectIcon2": "",
-    "targetCount": 2,
+    "targetCount": 1,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null

@@ -3,8 +3,8 @@
     "id": "l25-q001",
     "gameId": "level_25",
     "type": "level_25",
-    "prompt": "Điền dấu đúng: 25 __ 23",
-    "correctAnswer": ">",
+    "prompt": "So sánh: 3 ☐ 29",
+    "correctAnswer": "<",
     "options": [
       ">",
       "<",
@@ -21,7 +21,7 @@
     "id": "l25-q002",
     "gameId": "level_25",
     "type": "level_25",
-    "prompt": "So sánh: 10 ☐ 10",
+    "prompt": "8 ___ 8. Chọn dấu thích hợp:",
     "correctAnswer": "=",
     "options": [
       ">",
@@ -39,8 +39,8 @@
     "id": "l25-q003",
     "gameId": "level_25",
     "type": "level_25",
-    "prompt": "23 và 24, điền dấu so sánh:",
-    "correctAnswer": "<",
+    "prompt": "So sánh: 13 ☐ 13",
+    "correctAnswer": "=",
     "options": [
       ">",
       "<",
@@ -57,8 +57,8 @@
     "id": "l25-q004",
     "gameId": "level_25",
     "type": "level_25",
-    "prompt": "17 và 2, điền dấu so sánh:",
-    "correctAnswer": ">",
+    "prompt": "1 ___ 5. Chọn dấu thích hợp:",
+    "correctAnswer": "<",
     "options": [
       ">",
       "<",
@@ -75,8 +75,8 @@
     "id": "l25-q005",
     "gameId": "level_25",
     "type": "level_25",
-    "prompt": "Điền dấu đúng: 1 __ 1",
-    "correctAnswer": "=",
+    "prompt": "Điền dấu đúng: 18 __ 1",
+    "correctAnswer": ">",
     "options": [
       ">",
       "<",
@@ -93,8 +93,8 @@
     "id": "l25-q006",
     "gameId": "level_25",
     "type": "level_25",
-    "prompt": "So sánh: 3 ☐ 24",
-    "correctAnswer": "<",
+    "prompt": "So sánh: 16 ☐ 16",
+    "correctAnswer": "=",
     "options": [
       ">",
       "<",
@@ -111,8 +111,8 @@
     "id": "l25-q007",
     "gameId": "level_25",
     "type": "level_25",
-    "prompt": "4 và 15, điền dấu so sánh:",
-    "correctAnswer": "<",
+    "prompt": "Điền dấu đúng: 29 __ 9",
+    "correctAnswer": ">",
     "options": [
       ">",
       "<",
@@ -129,8 +129,8 @@
     "id": "l25-q008",
     "gameId": "level_25",
     "type": "level_25",
-    "prompt": "27 ___ 27. Chọn dấu thích hợp:",
-    "correctAnswer": "=",
+    "prompt": "15 và 28, điền dấu so sánh:",
+    "correctAnswer": "<",
     "options": [
       ">",
       "<",
@@ -147,8 +147,8 @@
     "id": "l25-q009",
     "gameId": "level_25",
     "type": "level_25",
-    "prompt": "22 và 11, điền dấu so sánh:",
-    "correctAnswer": ">",
+    "prompt": "Điền dấu đúng: 27 __ 27",
+    "correctAnswer": "=",
     "options": [
       ">",
       "<",
@@ -165,8 +165,8 @@
     "id": "l25-q010",
     "gameId": "level_25",
     "type": "level_25",
-    "prompt": "So sánh: 10 ☐ 29",
-    "correctAnswer": "<",
+    "prompt": "8 ___ 5. Chọn dấu thích hợp:",
+    "correctAnswer": ">",
     "options": [
       ">",
       "<",
@@ -183,8 +183,8 @@
     "id": "l25-q011",
     "gameId": "level_25",
     "type": "level_25",
-    "prompt": "Điền dấu đúng: 13 __ 27",
-    "correctAnswer": "<",
+    "prompt": "Điền dấu đúng: 8 __ 8",
+    "correctAnswer": "=",
     "options": [
       ">",
       "<",
@@ -201,8 +201,8 @@
     "id": "l25-q012",
     "gameId": "level_25",
     "type": "level_25",
-    "prompt": "8 và 19, điền dấu so sánh:",
-    "correctAnswer": "<",
+    "prompt": "27 và 20, điền dấu so sánh:",
+    "correctAnswer": ">",
     "options": [
       ">",
       "<",
@@ -219,7 +219,7 @@
     "id": "l25-q013",
     "gameId": "level_25",
     "type": "level_25",
-    "prompt": "17 và 29, điền dấu so sánh:",
+    "prompt": "Điền dấu đúng: 17 __ 26",
     "correctAnswer": "<",
     "options": [
       ">",
@@ -237,8 +237,8 @@
     "id": "l25-q014",
     "gameId": "level_25",
     "type": "level_25",
-    "prompt": "Điền dấu đúng: 25 __ 19",
-    "correctAnswer": ">",
+    "prompt": "13 ___ 23. Chọn dấu thích hợp:",
+    "correctAnswer": "<",
     "options": [
       ">",
       "<",
@@ -255,8 +255,8 @@
     "id": "l25-q015",
     "gameId": "level_25",
     "type": "level_25",
-    "prompt": "23 và 22, điền dấu so sánh:",
-    "correctAnswer": ">",
+    "prompt": "13 ___ 13. Chọn dấu thích hợp:",
+    "correctAnswer": "=",
     "options": [
       ">",
       "<",
@@ -273,8 +273,8 @@
     "id": "l25-q016",
     "gameId": "level_25",
     "type": "level_25",
-    "prompt": "So sánh: 24 ☐ 29",
-    "correctAnswer": "<",
+    "prompt": "27 ___ 21. Chọn dấu thích hợp:",
+    "correctAnswer": ">",
     "options": [
       ">",
       "<",
@@ -291,8 +291,8 @@
     "id": "l25-q017",
     "gameId": "level_25",
     "type": "level_25",
-    "prompt": "Điền dấu đúng: 15 __ 15",
-    "correctAnswer": "=",
+    "prompt": "20 và 22, điền dấu so sánh:",
+    "correctAnswer": "<",
     "options": [
       ">",
       "<",
@@ -309,7 +309,7 @@
     "id": "l25-q018",
     "gameId": "level_25",
     "type": "level_25",
-    "prompt": "Điền dấu đúng: 2 __ 23",
+    "prompt": "11 ___ 24. Chọn dấu thích hợp:",
     "correctAnswer": "<",
     "options": [
       ">",
@@ -327,8 +327,8 @@
     "id": "l25-q019",
     "gameId": "level_25",
     "type": "level_25",
-    "prompt": "So sánh: 9 ☐ 2",
-    "correctAnswer": ">",
+    "prompt": "6 và 7, điền dấu so sánh:",
+    "correctAnswer": "<",
     "options": [
       ">",
       "<",
@@ -345,8 +345,8 @@
     "id": "l25-q020",
     "gameId": "level_25",
     "type": "level_25",
-    "prompt": "So sánh: 26 ☐ 17",
-    "correctAnswer": ">",
+    "prompt": "So sánh: 23 ☐ 29",
+    "correctAnswer": "<",
     "options": [
       ">",
       "<",
@@ -363,7 +363,7 @@
     "id": "l25-q021",
     "gameId": "level_25",
     "type": "level_25",
-    "prompt": "6 và 4, điền dấu so sánh:",
+    "prompt": "So sánh: 20 ☐ 16",
     "correctAnswer": ">",
     "options": [
       ">",
@@ -381,8 +381,8 @@
     "id": "l25-q022",
     "gameId": "level_25",
     "type": "level_25",
-    "prompt": "Điền dấu đúng: 16 __ 16",
-    "correctAnswer": "=",
+    "prompt": "Điền dấu đúng: 28 __ 16",
+    "correctAnswer": ">",
     "options": [
       ">",
       "<",
@@ -399,8 +399,8 @@
     "id": "l25-q023",
     "gameId": "level_25",
     "type": "level_25",
-    "prompt": "Điền dấu đúng: 10 __ 2",
-    "correctAnswer": ">",
+    "prompt": "Điền dấu đúng: 12 __ 19",
+    "correctAnswer": "<",
     "options": [
       ">",
       "<",
@@ -417,7 +417,7 @@
     "id": "l25-q024",
     "gameId": "level_25",
     "type": "level_25",
-    "prompt": "So sánh: 22 ☐ 1",
+    "prompt": "19 và 10, điền dấu so sánh:",
     "correctAnswer": ">",
     "options": [
       ">",
@@ -435,8 +435,8 @@
     "id": "l25-q025",
     "gameId": "level_25",
     "type": "level_25",
-    "prompt": "27 ___ 27. Chọn dấu thích hợp:",
-    "correctAnswer": "=",
+    "prompt": "Điền dấu đúng: 3 __ 23",
+    "correctAnswer": "<",
     "options": [
       ">",
       "<",
@@ -453,7 +453,7 @@
     "id": "l25-q026",
     "gameId": "level_25",
     "type": "level_25",
-    "prompt": "So sánh: 12 ☐ 3",
+    "prompt": "23 và 9, điền dấu so sánh:",
     "correctAnswer": ">",
     "options": [
       ">",
@@ -471,8 +471,8 @@
     "id": "l25-q027",
     "gameId": "level_25",
     "type": "level_25",
-    "prompt": "27 ___ 19. Chọn dấu thích hợp:",
-    "correctAnswer": ">",
+    "prompt": "16 và 17, điền dấu so sánh:",
+    "correctAnswer": "<",
     "options": [
       ">",
       "<",
@@ -489,8 +489,8 @@
     "id": "l25-q028",
     "gameId": "level_25",
     "type": "level_25",
-    "prompt": "27 và 25, điền dấu so sánh:",
-    "correctAnswer": ">",
+    "prompt": "So sánh: 1 ☐ 1",
+    "correctAnswer": "=",
     "options": [
       ">",
       "<",
@@ -507,8 +507,8 @@
     "id": "l25-q029",
     "gameId": "level_25",
     "type": "level_25",
-    "prompt": "Điền dấu đúng: 26 __ 7",
-    "correctAnswer": ">",
+    "prompt": "Điền dấu đúng: 16 __ 30",
+    "correctAnswer": "<",
     "options": [
       ">",
       "<",
@@ -525,7 +525,7 @@
     "id": "l25-q030",
     "gameId": "level_25",
     "type": "level_25",
-    "prompt": "So sánh: 26 ☐ 24",
+    "prompt": "28 ___ 15. Chọn dấu thích hợp:",
     "correctAnswer": ">",
     "options": [
       ">",
@@ -543,18 +543,18 @@
     "id": "l25-q031",
     "gameId": "level_25",
     "type": "level_25",
-    "prompt": "2 + 17 = ?",
-    "correctAnswer": 19,
+    "prompt": "9 + 3 = ?",
+    "correctAnswer": 12,
     "options": [
-      16,
-      19,
-      17,
-      18
+      10,
+      12,
+      11,
+      9
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
-    "targetCount": 2,
-    "targetCount2": 17,
+    "targetCount": 9,
+    "targetCount2": 3,
     "renderMode": "addition",
     "displayPrompt": null
   },
@@ -562,83 +562,7 @@
     "id": "l25-q032",
     "gameId": "level_25",
     "type": "level_25",
-    "prompt": "Tính: 15 + 3 = ?",
-    "correctAnswer": 18,
-    "options": [
-      16,
-      15,
-      17,
-      18
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 15,
-    "targetCount2": 3,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l25-q033",
-    "gameId": "level_25",
-    "type": "level_25",
-    "prompt": "5 + 10 = ?",
-    "correctAnswer": 15,
-    "options": [
-      14,
-      15,
-      12,
-      13
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 5,
-    "targetCount2": 10,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l25-q034",
-    "gameId": "level_25",
-    "type": "level_25",
-    "prompt": "Tính: 17 + 2 = ?",
-    "correctAnswer": 19,
-    "options": [
-      19,
-      18,
-      17,
-      16
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 17,
-    "targetCount2": 2,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l25-q035",
-    "gameId": "level_25",
-    "type": "level_25",
-    "prompt": "3 + 9 = ?",
-    "correctAnswer": 12,
-    "options": [
-      12,
-      10,
-      11,
-      9
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 3,
-    "targetCount2": 9,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l25-q036",
-    "gameId": "level_25",
-    "type": "level_25",
-    "prompt": "5 + 9 = ?",
+    "prompt": "6 + 8 = ?",
     "correctAnswer": 14,
     "options": [
       14,
@@ -648,117 +572,22 @@
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
-    "targetCount": 5,
-    "targetCount2": 9,
+    "targetCount": 6,
+    "targetCount2": 8,
     "renderMode": "addition",
     "displayPrompt": null
   },
   {
-    "id": "l25-q037",
+    "id": "l25-q033",
     "gameId": "level_25",
     "type": "level_25",
-    "prompt": "14 + 6 = ?",
+    "prompt": "Tính: 19 + 1 = ?",
     "correctAnswer": 20,
     "options": [
-      17,
       19,
+      18,
       20,
-      18
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 14,
-    "targetCount2": 6,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l25-q038",
-    "gameId": "level_25",
-    "type": "level_25",
-    "prompt": "Tính: 6 + 11 = ?",
-    "correctAnswer": 17,
-    "options": [
-      15,
-      17,
-      14,
-      16
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 6,
-    "targetCount2": 11,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l25-q039",
-    "gameId": "level_25",
-    "type": "level_25",
-    "prompt": "7 + 6 = ?",
-    "correctAnswer": 13,
-    "options": [
-      11,
-      12,
-      13,
-      10
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 7,
-    "targetCount2": 6,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l25-q040",
-    "gameId": "level_25",
-    "type": "level_25",
-    "prompt": "6 + 6 = ?",
-    "correctAnswer": 12,
-    "options": [
-      10,
-      12,
-      11,
-      9
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 6,
-    "targetCount2": 6,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l25-q041",
-    "gameId": "level_25",
-    "type": "level_25",
-    "prompt": "15 + 1 = ?",
-    "correctAnswer": 16,
-    "options": [
-      16,
-      15,
-      13,
-      14
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 15,
-    "targetCount2": 1,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l25-q042",
-    "gameId": "level_25",
-    "type": "level_25",
-    "prompt": "19 + 1 = ?",
-    "correctAnswer": 20,
-    "options": [
-      20,
-      19,
-      17,
-      18
+      17
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
@@ -768,48 +597,67 @@
     "displayPrompt": null
   },
   {
-    "id": "l25-q043",
+    "id": "l25-q034",
     "gameId": "level_25",
     "type": "level_25",
-    "prompt": "9 + 6 = ?",
-    "correctAnswer": 15,
+    "prompt": "3 + 4 = ?",
+    "correctAnswer": 7,
     "options": [
+      7,
+      6,
+      5,
+      4
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 3,
+    "targetCount2": 4,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l25-q035",
+    "gameId": "level_25",
+    "type": "level_25",
+    "prompt": "11 + 6 = ?",
+    "correctAnswer": 17,
+    "options": [
+      17,
       14,
-      12,
-      13,
+      16,
       15
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
-    "targetCount": 9,
+    "targetCount": 11,
     "targetCount2": 6,
     "renderMode": "addition",
     "displayPrompt": null
   },
   {
-    "id": "l25-q044",
+    "id": "l25-q036",
     "gameId": "level_25",
     "type": "level_25",
-    "prompt": "Tính: 11 + 9 = ?",
-    "correctAnswer": 20,
+    "prompt": "Tính: 2 + 7 = ?",
+    "correctAnswer": 9,
     "options": [
-      20,
-      17,
-      19,
-      18
+      6,
+      7,
+      8,
+      9
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
-    "targetCount": 11,
-    "targetCount2": 9,
+    "targetCount": 2,
+    "targetCount2": 7,
     "renderMode": "addition",
     "displayPrompt": null
   },
   {
-    "id": "l25-q045",
+    "id": "l25-q037",
     "gameId": "level_25",
     "type": "level_25",
-    "prompt": "19 + 1 = ?",
+    "prompt": "Tính: 13 + 7 = ?",
     "correctAnswer": 20,
     "options": [
       18,
@@ -819,8 +667,160 @@
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
-    "targetCount": 19,
+    "targetCount": 13,
+    "targetCount2": 7,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l25-q038",
+    "gameId": "level_25",
+    "type": "level_25",
+    "prompt": "15 + 2 = ?",
+    "correctAnswer": 17,
+    "options": [
+      17,
+      16,
+      14,
+      15
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 15,
+    "targetCount2": 2,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l25-q039",
+    "gameId": "level_25",
+    "type": "level_25",
+    "prompt": "9 + 10 = ?",
+    "correctAnswer": 19,
+    "options": [
+      16,
+      19,
+      17,
+      18
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 9,
+    "targetCount2": 10,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l25-q040",
+    "gameId": "level_25",
+    "type": "level_25",
+    "prompt": "2 + 18 = ?",
+    "correctAnswer": 20,
+    "options": [
+      20,
+      19,
+      18,
+      17
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 2,
+    "targetCount2": 18,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l25-q041",
+    "gameId": "level_25",
+    "type": "level_25",
+    "prompt": "12 + 4 = ?",
+    "correctAnswer": 16,
+    "options": [
+      16,
+      14,
+      15,
+      13
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 12,
+    "targetCount2": 4,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l25-q042",
+    "gameId": "level_25",
+    "type": "level_25",
+    "prompt": "Tính: 16 + 4 = ?",
+    "correctAnswer": 20,
+    "options": [
+      19,
+      20,
+      18,
+      17
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 16,
+    "targetCount2": 4,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l25-q043",
+    "gameId": "level_25",
+    "type": "level_25",
+    "prompt": "Tính: 7 + 2 = ?",
+    "correctAnswer": 9,
+    "options": [
+      7,
+      8,
+      6,
+      9
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 7,
+    "targetCount2": 2,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l25-q044",
+    "gameId": "level_25",
+    "type": "level_25",
+    "prompt": "Tính: 16 + 1 = ?",
+    "correctAnswer": 17,
+    "options": [
+      17,
+      15,
+      16,
+      14
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 16,
     "targetCount2": 1,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l25-q045",
+    "gameId": "level_25",
+    "type": "level_25",
+    "prompt": "Tính: 4 + 3 = ?",
+    "correctAnswer": 7,
+    "options": [
+      5,
+      4,
+      6,
+      7
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 4,
+    "targetCount2": 3,
     "renderMode": "addition",
     "displayPrompt": null
   },
@@ -828,18 +828,18 @@
     "id": "l25-q046",
     "gameId": "level_25",
     "type": "level_25",
-    "prompt": "12 - 6 = ?",
-    "correctAnswer": 6,
+    "prompt": "4 - 3 = ?",
+    "correctAnswer": 1,
     "options": [
-      6,
-      4,
+      0,
+      1,
       3,
-      5
+      2
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
-    "targetCount": 12,
-    "targetCount2": 6,
+    "targetCount": 4,
+    "targetCount2": 3,
     "renderMode": "subtraction",
     "displayPrompt": null
   },
@@ -847,18 +847,18 @@
     "id": "l25-q047",
     "gameId": "level_25",
     "type": "level_25",
-    "prompt": "Tính: 19 - 13 = ?",
-    "correctAnswer": 6,
+    "prompt": "12 - 3 = ?",
+    "correctAnswer": 9,
     "options": [
       6,
-      4,
-      5,
-      3
+      9,
+      8,
+      7
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
-    "targetCount": 19,
-    "targetCount2": 13,
+    "targetCount": 12,
+    "targetCount2": 3,
     "renderMode": "subtraction",
     "displayPrompt": null
   },
@@ -866,18 +866,18 @@
     "id": "l25-q048",
     "gameId": "level_25",
     "type": "level_25",
-    "prompt": "9 - 5 = ?",
-    "correctAnswer": 4,
+    "prompt": "Tính: 12 - 11 = ?",
+    "correctAnswer": 1,
     "options": [
-      2,
       3,
       1,
-      4
+      0,
+      2
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
-    "targetCount": 9,
-    "targetCount2": 5,
+    "targetCount": 12,
+    "targetCount2": 11,
     "renderMode": "subtraction",
     "displayPrompt": null
   },
@@ -885,18 +885,18 @@
     "id": "l25-q049",
     "gameId": "level_25",
     "type": "level_25",
-    "prompt": "15 - 1 = ?",
-    "correctAnswer": 14,
+    "prompt": "17 - 10 = ?",
+    "correctAnswer": 7,
     "options": [
-      12,
-      14,
-      11,
-      13
+      6,
+      4,
+      7,
+      5
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
-    "targetCount": 15,
-    "targetCount2": 1,
+    "targetCount": 17,
+    "targetCount2": 10,
     "renderMode": "subtraction",
     "displayPrompt": null
   },
@@ -904,18 +904,18 @@
     "id": "l25-q050",
     "gameId": "level_25",
     "type": "level_25",
-    "prompt": "11 - 6 = ?",
-    "correctAnswer": 5,
+    "prompt": "Tính: 8 - 0 = ?",
+    "correctAnswer": 8,
     "options": [
-      3,
-      4,
-      2,
+      6,
+      7,
+      8,
       5
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
-    "targetCount": 11,
-    "targetCount2": 6,
+    "targetCount": 8,
+    "targetCount2": 0,
     "renderMode": "subtraction",
     "displayPrompt": null
   }
