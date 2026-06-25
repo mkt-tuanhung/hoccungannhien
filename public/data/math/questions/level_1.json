@@ -1,952 +1,952 @@
 [
- {
-  "id": "l01-gen_livi-1",
-  "gameId": "gen_living_math_garden",
-  "type": "gen_living_math_garden",
-  "prompt": "Đếm táo và chọn số đúng!",
-  "correctAnswer": 4,
-  "options": [
-   4,
-   1,
-   2,
-   7
-  ],
-  "objectIcon": "/sprites/apple.png",
-  "objectIcon2": "",
-  "targetCount": 4,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l01-gen_infi-1",
-  "gameId": "gen_infinite_island_archipelago",
-  "type": "gen_infinite_island_archipelago",
-  "prompt": "Đếm sao và chọn số đúng!",
-  "correctAnswer": 4,
-  "options": [
-   2,
-   4,
-   3,
-   7
-  ],
-  "objectIcon": "/sprites/crown.png",
-  "objectIcon2": "",
-  "targetCount": 4,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l01-gen_clou-1",
-  "gameId": "gen_cloud_city_numbers",
-  "type": "gen_cloud_city_numbers",
-  "prompt": "Đếm kẹo và chọn số đúng!",
-  "correctAnswer": 9,
-  "options": [
-   9,
-   10,
-   6,
-   7
-  ],
-  "objectIcon": "/sprites/lollipop.png",
-  "objectIcon2": "",
-  "targetCount": 9,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l01-gen_livi-2",
-  "gameId": "gen_living_math_garden",
-  "type": "gen_living_math_garden",
-  "prompt": "Đếm sao và chọn số đúng!",
-  "correctAnswer": 4,
-  "options": [
-   3,
-   6,
-   7,
-   4
-  ],
-  "objectIcon": "/sprites/star.png",
-  "objectIcon2": "",
-  "targetCount": 4,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l01-gen_infi-2",
-  "gameId": "gen_infinite_island_archipelago",
-  "type": "gen_infinite_island_archipelago",
-  "prompt": "Đếm kẹo và chọn số đúng!",
-  "correctAnswer": 6,
-  "options": [
-   3,
-   6,
-   5,
-   9
-  ],
-  "objectIcon": "/sprites/apple.png",
-  "objectIcon2": "",
-  "targetCount": 6,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l01-gen_clou-2",
-  "gameId": "gen_cloud_city_numbers",
-  "type": "gen_cloud_city_numbers",
-  "prompt": "Đếm bóng và chọn số đúng!",
-  "correctAnswer": 2,
-  "options": [
-   2,
-   1,
-   4,
-   5
-  ],
-  "objectIcon": "/sprites/crown.png",
-  "objectIcon2": "",
-  "targetCount": 2,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l01-gen_livi-3",
-  "gameId": "gen_living_math_garden",
-  "type": "gen_living_math_garden",
-  "prompt": "Đếm kẹo và chọn số đúng!",
-  "correctAnswer": 7,
-  "options": [
-   4,
-   9,
-   7,
-   8
-  ],
-  "objectIcon": "/sprites/candy.png",
-  "objectIcon2": "",
-  "targetCount": 7,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l01-gen_infi-3",
-  "gameId": "gen_infinite_island_archipelago",
-  "type": "gen_infinite_island_archipelago",
-  "prompt": "Đếm bóng và chọn số đúng!",
-  "correctAnswer": 2,
-  "options": [
-   4,
-   2,
-   3,
-   1
-  ],
-  "objectIcon": "/sprites/star.png",
-  "objectIcon2": "",
-  "targetCount": 2,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l01-gen_clou-3",
-  "gameId": "gen_cloud_city_numbers",
-  "type": "gen_cloud_city_numbers",
-  "prompt": "Đếm xu và chọn số đúng!",
-  "correctAnswer": 8,
-  "options": [
-   7,
-   10,
-   8,
-   5
-  ],
-  "objectIcon": "/sprites/apple.png",
-  "objectIcon2": "",
-  "targetCount": 8,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l01-gen_livi-4",
-  "gameId": "gen_living_math_garden",
-  "type": "gen_living_math_garden",
-  "prompt": "Đếm bóng và chọn số đúng!",
-  "correctAnswer": 9,
-  "options": [
-   9,
-   7,
-   10,
-   6
-  ],
-  "objectIcon": "/sprites/ball.png",
-  "objectIcon2": "",
-  "targetCount": 9,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l01-gen_infi-4",
-  "gameId": "gen_infinite_island_archipelago",
-  "type": "gen_infinite_island_archipelago",
-  "prompt": "Đếm xu và chọn số đúng!",
-  "correctAnswer": 5,
-  "options": [
-   5,
-   3,
-   2,
-   7
-  ],
-  "objectIcon": "/sprites/candy.png",
-  "objectIcon2": "",
-  "targetCount": 5,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l01-gen_clou-4",
-  "gameId": "gen_cloud_city_numbers",
-  "type": "gen_cloud_city_numbers",
-  "prompt": "Đếm hoa và chọn số đúng!",
-  "correctAnswer": 8,
-  "options": [
-   7,
-   10,
-   8,
-   9
-  ],
-  "objectIcon": "/sprites/star.png",
-  "objectIcon2": "",
-  "targetCount": 8,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l01-gen_livi-5",
-  "gameId": "gen_living_math_garden",
-  "type": "gen_living_math_garden",
-  "prompt": "Đếm xu và chọn số đúng!",
-  "correctAnswer": 2,
-  "options": [
-   3,
-   1,
-   4,
-   2
-  ],
-  "objectIcon": "/sprites/coin.png",
-  "objectIcon2": "",
-  "targetCount": 2,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l01-gen_infi-5",
-  "gameId": "gen_infinite_island_archipelago",
-  "type": "gen_infinite_island_archipelago",
-  "prompt": "Đếm hoa và chọn số đúng!",
-  "correctAnswer": 9,
-  "options": [
-   9,
-   7,
-   10,
-   8
-  ],
-  "objectIcon": "/sprites/ball.png",
-  "objectIcon2": "",
-  "targetCount": 9,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l01-gen_clou-5",
-  "gameId": "gen_cloud_city_numbers",
-  "type": "gen_cloud_city_numbers",
-  "prompt": "Đếm mèo và chọn số đúng!",
-  "correctAnswer": 5,
-  "options": [
-   5,
-   2,
-   7,
-   6
-  ],
-  "objectIcon": "/sprites/candy.png",
-  "objectIcon2": "",
-  "targetCount": 5,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l01-gen_livi-6",
-  "gameId": "gen_living_math_garden",
-  "type": "gen_living_math_garden",
-  "prompt": "Đếm hoa và chọn số đúng!",
-  "correctAnswer": 7,
-  "options": [
-   9,
-   7,
-   4,
-   10
-  ],
-  "objectIcon": "/sprites/flower.png",
-  "objectIcon2": "",
-  "targetCount": 7,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l01-gen_infi-6",
-  "gameId": "gen_infinite_island_archipelago",
-  "type": "gen_infinite_island_archipelago",
-  "prompt": "Đếm mèo và chọn số đúng!",
-  "correctAnswer": 10,
-  "options": [
-   10,
-   9,
-   7,
-   8
-  ],
-  "objectIcon": "/sprites/coin.png",
-  "objectIcon2": "",
-  "targetCount": 10,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l01-gen_clou-6",
-  "gameId": "gen_cloud_city_numbers",
-  "type": "gen_cloud_city_numbers",
-  "prompt": "Đếm thỏ và chọn số đúng!",
-  "correctAnswer": 6,
-  "options": [
-   4,
-   8,
-   6,
-   7
-  ],
-  "objectIcon": "/sprites/ball.png",
-  "objectIcon2": "",
-  "targetCount": 6,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l01-gen_livi-7",
-  "gameId": "gen_living_math_garden",
-  "type": "gen_living_math_garden",
-  "prompt": "Đếm mèo và chọn số đúng!",
-  "correctAnswer": 10,
-  "options": [
-   10,
-   9,
-   7,
-   8
-  ],
-  "objectIcon": "/sprites/cat.png",
-  "objectIcon2": "",
-  "targetCount": 10,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l01-gen_infi-7",
-  "gameId": "gen_infinite_island_archipelago",
-  "type": "gen_infinite_island_archipelago",
-  "prompt": "Đếm thỏ và chọn số đúng!",
-  "correctAnswer": 10,
-  "options": [
-   8,
-   7,
-   9,
-   10
-  ],
-  "objectIcon": "/sprites/flower.png",
-  "objectIcon2": "",
-  "targetCount": 10,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l01-gen_clou-7",
-  "gameId": "gen_cloud_city_numbers",
-  "type": "gen_cloud_city_numbers",
-  "prompt": "Đếm kim cương và chọn số đúng!",
-  "correctAnswer": 8,
-  "options": [
-   10,
-   6,
-   9,
-   8
-  ],
-  "objectIcon": "/sprites/coin.png",
-  "objectIcon2": "",
-  "targetCount": 8,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l01-gen_livi-8",
-  "gameId": "gen_living_math_garden",
-  "type": "gen_living_math_garden",
-  "prompt": "Đếm thỏ và chọn số đúng!",
-  "correctAnswer": 1,
-  "options": [
-   2,
-   1,
-   4,
-   3
-  ],
-  "objectIcon": "/sprites/rabbit.png",
-  "objectIcon2": "",
-  "targetCount": 1,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l01-gen_infi-8",
-  "gameId": "gen_infinite_island_archipelago",
-  "type": "gen_infinite_island_archipelago",
-  "prompt": "Đếm kim cương và chọn số đúng!",
-  "correctAnswer": 10,
-  "options": [
-   7,
-   10,
-   8,
-   9
-  ],
-  "objectIcon": "/sprites/cat.png",
-  "objectIcon2": "",
-  "targetCount": 10,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l01-gen_clou-8",
-  "gameId": "gen_cloud_city_numbers",
-  "type": "gen_cloud_city_numbers",
-  "prompt": "Đếm ếch và chọn số đúng!",
-  "correctAnswer": 10,
-  "options": [
-   10,
-   9,
-   8,
-   7
-  ],
-  "objectIcon": "/sprites/flower.png",
-  "objectIcon2": "",
-  "targetCount": 10,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l01-gen_livi-9",
-  "gameId": "gen_living_math_garden",
-  "type": "gen_living_math_garden",
-  "prompt": "Đếm kim cương và chọn số đúng!",
-  "correctAnswer": 1,
-  "options": [
-   1,
-   2,
-   4,
-   3
-  ],
-  "objectIcon": "/sprites/diamond.png",
-  "objectIcon2": "",
-  "targetCount": 1,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l01-gen_infi-9",
-  "gameId": "gen_infinite_island_archipelago",
-  "type": "gen_infinite_island_archipelago",
-  "prompt": "Đếm ếch và chọn số đúng!",
-  "correctAnswer": 6,
-  "options": [
-   7,
-   6,
-   3,
-   5
-  ],
-  "objectIcon": "/sprites/rabbit.png",
-  "objectIcon2": "",
-  "targetCount": 6,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l01-gen_clou-9",
-  "gameId": "gen_cloud_city_numbers",
-  "type": "gen_cloud_city_numbers",
-  "prompt": "Đếm cà rốt và chọn số đúng!",
-  "correctAnswer": 4,
-  "options": [
-   3,
-   4,
-   5,
-   1
-  ],
-  "objectIcon": "/sprites/cat.png",
-  "objectIcon2": "",
-  "targetCount": 4,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l01-gen_livi-10",
-  "gameId": "gen_living_math_garden",
-  "type": "gen_living_math_garden",
-  "prompt": "Đếm ếch và chọn số đúng!",
-  "correctAnswer": 2,
-  "options": [
-   4,
-   2,
-   5,
-   1
-  ],
-  "objectIcon": "/sprites/frog.png",
-  "objectIcon2": "",
-  "targetCount": 2,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l01-gen_infi-10",
-  "gameId": "gen_infinite_island_archipelago",
-  "type": "gen_infinite_island_archipelago",
-  "prompt": "Đếm cà rốt và chọn số đúng!",
-  "correctAnswer": 2,
-  "options": [
-   3,
-   2,
-   1,
-   5
-  ],
-  "objectIcon": "/sprites/diamond.png",
-  "objectIcon2": "",
-  "targetCount": 2,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l01-gen_clou-10",
-  "gameId": "gen_cloud_city_numbers",
-  "type": "gen_cloud_city_numbers",
-  "prompt": "Đếm dâu và chọn số đúng!",
-  "correctAnswer": 8,
-  "options": [
-   9,
-   5,
-   8,
-   6
-  ],
-  "objectIcon": "/sprites/rabbit.png",
-  "objectIcon2": "",
-  "targetCount": 8,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l01-gen_livi-11",
-  "gameId": "gen_living_math_garden",
-  "type": "gen_living_math_garden",
-  "prompt": "Đếm cà rốt và chọn số đúng!",
-  "correctAnswer": 9,
-  "options": [
-   10,
-   9,
-   6,
-   7
-  ],
-  "objectIcon": "/sprites/carrot.png",
-  "objectIcon2": "",
-  "targetCount": 9,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l01-gen_infi-11",
-  "gameId": "gen_infinite_island_archipelago",
-  "type": "gen_infinite_island_archipelago",
-  "prompt": "Đếm dâu và chọn số đúng!",
-  "correctAnswer": 9,
-  "options": [
-   6,
-   9,
-   10,
-   8
-  ],
-  "objectIcon": "/sprites/frog.png",
-  "objectIcon2": "",
-  "targetCount": 9,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l01-gen_clou-11",
-  "gameId": "gen_cloud_city_numbers",
-  "type": "gen_cloud_city_numbers",
-  "prompt": "Đếm nấm và chọn số đúng!",
-  "correctAnswer": 2,
-  "options": [
-   4,
-   2,
-   5,
-   1
-  ],
-  "objectIcon": "/sprites/diamond.png",
-  "objectIcon2": "",
-  "targetCount": 2,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l01-gen_livi-12",
-  "gameId": "gen_living_math_garden",
-  "type": "gen_living_math_garden",
-  "prompt": "Đếm dâu và chọn số đúng!",
-  "correctAnswer": 2,
-  "options": [
-   3,
-   4,
-   2,
-   1
-  ],
-  "objectIcon": "/sprites/strawberry.png",
-  "objectIcon2": "",
-  "targetCount": 2,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l01-gen_infi-12",
-  "gameId": "gen_infinite_island_archipelago",
-  "type": "gen_infinite_island_archipelago",
-  "prompt": "Đếm nấm và chọn số đúng!",
-  "correctAnswer": 7,
-  "options": [
-   7,
-   8,
-   4,
-   9
-  ],
-  "objectIcon": "/sprites/carrot.png",
-  "objectIcon2": "",
-  "targetCount": 7,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l01-gen_clou-12",
-  "gameId": "gen_cloud_city_numbers",
-  "type": "gen_cloud_city_numbers",
-  "prompt": "Đếm cá và chọn số đúng!",
-  "correctAnswer": 2,
-  "options": [
-   4,
-   5,
-   2,
-   1
-  ],
-  "objectIcon": "/sprites/frog.png",
-  "objectIcon2": "",
-  "targetCount": 2,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l01-gen_livi-13",
-  "gameId": "gen_living_math_garden",
-  "type": "gen_living_math_garden",
-  "prompt": "Đếm nấm và chọn số đúng!",
-  "correctAnswer": 1,
-  "options": [
-   2,
-   4,
-   1,
-   3
-  ],
-  "objectIcon": "/sprites/mushroom.png",
-  "objectIcon2": "",
-  "targetCount": 1,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l01-gen_infi-13",
-  "gameId": "gen_infinite_island_archipelago",
-  "type": "gen_infinite_island_archipelago",
-  "prompt": "Đếm cá và chọn số đúng!",
-  "correctAnswer": 3,
-  "options": [
-   1,
-   4,
-   5,
-   3
-  ],
-  "objectIcon": "/sprites/strawberry.png",
-  "objectIcon2": "",
-  "targetCount": 3,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l01-gen_clou-13",
-  "gameId": "gen_cloud_city_numbers",
-  "type": "gen_cloud_city_numbers",
-  "prompt": "Đếm bướm và chọn số đúng!",
-  "correctAnswer": 8,
-  "options": [
-   6,
-   8,
-   10,
-   7
-  ],
-  "objectIcon": "/sprites/carrot.png",
-  "objectIcon2": "",
-  "targetCount": 8,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l01-gen_livi-14",
-  "gameId": "gen_living_math_garden",
-  "type": "gen_living_math_garden",
-  "prompt": "Đếm cá và chọn số đúng!",
-  "correctAnswer": 8,
-  "options": [
-   8,
-   7,
-   10,
-   9
-  ],
-  "objectIcon": "/sprites/fish.png",
-  "objectIcon2": "",
-  "targetCount": 8,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l01-gen_infi-14",
-  "gameId": "gen_infinite_island_archipelago",
-  "type": "gen_infinite_island_archipelago",
-  "prompt": "Đếm bướm và chọn số đúng!",
-  "correctAnswer": 5,
-  "options": [
-   4,
-   5,
-   7,
-   6
-  ],
-  "objectIcon": "/sprites/mushroom.png",
-  "objectIcon2": "",
-  "targetCount": 5,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l01-gen_clou-14",
-  "gameId": "gen_cloud_city_numbers",
-  "type": "gen_cloud_city_numbers",
-  "prompt": "Đếm bánh và chọn số đúng!",
-  "correctAnswer": 5,
-  "options": [
-   2,
-   3,
-   6,
-   5
-  ],
-  "objectIcon": "/sprites/strawberry.png",
-  "objectIcon2": "",
-  "targetCount": 5,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l01-gen_livi-15",
-  "gameId": "gen_living_math_garden",
-  "type": "gen_living_math_garden",
-  "prompt": "Đếm bướm và chọn số đúng!",
-  "correctAnswer": 10,
-  "options": [
-   7,
-   10,
-   8,
-   9
-  ],
-  "objectIcon": "/sprites/butterfly.png",
-  "objectIcon2": "",
-  "targetCount": 10,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l01-gen_infi-15",
-  "gameId": "gen_infinite_island_archipelago",
-  "type": "gen_infinite_island_archipelago",
-  "prompt": "Đếm bánh và chọn số đúng!",
-  "correctAnswer": 2,
-  "options": [
-   5,
-   2,
-   1,
-   3
-  ],
-  "objectIcon": "/sprites/fish.png",
-  "objectIcon2": "",
-  "targetCount": 2,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l01-gen_clou-15",
-  "gameId": "gen_cloud_city_numbers",
-  "type": "gen_cloud_city_numbers",
-  "prompt": "Đếm táo và chọn số đúng!",
-  "correctAnswer": 9,
-  "options": [
-   10,
-   9,
-   7,
-   8
-  ],
-  "objectIcon": "/sprites/mushroom.png",
-  "objectIcon2": "",
-  "targetCount": 9,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l01-gen_livi-16",
-  "gameId": "gen_living_math_garden",
-  "type": "gen_living_math_garden",
-  "prompt": "Đếm bánh và chọn số đúng!",
-  "correctAnswer": 1,
-  "options": [
-   1,
-   3,
-   4,
-   2
-  ],
-  "objectIcon": "/sprites/cupcake.png",
-  "objectIcon2": "",
-  "targetCount": 1,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l01-gen_infi-16",
-  "gameId": "gen_infinite_island_archipelago",
-  "type": "gen_infinite_island_archipelago",
-  "prompt": "Đếm táo và chọn số đúng!",
-  "correctAnswer": 3,
-  "options": [
-   5,
-   1,
-   6,
-   3
-  ],
-  "objectIcon": "/sprites/butterfly.png",
-  "objectIcon2": "",
-  "targetCount": 3,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l01-gen_clou-16",
-  "gameId": "gen_cloud_city_numbers",
-  "type": "gen_cloud_city_numbers",
-  "prompt": "Đếm sao và chọn số đúng!",
-  "correctAnswer": 2,
-  "options": [
-   4,
-   2,
-   1,
-   5
-  ],
-  "objectIcon": "/sprites/fish.png",
-  "objectIcon2": "",
-  "targetCount": 2,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l01-gen_livi-17",
-  "gameId": "gen_living_math_garden",
-  "type": "gen_living_math_garden",
-  "prompt": "Đếm táo và chọn số đúng!",
-  "correctAnswer": 4,
-  "options": [
-   7,
-   3,
-   6,
-   4
-  ],
-  "objectIcon": "/sprites/lollipop.png",
-  "objectIcon2": "",
-  "targetCount": 4,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l01-gen_infi-17",
-  "gameId": "gen_infinite_island_archipelago",
-  "type": "gen_infinite_island_archipelago",
-  "prompt": "Đếm sao và chọn số đúng!",
-  "correctAnswer": 5,
-  "options": [
-   8,
-   2,
-   5,
-   3
-  ],
-  "objectIcon": "/sprites/cupcake.png",
-  "objectIcon2": "",
-  "targetCount": 5,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- }
+  {
+    "id": "l01-q001",
+    "gameId": "level_1",
+    "type": "level_1",
+    "prompt": "Đếm bóng và chọn số đúng!",
+    "correctAnswer": 5,
+    "options": [
+      2,
+      3,
+      5,
+      4
+    ],
+    "objectIcon": "/icons/ball_icon.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l01-q002",
+    "gameId": "level_1",
+    "type": "level_1",
+    "prompt": "Đếm cam và chọn số đúng!",
+    "correctAnswer": 3,
+    "options": [
+      2,
+      0,
+      1,
+      3
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 3,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l01-q003",
+    "gameId": "level_1",
+    "type": "level_1",
+    "prompt": "Đếm cây nấm và chọn số đúng!",
+    "correctAnswer": 4,
+    "options": [
+      1,
+      2,
+      4,
+      3
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 4,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l01-q004",
+    "gameId": "level_1",
+    "type": "level_1",
+    "prompt": "Đếm hoa và chọn số đúng!",
+    "correctAnswer": 5,
+    "options": [
+      5,
+      3,
+      4,
+      2
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l01-q005",
+    "gameId": "level_1",
+    "type": "level_1",
+    "prompt": "Đếm chim và chọn số đúng!",
+    "correctAnswer": 1,
+    "options": [
+      1,
+      0,
+      2,
+      3
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 1,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l01-q006",
+    "gameId": "level_1",
+    "type": "level_1",
+    "prompt": "Đếm cam và chọn số đúng!",
+    "correctAnswer": 4,
+    "options": [
+      3,
+      1,
+      2,
+      4
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 4,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l01-q007",
+    "gameId": "level_1",
+    "type": "level_1",
+    "prompt": "Đếm hoa và chọn số đúng!",
+    "correctAnswer": 1,
+    "options": [
+      2,
+      3,
+      1,
+      0
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 1,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l01-q008",
+    "gameId": "level_1",
+    "type": "level_1",
+    "prompt": "Đếm bút và chọn số đúng!",
+    "correctAnswer": 4,
+    "options": [
+      2,
+      1,
+      3,
+      4
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 4,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l01-q009",
+    "gameId": "level_1",
+    "type": "level_1",
+    "prompt": "Đếm ốc sên và chọn số đúng!",
+    "correctAnswer": 3,
+    "options": [
+      0,
+      3,
+      2,
+      1
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 3,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l01-q010",
+    "gameId": "level_1",
+    "type": "level_1",
+    "prompt": "Đếm bướm và chọn số đúng!",
+    "correctAnswer": 5,
+    "options": [
+      4,
+      5,
+      3,
+      2
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l01-q011",
+    "gameId": "level_1",
+    "type": "level_1",
+    "prompt": "Đếm bông tuyết và chọn số đúng!",
+    "correctAnswer": 2,
+    "options": [
+      2,
+      0,
+      1,
+      3
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 2,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l01-q012",
+    "gameId": "level_1",
+    "type": "level_1",
+    "prompt": "Đếm bóng và chọn số đúng!",
+    "correctAnswer": 2,
+    "options": [
+      0,
+      2,
+      1,
+      3
+    ],
+    "objectIcon": "/icons/ball_icon.png",
+    "objectIcon2": "",
+    "targetCount": 2,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l01-q013",
+    "gameId": "level_1",
+    "type": "level_1",
+    "prompt": "Đếm cam và chọn số đúng!",
+    "correctAnswer": 4,
+    "options": [
+      2,
+      1,
+      3,
+      4
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 4,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l01-q014",
+    "gameId": "level_1",
+    "type": "level_1",
+    "prompt": "Đếm táo và chọn số đúng!",
+    "correctAnswer": 4,
+    "options": [
+      2,
+      1,
+      4,
+      3
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 4,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l01-q015",
+    "gameId": "level_1",
+    "type": "level_1",
+    "prompt": "Đếm nến và chọn số đúng!",
+    "correctAnswer": 4,
+    "options": [
+      4,
+      3,
+      2,
+      1
+    ],
+    "objectIcon": "/icons/candy_icon.png",
+    "objectIcon2": "",
+    "targetCount": 4,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l01-q016",
+    "gameId": "level_1",
+    "type": "level_1",
+    "prompt": "Đếm kẹo và chọn số đúng!",
+    "correctAnswer": 5,
+    "options": [
+      4,
+      2,
+      3,
+      5
+    ],
+    "objectIcon": "/icons/candy_icon.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l01-q017",
+    "gameId": "level_1",
+    "type": "level_1",
+    "prompt": "Đếm bông tuyết và chọn số đúng!",
+    "correctAnswer": 2,
+    "options": [
+      0,
+      2,
+      1,
+      3
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 2,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l01-q018",
+    "gameId": "level_1",
+    "type": "level_1",
+    "prompt": "Đếm nến và chọn số đúng!",
+    "correctAnswer": 4,
+    "options": [
+      2,
+      1,
+      3,
+      4
+    ],
+    "objectIcon": "/icons/candy_icon.png",
+    "objectIcon2": "",
+    "targetCount": 4,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l01-q019",
+    "gameId": "level_1",
+    "type": "level_1",
+    "prompt": "Đếm cây nấm và chọn số đúng!",
+    "correctAnswer": 2,
+    "options": [
+      3,
+      2,
+      1,
+      0
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 2,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l01-q020",
+    "gameId": "level_1",
+    "type": "level_1",
+    "prompt": "Đếm bút và chọn số đúng!",
+    "correctAnswer": 1,
+    "options": [
+      2,
+      3,
+      0,
+      1
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 1,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l01-q021",
+    "gameId": "level_1",
+    "type": "level_1",
+    "prompt": "Đếm cá và chọn số đúng!",
+    "correctAnswer": 5,
+    "options": [
+      2,
+      3,
+      4,
+      5
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l01-q022",
+    "gameId": "level_1",
+    "type": "level_1",
+    "prompt": "Đếm bông tuyết và chọn số đúng!",
+    "correctAnswer": 5,
+    "options": [
+      4,
+      2,
+      5,
+      3
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l01-q023",
+    "gameId": "level_1",
+    "type": "level_1",
+    "prompt": "Đếm bóng và chọn số đúng!",
+    "correctAnswer": 1,
+    "options": [
+      0,
+      1,
+      3,
+      2
+    ],
+    "objectIcon": "/icons/ball_icon.png",
+    "objectIcon2": "",
+    "targetCount": 1,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l01-q024",
+    "gameId": "level_1",
+    "type": "level_1",
+    "prompt": "Đếm bút và chọn số đúng!",
+    "correctAnswer": 4,
+    "options": [
+      1,
+      3,
+      2,
+      4
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 4,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l01-q025",
+    "gameId": "level_1",
+    "type": "level_1",
+    "prompt": "Đếm bông tuyết và chọn số đúng!",
+    "correctAnswer": 4,
+    "options": [
+      4,
+      1,
+      2,
+      3
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 4,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l01-q026",
+    "gameId": "level_1",
+    "type": "level_1",
+    "prompt": "Đếm táo và chọn số đúng!",
+    "correctAnswer": 1,
+    "options": [
+      3,
+      0,
+      1,
+      2
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 1,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l01-q027",
+    "gameId": "level_1",
+    "type": "level_1",
+    "prompt": "Đếm hoa và chọn số đúng!",
+    "correctAnswer": 1,
+    "options": [
+      2,
+      3,
+      0,
+      1
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 1,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l01-q028",
+    "gameId": "level_1",
+    "type": "level_1",
+    "prompt": "Đếm hoa và chọn số đúng!",
+    "correctAnswer": 5,
+    "options": [
+      3,
+      2,
+      4,
+      5
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l01-q029",
+    "gameId": "level_1",
+    "type": "level_1",
+    "prompt": "Đếm bút và chọn số đúng!",
+    "correctAnswer": 2,
+    "options": [
+      3,
+      0,
+      2,
+      1
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 2,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l01-q030",
+    "gameId": "level_1",
+    "type": "level_1",
+    "prompt": "Đếm táo và chọn số đúng!",
+    "correctAnswer": 4,
+    "options": [
+      3,
+      4,
+      2,
+      1
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 4,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l01-q031",
+    "gameId": "level_1",
+    "type": "level_1",
+    "prompt": "Chọn đúng số 2 nhé!",
+    "correctAnswer": 2,
+    "options": [
+      3,
+      2,
+      0,
+      1
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 2,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l01-q032",
+    "gameId": "level_1",
+    "type": "level_1",
+    "prompt": "Chọn đúng số 5 nhé!",
+    "correctAnswer": 5,
+    "options": [
+      3,
+      2,
+      4,
+      5
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l01-q033",
+    "gameId": "level_1",
+    "type": "level_1",
+    "prompt": "Bé hãy chọn thẻ số 1!",
+    "correctAnswer": 1,
+    "options": [
+      3,
+      1,
+      2,
+      0
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 1,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l01-q034",
+    "gameId": "level_1",
+    "type": "level_1",
+    "prompt": "Bé hãy chọn thẻ số 3!",
+    "correctAnswer": 3,
+    "options": [
+      1,
+      2,
+      3,
+      0
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 3,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l01-q035",
+    "gameId": "level_1",
+    "type": "level_1",
+    "prompt": "Bé hãy chọn thẻ số 4!",
+    "correctAnswer": 4,
+    "options": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 4,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l01-q036",
+    "gameId": "level_1",
+    "type": "level_1",
+    "prompt": "Tìm số 3 trong các thẻ dưới đây!",
+    "correctAnswer": 3,
+    "options": [
+      1,
+      3,
+      2,
+      0
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 3,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l01-q037",
+    "gameId": "level_1",
+    "type": "level_1",
+    "prompt": "Bé hãy chọn thẻ số 5!",
+    "correctAnswer": 5,
+    "options": [
+      5,
+      4,
+      3,
+      2
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l01-q038",
+    "gameId": "level_1",
+    "type": "level_1",
+    "prompt": "Chọn đúng số 3 nhé!",
+    "correctAnswer": 3,
+    "options": [
+      1,
+      3,
+      2,
+      0
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 3,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l01-q039",
+    "gameId": "level_1",
+    "type": "level_1",
+    "prompt": "Bé hãy chọn thẻ số 3!",
+    "correctAnswer": 3,
+    "options": [
+      2,
+      0,
+      1,
+      3
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 3,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l01-q040",
+    "gameId": "level_1",
+    "type": "level_1",
+    "prompt": "Chọn đúng số 4 nhé!",
+    "correctAnswer": 4,
+    "options": [
+      3,
+      1,
+      4,
+      2
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 4,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l01-q041",
+    "gameId": "level_1",
+    "type": "level_1",
+    "prompt": "Đếm cây nấm và chọn số đúng!",
+    "correctAnswer": 1,
+    "options": [
+      0,
+      3,
+      2,
+      1
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 1,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l01-q042",
+    "gameId": "level_1",
+    "type": "level_1",
+    "prompt": "Đếm bướm và chọn số đúng!",
+    "correctAnswer": 1,
+    "options": [
+      3,
+      1,
+      0,
+      2
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 1,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l01-q043",
+    "gameId": "level_1",
+    "type": "level_1",
+    "prompt": "Đếm bông tuyết và chọn số đúng!",
+    "correctAnswer": 5,
+    "options": [
+      3,
+      2,
+      5,
+      4
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l01-q044",
+    "gameId": "level_1",
+    "type": "level_1",
+    "prompt": "Đếm bút và chọn số đúng!",
+    "correctAnswer": 2,
+    "options": [
+      1,
+      3,
+      0,
+      2
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 2,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l01-q045",
+    "gameId": "level_1",
+    "type": "level_1",
+    "prompt": "Đếm bông tuyết và chọn số đúng!",
+    "correctAnswer": 3,
+    "options": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 3,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l01-q046",
+    "gameId": "level_1",
+    "type": "level_1",
+    "prompt": "Đếm ốc sên và chọn số đúng!",
+    "correctAnswer": 1,
+    "options": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 1,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l01-q047",
+    "gameId": "level_1",
+    "type": "level_1",
+    "prompt": "Đếm ốc sên và chọn số đúng!",
+    "correctAnswer": 5,
+    "options": [
+      2,
+      5,
+      4,
+      3
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l01-q048",
+    "gameId": "level_1",
+    "type": "level_1",
+    "prompt": "Đếm ốc sên và chọn số đúng!",
+    "correctAnswer": 2,
+    "options": [
+      1,
+      2,
+      3,
+      0
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 2,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l01-q049",
+    "gameId": "level_1",
+    "type": "level_1",
+    "prompt": "Đếm bướm và chọn số đúng!",
+    "correctAnswer": 3,
+    "options": [
+      1,
+      2,
+      0,
+      3
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 3,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l01-q050",
+    "gameId": "level_1",
+    "type": "level_1",
+    "prompt": "Đếm hoa và chọn số đúng!",
+    "correctAnswer": 2,
+    "options": [
+      2,
+      0,
+      3,
+      1
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 2,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  }
 ]

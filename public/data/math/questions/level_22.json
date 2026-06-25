@@ -1,93 +1,17 @@
 [
   {
-    "id": "l22-magic_sh-1",
-    "gameId": "magic_shop_math",
-    "type": "magic_shop_math",
-    "prompt": "11 + 5 = ?",
-    "correctAnswer": 16,
-    "options": [
-      19,
-      16,
-      13,
-      17
-    ],
-    "objectIcon": "/sprites/apple.png",
-    "objectIcon2": "",
-    "targetCount": 11,
-    "targetCount2": 5,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l22-detectiv-1",
-    "gameId": "detective_math_mystery",
-    "type": "detective_math_mystery",
-    "prompt": "Chọn số đúng trong 4 thẻ số!",
-    "correctAnswer": 10,
-    "options": [
-      7,
-      8,
-      13,
-      10
-    ],
-    "objectIcon": "/sprites/crown.png",
-    "objectIcon2": "",
-    "targetCount": 10,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l22-rhythm_m-1",
-    "gameId": "rhythm_math_dance",
-    "type": "rhythm_math_dance",
-    "prompt": "13 + ? = 18",
-    "correctAnswer": 5,
-    "options": [
-      5,
-      6,
-      4,
-      3
-    ],
-    "objectIcon": "/sprites/lollipop.png",
-    "objectIcon2": "",
-    "targetCount": 13,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l22-magic_sh-2",
-    "gameId": "magic_shop_math",
-    "type": "magic_shop_math",
-    "prompt": "14 - 9 = ?",
-    "correctAnswer": 5,
-    "options": [
-      8,
-      2,
-      5,
-      3
-    ],
-    "objectIcon": "/sprites/star.png",
-    "objectIcon2": "",
-    "targetCount": 14,
-    "targetCount2": 9,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l22-detectiv-2",
-    "gameId": "detective_math_mystery",
-    "type": "detective_math_mystery",
-    "prompt": "Nhìn và đếm — chọn số đúng!",
+    "id": "l22-q001",
+    "gameId": "level_22",
+    "type": "level_22",
+    "prompt": "Số nào là số lẻ?",
     "correctAnswer": 19,
     "options": [
-      20,
-      17,
       19,
-      18
+      8,
+      18,
+      4
     ],
-    "objectIcon": "/sprites/apple.png",
+    "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
     "targetCount": 19,
     "targetCount2": 0,
@@ -95,189 +19,18 @@
     "displayPrompt": null
   },
   {
-    "id": "l22-rhythm_m-2",
-    "gameId": "rhythm_math_dance",
-    "type": "rhythm_math_dance",
-    "prompt": "Nam có 9 bóng, mẹ cho thêm 6. Có tất cả bao nhiêu?",
-    "correctAnswer": 15,
-    "options": [
-      18,
-      15,
-      12,
-      16
-    ],
-    "objectIcon": "/sprites/crown.png",
-    "objectIcon2": "",
-    "targetCount": 9,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l22-magic_sh-3",
-    "gameId": "magic_shop_math",
-    "type": "magic_shop_math",
-    "prompt": "Đếm kẹo và chọn số đúng!",
-    "correctAnswer": 8,
-    "options": [
-      6,
-      8,
-      10,
-      11
-    ],
-    "objectIcon": "/sprites/candy.png",
-    "objectIcon2": "",
-    "targetCount": 8,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l22-detectiv-3",
-    "gameId": "detective_math_mystery",
-    "type": "detective_math_mystery",
-    "prompt": "số nhỏ hơn hoặc bằng 5 và là số lẻ. Đó là số mấy?",
-    "correctAnswer": 3,
-    "options": [
-      6,
-      5,
-      2,
-      3
-    ],
-    "objectIcon": "/sprites/star.png",
-    "objectIcon2": "",
-    "targetCount": 3,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l22-rhythm_m-3",
-    "gameId": "rhythm_math_dance",
-    "type": "rhythm_math_dance",
-    "prompt": "10 + 4 = ?",
-    "correctAnswer": 14,
-    "options": [
-      12,
-      14,
-      15,
-      16
-    ],
-    "objectIcon": "/sprites/apple.png",
-    "objectIcon2": "",
-    "targetCount": 10,
-    "targetCount2": 4,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l22-magic_sh-4",
-    "gameId": "magic_shop_math",
-    "type": "magic_shop_math",
-    "prompt": "Số nào lớn hơn: 11 hay 4?",
-    "correctAnswer": 11,
-    "options": [
-      11,
-      12,
-      14,
-      9
-    ],
-    "objectIcon": "/sprites/ball.png",
-    "objectIcon2": "",
-    "targetCount": 11,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l22-detectiv-4",
-    "gameId": "detective_math_mystery",
-    "type": "detective_math_mystery",
-    "prompt": "Chọn số đúng trong 4 thẻ số!",
-    "correctAnswer": 15,
-    "options": [
-      15,
-      18,
-      13,
-      17
-    ],
-    "objectIcon": "/sprites/candy.png",
-    "objectIcon2": "",
-    "targetCount": 15,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l22-rhythm_m-4",
-    "gameId": "rhythm_math_dance",
-    "type": "rhythm_math_dance",
-    "prompt": "16 - 12 = ?",
-    "correctAnswer": 4,
-    "options": [
-      1,
-      3,
-      4,
-      7
-    ],
-    "objectIcon": "/sprites/star.png",
-    "objectIcon2": "",
-    "targetCount": 16,
-    "targetCount2": 12,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l22-magic_sh-5",
-    "gameId": "magic_shop_math",
-    "type": "magic_shop_math",
-    "prompt": "6 + ? = 17",
-    "correctAnswer": 11,
-    "options": [
-      12,
-      13,
-      8,
-      11
-    ],
-    "objectIcon": "/sprites/coin.png",
-    "objectIcon2": "",
-    "targetCount": 6,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l22-detectiv-5",
-    "gameId": "detective_math_mystery",
-    "type": "detective_math_mystery",
-    "prompt": "Đếm xem có mấy cái? Chọn số đúng!",
-    "correctAnswer": 18,
-    "options": [
-      19,
-      20,
-      18,
-      15
-    ],
-    "objectIcon": "/sprites/ball.png",
-    "objectIcon2": "",
-    "targetCount": 18,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l22-rhythm_m-5",
-    "gameId": "rhythm_math_dance",
-    "type": "rhythm_math_dance",
-    "prompt": "Đếm mèo và chọn số đúng!",
+    "id": "l22-q002",
+    "gameId": "level_22",
+    "type": "level_22",
+    "prompt": "Số nào là số chẵn?",
     "correctAnswer": 2,
     "options": [
-      1,
-      3,
-      4,
+      13,
+      15,
+      7,
       2
     ],
-    "objectIcon": "/sprites/candy.png",
+    "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
     "targetCount": 2,
     "targetCount2": 0,
@@ -285,189 +38,18 @@
     "displayPrompt": null
   },
   {
-    "id": "l22-magic_sh-6",
-    "gameId": "magic_shop_math",
-    "type": "magic_shop_math",
-    "prompt": "Nam có 12 hoa, mẹ cho thêm 8. Có tất cả bao nhiêu?",
-    "correctAnswer": 20,
-    "options": [
-      17,
-      20,
-      19,
-      23
-    ],
-    "objectIcon": "/sprites/flower.png",
-    "objectIcon2": "",
-    "targetCount": 12,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l22-detectiv-6",
-    "gameId": "detective_math_mystery",
-    "type": "detective_math_mystery",
-    "prompt": "số lớn hơn 5 và là số lẻ. Đó là số mấy?",
-    "correctAnswer": 9,
-    "options": [
-      9,
-      8,
-      12,
-      7
-    ],
-    "objectIcon": "/sprites/coin.png",
-    "objectIcon2": "",
-    "targetCount": 9,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l22-rhythm_m-6",
-    "gameId": "rhythm_math_dance",
-    "type": "rhythm_math_dance",
-    "prompt": "Số nào lớn hơn: 13 hay 8?",
-    "correctAnswer": 13,
-    "options": [
-      13,
-      15,
-      10,
-      14
-    ],
-    "objectIcon": "/sprites/ball.png",
-    "objectIcon2": "",
-    "targetCount": 13,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l22-magic_sh-7",
-    "gameId": "magic_shop_math",
-    "type": "magic_shop_math",
-    "prompt": "11 + 5 = ?",
-    "correctAnswer": 16,
-    "options": [
-      18,
-      17,
-      16,
-      14
-    ],
-    "objectIcon": "/sprites/cat.png",
-    "objectIcon2": "",
-    "targetCount": 11,
-    "targetCount2": 5,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l22-detectiv-7",
-    "gameId": "detective_math_mystery",
-    "type": "detective_math_mystery",
-    "prompt": "Chọn số đúng trong 4 thẻ số!",
-    "correctAnswer": 4,
-    "options": [
-      3,
-      2,
-      4,
-      5
-    ],
-    "objectIcon": "/sprites/flower.png",
-    "objectIcon2": "",
-    "targetCount": 4,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l22-rhythm_m-7",
-    "gameId": "rhythm_math_dance",
-    "type": "rhythm_math_dance",
-    "prompt": "4 + ? = 7",
-    "correctAnswer": 3,
-    "options": [
-      6,
-      4,
-      5,
-      3
-    ],
-    "objectIcon": "/sprites/coin.png",
-    "objectIcon2": "",
-    "targetCount": 4,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l22-magic_sh-8",
-    "gameId": "magic_shop_math",
-    "type": "magic_shop_math",
-    "prompt": "9 - 9 = ?",
-    "correctAnswer": 0,
-    "options": [
-      0,
-      2,
-      1,
-      3
-    ],
-    "objectIcon": "/sprites/rabbit.png",
-    "objectIcon2": "",
-    "targetCount": 9,
-    "targetCount2": 9,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l22-detectiv-8",
-    "gameId": "detective_math_mystery",
-    "type": "detective_math_mystery",
-    "prompt": "Bé hãy đếm và chọn đáp án!",
-    "correctAnswer": 17,
-    "options": [
-      18,
-      17,
-      14,
-      15
-    ],
-    "objectIcon": "/sprites/cat.png",
-    "objectIcon2": "",
-    "targetCount": 17,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l22-rhythm_m-8",
-    "gameId": "rhythm_math_dance",
-    "type": "rhythm_math_dance",
-    "prompt": "Nam có 5 ếch, mẹ cho thêm 1. Có tất cả bao nhiêu?",
-    "correctAnswer": 6,
-    "options": [
-      4,
-      6,
-      5,
-      7
-    ],
-    "objectIcon": "/sprites/flower.png",
-    "objectIcon2": "",
-    "targetCount": 5,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l22-magic_sh-9",
-    "gameId": "magic_shop_math",
-    "type": "magic_shop_math",
-    "prompt": "Đếm kim cương và chọn số đúng!",
+    "id": "l22-q003",
+    "gameId": "level_22",
+    "type": "level_22",
+    "prompt": "Số nào là số chẵn?",
     "correctAnswer": 10,
     "options": [
+      19,
       10,
-      7,
-      13,
-      8
+      1,
+      15
     ],
-    "objectIcon": "/sprites/diamond.png",
+    "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
     "targetCount": 10,
     "targetCount2": 0,
@@ -475,208 +57,94 @@
     "displayPrompt": null
   },
   {
-    "id": "l22-detectiv-9",
-    "gameId": "detective_math_mystery",
-    "type": "detective_math_mystery",
-    "prompt": "số nhỏ hơn hoặc bằng 5 và là số lẻ. Đó là số mấy?",
-    "correctAnswer": 5,
-    "options": [
-      4,
-      6,
-      5,
-      2
-    ],
-    "objectIcon": "/sprites/rabbit.png",
-    "objectIcon2": "",
-    "targetCount": 5,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l22-rhythm_m-9",
-    "gameId": "rhythm_math_dance",
-    "type": "rhythm_math_dance",
-    "prompt": "13 + 2 = ?",
+    "id": "l22-q004",
+    "gameId": "level_22",
+    "type": "level_22",
+    "prompt": "Số nào là số lẻ?",
     "correctAnswer": 15,
     "options": [
-      16,
-      14,
+      20,
       15,
-      13
-    ],
-    "objectIcon": "/sprites/cat.png",
-    "objectIcon2": "",
-    "targetCount": 13,
-    "targetCount2": 2,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l22-magic_sh-10",
-    "gameId": "magic_shop_math",
-    "type": "magic_shop_math",
-    "prompt": "Số nào lớn hơn: 16 hay 18?",
-    "correctAnswer": 18,
-    "options": [
-      17,
-      16,
-      18,
-      19
-    ],
-    "objectIcon": "/sprites/frog.png",
-    "objectIcon2": "",
-    "targetCount": 16,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l22-detectiv-10",
-    "gameId": "detective_math_mystery",
-    "type": "detective_math_mystery",
-    "prompt": "Chọn số đúng trong 4 thẻ số!",
-    "correctAnswer": 7,
-    "options": [
-      7,
       6,
-      8,
       4
     ],
-    "objectIcon": "/sprites/diamond.png",
+    "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
-    "targetCount": 7,
+    "targetCount": 15,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
   },
   {
-    "id": "l22-rhythm_m-10",
-    "gameId": "rhythm_math_dance",
-    "type": "rhythm_math_dance",
-    "prompt": "10 - 10 = ?",
-    "correctAnswer": 0,
-    "options": [
-      1,
-      0,
-      3,
-      2
-    ],
-    "objectIcon": "/sprites/rabbit.png",
-    "objectIcon2": "",
-    "targetCount": 10,
-    "targetCount2": 10,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l22-magic_sh-11",
-    "gameId": "magic_shop_math",
-    "type": "magic_shop_math",
-    "prompt": "3 + ? = 12",
-    "correctAnswer": 9,
-    "options": [
-      12,
-      6,
-      10,
-      9
-    ],
-    "objectIcon": "/sprites/carrot.png",
-    "objectIcon2": "",
-    "targetCount": 3,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l22-detectiv-11",
-    "gameId": "detective_math_mystery",
-    "type": "detective_math_mystery",
-    "prompt": "Có bao nhiêu vật? Chọn số đúng nhé!",
-    "correctAnswer": 1,
-    "options": [
-      4,
-      2,
-      3,
-      1
-    ],
-    "objectIcon": "/sprites/frog.png",
-    "objectIcon2": "",
-    "targetCount": 1,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l22-rhythm_m-11",
-    "gameId": "rhythm_math_dance",
-    "type": "rhythm_math_dance",
-    "prompt": "Đếm nấm và chọn số đúng!",
-    "correctAnswer": 1,
-    "options": [
-      1,
-      2,
-      3,
-      4
-    ],
-    "objectIcon": "/sprites/diamond.png",
-    "objectIcon2": "",
-    "targetCount": 1,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l22-magic_sh-12",
-    "gameId": "magic_shop_math",
-    "type": "magic_shop_math",
-    "prompt": "Nam có 5 dâu, mẹ cho thêm 13. Có tất cả bao nhiêu?",
-    "correctAnswer": 18,
-    "options": [
-      18,
-      19,
-      17,
-      16
-    ],
-    "objectIcon": "/sprites/strawberry.png",
-    "objectIcon2": "",
-    "targetCount": 5,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l22-detectiv-12",
-    "gameId": "detective_math_mystery",
-    "type": "detective_math_mystery",
-    "prompt": "số lớn hơn 5 và là số lẻ. Đó là số mấy?",
-    "correctAnswer": 7,
+    "id": "l22-q005",
+    "gameId": "level_22",
+    "type": "level_22",
+    "prompt": "Số nào là số chẵn?",
+    "correctAnswer": 10,
     "options": [
       9,
-      6,
-      7,
-      10
+      3,
+      10,
+      11
     ],
-    "objectIcon": "/sprites/carrot.png",
+    "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
-    "targetCount": 7,
+    "targetCount": 10,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
   },
   {
-    "id": "l22-rhythm_m-12",
-    "gameId": "rhythm_math_dance",
-    "type": "rhythm_math_dance",
-    "prompt": "Số nào lớn hơn: 19 hay 8?",
+    "id": "l22-q006",
+    "gameId": "level_22",
+    "type": "level_22",
+    "prompt": "Số nào là số lẻ?",
+    "correctAnswer": 9,
+    "options": [
+      9,
+      2,
+      16,
+      4
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 9,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l22-q007",
+    "gameId": "level_22",
+    "type": "level_22",
+    "prompt": "Số nào là số chẵn?",
+    "correctAnswer": 4,
+    "options": [
+      7,
+      19,
+      17,
+      4
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 4,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l22-q008",
+    "gameId": "level_22",
+    "type": "level_22",
+    "prompt": "Số nào là số lẻ?",
     "correctAnswer": 19,
     "options": [
-      16,
-      17,
-      20,
-      19
+      2,
+      19,
+      14,
+      4
     ],
-    "objectIcon": "/sprites/frog.png",
+    "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
     "targetCount": 19,
     "targetCount2": 0,
@@ -684,113 +152,37 @@
     "displayPrompt": null
   },
   {
-    "id": "l22-magic_sh-13",
-    "gameId": "magic_shop_math",
-    "type": "magic_shop_math",
-    "prompt": "9 + 1 = ?",
-    "correctAnswer": 10,
+    "id": "l22-q009",
+    "gameId": "level_22",
+    "type": "level_22",
+    "prompt": "Số nào là số chẵn?",
+    "correctAnswer": 8,
     "options": [
-      10,
       7,
-      8,
-      12
-    ],
-    "objectIcon": "/sprites/mushroom.png",
-    "objectIcon2": "",
-    "targetCount": 9,
-    "targetCount2": 1,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l22-detectiv-13",
-    "gameId": "detective_math_mystery",
-    "type": "detective_math_mystery",
-    "prompt": "Chọn số đúng trong 4 thẻ số!",
-    "correctAnswer": 6,
-    "options": [
       9,
-      3,
-      6,
+      11,
       8
     ],
-    "objectIcon": "/sprites/strawberry.png",
+    "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
-    "targetCount": 6,
+    "targetCount": 8,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
   },
   {
-    "id": "l22-rhythm_m-13",
-    "gameId": "rhythm_math_dance",
-    "type": "rhythm_math_dance",
-    "prompt": "14 + ? = 16",
-    "correctAnswer": 2,
+    "id": "l22-q010",
+    "gameId": "level_22",
+    "type": "level_22",
+    "prompt": "Số nào là số chẵn?",
+    "correctAnswer": 10,
     "options": [
-      3,
-      1,
-      5,
-      2
-    ],
-    "objectIcon": "/sprites/carrot.png",
-    "objectIcon2": "",
-    "targetCount": 14,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l22-magic_sh-14",
-    "gameId": "magic_shop_math",
-    "type": "magic_shop_math",
-    "prompt": "6 - 1 = ?",
-    "correctAnswer": 5,
-    "options": [
-      6,
-      5,
-      4,
-      3
-    ],
-    "objectIcon": "/sprites/fish.png",
-    "objectIcon2": "",
-    "targetCount": 6,
-    "targetCount2": 1,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l22-detectiv-14",
-    "gameId": "detective_math_mystery",
-    "type": "detective_math_mystery",
-    "prompt": "Đếm và chọn số đúng!",
-    "correctAnswer": 20,
-    "options": [
-      17,
       19,
-      18,
-      20
+      7,
+      10,
+      1
     ],
-    "objectIcon": "/sprites/mushroom.png",
-    "objectIcon2": "",
-    "targetCount": 20,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l22-rhythm_m-14",
-    "gameId": "rhythm_math_dance",
-    "type": "rhythm_math_dance",
-    "prompt": "Nam có 10 bánh, mẹ cho thêm 9. Có tất cả bao nhiêu?",
-    "correctAnswer": 19,
-    "options": [
-      21,
-      20,
-      17,
-      19
-    ],
-    "objectIcon": "/sprites/strawberry.png",
+    "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
     "targetCount": 10,
     "targetCount2": 0,
@@ -798,18 +190,113 @@
     "displayPrompt": null
   },
   {
-    "id": "l22-magic_sh-15",
-    "gameId": "magic_shop_math",
-    "type": "magic_shop_math",
-    "prompt": "Đếm bướm và chọn số đúng!",
-    "correctAnswer": 5,
+    "id": "l22-q011",
+    "gameId": "level_22",
+    "type": "level_22",
+    "prompt": "Số nào là số lẻ?",
+    "correctAnswer": 9,
     "options": [
-      7,
-      3,
+      6,
+      8,
+      12,
+      9
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 9,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l22-q012",
+    "gameId": "level_22",
+    "type": "level_22",
+    "prompt": "Số nào là số chẵn?",
+    "correctAnswer": 14,
+    "options": [
+      17,
       5,
+      13,
+      14
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 14,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l22-q013",
+    "gameId": "level_22",
+    "type": "level_22",
+    "prompt": "Số nào là số chẵn?",
+    "correctAnswer": 14,
+    "options": [
+      1,
+      14,
+      17,
+      19
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 14,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l22-q014",
+    "gameId": "level_22",
+    "type": "level_22",
+    "prompt": "Số nào là số lẻ?",
+    "correctAnswer": 19,
+    "options": [
+      20,
+      18,
+      19,
+      12
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 19,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l22-q015",
+    "gameId": "level_22",
+    "type": "level_22",
+    "prompt": "Số nào là số chẵn?",
+    "correctAnswer": 8,
+    "options": [
+      17,
+      19,
+      7,
       8
     ],
-    "objectIcon": "/sprites/butterfly.png",
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 8,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l22-q016",
+    "gameId": "level_22",
+    "type": "level_22",
+    "prompt": "Số nào là số lẻ?",
+    "correctAnswer": 5,
+    "options": [
+      5,
+      20,
+      18,
+      2
+    ],
+    "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
     "targetCount": 5,
     "targetCount2": 0,
@@ -817,18 +304,18 @@
     "displayPrompt": null
   },
   {
-    "id": "l22-detectiv-15",
-    "gameId": "detective_math_mystery",
-    "type": "detective_math_mystery",
-    "prompt": "số lớn hơn 5 và là số chẵn. Đó là số mấy?",
+    "id": "l22-q017",
+    "gameId": "level_22",
+    "type": "level_22",
+    "prompt": "Số nào là số chẵn?",
     "correctAnswer": 20,
     "options": [
-      17,
-      18,
+      5,
+      7,
       20,
-      19
+      1
     ],
-    "objectIcon": "/sprites/fish.png",
+    "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
     "targetCount": 20,
     "targetCount2": 0,
@@ -836,94 +323,94 @@
     "displayPrompt": null
   },
   {
-    "id": "l22-rhythm_m-15",
-    "gameId": "rhythm_math_dance",
-    "type": "rhythm_math_dance",
-    "prompt": "1 + 5 = ?",
-    "correctAnswer": 6,
+    "id": "l22-q018",
+    "gameId": "level_22",
+    "type": "level_22",
+    "prompt": "Số nào là số chẵn?",
+    "correctAnswer": 20,
     "options": [
-      8,
-      7,
-      6,
-      4
-    ],
-    "objectIcon": "/sprites/mushroom.png",
-    "objectIcon2": "",
-    "targetCount": 1,
-    "targetCount2": 5,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l22-magic_sh-16",
-    "gameId": "magic_shop_math",
-    "type": "magic_shop_math",
-    "prompt": "Số nào lớn hơn: 4 hay 18?",
-    "correctAnswer": 18,
-    "options": [
-      15,
-      18,
-      17,
+      5,
+      3,
+      13,
       20
     ],
-    "objectIcon": "/sprites/cupcake.png",
+    "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
-    "targetCount": 4,
+    "targetCount": 20,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
   },
   {
-    "id": "l22-detectiv-16",
-    "gameId": "detective_math_mystery",
-    "type": "detective_math_mystery",
-    "prompt": "Chọn số đúng trong 4 thẻ số!",
-    "correctAnswer": 11,
+    "id": "l22-q019",
+    "gameId": "level_22",
+    "type": "level_22",
+    "prompt": "Số nào là số chẵn?",
+    "correctAnswer": 8,
     "options": [
-      9,
-      8,
+      1,
       11,
+      8,
       13
     ],
-    "objectIcon": "/sprites/butterfly.png",
+    "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
-    "targetCount": 11,
+    "targetCount": 8,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
   },
   {
-    "id": "l22-rhythm_m-16",
-    "gameId": "rhythm_math_dance",
-    "type": "rhythm_math_dance",
-    "prompt": "9 - 6 = ?",
-    "correctAnswer": 3,
+    "id": "l22-q020",
+    "gameId": "level_22",
+    "type": "level_22",
+    "prompt": "Số nào là số lẻ?",
+    "correctAnswer": 1,
     "options": [
-      3,
-      2,
+      6,
       4,
-      0
+      1,
+      12
     ],
-    "objectIcon": "/sprites/fish.png",
+    "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
-    "targetCount": 9,
-    "targetCount2": 6,
-    "renderMode": "subtraction",
+    "targetCount": 1,
+    "targetCount2": 0,
+    "renderMode": "single",
     "displayPrompt": null
   },
   {
-    "id": "l22-magic_sh-17",
-    "gameId": "magic_shop_math",
-    "type": "magic_shop_math",
-    "prompt": "5 + ? = 7",
-    "correctAnswer": 2,
+    "id": "l22-q021",
+    "gameId": "level_22",
+    "type": "level_22",
+    "prompt": "Số nào là số chẵn?",
+    "correctAnswer": 10,
     "options": [
-      3,
-      2,
+      5,
+      11,
       1,
-      4
+      10
     ],
-    "objectIcon": "/sprites/lollipop.png",
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 10,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l22-q022",
+    "gameId": "level_22",
+    "type": "level_22",
+    "prompt": "Số nào là số lẻ?",
+    "correctAnswer": 5,
+    "options": [
+      5,
+      4,
+      2,
+      18
+    ],
+    "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
     "targetCount": 5,
     "targetCount2": 0,
@@ -931,20 +418,533 @@
     "displayPrompt": null
   },
   {
-    "id": "l22-detectiv-17",
-    "gameId": "detective_math_mystery",
-    "type": "detective_math_mystery",
-    "prompt": "Nhìn và đếm — chọn số đúng!",
-    "correctAnswer": 3,
+    "id": "l22-q023",
+    "gameId": "level_22",
+    "type": "level_22",
+    "prompt": "Số nào là số chẵn?",
+    "correctAnswer": 12,
+    "options": [
+      13,
+      12,
+      9,
+      11
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 12,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l22-q024",
+    "gameId": "level_22",
+    "type": "level_22",
+    "prompt": "Số nào là số chẵn?",
+    "correctAnswer": 18,
+    "options": [
+      7,
+      18,
+      9,
+      19
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 18,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l22-q025",
+    "gameId": "level_22",
+    "type": "level_22",
+    "prompt": "Số nào là số lẻ?",
+    "correctAnswer": 5,
+    "options": [
+      16,
+      8,
+      5,
+      2
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l22-q026",
+    "gameId": "level_22",
+    "type": "level_22",
+    "prompt": "Số nào là số chẵn?",
+    "correctAnswer": 6,
+    "options": [
+      6,
+      7,
+      5,
+      13
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 6,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l22-q027",
+    "gameId": "level_22",
+    "type": "level_22",
+    "prompt": "Số nào là số chẵn?",
+    "correctAnswer": 8,
+    "options": [
+      8,
+      5,
+      11,
+      17
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 8,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l22-q028",
+    "gameId": "level_22",
+    "type": "level_22",
+    "prompt": "Số nào là số lẻ?",
+    "correctAnswer": 5,
+    "options": [
+      2,
+      16,
+      4,
+      5
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l22-q029",
+    "gameId": "level_22",
+    "type": "level_22",
+    "prompt": "Số nào là số lẻ?",
+    "correctAnswer": 17,
+    "options": [
+      14,
+      17,
+      2,
+      4
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 17,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l22-q030",
+    "gameId": "level_22",
+    "type": "level_22",
+    "prompt": "Số nào là số lẻ?",
+    "correctAnswer": 15,
+    "options": [
+      20,
+      15,
+      4,
+      8
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 15,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l22-q031",
+    "gameId": "level_22",
+    "type": "level_22",
+    "prompt": "17 và 10, số nào lớn hơn?",
+    "correctAnswer": 17,
+    "options": [
+      15,
+      14,
+      16,
+      17
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 17,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l22-q032",
+    "gameId": "level_22",
+    "type": "level_22",
+    "prompt": "Chọn số lớn hơn trong hai số: 13 và 8.",
+    "correctAnswer": 13,
+    "options": [
+      12,
+      11,
+      10,
+      13
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 13,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l22-q033",
+    "gameId": "level_22",
+    "type": "level_22",
+    "prompt": "Số nào bé hơn: 15 hay 12?",
+    "correctAnswer": 12,
+    "options": [
+      10,
+      9,
+      11,
+      12
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 15,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l22-q034",
+    "gameId": "level_22",
+    "type": "level_22",
+    "prompt": "Chọn số lớn hơn trong hai số: 17 và 19.",
+    "correctAnswer": 19,
+    "options": [
+      18,
+      17,
+      16,
+      19
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 19,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l22-q035",
+    "gameId": "level_22",
+    "type": "level_22",
+    "prompt": "Số nào lớn hơn: 20 hay 12?",
+    "correctAnswer": 20,
+    "options": [
+      17,
+      20,
+      19,
+      18
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 20,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l22-q036",
+    "gameId": "level_22",
+    "type": "level_22",
+    "prompt": "17 và 20, số nào lớn hơn?",
+    "correctAnswer": 20,
+    "options": [
+      20,
+      18,
+      19,
+      17
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 20,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l22-q037",
+    "gameId": "level_22",
+    "type": "level_22",
+    "prompt": "Số nào lớn hơn: 4 hay 7?",
+    "correctAnswer": 7,
+    "options": [
+      7,
+      5,
+      6,
+      4
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 7,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l22-q038",
+    "gameId": "level_22",
+    "type": "level_22",
+    "prompt": "Số nào bé hơn: 11 hay 4?",
+    "correctAnswer": 4,
+    "options": [
+      4,
+      1,
+      3,
+      2
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 11,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l22-q039",
+    "gameId": "level_22",
+    "type": "level_22",
+    "prompt": "Số nào lớn hơn: 2 hay 4?",
+    "correctAnswer": 4,
     "options": [
       1,
-      5,
+      3,
       4,
-      3
+      2
     ],
-    "objectIcon": "/sprites/cupcake.png",
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 4,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l22-q040",
+    "gameId": "level_22",
+    "type": "level_22",
+    "prompt": "Số nào lớn hơn: 1 hay 4?",
+    "correctAnswer": 4,
+    "options": [
+      2,
+      3,
+      4,
+      1
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 4,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l22-q041",
+    "gameId": "level_22",
+    "type": "level_22",
+    "prompt": "Điền số còn thiếu: 11, 12, 13, ?",
+    "correctAnswer": 14,
+    "options": [
+      12,
+      13,
+      14,
+      11
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 14,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l22-q042",
+    "gameId": "level_22",
+    "type": "level_22",
+    "prompt": "Điền số còn thiếu: 9, 10, ?, 12",
+    "correctAnswer": 11,
+    "options": [
+      11,
+      8,
+      9,
+      10
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 11,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l22-q043",
+    "gameId": "level_22",
+    "type": "level_22",
+    "prompt": "Điền số còn thiếu: 15, 16, ?, 18",
+    "correctAnswer": 17,
+    "options": [
+      14,
+      15,
+      16,
+      17
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 17,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l22-q044",
+    "gameId": "level_22",
+    "type": "level_22",
+    "prompt": "Điền số còn thiếu: 2, ?, 4, 5",
+    "correctAnswer": 3,
+    "options": [
+      3,
+      2,
+      4,
+      1
+    ],
+    "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
     "targetCount": 3,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l22-q045",
+    "gameId": "level_22",
+    "type": "level_22",
+    "prompt": "Điền số còn thiếu: 1, ?, 3, 4",
+    "correctAnswer": 2,
+    "options": [
+      3,
+      2,
+      0,
+      1
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 2,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l22-q046",
+    "gameId": "level_22",
+    "type": "level_22",
+    "prompt": "Điền số còn thiếu: 17, ?, 19",
+    "correctAnswer": 18,
+    "options": [
+      17,
+      19,
+      18,
+      16
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 18,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l22-q047",
+    "gameId": "level_22",
+    "type": "level_22",
+    "prompt": "Điền số còn thiếu: 13, ?, 15, 16, 17",
+    "correctAnswer": 14,
+    "options": [
+      13,
+      15,
+      14,
+      12
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 14,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l22-q048",
+    "gameId": "level_22",
+    "type": "level_22",
+    "prompt": "Điền số còn thiếu: 1, 2, ?",
+    "correctAnswer": 3,
+    "options": [
+      3,
+      2,
+      0,
+      1
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 3,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l22-q049",
+    "gameId": "level_22",
+    "type": "level_22",
+    "prompt": "Điền số còn thiếu: 4, 5, 6, ?",
+    "correctAnswer": 7,
+    "options": [
+      5,
+      7,
+      6,
+      4
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 7,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l22-q050",
+    "gameId": "level_22",
+    "type": "level_22",
+    "prompt": "Điền số còn thiếu: 12, 13, ?",
+    "correctAnswer": 14,
+    "options": [
+      14,
+      11,
+      13,
+      12
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 14,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null

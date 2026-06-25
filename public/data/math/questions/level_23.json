@@ -1,264 +1,93 @@
 [
   {
-    "id": "l23-math_coo-1",
-    "gameId": "math_cooking_lab",
-    "type": "math_cooking_lab",
-    "prompt": "12 + 7 = ?",
-    "correctAnswer": 19,
+    "id": "l23-q001",
+    "gameId": "level_23",
+    "type": "level_23",
+    "prompt": "17 + ? = 18",
+    "correctAnswer": 1,
     "options": [
-      20,
-      17,
-      21,
-      19
+      1,
+      2,
+      0,
+      3
     ],
-    "objectIcon": "/sprites/apple.png",
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 18,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l23-q002",
+    "gameId": "level_23",
+    "type": "level_23",
+    "prompt": "11 + ? = 12",
+    "correctAnswer": 1,
+    "options": [
+      3,
+      1,
+      0,
+      2
+    ],
+    "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
     "targetCount": 12,
-    "targetCount2": 7,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l23-space_re-1",
-    "gameId": "space_rescue_math",
-    "type": "space_rescue_math",
-    "prompt": "Nam có 10 sao, mẹ cho thêm 5. Có tất cả bao nhiêu?",
-    "correctAnswer": 15,
-    "options": [
-      17,
-      13,
-      18,
-      15
-    ],
-    "objectIcon": "/sprites/crown.png",
-    "objectIcon2": "",
-    "targetCount": 10,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
   },
   {
-    "id": "l23-puzzle_r-1",
-    "gameId": "puzzle_room_math",
-    "type": "puzzle_room_math",
-    "prompt": "10 + 1 = ?",
-    "correctAnswer": 11,
+    "id": "l23-q003",
+    "gameId": "level_23",
+    "type": "level_23",
+    "prompt": "18 + ? = 19",
+    "correctAnswer": 1,
     "options": [
-      11,
-      9,
-      13,
-      10
-    ],
-    "objectIcon": "/sprites/lollipop.png",
-    "objectIcon2": "",
-    "targetCount": 10,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l23-math_coo-2",
-    "gameId": "math_cooking_lab",
-    "type": "math_cooking_lab",
-    "prompt": "3 - 3 = ?",
-    "correctAnswer": 0,
-    "options": [
-      0,
+      1,
       2,
+      3,
+      0
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 19,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l23-q004",
+    "gameId": "level_23",
+    "type": "level_23",
+    "prompt": "7 + ? = 11",
+    "correctAnswer": 4,
+    "options": [
+      1,
+      4,
+      3,
+      2
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 11,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l23-q005",
+    "gameId": "level_23",
+    "type": "level_23",
+    "prompt": "14 + ? = 15",
+    "correctAnswer": 1,
+    "options": [
+      2,
+      0,
       1,
       3
     ],
-    "objectIcon": "/sprites/star.png",
-    "objectIcon2": "",
-    "targetCount": 3,
-    "targetCount2": 3,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l23-space_re-2",
-    "gameId": "space_rescue_math",
-    "type": "space_rescue_math",
-    "prompt": "5 + 3 = ?",
-    "correctAnswer": 8,
-    "options": [
-      10,
-      6,
-      8,
-      9
-    ],
-    "objectIcon": "/sprites/apple.png",
-    "objectIcon2": "",
-    "targetCount": 5,
-    "targetCount2": 3,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l23-puzzle_r-2",
-    "gameId": "puzzle_room_math",
-    "type": "puzzle_room_math",
-    "prompt": "17 - 13 = ?",
-    "correctAnswer": 4,
-    "options": [
-      4,
-      6,
-      2,
-      7
-    ],
-    "objectIcon": "/sprites/crown.png",
-    "objectIcon2": "",
-    "targetCount": 13,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l23-math_coo-3",
-    "gameId": "math_cooking_lab",
-    "type": "math_cooking_lab",
-    "prompt": "Đếm kẹo và chọn số đúng!",
-    "correctAnswer": 9,
-    "options": [
-      11,
-      12,
-      9,
-      10
-    ],
-    "objectIcon": "/sprites/candy.png",
-    "objectIcon2": "",
-    "targetCount": 9,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l23-space_re-3",
-    "gameId": "space_rescue_math",
-    "type": "space_rescue_math",
-    "prompt": "12 - 4 = ?",
-    "correctAnswer": 8,
-    "options": [
-      7,
-      11,
-      6,
-      8
-    ],
-    "objectIcon": "/sprites/star.png",
-    "objectIcon2": "",
-    "targetCount": 12,
-    "targetCount2": 4,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l23-puzzle_r-3",
-    "gameId": "puzzle_room_math",
-    "type": "puzzle_room_math",
-    "prompt": "Số nào cộng với 9 bằng 18?",
-    "correctAnswer": 9,
-    "options": [
-      9,
-      8,
-      11,
-      6
-    ],
-    "objectIcon": "/sprites/apple.png",
-    "objectIcon2": "",
-    "targetCount": 2,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l23-math_coo-4",
-    "gameId": "math_cooking_lab",
-    "type": "math_cooking_lab",
-    "prompt": "Số nào lớn hơn: 7 hay 1?",
-    "correctAnswer": 7,
-    "options": [
-      7,
-      4,
-      9,
-      10
-    ],
-    "objectIcon": "/sprites/ball.png",
-    "objectIcon2": "",
-    "targetCount": 7,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l23-space_re-4",
-    "gameId": "space_rescue_math",
-    "type": "space_rescue_math",
-    "prompt": "Đếm xu và chọn số đúng!",
-    "correctAnswer": 2,
-    "options": [
-      2,
-      1,
-      3,
-      4
-    ],
-    "objectIcon": "/sprites/candy.png",
-    "objectIcon2": "",
-    "targetCount": 2,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l23-puzzle_r-4",
-    "gameId": "puzzle_room_math",
-    "type": "puzzle_room_math",
-    "prompt": "14 + 5 = ?",
-    "correctAnswer": 19,
-    "options": [
-      19,
-      21,
-      22,
-      16
-    ],
-    "objectIcon": "/sprites/star.png",
-    "objectIcon2": "",
-    "targetCount": 14,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l23-math_coo-5",
-    "gameId": "math_cooking_lab",
-    "type": "math_cooking_lab",
-    "prompt": "1 + ? = 6",
-    "correctAnswer": 5,
-    "options": [
-      4,
-      3,
-      5,
-      8
-    ],
-    "objectIcon": "/sprites/coin.png",
-    "objectIcon2": "",
-    "targetCount": 1,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l23-space_re-5",
-    "gameId": "space_rescue_math",
-    "type": "space_rescue_math",
-    "prompt": "Số nào lớn hơn: 15 hay 8?",
-    "correctAnswer": 15,
-    "options": [
-      18,
-      12,
-      15,
-      17
-    ],
-    "objectIcon": "/sprites/ball.png",
+    "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
     "targetCount": 15,
     "targetCount2": 0,
@@ -266,246 +95,37 @@
     "displayPrompt": null
   },
   {
-    "id": "l23-puzzle_r-5",
-    "gameId": "puzzle_room_math",
-    "type": "puzzle_room_math",
-    "prompt": "11 - 2 = ?",
-    "correctAnswer": 9,
+    "id": "l23-q006",
+    "gameId": "level_23",
+    "type": "level_23",
+    "prompt": "10 + ? = 17",
+    "correctAnswer": 7,
     "options": [
-      10,
-      9,
-      11,
-      12
+      6,
+      4,
+      5,
+      7
     ],
-    "objectIcon": "/sprites/candy.png",
+    "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
-    "targetCount": 2,
+    "targetCount": 17,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
   },
   {
-    "id": "l23-math_coo-6",
-    "gameId": "math_cooking_lab",
-    "type": "math_cooking_lab",
-    "prompt": "Nam có 12 hoa, mẹ cho thêm 6. Có tất cả bao nhiêu?",
-    "correctAnswer": 18,
-    "options": [
-      21,
-      15,
-      18,
-      19
-    ],
-    "objectIcon": "/sprites/flower.png",
-    "objectIcon2": "",
-    "targetCount": 12,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l23-space_re-6",
-    "gameId": "space_rescue_math",
-    "type": "space_rescue_math",
-    "prompt": "13 + ? = 18",
+    "id": "l23-q007",
+    "gameId": "level_23",
+    "type": "level_23",
+    "prompt": "1 + ? = 6",
     "correctAnswer": 5,
     "options": [
-      2,
-      8,
-      5,
-      3
-    ],
-    "objectIcon": "/sprites/coin.png",
-    "objectIcon2": "",
-    "targetCount": 13,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l23-puzzle_r-6",
-    "gameId": "puzzle_room_math",
-    "type": "puzzle_room_math",
-    "prompt": "Số nào cộng với 16 bằng 32?",
-    "correctAnswer": 16,
-    "options": [
-      17,
-      19,
-      16,
-      13
-    ],
-    "objectIcon": "/sprites/ball.png",
-    "objectIcon2": "",
-    "targetCount": 11,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l23-math_coo-7",
-    "gameId": "math_cooking_lab",
-    "type": "math_cooking_lab",
-    "prompt": "5 + 7 = ?",
-    "correctAnswer": 12,
-    "options": [
-      15,
-      11,
-      12,
-      10
-    ],
-    "objectIcon": "/sprites/cat.png",
-    "objectIcon2": "",
-    "targetCount": 5,
-    "targetCount2": 7,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l23-space_re-7",
-    "gameId": "space_rescue_math",
-    "type": "space_rescue_math",
-    "prompt": "Nam có 1 thỏ, mẹ cho thêm 7. Có tất cả bao nhiêu?",
-    "correctAnswer": 8,
-    "options": [
-      6,
-      8,
-      10,
-      5
-    ],
-    "objectIcon": "/sprites/flower.png",
-    "objectIcon2": "",
-    "targetCount": 1,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l23-puzzle_r-7",
-    "gameId": "puzzle_room_math",
-    "type": "puzzle_room_math",
-    "prompt": "13 + 6 = ?",
-    "correctAnswer": 19,
-    "options": [
-      17,
-      19,
-      18,
-      16
-    ],
-    "objectIcon": "/sprites/coin.png",
-    "objectIcon2": "",
-    "targetCount": 13,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l23-math_coo-8",
-    "gameId": "math_cooking_lab",
-    "type": "math_cooking_lab",
-    "prompt": "16 - 6 = ?",
-    "correctAnswer": 10,
-    "options": [
-      8,
-      9,
-      11,
-      10
-    ],
-    "objectIcon": "/sprites/rabbit.png",
-    "objectIcon2": "",
-    "targetCount": 16,
-    "targetCount2": 6,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l23-space_re-8",
-    "gameId": "space_rescue_math",
-    "type": "space_rescue_math",
-    "prompt": "12 + 3 = ?",
-    "correctAnswer": 15,
-    "options": [
-      12,
-      18,
-      14,
-      15
-    ],
-    "objectIcon": "/sprites/cat.png",
-    "objectIcon2": "",
-    "targetCount": 12,
-    "targetCount2": 3,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l23-puzzle_r-8",
-    "gameId": "puzzle_room_math",
-    "type": "puzzle_room_math",
-    "prompt": "13 - 11 = ?",
-    "correctAnswer": 2,
-    "options": [
       3,
-      1,
-      2,
-      4
-    ],
-    "objectIcon": "/sprites/flower.png",
-    "objectIcon2": "",
-    "targetCount": 11,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l23-math_coo-9",
-    "gameId": "math_cooking_lab",
-    "type": "math_cooking_lab",
-    "prompt": "Đếm kim cương và chọn số đúng!",
-    "correctAnswer": 3,
-    "options": [
-      1,
-      4,
       5,
-      3
-    ],
-    "objectIcon": "/sprites/diamond.png",
-    "objectIcon2": "",
-    "targetCount": 3,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l23-space_re-9",
-    "gameId": "space_rescue_math",
-    "type": "space_rescue_math",
-    "prompt": "8 - 4 = ?",
-    "correctAnswer": 4,
-    "options": [
-      6,
       4,
-      5,
-      3
+      2
     ],
-    "objectIcon": "/sprites/rabbit.png",
-    "objectIcon2": "",
-    "targetCount": 8,
-    "targetCount2": 4,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l23-puzzle_r-9",
-    "gameId": "puzzle_room_math",
-    "type": "puzzle_room_math",
-    "prompt": "Số nào cộng với 17 bằng 34?",
-    "correctAnswer": 17,
-    "options": [
-      18,
-      14,
-      17,
-      19
-    ],
-    "objectIcon": "/sprites/cat.png",
+    "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
     "targetCount": 6,
     "targetCount2": 0,
@@ -513,18 +133,132 @@
     "displayPrompt": null
   },
   {
-    "id": "l23-math_coo-10",
-    "gameId": "math_cooking_lab",
-    "type": "math_cooking_lab",
-    "prompt": "Số nào lớn hơn: 13 hay 7?",
-    "correctAnswer": 13,
+    "id": "l23-q008",
+    "gameId": "level_23",
+    "type": "level_23",
+    "prompt": "10 + ? = 17",
+    "correctAnswer": 7,
     "options": [
-      13,
-      10,
-      15,
-      11
+      5,
+      6,
+      4,
+      7
     ],
-    "objectIcon": "/sprites/frog.png",
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 17,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l23-q009",
+    "gameId": "level_23",
+    "type": "level_23",
+    "prompt": "14 + ? = 16",
+    "correctAnswer": 2,
+    "options": [
+      3,
+      1,
+      2,
+      0
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 16,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l23-q010",
+    "gameId": "level_23",
+    "type": "level_23",
+    "prompt": "10 + ? = 12",
+    "correctAnswer": 2,
+    "options": [
+      1,
+      2,
+      0,
+      3
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 12,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l23-q011",
+    "gameId": "level_23",
+    "type": "level_23",
+    "prompt": "5 + ? = 15",
+    "correctAnswer": 10,
+    "options": [
+      9,
+      8,
+      7,
+      10
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 15,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l23-q012",
+    "gameId": "level_23",
+    "type": "level_23",
+    "prompt": "10 + ? = 15",
+    "correctAnswer": 5,
+    "options": [
+      2,
+      4,
+      3,
+      5
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 15,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l23-q013",
+    "gameId": "level_23",
+    "type": "level_23",
+    "prompt": "8 + ? = 10",
+    "correctAnswer": 2,
+    "options": [
+      0,
+      3,
+      2,
+      1
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 10,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l23-q014",
+    "gameId": "level_23",
+    "type": "level_23",
+    "prompt": "7 + ? = 13",
+    "correctAnswer": 6,
+    "options": [
+      3,
+      5,
+      6,
+      4
+    ],
+    "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
     "targetCount": 13,
     "targetCount2": 0,
@@ -532,132 +266,18 @@
     "displayPrompt": null
   },
   {
-    "id": "l23-space_re-10",
-    "gameId": "space_rescue_math",
-    "type": "space_rescue_math",
-    "prompt": "Đếm cà rốt và chọn số đúng!",
-    "correctAnswer": 9,
+    "id": "l23-q015",
+    "gameId": "level_23",
+    "type": "level_23",
+    "prompt": "5 + ? = 12",
+    "correctAnswer": 7,
     "options": [
-      10,
-      9,
-      6,
-      7
-    ],
-    "objectIcon": "/sprites/diamond.png",
-    "objectIcon2": "",
-    "targetCount": 9,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l23-puzzle_r-10",
-    "gameId": "puzzle_room_math",
-    "type": "puzzle_room_math",
-    "prompt": "1 + 10 = ?",
-    "correctAnswer": 11,
-    "options": [
-      13,
-      10,
-      14,
-      11
-    ],
-    "objectIcon": "/sprites/rabbit.png",
-    "objectIcon2": "",
-    "targetCount": 1,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l23-math_coo-11",
-    "gameId": "math_cooking_lab",
-    "type": "math_cooking_lab",
-    "prompt": "3 + ? = 6",
-    "correctAnswer": 3,
-    "options": [
-      6,
-      5,
-      3,
-      4
-    ],
-    "objectIcon": "/sprites/carrot.png",
-    "objectIcon2": "",
-    "targetCount": 3,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l23-space_re-11",
-    "gameId": "space_rescue_math",
-    "type": "space_rescue_math",
-    "prompt": "Số nào lớn hơn: 12 hay 5?",
-    "correctAnswer": 12,
-    "options": [
-      14,
-      11,
-      12,
-      15
-    ],
-    "objectIcon": "/sprites/frog.png",
-    "objectIcon2": "",
-    "targetCount": 12,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l23-puzzle_r-11",
-    "gameId": "puzzle_room_math",
-    "type": "puzzle_room_math",
-    "prompt": "7 - 1 = ?",
-    "correctAnswer": 6,
-    "options": [
-      8,
-      5,
-      3,
-      6
-    ],
-    "objectIcon": "/sprites/diamond.png",
-    "objectIcon2": "",
-    "targetCount": 1,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l23-math_coo-12",
-    "gameId": "math_cooking_lab",
-    "type": "math_cooking_lab",
-    "prompt": "Nam có 7 dâu, mẹ cho thêm 4. Có tất cả bao nhiêu?",
-    "correctAnswer": 11,
-    "options": [
-      11,
-      13,
-      8,
-      14
-    ],
-    "objectIcon": "/sprites/strawberry.png",
-    "objectIcon2": "",
-    "targetCount": 7,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l23-space_re-12",
-    "gameId": "space_rescue_math",
-    "type": "space_rescue_math",
-    "prompt": "12 + ? = 15",
-    "correctAnswer": 3,
-    "options": [
+      7,
       4,
       5,
-      3,
-      1
+      6
     ],
-    "objectIcon": "/sprites/carrot.png",
+    "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
     "targetCount": 12,
     "targetCount2": 0,
@@ -665,151 +285,56 @@
     "displayPrompt": null
   },
   {
-    "id": "l23-puzzle_r-12",
-    "gameId": "puzzle_room_math",
-    "type": "puzzle_room_math",
-    "prompt": "Số nào cộng với 18 bằng 36?",
-    "correctAnswer": 18,
+    "id": "l23-q016",
+    "gameId": "level_23",
+    "type": "level_23",
+    "prompt": "1 + ? = 10",
+    "correctAnswer": 9,
     "options": [
-      16,
-      18,
-      21,
-      20
+      9,
+      8,
+      7,
+      6
     ],
-    "objectIcon": "/sprites/frog.png",
+    "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
-    "targetCount": 3,
+    "targetCount": 10,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
   },
   {
-    "id": "l23-math_coo-13",
-    "gameId": "math_cooking_lab",
-    "type": "math_cooking_lab",
-    "prompt": "1 + 11 = ?",
+    "id": "l23-q017",
+    "gameId": "level_23",
+    "type": "level_23",
+    "prompt": "7 + ? = 19",
     "correctAnswer": 12,
     "options": [
-      14,
-      15,
+      11,
       10,
+      9,
       12
     ],
-    "objectIcon": "/sprites/mushroom.png",
+    "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
-    "targetCount": 1,
-    "targetCount2": 11,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l23-space_re-13",
-    "gameId": "space_rescue_math",
-    "type": "space_rescue_math",
-    "prompt": "Nam có 7 cá, mẹ cho thêm 13. Có tất cả bao nhiêu?",
-    "correctAnswer": 20,
-    "options": [
-      17,
-      20,
-      22,
-      23
-    ],
-    "objectIcon": "/sprites/strawberry.png",
-    "objectIcon2": "",
-    "targetCount": 7,
+    "targetCount": 19,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
   },
   {
-    "id": "l23-puzzle_r-13",
-    "gameId": "puzzle_room_math",
-    "type": "puzzle_room_math",
-    "prompt": "1 + 19 = ?",
-    "correctAnswer": 20,
-    "options": [
-      20,
-      19,
-      18,
-      21
-    ],
-    "objectIcon": "/sprites/carrot.png",
-    "objectIcon2": "",
-    "targetCount": 1,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l23-math_coo-14",
-    "gameId": "math_cooking_lab",
-    "type": "math_cooking_lab",
-    "prompt": "3 - 2 = ?",
-    "correctAnswer": 1,
+    "id": "l23-q018",
+    "gameId": "level_23",
+    "type": "level_23",
+    "prompt": "4 + ? = 7",
+    "correctAnswer": 3,
     "options": [
       0,
       1,
       2,
       3
     ],
-    "objectIcon": "/sprites/fish.png",
-    "objectIcon2": "",
-    "targetCount": 3,
-    "targetCount2": 2,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l23-space_re-14",
-    "gameId": "space_rescue_math",
-    "type": "space_rescue_math",
-    "prompt": "3 + 13 = ?",
-    "correctAnswer": 16,
-    "options": [
-      17,
-      16,
-      13,
-      15
-    ],
-    "objectIcon": "/sprites/mushroom.png",
-    "objectIcon2": "",
-    "targetCount": 3,
-    "targetCount2": 13,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l23-puzzle_r-14",
-    "gameId": "puzzle_room_math",
-    "type": "puzzle_room_math",
-    "prompt": "20 - 12 = ?",
-    "correctAnswer": 8,
-    "options": [
-      8,
-      6,
-      11,
-      9
-    ],
-    "objectIcon": "/sprites/strawberry.png",
-    "objectIcon2": "",
-    "targetCount": 12,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l23-math_coo-15",
-    "gameId": "math_cooking_lab",
-    "type": "math_cooking_lab",
-    "prompt": "Đếm bướm và chọn số đúng!",
-    "correctAnswer": 7,
-    "options": [
-      7,
-      10,
-      8,
-      5
-    ],
-    "objectIcon": "/sprites/butterfly.png",
+    "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
     "targetCount": 7,
     "targetCount2": 0,
@@ -817,75 +342,18 @@
     "displayPrompt": null
   },
   {
-    "id": "l23-space_re-15",
-    "gameId": "space_rescue_math",
-    "type": "space_rescue_math",
-    "prompt": "17 - 1 = ?",
-    "correctAnswer": 16,
+    "id": "l23-q019",
+    "gameId": "level_23",
+    "type": "level_23",
+    "prompt": "7 + ? = 9",
+    "correctAnswer": 2,
     "options": [
-      17,
-      16,
-      14,
-      13
+      3,
+      1,
+      2,
+      0
     ],
-    "objectIcon": "/sprites/fish.png",
-    "objectIcon2": "",
-    "targetCount": 17,
-    "targetCount2": 1,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l23-puzzle_r-15",
-    "gameId": "puzzle_room_math",
-    "type": "puzzle_room_math",
-    "prompt": "Số nào cộng với 13 bằng 26?",
-    "correctAnswer": 13,
-    "options": [
-      13,
-      10,
-      16,
-      12
-    ],
-    "objectIcon": "/sprites/mushroom.png",
-    "objectIcon2": "",
-    "targetCount": 7,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l23-math_coo-16",
-    "gameId": "math_cooking_lab",
-    "type": "math_cooking_lab",
-    "prompt": "Số nào lớn hơn: 4 hay 10?",
-    "correctAnswer": 10,
-    "options": [
-      10,
-      9,
-      11,
-      13
-    ],
-    "objectIcon": "/sprites/cupcake.png",
-    "objectIcon2": "",
-    "targetCount": 4,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l23-space_re-16",
-    "gameId": "space_rescue_math",
-    "type": "space_rescue_math",
-    "prompt": "Đếm táo và chọn số đúng!",
-    "correctAnswer": 9,
-    "options": [
-      12,
-      7,
-      10,
-      9
-    ],
-    "objectIcon": "/sprites/butterfly.png",
+    "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
     "targetCount": 9,
     "targetCount2": 0,
@@ -893,37 +361,75 @@
     "displayPrompt": null
   },
   {
-    "id": "l23-puzzle_r-16",
-    "gameId": "puzzle_room_math",
-    "type": "puzzle_room_math",
-    "prompt": "12 + 1 = ?",
-    "correctAnswer": 13,
+    "id": "l23-q020",
+    "gameId": "level_23",
+    "type": "level_23",
+    "prompt": "6 + ? = 16",
+    "correctAnswer": 10,
     "options": [
-      14,
-      13,
       10,
-      15
+      8,
+      9,
+      7
     ],
-    "objectIcon": "/sprites/fish.png",
+    "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
-    "targetCount": 12,
+    "targetCount": 16,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
   },
   {
-    "id": "l23-math_coo-17",
-    "gameId": "math_cooking_lab",
-    "type": "math_cooking_lab",
-    "prompt": "5 + ? = 16",
-    "correctAnswer": 11,
+    "id": "l23-q021",
+    "gameId": "level_23",
+    "type": "level_23",
+    "prompt": "13 + ? = 19",
+    "correctAnswer": 6,
     "options": [
-      11,
-      13,
-      12,
-      10
+      6,
+      4,
+      3,
+      5
     ],
-    "objectIcon": "/sprites/lollipop.png",
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 19,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l23-q022",
+    "gameId": "level_23",
+    "type": "level_23",
+    "prompt": "8 + ? = 17",
+    "correctAnswer": 9,
+    "options": [
+      8,
+      6,
+      9,
+      7
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 17,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l23-q023",
+    "gameId": "level_23",
+    "type": "level_23",
+    "prompt": "2 + ? = 5",
+    "correctAnswer": 3,
+    "options": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
     "targetCount": 5,
     "targetCount2": 0,
@@ -931,20 +437,514 @@
     "displayPrompt": null
   },
   {
-    "id": "l23-space_re-17",
-    "gameId": "space_rescue_math",
-    "type": "space_rescue_math",
-    "prompt": "Số nào lớn hơn: 20 hay 16?",
-    "correctAnswer": 20,
+    "id": "l23-q024",
+    "gameId": "level_23",
+    "type": "level_23",
+    "prompt": "11 + ? = 15",
+    "correctAnswer": 4,
     "options": [
-      17,
-      20,
-      19,
-      18
+      3,
+      2,
+      4,
+      1
     ],
-    "objectIcon": "/sprites/cupcake.png",
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 15,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l23-q025",
+    "gameId": "level_23",
+    "type": "level_23",
+    "prompt": "7 + ? = 13",
+    "correctAnswer": 6,
+    "options": [
+      5,
+      3,
+      4,
+      6
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 13,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l23-q026",
+    "gameId": "level_23",
+    "type": "level_23",
+    "prompt": "9 - ? = 1",
+    "correctAnswer": 8,
+    "options": [
+      0,
+      2,
+      8,
+      3
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 9,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l23-q027",
+    "gameId": "level_23",
+    "type": "level_23",
+    "prompt": "20 - ? = 18",
+    "correctAnswer": 2,
+    "options": [
+      15,
+      17,
+      16,
+      2
+    ],
+    "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
     "targetCount": 20,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l23-q028",
+    "gameId": "level_23",
+    "type": "level_23",
+    "prompt": "10 - ? = 3",
+    "correctAnswer": 7,
+    "options": [
+      1,
+      2,
+      0,
+      7
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 10,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l23-q029",
+    "gameId": "level_23",
+    "type": "level_23",
+    "prompt": "17 - ? = 6",
+    "correctAnswer": 11,
+    "options": [
+      11,
+      5,
+      4,
+      3
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 17,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l23-q030",
+    "gameId": "level_23",
+    "type": "level_23",
+    "prompt": "5 - ? = 4",
+    "correctAnswer": 1,
+    "options": [
+      1,
+      1,
+      3,
+      2
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l23-q031",
+    "gameId": "level_23",
+    "type": "level_23",
+    "prompt": "17 - ? = 2",
+    "correctAnswer": 15,
+    "options": [
+      0,
+      15,
+      3,
+      1
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 17,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l23-q032",
+    "gameId": "level_23",
+    "type": "level_23",
+    "prompt": "17 - ? = 16",
+    "correctAnswer": 1,
+    "options": [
+      1,
+      13,
+      14,
+      15
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 17,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l23-q033",
+    "gameId": "level_23",
+    "type": "level_23",
+    "prompt": "20 - ? = 6",
+    "correctAnswer": 14,
+    "options": [
+      5,
+      4,
+      14,
+      3
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 20,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l23-q034",
+    "gameId": "level_23",
+    "type": "level_23",
+    "prompt": "20 - ? = 6",
+    "correctAnswer": 14,
+    "options": [
+      14,
+      4,
+      3,
+      5
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 20,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l23-q035",
+    "gameId": "level_23",
+    "type": "level_23",
+    "prompt": "2 - ? = 1",
+    "correctAnswer": 1,
+    "options": [
+      1,
+      3,
+      0,
+      2
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 2,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l23-q036",
+    "gameId": "level_23",
+    "type": "level_23",
+    "prompt": "2 - ? = 1",
+    "correctAnswer": 1,
+    "options": [
+      3,
+      0,
+      1,
+      2
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 2,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l23-q037",
+    "gameId": "level_23",
+    "type": "level_23",
+    "prompt": "6 - ? = 2",
+    "correctAnswer": 4,
+    "options": [
+      4,
+      0,
+      3,
+      1
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 6,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l23-q038",
+    "gameId": "level_23",
+    "type": "level_23",
+    "prompt": "4 - ? = 1",
+    "correctAnswer": 3,
+    "options": [
+      3,
+      2,
+      0,
+      3
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 4,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l23-q039",
+    "gameId": "level_23",
+    "type": "level_23",
+    "prompt": "16 - ? = 4",
+    "correctAnswer": 12,
+    "options": [
+      2,
+      3,
+      1,
+      12
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 16,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l23-q040",
+    "gameId": "level_23",
+    "type": "level_23",
+    "prompt": "8 - ? = 4",
+    "correctAnswer": 4,
+    "options": [
+      2,
+      1,
+      3,
+      4
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 8,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l23-q041",
+    "gameId": "level_23",
+    "type": "level_23",
+    "prompt": "16 - ? = 8",
+    "correctAnswer": 8,
+    "options": [
+      5,
+      6,
+      8,
+      7
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 16,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l23-q042",
+    "gameId": "level_23",
+    "type": "level_23",
+    "prompt": "18 - ? = 17",
+    "correctAnswer": 1,
+    "options": [
+      14,
+      15,
+      16,
+      1
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 18,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l23-q043",
+    "gameId": "level_23",
+    "type": "level_23",
+    "prompt": "8 - ? = 5",
+    "correctAnswer": 3,
+    "options": [
+      2,
+      4,
+      3,
+      3
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 8,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l23-q044",
+    "gameId": "level_23",
+    "type": "level_23",
+    "prompt": "6 - ? = 5",
+    "correctAnswer": 1,
+    "options": [
+      2,
+      4,
+      1,
+      3
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 6,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l23-q045",
+    "gameId": "level_23",
+    "type": "level_23",
+    "prompt": "11 - ? = 4",
+    "correctAnswer": 7,
+    "options": [
+      1,
+      2,
+      3,
+      7
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 11,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l23-q046",
+    "gameId": "level_23",
+    "type": "level_23",
+    "prompt": "17 - ? = 16",
+    "correctAnswer": 1,
+    "options": [
+      13,
+      15,
+      14,
+      1
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 17,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l23-q047",
+    "gameId": "level_23",
+    "type": "level_23",
+    "prompt": "13 - ? = 10",
+    "correctAnswer": 3,
+    "options": [
+      8,
+      7,
+      3,
+      9
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 13,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l23-q048",
+    "gameId": "level_23",
+    "type": "level_23",
+    "prompt": "10 - ? = 5",
+    "correctAnswer": 5,
+    "options": [
+      2,
+      5,
+      4,
+      3
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 10,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l23-q049",
+    "gameId": "level_23",
+    "type": "level_23",
+    "prompt": "7 - ? = 5",
+    "correctAnswer": 2,
+    "options": [
+      2,
+      4,
+      3,
+      2
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 7,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l23-q050",
+    "gameId": "level_23",
+    "type": "level_23",
+    "prompt": "18 - ? = 16",
+    "correctAnswer": 2,
+    "options": [
+      13,
+      2,
+      15,
+      14
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 18,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null

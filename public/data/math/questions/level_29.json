@@ -1,952 +1,952 @@
 [
- {
-  "id": "l29-gen_ocea-1",
-  "gameId": "gen_ocean_reef_math",
-  "type": "gen_ocean_reef_math",
-  "prompt": "Đếm táo và chọn số đúng!",
-  "correctAnswer": 3,
-  "options": [
-   5,
-   2,
-   1,
-   3
-  ],
-  "objectIcon": "/sprites/apple.png",
-  "objectIcon2": "",
-  "targetCount": 3,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l29-gen_dino-1",
-  "gameId": "gen_dinosaur_valley_math",
-  "type": "gen_dinosaur_valley_math",
-  "prompt": "Đếm sao và chọn số đúng!",
-  "correctAnswer": 10,
-  "options": [
-   7,
-   10,
-   11,
-   13
-  ],
-  "objectIcon": "/sprites/crown.png",
-  "objectIcon2": "",
-  "targetCount": 10,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l29-gen_fair-1",
-  "gameId": "gen_fairy_forest_quest",
-  "type": "gen_fairy_forest_quest",
-  "prompt": "Đếm kẹo và chọn số đúng!",
-  "correctAnswer": 10,
-  "options": [
-   8,
-   10,
-   7,
-   13
-  ],
-  "objectIcon": "/sprites/lollipop.png",
-  "objectIcon2": "",
-  "targetCount": 10,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l29-gen_ocea-2",
-  "gameId": "gen_ocean_reef_math",
-  "type": "gen_ocean_reef_math",
-  "prompt": "Đếm sao và chọn số đúng!",
-  "correctAnswer": 8,
-  "options": [
-   9,
-   8,
-   11,
-   5
-  ],
-  "objectIcon": "/sprites/star.png",
-  "objectIcon2": "",
-  "targetCount": 8,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l29-gen_dino-2",
-  "gameId": "gen_dinosaur_valley_math",
-  "type": "gen_dinosaur_valley_math",
-  "prompt": "Đếm kẹo và chọn số đúng!",
-  "correctAnswer": 9,
-  "options": [
-   10,
-   9,
-   11,
-   7
-  ],
-  "objectIcon": "/sprites/apple.png",
-  "objectIcon2": "",
-  "targetCount": 9,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l29-gen_fair-2",
-  "gameId": "gen_fairy_forest_quest",
-  "type": "gen_fairy_forest_quest",
-  "prompt": "Đếm bóng và chọn số đúng!",
-  "correctAnswer": 8,
-  "options": [
-   10,
-   8,
-   9,
-   6
-  ],
-  "objectIcon": "/sprites/crown.png",
-  "objectIcon2": "",
-  "targetCount": 8,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l29-gen_ocea-3",
-  "gameId": "gen_ocean_reef_math",
-  "type": "gen_ocean_reef_math",
-  "prompt": "Đếm kẹo và chọn số đúng!",
-  "correctAnswer": 6,
-  "options": [
-   5,
-   6,
-   9,
-   4
-  ],
-  "objectIcon": "/sprites/candy.png",
-  "objectIcon2": "",
-  "targetCount": 6,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l29-gen_dino-3",
-  "gameId": "gen_dinosaur_valley_math",
-  "type": "gen_dinosaur_valley_math",
-  "prompt": "Đếm bóng và chọn số đúng!",
-  "correctAnswer": 5,
-  "options": [
-   5,
-   4,
-   3,
-   8
-  ],
-  "objectIcon": "/sprites/star.png",
-  "objectIcon2": "",
-  "targetCount": 5,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l29-gen_fair-3",
-  "gameId": "gen_fairy_forest_quest",
-  "type": "gen_fairy_forest_quest",
-  "prompt": "Đếm xu và chọn số đúng!",
-  "correctAnswer": 10,
-  "options": [
-   7,
-   11,
-   13,
-   10
-  ],
-  "objectIcon": "/sprites/apple.png",
-  "objectIcon2": "",
-  "targetCount": 10,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l29-gen_ocea-4",
-  "gameId": "gen_ocean_reef_math",
-  "type": "gen_ocean_reef_math",
-  "prompt": "Đếm bóng và chọn số đúng!",
-  "correctAnswer": 8,
-  "options": [
-   9,
-   10,
-   8,
-   6
-  ],
-  "objectIcon": "/sprites/ball.png",
-  "objectIcon2": "",
-  "targetCount": 8,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l29-gen_dino-4",
-  "gameId": "gen_dinosaur_valley_math",
-  "type": "gen_dinosaur_valley_math",
-  "prompt": "Đếm xu và chọn số đúng!",
-  "correctAnswer": 7,
-  "options": [
-   7,
-   9,
-   8,
-   4
-  ],
-  "objectIcon": "/sprites/candy.png",
-  "objectIcon2": "",
-  "targetCount": 7,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l29-gen_fair-4",
-  "gameId": "gen_fairy_forest_quest",
-  "type": "gen_fairy_forest_quest",
-  "prompt": "Đếm hoa và chọn số đúng!",
-  "correctAnswer": 3,
-  "options": [
-   4,
-   3,
-   1,
-   2
-  ],
-  "objectIcon": "/sprites/star.png",
-  "objectIcon2": "",
-  "targetCount": 3,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l29-gen_ocea-5",
-  "gameId": "gen_ocean_reef_math",
-  "type": "gen_ocean_reef_math",
-  "prompt": "Đếm xu và chọn số đúng!",
-  "correctAnswer": 3,
-  "options": [
-   3,
-   6,
-   4,
-   1
-  ],
-  "objectIcon": "/sprites/coin.png",
-  "objectIcon2": "",
-  "targetCount": 3,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l29-gen_dino-5",
-  "gameId": "gen_dinosaur_valley_math",
-  "type": "gen_dinosaur_valley_math",
-  "prompt": "Đếm hoa và chọn số đúng!",
-  "correctAnswer": 6,
-  "options": [
-   6,
-   9,
-   8,
-   4
-  ],
-  "objectIcon": "/sprites/ball.png",
-  "objectIcon2": "",
-  "targetCount": 6,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l29-gen_fair-5",
-  "gameId": "gen_fairy_forest_quest",
-  "type": "gen_fairy_forest_quest",
-  "prompt": "Đếm mèo và chọn số đúng!",
-  "correctAnswer": 10,
-  "options": [
-   9,
-   12,
-   10,
-   13
-  ],
-  "objectIcon": "/sprites/candy.png",
-  "objectIcon2": "",
-  "targetCount": 10,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l29-gen_ocea-6",
-  "gameId": "gen_ocean_reef_math",
-  "type": "gen_ocean_reef_math",
-  "prompt": "Đếm hoa và chọn số đúng!",
-  "correctAnswer": 7,
-  "options": [
-   8,
-   7,
-   5,
-   4
-  ],
-  "objectIcon": "/sprites/flower.png",
-  "objectIcon2": "",
-  "targetCount": 7,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l29-gen_dino-6",
-  "gameId": "gen_dinosaur_valley_math",
-  "type": "gen_dinosaur_valley_math",
-  "prompt": "Đếm mèo và chọn số đúng!",
-  "correctAnswer": 9,
-  "options": [
-   7,
-   9,
-   11,
-   6
-  ],
-  "objectIcon": "/sprites/coin.png",
-  "objectIcon2": "",
-  "targetCount": 9,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l29-gen_fair-6",
-  "gameId": "gen_fairy_forest_quest",
-  "type": "gen_fairy_forest_quest",
-  "prompt": "Đếm thỏ và chọn số đúng!",
-  "correctAnswer": 3,
-  "options": [
-   1,
-   3,
-   5,
-   6
-  ],
-  "objectIcon": "/sprites/ball.png",
-  "objectIcon2": "",
-  "targetCount": 3,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l29-gen_ocea-7",
-  "gameId": "gen_ocean_reef_math",
-  "type": "gen_ocean_reef_math",
-  "prompt": "Đếm mèo và chọn số đúng!",
-  "correctAnswer": 1,
-  "options": [
-   2,
-   3,
-   1,
-   4
-  ],
-  "objectIcon": "/sprites/cat.png",
-  "objectIcon2": "",
-  "targetCount": 1,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l29-gen_dino-7",
-  "gameId": "gen_dinosaur_valley_math",
-  "type": "gen_dinosaur_valley_math",
-  "prompt": "Đếm thỏ và chọn số đúng!",
-  "correctAnswer": 6,
-  "options": [
-   9,
-   5,
-   7,
-   6
-  ],
-  "objectIcon": "/sprites/flower.png",
-  "objectIcon2": "",
-  "targetCount": 6,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l29-gen_fair-7",
-  "gameId": "gen_fairy_forest_quest",
-  "type": "gen_fairy_forest_quest",
-  "prompt": "Đếm kim cương và chọn số đúng!",
-  "correctAnswer": 5,
-  "options": [
-   3,
-   5,
-   2,
-   4
-  ],
-  "objectIcon": "/sprites/coin.png",
-  "objectIcon2": "",
-  "targetCount": 5,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l29-gen_ocea-8",
-  "gameId": "gen_ocean_reef_math",
-  "type": "gen_ocean_reef_math",
-  "prompt": "Đếm thỏ và chọn số đúng!",
-  "correctAnswer": 5,
-  "options": [
-   5,
-   6,
-   7,
-   2
-  ],
-  "objectIcon": "/sprites/rabbit.png",
-  "objectIcon2": "",
-  "targetCount": 5,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l29-gen_dino-8",
-  "gameId": "gen_dinosaur_valley_math",
-  "type": "gen_dinosaur_valley_math",
-  "prompt": "Đếm kim cương và chọn số đúng!",
-  "correctAnswer": 10,
-  "options": [
-   7,
-   11,
-   8,
-   10
-  ],
-  "objectIcon": "/sprites/cat.png",
-  "objectIcon2": "",
-  "targetCount": 10,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l29-gen_fair-8",
-  "gameId": "gen_fairy_forest_quest",
-  "type": "gen_fairy_forest_quest",
-  "prompt": "Đếm ếch và chọn số đúng!",
-  "correctAnswer": 4,
-  "options": [
-   4,
-   6,
-   1,
-   7
-  ],
-  "objectIcon": "/sprites/flower.png",
-  "objectIcon2": "",
-  "targetCount": 4,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l29-gen_ocea-9",
-  "gameId": "gen_ocean_reef_math",
-  "type": "gen_ocean_reef_math",
-  "prompt": "Đếm kim cương và chọn số đúng!",
-  "correctAnswer": 10,
-  "options": [
-   12,
-   10,
-   7,
-   8
-  ],
-  "objectIcon": "/sprites/diamond.png",
-  "objectIcon2": "",
-  "targetCount": 10,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l29-gen_dino-9",
-  "gameId": "gen_dinosaur_valley_math",
-  "type": "gen_dinosaur_valley_math",
-  "prompt": "Đếm ếch và chọn số đúng!",
-  "correctAnswer": 1,
-  "options": [
-   2,
-   4,
-   1,
-   3
-  ],
-  "objectIcon": "/sprites/rabbit.png",
-  "objectIcon2": "",
-  "targetCount": 1,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l29-gen_fair-9",
-  "gameId": "gen_fairy_forest_quest",
-  "type": "gen_fairy_forest_quest",
-  "prompt": "Đếm cà rốt và chọn số đúng!",
-  "correctAnswer": 9,
-  "options": [
-   12,
-   8,
-   9,
-   6
-  ],
-  "objectIcon": "/sprites/cat.png",
-  "objectIcon2": "",
-  "targetCount": 9,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l29-gen_ocea-10",
-  "gameId": "gen_ocean_reef_math",
-  "type": "gen_ocean_reef_math",
-  "prompt": "Đếm ếch và chọn số đúng!",
-  "correctAnswer": 2,
-  "options": [
-   1,
-   2,
-   5,
-   4
-  ],
-  "objectIcon": "/sprites/frog.png",
-  "objectIcon2": "",
-  "targetCount": 2,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l29-gen_dino-10",
-  "gameId": "gen_dinosaur_valley_math",
-  "type": "gen_dinosaur_valley_math",
-  "prompt": "Đếm cà rốt và chọn số đúng!",
-  "correctAnswer": 9,
-  "options": [
-   11,
-   7,
-   9,
-   12
-  ],
-  "objectIcon": "/sprites/diamond.png",
-  "objectIcon2": "",
-  "targetCount": 9,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l29-gen_fair-10",
-  "gameId": "gen_fairy_forest_quest",
-  "type": "gen_fairy_forest_quest",
-  "prompt": "Đếm dâu và chọn số đúng!",
-  "correctAnswer": 5,
-  "options": [
-   8,
-   4,
-   5,
-   3
-  ],
-  "objectIcon": "/sprites/rabbit.png",
-  "objectIcon2": "",
-  "targetCount": 5,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l29-gen_ocea-11",
-  "gameId": "gen_ocean_reef_math",
-  "type": "gen_ocean_reef_math",
-  "prompt": "Đếm cà rốt và chọn số đúng!",
-  "correctAnswer": 1,
-  "options": [
-   3,
-   1,
-   4,
-   2
-  ],
-  "objectIcon": "/sprites/carrot.png",
-  "objectIcon2": "",
-  "targetCount": 1,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l29-gen_dino-11",
-  "gameId": "gen_dinosaur_valley_math",
-  "type": "gen_dinosaur_valley_math",
-  "prompt": "Đếm dâu và chọn số đúng!",
-  "correctAnswer": 5,
-  "options": [
-   5,
-   2,
-   3,
-   8
-  ],
-  "objectIcon": "/sprites/frog.png",
-  "objectIcon2": "",
-  "targetCount": 5,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l29-gen_fair-11",
-  "gameId": "gen_fairy_forest_quest",
-  "type": "gen_fairy_forest_quest",
-  "prompt": "Đếm nấm và chọn số đúng!",
-  "correctAnswer": 4,
-  "options": [
-   4,
-   2,
-   5,
-   7
-  ],
-  "objectIcon": "/sprites/diamond.png",
-  "objectIcon2": "",
-  "targetCount": 4,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l29-gen_ocea-12",
-  "gameId": "gen_ocean_reef_math",
-  "type": "gen_ocean_reef_math",
-  "prompt": "Đếm dâu và chọn số đúng!",
-  "correctAnswer": 10,
-  "options": [
-   12,
-   13,
-   7,
-   10
-  ],
-  "objectIcon": "/sprites/strawberry.png",
-  "objectIcon2": "",
-  "targetCount": 10,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l29-gen_dino-12",
-  "gameId": "gen_dinosaur_valley_math",
-  "type": "gen_dinosaur_valley_math",
-  "prompt": "Đếm nấm và chọn số đúng!",
-  "correctAnswer": 8,
-  "options": [
-   5,
-   10,
-   11,
-   8
-  ],
-  "objectIcon": "/sprites/carrot.png",
-  "objectIcon2": "",
-  "targetCount": 8,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l29-gen_fair-12",
-  "gameId": "gen_fairy_forest_quest",
-  "type": "gen_fairy_forest_quest",
-  "prompt": "Đếm cá và chọn số đúng!",
-  "correctAnswer": 10,
-  "options": [
-   13,
-   12,
-   9,
-   10
-  ],
-  "objectIcon": "/sprites/frog.png",
-  "objectIcon2": "",
-  "targetCount": 10,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l29-gen_ocea-13",
-  "gameId": "gen_ocean_reef_math",
-  "type": "gen_ocean_reef_math",
-  "prompt": "Đếm nấm và chọn số đúng!",
-  "correctAnswer": 10,
-  "options": [
-   10,
-   9,
-   12,
-   7
-  ],
-  "objectIcon": "/sprites/mushroom.png",
-  "objectIcon2": "",
-  "targetCount": 10,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l29-gen_dino-13",
-  "gameId": "gen_dinosaur_valley_math",
-  "type": "gen_dinosaur_valley_math",
-  "prompt": "Đếm cá và chọn số đúng!",
-  "correctAnswer": 8,
-  "options": [
-   7,
-   10,
-   8,
-   6
-  ],
-  "objectIcon": "/sprites/strawberry.png",
-  "objectIcon2": "",
-  "targetCount": 8,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l29-gen_fair-13",
-  "gameId": "gen_fairy_forest_quest",
-  "type": "gen_fairy_forest_quest",
-  "prompt": "Đếm bướm và chọn số đúng!",
-  "correctAnswer": 9,
-  "options": [
-   7,
-   9,
-   8,
-   11
-  ],
-  "objectIcon": "/sprites/carrot.png",
-  "objectIcon2": "",
-  "targetCount": 9,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l29-gen_ocea-14",
-  "gameId": "gen_ocean_reef_math",
-  "type": "gen_ocean_reef_math",
-  "prompt": "Đếm cá và chọn số đúng!",
-  "correctAnswer": 9,
-  "options": [
-   10,
-   9,
-   11,
-   8
-  ],
-  "objectIcon": "/sprites/fish.png",
-  "objectIcon2": "",
-  "targetCount": 9,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l29-gen_dino-14",
-  "gameId": "gen_dinosaur_valley_math",
-  "type": "gen_dinosaur_valley_math",
-  "prompt": "Đếm bướm và chọn số đúng!",
-  "correctAnswer": 5,
-  "options": [
-   5,
-   8,
-   3,
-   6
-  ],
-  "objectIcon": "/sprites/mushroom.png",
-  "objectIcon2": "",
-  "targetCount": 5,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l29-gen_fair-14",
-  "gameId": "gen_fairy_forest_quest",
-  "type": "gen_fairy_forest_quest",
-  "prompt": "Đếm bánh và chọn số đúng!",
-  "correctAnswer": 8,
-  "options": [
-   7,
-   9,
-   6,
-   8
-  ],
-  "objectIcon": "/sprites/strawberry.png",
-  "objectIcon2": "",
-  "targetCount": 8,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l29-gen_ocea-15",
-  "gameId": "gen_ocean_reef_math",
-  "type": "gen_ocean_reef_math",
-  "prompt": "Đếm bướm và chọn số đúng!",
-  "correctAnswer": 6,
-  "options": [
-   5,
-   6,
-   7,
-   4
-  ],
-  "objectIcon": "/sprites/butterfly.png",
-  "objectIcon2": "",
-  "targetCount": 6,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l29-gen_dino-15",
-  "gameId": "gen_dinosaur_valley_math",
-  "type": "gen_dinosaur_valley_math",
-  "prompt": "Đếm bánh và chọn số đúng!",
-  "correctAnswer": 9,
-  "options": [
-   8,
-   9,
-   10,
-   11
-  ],
-  "objectIcon": "/sprites/fish.png",
-  "objectIcon2": "",
-  "targetCount": 9,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l29-gen_fair-15",
-  "gameId": "gen_fairy_forest_quest",
-  "type": "gen_fairy_forest_quest",
-  "prompt": "Đếm táo và chọn số đúng!",
-  "correctAnswer": 9,
-  "options": [
-   7,
-   9,
-   11,
-   6
-  ],
-  "objectIcon": "/sprites/mushroom.png",
-  "objectIcon2": "",
-  "targetCount": 9,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l29-gen_ocea-16",
-  "gameId": "gen_ocean_reef_math",
-  "type": "gen_ocean_reef_math",
-  "prompt": "Đếm bánh và chọn số đúng!",
-  "correctAnswer": 5,
-  "options": [
-   5,
-   6,
-   8,
-   2
-  ],
-  "objectIcon": "/sprites/cupcake.png",
-  "objectIcon2": "",
-  "targetCount": 5,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l29-gen_dino-16",
-  "gameId": "gen_dinosaur_valley_math",
-  "type": "gen_dinosaur_valley_math",
-  "prompt": "Đếm táo và chọn số đúng!",
-  "correctAnswer": 9,
-  "options": [
-   10,
-   6,
-   9,
-   11
-  ],
-  "objectIcon": "/sprites/butterfly.png",
-  "objectIcon2": "",
-  "targetCount": 9,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l29-gen_fair-16",
-  "gameId": "gen_fairy_forest_quest",
-  "type": "gen_fairy_forest_quest",
-  "prompt": "Đếm sao và chọn số đúng!",
-  "correctAnswer": 3,
-  "options": [
-   3,
-   1,
-   5,
-   2
-  ],
-  "objectIcon": "/sprites/fish.png",
-  "objectIcon2": "",
-  "targetCount": 3,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l29-gen_ocea-17",
-  "gameId": "gen_ocean_reef_math",
-  "type": "gen_ocean_reef_math",
-  "prompt": "Đếm táo và chọn số đúng!",
-  "correctAnswer": 3,
-  "options": [
-   3,
-   1,
-   4,
-   6
-  ],
-  "objectIcon": "/sprites/lollipop.png",
-  "objectIcon2": "",
-  "targetCount": 3,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l29-gen_dino-17",
-  "gameId": "gen_dinosaur_valley_math",
-  "type": "gen_dinosaur_valley_math",
-  "prompt": "Đếm sao và chọn số đúng!",
-  "correctAnswer": 6,
-  "options": [
-   9,
-   4,
-   6,
-   8
-  ],
-  "objectIcon": "/sprites/cupcake.png",
-  "objectIcon2": "",
-  "targetCount": 6,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- }
+  {
+    "id": "l29-q001",
+    "gameId": "level_29",
+    "type": "level_29",
+    "prompt": "18 + 2 = ?",
+    "correctAnswer": 20,
+    "options": [
+      17,
+      18,
+      19,
+      20
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 18,
+    "targetCount2": 2,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l29-q002",
+    "gameId": "level_29",
+    "type": "level_29",
+    "prompt": "Tính: 18 + 1 = ?",
+    "correctAnswer": 19,
+    "options": [
+      18,
+      17,
+      16,
+      19
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 18,
+    "targetCount2": 1,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l29-q003",
+    "gameId": "level_29",
+    "type": "level_29",
+    "prompt": "Tính: 6 + 8 = ?",
+    "correctAnswer": 14,
+    "options": [
+      12,
+      14,
+      13,
+      11
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 6,
+    "targetCount2": 8,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l29-q004",
+    "gameId": "level_29",
+    "type": "level_29",
+    "prompt": "7 + 5 = ?",
+    "correctAnswer": 12,
+    "options": [
+      10,
+      11,
+      12,
+      9
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 7,
+    "targetCount2": 5,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l29-q005",
+    "gameId": "level_29",
+    "type": "level_29",
+    "prompt": "Tính: 2 + 13 = ?",
+    "correctAnswer": 15,
+    "options": [
+      12,
+      13,
+      15,
+      14
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 2,
+    "targetCount2": 13,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l29-q006",
+    "gameId": "level_29",
+    "type": "level_29",
+    "prompt": "13 + 6 = ?",
+    "correctAnswer": 19,
+    "options": [
+      16,
+      19,
+      17,
+      18
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 13,
+    "targetCount2": 6,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l29-q007",
+    "gameId": "level_29",
+    "type": "level_29",
+    "prompt": "10 + 5 = ?",
+    "correctAnswer": 15,
+    "options": [
+      14,
+      13,
+      12,
+      15
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 10,
+    "targetCount2": 5,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l29-q008",
+    "gameId": "level_29",
+    "type": "level_29",
+    "prompt": "19 + 1 = ?",
+    "correctAnswer": 20,
+    "options": [
+      17,
+      20,
+      18,
+      19
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 19,
+    "targetCount2": 1,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l29-q009",
+    "gameId": "level_29",
+    "type": "level_29",
+    "prompt": "Tính: 8 - 7 = ?",
+    "correctAnswer": 1,
+    "options": [
+      1,
+      3,
+      2,
+      0
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 8,
+    "targetCount2": 7,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l29-q010",
+    "gameId": "level_29",
+    "type": "level_29",
+    "prompt": "7 - 4 = ?",
+    "correctAnswer": 3,
+    "options": [
+      2,
+      1,
+      3,
+      0
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 7,
+    "targetCount2": 4,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l29-q011",
+    "gameId": "level_29",
+    "type": "level_29",
+    "prompt": "20 - 7 = ?",
+    "correctAnswer": 13,
+    "options": [
+      10,
+      11,
+      13,
+      12
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 20,
+    "targetCount2": 7,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l29-q012",
+    "gameId": "level_29",
+    "type": "level_29",
+    "prompt": "Tính: 4 - 1 = ?",
+    "correctAnswer": 3,
+    "options": [
+      1,
+      0,
+      2,
+      3
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 4,
+    "targetCount2": 1,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l29-q013",
+    "gameId": "level_29",
+    "type": "level_29",
+    "prompt": "Tính: 8 - 7 = ?",
+    "correctAnswer": 1,
+    "options": [
+      2,
+      0,
+      1,
+      3
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 8,
+    "targetCount2": 7,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l29-q014",
+    "gameId": "level_29",
+    "type": "level_29",
+    "prompt": "Tính: 13 - 8 = ?",
+    "correctAnswer": 5,
+    "options": [
+      3,
+      2,
+      4,
+      5
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 13,
+    "targetCount2": 8,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l29-q015",
+    "gameId": "level_29",
+    "type": "level_29",
+    "prompt": "19 - 3 = ?",
+    "correctAnswer": 16,
+    "options": [
+      13,
+      15,
+      16,
+      14
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 19,
+    "targetCount2": 3,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l29-q016",
+    "gameId": "level_29",
+    "type": "level_29",
+    "prompt": "Tính: 4 - 1 = ?",
+    "correctAnswer": 3,
+    "options": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 4,
+    "targetCount2": 1,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l29-q017",
+    "gameId": "level_29",
+    "type": "level_29",
+    "prompt": "Hoa nhặt được 13 kẹo rồi nhặt thêm 1 kẹo. Có tất cả mấy kẹo?",
+    "correctAnswer": 14,
+    "options": [
+      13,
+      14,
+      11,
+      12
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 13,
+    "targetCount2": 1,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l29-q018",
+    "gameId": "level_29",
+    "type": "level_29",
+    "prompt": "Buổi sáng có 8 bông hoa, buổi chiều thêm 9 bông hoa. Tất cả là bao nhiêu?",
+    "correctAnswer": 17,
+    "options": [
+      14,
+      16,
+      17,
+      15
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 8,
+    "targetCount2": 9,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l29-q019",
+    "gameId": "level_29",
+    "type": "level_29",
+    "prompt": "Nam có 17 quả bóng, mẹ cho thêm 2. Có tất cả bao nhiêu?",
+    "correctAnswer": 19,
+    "options": [
+      17,
+      19,
+      18,
+      16
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 17,
+    "targetCount2": 2,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l29-q020",
+    "gameId": "level_29",
+    "type": "level_29",
+    "prompt": "Nam nhặt được 18 bông hoa rồi nhặt thêm 2 bông hoa. Có tất cả mấy bông hoa?",
+    "correctAnswer": 20,
+    "options": [
+      20,
+      17,
+      18,
+      19
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 18,
+    "targetCount2": 2,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l29-q021",
+    "gameId": "level_29",
+    "type": "level_29",
+    "prompt": "Minh có 5 tờ giấy, mẹ cho thêm 13. Có tất cả bao nhiêu?",
+    "correctAnswer": 18,
+    "options": [
+      18,
+      16,
+      17,
+      15
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 13,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l29-q022",
+    "gameId": "level_29",
+    "type": "level_29",
+    "prompt": "Buổi sáng có 9 bông hoa, buổi chiều thêm 2 bông hoa. Tất cả là bao nhiêu?",
+    "correctAnswer": 11,
+    "options": [
+      10,
+      11,
+      8,
+      9
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 9,
+    "targetCount2": 2,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l29-q023",
+    "gameId": "level_29",
+    "type": "level_29",
+    "prompt": "Mai nhặt được 9 tờ giấy rồi nhặt thêm 4 tờ giấy. Có tất cả mấy tờ giấy?",
+    "correctAnswer": 13,
+    "options": [
+      10,
+      13,
+      12,
+      11
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 9,
+    "targetCount2": 4,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l29-q024",
+    "gameId": "level_29",
+    "type": "level_29",
+    "prompt": "Bình có 9 táo, mẹ cho thêm 5. Có tất cả bao nhiêu?",
+    "correctAnswer": 14,
+    "options": [
+      11,
+      14,
+      12,
+      13
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 9,
+    "targetCount2": 5,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l29-q025",
+    "gameId": "level_29",
+    "type": "level_29",
+    "prompt": "Linh có 6 viên bi, cho bạn 5. Còn lại bao nhiêu?",
+    "correctAnswer": 1,
+    "options": [
+      0,
+      2,
+      3,
+      1
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 6,
+    "targetCount2": 5,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l29-q026",
+    "gameId": "level_29",
+    "type": "level_29",
+    "prompt": "Hộp có 18 táo, lấy ra 17. Còn lại bao nhiêu?",
+    "correctAnswer": 1,
+    "options": [
+      1,
+      0,
+      2,
+      3
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 18,
+    "targetCount2": 17,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l29-q027",
+    "gameId": "level_29",
+    "type": "level_29",
+    "prompt": "Có 17 viên bi, dùng hết 6. Còn lại mấy viên bi?",
+    "correctAnswer": 11,
+    "options": [
+      8,
+      9,
+      11,
+      10
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 17,
+    "targetCount2": 6,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l29-q028",
+    "gameId": "level_29",
+    "type": "level_29",
+    "prompt": "Có 8 quả bóng, dùng hết 1. Còn lại mấy quả bóng?",
+    "correctAnswer": 7,
+    "options": [
+      4,
+      6,
+      5,
+      7
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 8,
+    "targetCount2": 1,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l29-q029",
+    "gameId": "level_29",
+    "type": "level_29",
+    "prompt": "Có 18 táo, dùng hết 2. Còn lại mấy táo?",
+    "correctAnswer": 16,
+    "options": [
+      14,
+      15,
+      13,
+      16
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 18,
+    "targetCount2": 2,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l29-q030",
+    "gameId": "level_29",
+    "type": "level_29",
+    "prompt": "Có 11 táo, dùng hết 8. Còn lại mấy táo?",
+    "correctAnswer": 3,
+    "options": [
+      2,
+      1,
+      0,
+      3
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 11,
+    "targetCount2": 8,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l29-q031",
+    "gameId": "level_29",
+    "type": "level_29",
+    "prompt": "Chọn số lớn hơn trong hai số: 9 và 4.",
+    "correctAnswer": 9,
+    "options": [
+      6,
+      8,
+      7,
+      9
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 9,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l29-q032",
+    "gameId": "level_29",
+    "type": "level_29",
+    "prompt": "13 và 2, số nào lớn hơn?",
+    "correctAnswer": 13,
+    "options": [
+      10,
+      12,
+      11,
+      13
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 13,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l29-q033",
+    "gameId": "level_29",
+    "type": "level_29",
+    "prompt": "Số nào bé hơn: 16 hay 8?",
+    "correctAnswer": 8,
+    "options": [
+      7,
+      6,
+      5,
+      8
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 16,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l29-q034",
+    "gameId": "level_29",
+    "type": "level_29",
+    "prompt": "Số nào bé hơn: 12 hay 7?",
+    "correctAnswer": 7,
+    "options": [
+      4,
+      5,
+      6,
+      7
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 12,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l29-q035",
+    "gameId": "level_29",
+    "type": "level_29",
+    "prompt": "Chọn số lớn hơn trong hai số: 20 và 7.",
+    "correctAnswer": 20,
+    "options": [
+      19,
+      17,
+      20,
+      18
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 20,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l29-q036",
+    "gameId": "level_29",
+    "type": "level_29",
+    "prompt": "Số nào lớn hơn: 16 hay 19?",
+    "correctAnswer": 19,
+    "options": [
+      19,
+      17,
+      16,
+      18
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 19,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l29-q037",
+    "gameId": "level_29",
+    "type": "level_29",
+    "prompt": "Điền số còn thiếu: 4, 5, 6, 7, ?",
+    "correctAnswer": 8,
+    "options": [
+      8,
+      7,
+      6,
+      5
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 8,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l29-q038",
+    "gameId": "level_29",
+    "type": "level_29",
+    "prompt": "Điền số còn thiếu: 16, ?, 18",
+    "correctAnswer": 17,
+    "options": [
+      17,
+      18,
+      15,
+      16
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 17,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l29-q039",
+    "gameId": "level_29",
+    "type": "level_29",
+    "prompt": "Điền số còn thiếu: 8, ?, 10, 11",
+    "correctAnswer": 9,
+    "options": [
+      9,
+      10,
+      7,
+      8
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 9,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l29-q040",
+    "gameId": "level_29",
+    "type": "level_29",
+    "prompt": "Điền số còn thiếu: 11, ?, 13, 14",
+    "correctAnswer": 12,
+    "options": [
+      12,
+      10,
+      11,
+      13
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 12,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l29-q041",
+    "gameId": "level_29",
+    "type": "level_29",
+    "prompt": "Điền số còn thiếu: 10, ?, 12, 13, 14",
+    "correctAnswer": 11,
+    "options": [
+      9,
+      11,
+      12,
+      10
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 11,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l29-q042",
+    "gameId": "level_29",
+    "type": "level_29",
+    "prompt": "Điền số còn thiếu: 12, ?, 14, 15",
+    "correctAnswer": 13,
+    "options": [
+      14,
+      12,
+      11,
+      13
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 13,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l29-q043",
+    "gameId": "level_29",
+    "type": "level_29",
+    "prompt": "Số nào là số lẻ?",
+    "correctAnswer": 9,
+    "options": [
+      16,
+      4,
+      9,
+      8
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 9,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l29-q044",
+    "gameId": "level_29",
+    "type": "level_29",
+    "prompt": "Số nào là số lẻ?",
+    "correctAnswer": 17,
+    "options": [
+      17,
+      6,
+      12,
+      8
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 17,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l29-q045",
+    "gameId": "level_29",
+    "type": "level_29",
+    "prompt": "Số nào là số chẵn?",
+    "correctAnswer": 8,
+    "options": [
+      8,
+      1,
+      3,
+      19
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 8,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l29-q046",
+    "gameId": "level_29",
+    "type": "level_29",
+    "prompt": "Số nào là số lẻ?",
+    "correctAnswer": 17,
+    "options": [
+      8,
+      16,
+      4,
+      17
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 17,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l29-q047",
+    "gameId": "level_29",
+    "type": "level_29",
+    "prompt": "14 + ? = 16",
+    "correctAnswer": 2,
+    "options": [
+      0,
+      2,
+      1,
+      3
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 16,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l29-q048",
+    "gameId": "level_29",
+    "type": "level_29",
+    "prompt": "4 + ? = 19",
+    "correctAnswer": 15,
+    "options": [
+      14,
+      12,
+      15,
+      13
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 19,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l29-q049",
+    "gameId": "level_29",
+    "type": "level_29",
+    "prompt": "6 + ? = 13",
+    "correctAnswer": 7,
+    "options": [
+      7,
+      5,
+      4,
+      6
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 13,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l29-q050",
+    "gameId": "level_29",
+    "type": "level_29",
+    "prompt": "5 + ? = 6",
+    "correctAnswer": 1,
+    "options": [
+      1,
+      3,
+      2,
+      0
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 6,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  }
 ]

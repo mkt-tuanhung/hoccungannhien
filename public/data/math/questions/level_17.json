@@ -1,952 +1,952 @@
 [
- {
-  "id": "l17-gen_trai-1",
-  "gameId": "gen_train_route_builder",
-  "type": "gen_train_route_builder",
-  "prompt": "5 + 1 = ?",
-  "correctAnswer": 6,
-  "options": [
-   5,
-   6,
-   9,
-   7
-  ],
-  "objectIcon": "/sprites/apple.png",
-  "objectIcon2": "",
-  "targetCount": 5,
-  "targetCount2": 1,
-  "renderMode": "addition",
-  "displayPrompt": null
- },
- {
-  "id": "l17-gen_drag-1",
-  "gameId": "gen_dragon_farm_math",
-  "type": "gen_dragon_farm_math",
-  "prompt": "10 + 3 = ?",
-  "correctAnswer": 13,
-  "options": [
-   12,
-   11,
-   16,
-   13
-  ],
-  "objectIcon": "/sprites/crown.png",
-  "objectIcon2": "",
-  "targetCount": 10,
-  "targetCount2": 3,
-  "renderMode": "addition",
-  "displayPrompt": null
- },
- {
-  "id": "l17-gen_weat-1",
-  "gameId": "gen_weather_wizard_math",
-  "type": "gen_weather_wizard_math",
-  "prompt": "Số nào lớn hơn: 1 hay 10?",
-  "correctAnswer": 10,
-  "options": [
-   11,
-   7,
-   10,
-   9
-  ],
-  "objectIcon": "/sprites/lollipop.png",
-  "objectIcon2": "",
-  "targetCount": 1,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l17-gen_trai-2",
-  "gameId": "gen_train_route_builder",
-  "type": "gen_train_route_builder",
-  "prompt": "7 + 7 = ?",
-  "correctAnswer": 14,
-  "options": [
-   17,
-   13,
-   14,
-   16
-  ],
-  "objectIcon": "/sprites/star.png",
-  "objectIcon2": "",
-  "targetCount": 7,
-  "targetCount2": 7,
-  "renderMode": "addition",
-  "displayPrompt": null
- },
- {
-  "id": "l17-gen_drag-2",
-  "gameId": "gen_dragon_farm_math",
-  "type": "gen_dragon_farm_math",
-  "prompt": "10 + 1 = ?",
-  "correctAnswer": 11,
-  "options": [
-   14,
-   9,
-   12,
-   11
-  ],
-  "objectIcon": "/sprites/apple.png",
-  "objectIcon2": "",
-  "targetCount": 10,
-  "targetCount2": 1,
-  "renderMode": "addition",
-  "displayPrompt": null
- },
- {
-  "id": "l17-gen_weat-2",
-  "gameId": "gen_weather_wizard_math",
-  "type": "gen_weather_wizard_math",
-  "prompt": "Số nào lớn hơn: 2 hay 14?",
-  "correctAnswer": 14,
-  "options": [
-   11,
-   15,
-   14,
-   13
-  ],
-  "objectIcon": "/sprites/crown.png",
-  "objectIcon2": "",
-  "targetCount": 2,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l17-gen_trai-3",
-  "gameId": "gen_train_route_builder",
-  "type": "gen_train_route_builder",
-  "prompt": "3 + 7 = ?",
-  "correctAnswer": 10,
-  "options": [
-   9,
-   13,
-   12,
-   10
-  ],
-  "objectIcon": "/sprites/candy.png",
-  "objectIcon2": "",
-  "targetCount": 3,
-  "targetCount2": 7,
-  "renderMode": "addition",
-  "displayPrompt": null
- },
- {
-  "id": "l17-gen_drag-3",
-  "gameId": "gen_dragon_farm_math",
-  "type": "gen_dragon_farm_math",
-  "prompt": "7 + 2 = ?",
-  "correctAnswer": 9,
-  "options": [
-   10,
-   12,
-   6,
-   9
-  ],
-  "objectIcon": "/sprites/star.png",
-  "objectIcon2": "",
-  "targetCount": 7,
-  "targetCount2": 2,
-  "renderMode": "addition",
-  "displayPrompt": null
- },
- {
-  "id": "l17-gen_weat-3",
-  "gameId": "gen_weather_wizard_math",
-  "type": "gen_weather_wizard_math",
-  "prompt": "Số nào lớn hơn: 9 hay 6?",
-  "correctAnswer": 9,
-  "options": [
-   9,
-   8,
-   10,
-   7
-  ],
-  "objectIcon": "/sprites/apple.png",
-  "objectIcon2": "",
-  "targetCount": 9,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l17-gen_trai-4",
-  "gameId": "gen_train_route_builder",
-  "type": "gen_train_route_builder",
-  "prompt": "6 + 5 = ?",
-  "correctAnswer": 11,
-  "options": [
-   11,
-   8,
-   13,
-   12
-  ],
-  "objectIcon": "/sprites/ball.png",
-  "objectIcon2": "",
-  "targetCount": 6,
-  "targetCount2": 5,
-  "renderMode": "addition",
-  "displayPrompt": null
- },
- {
-  "id": "l17-gen_drag-4",
-  "gameId": "gen_dragon_farm_math",
-  "type": "gen_dragon_farm_math",
-  "prompt": "6 + 3 = ?",
-  "correctAnswer": 9,
-  "options": [
-   7,
-   12,
-   9,
-   6
-  ],
-  "objectIcon": "/sprites/candy.png",
-  "objectIcon2": "",
-  "targetCount": 6,
-  "targetCount2": 3,
-  "renderMode": "addition",
-  "displayPrompt": null
- },
- {
-  "id": "l17-gen_weat-4",
-  "gameId": "gen_weather_wizard_math",
-  "type": "gen_weather_wizard_math",
-  "prompt": "Số nào lớn hơn: 11 hay 12?",
-  "correctAnswer": 12,
-  "options": [
-   9,
-   12,
-   13,
-   15
-  ],
-  "objectIcon": "/sprites/star.png",
-  "objectIcon2": "",
-  "targetCount": 11,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l17-gen_trai-5",
-  "gameId": "gen_train_route_builder",
-  "type": "gen_train_route_builder",
-  "prompt": "9 + 3 = ?",
-  "correctAnswer": 12,
-  "options": [
-   12,
-   10,
-   9,
-   13
-  ],
-  "objectIcon": "/sprites/coin.png",
-  "objectIcon2": "",
-  "targetCount": 9,
-  "targetCount2": 3,
-  "renderMode": "addition",
-  "displayPrompt": null
- },
- {
-  "id": "l17-gen_drag-5",
-  "gameId": "gen_dragon_farm_math",
-  "type": "gen_dragon_farm_math",
-  "prompt": "3 + 10 = ?",
-  "correctAnswer": 13,
-  "options": [
-   13,
-   15,
-   10,
-   16
-  ],
-  "objectIcon": "/sprites/ball.png",
-  "objectIcon2": "",
-  "targetCount": 3,
-  "targetCount2": 10,
-  "renderMode": "addition",
-  "displayPrompt": null
- },
- {
-  "id": "l17-gen_weat-5",
-  "gameId": "gen_weather_wizard_math",
-  "type": "gen_weather_wizard_math",
-  "prompt": "Số nào lớn hơn: 12 hay 5?",
-  "correctAnswer": 12,
-  "options": [
-   15,
-   14,
-   12,
-   11
-  ],
-  "objectIcon": "/sprites/candy.png",
-  "objectIcon2": "",
-  "targetCount": 12,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l17-gen_trai-6",
-  "gameId": "gen_train_route_builder",
-  "type": "gen_train_route_builder",
-  "prompt": "5 + 10 = ?",
-  "correctAnswer": 15,
-  "options": [
-   14,
-   13,
-   12,
-   15
-  ],
-  "objectIcon": "/sprites/flower.png",
-  "objectIcon2": "",
-  "targetCount": 5,
-  "targetCount2": 10,
-  "renderMode": "addition",
-  "displayPrompt": null
- },
- {
-  "id": "l17-gen_drag-6",
-  "gameId": "gen_dragon_farm_math",
-  "type": "gen_dragon_farm_math",
-  "prompt": "5 + 7 = ?",
-  "correctAnswer": 12,
-  "options": [
-   11,
-   13,
-   12,
-   15
-  ],
-  "objectIcon": "/sprites/coin.png",
-  "objectIcon2": "",
-  "targetCount": 5,
-  "targetCount2": 7,
-  "renderMode": "addition",
-  "displayPrompt": null
- },
- {
-  "id": "l17-gen_weat-6",
-  "gameId": "gen_weather_wizard_math",
-  "type": "gen_weather_wizard_math",
-  "prompt": "Số nào lớn hơn: 1 hay 14?",
-  "correctAnswer": 14,
-  "options": [
-   15,
-   12,
-   14,
-   11
-  ],
-  "objectIcon": "/sprites/ball.png",
-  "objectIcon2": "",
-  "targetCount": 1,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l17-gen_trai-7",
-  "gameId": "gen_train_route_builder",
-  "type": "gen_train_route_builder",
-  "prompt": "6 + 3 = ?",
-  "correctAnswer": 9,
-  "options": [
-   6,
-   8,
-   11,
-   9
-  ],
-  "objectIcon": "/sprites/cat.png",
-  "objectIcon2": "",
-  "targetCount": 6,
-  "targetCount2": 3,
-  "renderMode": "addition",
-  "displayPrompt": null
- },
- {
-  "id": "l17-gen_drag-7",
-  "gameId": "gen_dragon_farm_math",
-  "type": "gen_dragon_farm_math",
-  "prompt": "9 + 1 = ?",
-  "correctAnswer": 10,
-  "options": [
-   12,
-   10,
-   9,
-   7
-  ],
-  "objectIcon": "/sprites/flower.png",
-  "objectIcon2": "",
-  "targetCount": 9,
-  "targetCount2": 1,
-  "renderMode": "addition",
-  "displayPrompt": null
- },
- {
-  "id": "l17-gen_weat-7",
-  "gameId": "gen_weather_wizard_math",
-  "type": "gen_weather_wizard_math",
-  "prompt": "Số nào lớn hơn: 2 hay 14?",
-  "correctAnswer": 14,
-  "options": [
-   13,
-   15,
-   14,
-   11
-  ],
-  "objectIcon": "/sprites/coin.png",
-  "objectIcon2": "",
-  "targetCount": 2,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l17-gen_trai-8",
-  "gameId": "gen_train_route_builder",
-  "type": "gen_train_route_builder",
-  "prompt": "10 + 4 = ?",
-  "correctAnswer": 14,
-  "options": [
-   11,
-   14,
-   13,
-   16
-  ],
-  "objectIcon": "/sprites/rabbit.png",
-  "objectIcon2": "",
-  "targetCount": 10,
-  "targetCount2": 4,
-  "renderMode": "addition",
-  "displayPrompt": null
- },
- {
-  "id": "l17-gen_drag-8",
-  "gameId": "gen_dragon_farm_math",
-  "type": "gen_dragon_farm_math",
-  "prompt": "9 + 6 = ?",
-  "correctAnswer": 15,
-  "options": [
-   16,
-   14,
-   15,
-   12
-  ],
-  "objectIcon": "/sprites/cat.png",
-  "objectIcon2": "",
-  "targetCount": 9,
-  "targetCount2": 6,
-  "renderMode": "addition",
-  "displayPrompt": null
- },
- {
-  "id": "l17-gen_weat-8",
-  "gameId": "gen_weather_wizard_math",
-  "type": "gen_weather_wizard_math",
-  "prompt": "Số nào lớn hơn: 13 hay 15?",
-  "correctAnswer": 15,
-  "options": [
-   13,
-   15,
-   12,
-   14
-  ],
-  "objectIcon": "/sprites/flower.png",
-  "objectIcon2": "",
-  "targetCount": 13,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l17-gen_trai-9",
-  "gameId": "gen_train_route_builder",
-  "type": "gen_train_route_builder",
-  "prompt": "9 + 6 = ?",
-  "correctAnswer": 15,
-  "options": [
-   18,
-   17,
-   14,
-   15
-  ],
-  "objectIcon": "/sprites/diamond.png",
-  "objectIcon2": "",
-  "targetCount": 9,
-  "targetCount2": 6,
-  "renderMode": "addition",
-  "displayPrompt": null
- },
- {
-  "id": "l17-gen_drag-9",
-  "gameId": "gen_dragon_farm_math",
-  "type": "gen_dragon_farm_math",
-  "prompt": "1 + 8 = ?",
-  "correctAnswer": 9,
-  "options": [
-   9,
-   10,
-   6,
-   11
-  ],
-  "objectIcon": "/sprites/rabbit.png",
-  "objectIcon2": "",
-  "targetCount": 1,
-  "targetCount2": 8,
-  "renderMode": "addition",
-  "displayPrompt": null
- },
- {
-  "id": "l17-gen_weat-9",
-  "gameId": "gen_weather_wizard_math",
-  "type": "gen_weather_wizard_math",
-  "prompt": "Số nào lớn hơn: 4 hay 10?",
-  "correctAnswer": 10,
-  "options": [
-   7,
-   10,
-   13,
-   12
-  ],
-  "objectIcon": "/sprites/cat.png",
-  "objectIcon2": "",
-  "targetCount": 4,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l17-gen_trai-10",
-  "gameId": "gen_train_route_builder",
-  "type": "gen_train_route_builder",
-  "prompt": "8 + 5 = ?",
-  "correctAnswer": 13,
-  "options": [
-   13,
-   12,
-   15,
-   10
-  ],
-  "objectIcon": "/sprites/frog.png",
-  "objectIcon2": "",
-  "targetCount": 8,
-  "targetCount2": 5,
-  "renderMode": "addition",
-  "displayPrompt": null
- },
- {
-  "id": "l17-gen_drag-10",
-  "gameId": "gen_dragon_farm_math",
-  "type": "gen_dragon_farm_math",
-  "prompt": "4 + 8 = ?",
-  "correctAnswer": 12,
-  "options": [
-   9,
-   12,
-   13,
-   11
-  ],
-  "objectIcon": "/sprites/diamond.png",
-  "objectIcon2": "",
-  "targetCount": 4,
-  "targetCount2": 8,
-  "renderMode": "addition",
-  "displayPrompt": null
- },
- {
-  "id": "l17-gen_weat-10",
-  "gameId": "gen_weather_wizard_math",
-  "type": "gen_weather_wizard_math",
-  "prompt": "Số nào lớn hơn: 15 hay 7?",
-  "correctAnswer": 15,
-  "options": [
-   15,
-   12,
-   13,
-   14
-  ],
-  "objectIcon": "/sprites/rabbit.png",
-  "objectIcon2": "",
-  "targetCount": 15,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l17-gen_trai-11",
-  "gameId": "gen_train_route_builder",
-  "type": "gen_train_route_builder",
-  "prompt": "7 + 4 = ?",
-  "correctAnswer": 11,
-  "options": [
-   8,
-   11,
-   10,
-   14
-  ],
-  "objectIcon": "/sprites/carrot.png",
-  "objectIcon2": "",
-  "targetCount": 7,
-  "targetCount2": 4,
-  "renderMode": "addition",
-  "displayPrompt": null
- },
- {
-  "id": "l17-gen_drag-11",
-  "gameId": "gen_dragon_farm_math",
-  "type": "gen_dragon_farm_math",
-  "prompt": "6 + 7 = ?",
-  "correctAnswer": 13,
-  "options": [
-   14,
-   10,
-   15,
-   13
-  ],
-  "objectIcon": "/sprites/frog.png",
-  "objectIcon2": "",
-  "targetCount": 6,
-  "targetCount2": 7,
-  "renderMode": "addition",
-  "displayPrompt": null
- },
- {
-  "id": "l17-gen_weat-11",
-  "gameId": "gen_weather_wizard_math",
-  "type": "gen_weather_wizard_math",
-  "prompt": "Số nào lớn hơn: 9 hay 4?",
-  "correctAnswer": 9,
-  "options": [
-   12,
-   9,
-   6,
-   11
-  ],
-  "objectIcon": "/sprites/diamond.png",
-  "objectIcon2": "",
-  "targetCount": 9,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l17-gen_trai-12",
-  "gameId": "gen_train_route_builder",
-  "type": "gen_train_route_builder",
-  "prompt": "4 + 1 = ?",
-  "correctAnswer": 5,
-  "options": [
-   7,
-   6,
-   5,
-   4
-  ],
-  "objectIcon": "/sprites/strawberry.png",
-  "objectIcon2": "",
-  "targetCount": 4,
-  "targetCount2": 1,
-  "renderMode": "addition",
-  "displayPrompt": null
- },
- {
-  "id": "l17-gen_drag-12",
-  "gameId": "gen_dragon_farm_math",
-  "type": "gen_dragon_farm_math",
-  "prompt": "6 + 3 = ?",
-  "correctAnswer": 9,
-  "options": [
-   8,
-   7,
-   9,
-   10
-  ],
-  "objectIcon": "/sprites/carrot.png",
-  "objectIcon2": "",
-  "targetCount": 6,
-  "targetCount2": 3,
-  "renderMode": "addition",
-  "displayPrompt": null
- },
- {
-  "id": "l17-gen_weat-12",
-  "gameId": "gen_weather_wizard_math",
-  "type": "gen_weather_wizard_math",
-  "prompt": "Số nào lớn hơn: 1 hay 6?",
-  "correctAnswer": 6,
-  "options": [
-   4,
-   6,
-   3,
-   5
-  ],
-  "objectIcon": "/sprites/frog.png",
-  "objectIcon2": "",
-  "targetCount": 1,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l17-gen_trai-13",
-  "gameId": "gen_train_route_builder",
-  "type": "gen_train_route_builder",
-  "prompt": "2 + 7 = ?",
-  "correctAnswer": 9,
-  "options": [
-   8,
-   7,
-   9,
-   11
-  ],
-  "objectIcon": "/sprites/mushroom.png",
-  "objectIcon2": "",
-  "targetCount": 2,
-  "targetCount2": 7,
-  "renderMode": "addition",
-  "displayPrompt": null
- },
- {
-  "id": "l17-gen_drag-13",
-  "gameId": "gen_dragon_farm_math",
-  "type": "gen_dragon_farm_math",
-  "prompt": "4 + 9 = ?",
-  "correctAnswer": 13,
-  "options": [
-   13,
-   16,
-   10,
-   11
-  ],
-  "objectIcon": "/sprites/strawberry.png",
-  "objectIcon2": "",
-  "targetCount": 4,
-  "targetCount2": 9,
-  "renderMode": "addition",
-  "displayPrompt": null
- },
- {
-  "id": "l17-gen_weat-13",
-  "gameId": "gen_weather_wizard_math",
-  "type": "gen_weather_wizard_math",
-  "prompt": "Số nào lớn hơn: 8 hay 1?",
-  "correctAnswer": 8,
-  "options": [
-   8,
-   11,
-   9,
-   7
-  ],
-  "objectIcon": "/sprites/carrot.png",
-  "objectIcon2": "",
-  "targetCount": 8,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l17-gen_trai-14",
-  "gameId": "gen_train_route_builder",
-  "type": "gen_train_route_builder",
-  "prompt": "5 + 9 = ?",
-  "correctAnswer": 14,
-  "options": [
-   15,
-   14,
-   11,
-   12
-  ],
-  "objectIcon": "/sprites/fish.png",
-  "objectIcon2": "",
-  "targetCount": 5,
-  "targetCount2": 9,
-  "renderMode": "addition",
-  "displayPrompt": null
- },
- {
-  "id": "l17-gen_drag-14",
-  "gameId": "gen_dragon_farm_math",
-  "type": "gen_dragon_farm_math",
-  "prompt": "8 + 5 = ?",
-  "correctAnswer": 13,
-  "options": [
-   10,
-   13,
-   15,
-   16
-  ],
-  "objectIcon": "/sprites/mushroom.png",
-  "objectIcon2": "",
-  "targetCount": 8,
-  "targetCount2": 5,
-  "renderMode": "addition",
-  "displayPrompt": null
- },
- {
-  "id": "l17-gen_weat-14",
-  "gameId": "gen_weather_wizard_math",
-  "type": "gen_weather_wizard_math",
-  "prompt": "Số nào lớn hơn: 12 hay 15?",
-  "correctAnswer": 15,
-  "options": [
-   12,
-   14,
-   13,
-   15
-  ],
-  "objectIcon": "/sprites/strawberry.png",
-  "objectIcon2": "",
-  "targetCount": 12,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l17-gen_trai-15",
-  "gameId": "gen_train_route_builder",
-  "type": "gen_train_route_builder",
-  "prompt": "4 + 3 = ?",
-  "correctAnswer": 7,
-  "options": [
-   9,
-   5,
-   7,
-   10
-  ],
-  "objectIcon": "/sprites/butterfly.png",
-  "objectIcon2": "",
-  "targetCount": 4,
-  "targetCount2": 3,
-  "renderMode": "addition",
-  "displayPrompt": null
- },
- {
-  "id": "l17-gen_drag-15",
-  "gameId": "gen_dragon_farm_math",
-  "type": "gen_dragon_farm_math",
-  "prompt": "3 + 11 = ?",
-  "correctAnswer": 14,
-  "options": [
-   12,
-   14,
-   11,
-   17
-  ],
-  "objectIcon": "/sprites/fish.png",
-  "objectIcon2": "",
-  "targetCount": 3,
-  "targetCount2": 11,
-  "renderMode": "addition",
-  "displayPrompt": null
- },
- {
-  "id": "l17-gen_weat-15",
-  "gameId": "gen_weather_wizard_math",
-  "type": "gen_weather_wizard_math",
-  "prompt": "Số nào lớn hơn: 2 hay 6?",
-  "correctAnswer": 6,
-  "options": [
-   3,
-   6,
-   8,
-   7
-  ],
-  "objectIcon": "/sprites/mushroom.png",
-  "objectIcon2": "",
-  "targetCount": 2,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l17-gen_trai-16",
-  "gameId": "gen_train_route_builder",
-  "type": "gen_train_route_builder",
-  "prompt": "7 + 6 = ?",
-  "correctAnswer": 13,
-  "options": [
-   16,
-   11,
-   12,
-   13
-  ],
-  "objectIcon": "/sprites/cupcake.png",
-  "objectIcon2": "",
-  "targetCount": 7,
-  "targetCount2": 6,
-  "renderMode": "addition",
-  "displayPrompt": null
- },
- {
-  "id": "l17-gen_drag-16",
-  "gameId": "gen_dragon_farm_math",
-  "type": "gen_dragon_farm_math",
-  "prompt": "7 + 2 = ?",
-  "correctAnswer": 9,
-  "options": [
-   6,
-   9,
-   12,
-   8
-  ],
-  "objectIcon": "/sprites/butterfly.png",
-  "objectIcon2": "",
-  "targetCount": 7,
-  "targetCount2": 2,
-  "renderMode": "addition",
-  "displayPrompt": null
- },
- {
-  "id": "l17-gen_weat-16",
-  "gameId": "gen_weather_wizard_math",
-  "type": "gen_weather_wizard_math",
-  "prompt": "Số nào lớn hơn: 12 hay 3?",
-  "correctAnswer": 12,
-  "options": [
-   14,
-   11,
-   10,
-   12
-  ],
-  "objectIcon": "/sprites/fish.png",
-  "objectIcon2": "",
-  "targetCount": 12,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l17-gen_trai-17",
-  "gameId": "gen_train_route_builder",
-  "type": "gen_train_route_builder",
-  "prompt": "2 + 2 = ?",
-  "correctAnswer": 4,
-  "options": [
-   4,
-   3,
-   6,
-   5
-  ],
-  "objectIcon": "/sprites/lollipop.png",
-  "objectIcon2": "",
-  "targetCount": 2,
-  "targetCount2": 2,
-  "renderMode": "addition",
-  "displayPrompt": null
- },
- {
-  "id": "l17-gen_drag-17",
-  "gameId": "gen_dragon_farm_math",
-  "type": "gen_dragon_farm_math",
-  "prompt": "3 + 12 = ?",
-  "correctAnswer": 15,
-  "options": [
-   13,
-   15,
-   18,
-   16
-  ],
-  "objectIcon": "/sprites/cupcake.png",
-  "objectIcon2": "",
-  "targetCount": 3,
-  "targetCount2": 12,
-  "renderMode": "addition",
-  "displayPrompt": null
- }
+  {
+    "id": "l17-q001",
+    "gameId": "level_17",
+    "type": "level_17",
+    "prompt": "12 - 6 = ?",
+    "correctAnswer": 6,
+    "options": [
+      3,
+      4,
+      5,
+      6
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 12,
+    "targetCount2": 6,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l17-q002",
+    "gameId": "level_17",
+    "type": "level_17",
+    "prompt": "20 - 18 = ?",
+    "correctAnswer": 2,
+    "options": [
+      1,
+      0,
+      2,
+      3
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 20,
+    "targetCount2": 18,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l17-q003",
+    "gameId": "level_17",
+    "type": "level_17",
+    "prompt": "10 - 3 = ?",
+    "correctAnswer": 7,
+    "options": [
+      7,
+      6,
+      4,
+      5
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 10,
+    "targetCount2": 3,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l17-q004",
+    "gameId": "level_17",
+    "type": "level_17",
+    "prompt": "Tính: 3 - 0 = ?",
+    "correctAnswer": 3,
+    "options": [
+      0,
+      3,
+      2,
+      1
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 3,
+    "targetCount2": 0,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l17-q005",
+    "gameId": "level_17",
+    "type": "level_17",
+    "prompt": "19 - 4 = ?",
+    "correctAnswer": 15,
+    "options": [
+      13,
+      12,
+      14,
+      15
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 19,
+    "targetCount2": 4,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l17-q006",
+    "gameId": "level_17",
+    "type": "level_17",
+    "prompt": "4 - 2 = ?",
+    "correctAnswer": 2,
+    "options": [
+      1,
+      0,
+      3,
+      2
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 4,
+    "targetCount2": 2,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l17-q007",
+    "gameId": "level_17",
+    "type": "level_17",
+    "prompt": "8 - 0 = ?",
+    "correctAnswer": 8,
+    "options": [
+      5,
+      7,
+      6,
+      8
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 8,
+    "targetCount2": 0,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l17-q008",
+    "gameId": "level_17",
+    "type": "level_17",
+    "prompt": "11 - 2 = ?",
+    "correctAnswer": 9,
+    "options": [
+      6,
+      9,
+      8,
+      7
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 11,
+    "targetCount2": 2,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l17-q009",
+    "gameId": "level_17",
+    "type": "level_17",
+    "prompt": "Tính: 12 - 8 = ?",
+    "correctAnswer": 4,
+    "options": [
+      2,
+      1,
+      3,
+      4
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 12,
+    "targetCount2": 8,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l17-q010",
+    "gameId": "level_17",
+    "type": "level_17",
+    "prompt": "Tính: 15 - 13 = ?",
+    "correctAnswer": 2,
+    "options": [
+      2,
+      3,
+      1,
+      0
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 15,
+    "targetCount2": 13,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l17-q011",
+    "gameId": "level_17",
+    "type": "level_17",
+    "prompt": "16 - 8 = ?",
+    "correctAnswer": 8,
+    "options": [
+      8,
+      7,
+      6,
+      5
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 16,
+    "targetCount2": 8,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l17-q012",
+    "gameId": "level_17",
+    "type": "level_17",
+    "prompt": "11 - 3 = ?",
+    "correctAnswer": 8,
+    "options": [
+      5,
+      7,
+      6,
+      8
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 11,
+    "targetCount2": 3,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l17-q013",
+    "gameId": "level_17",
+    "type": "level_17",
+    "prompt": "3 - 1 = ?",
+    "correctAnswer": 2,
+    "options": [
+      3,
+      1,
+      0,
+      2
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 3,
+    "targetCount2": 1,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l17-q014",
+    "gameId": "level_17",
+    "type": "level_17",
+    "prompt": "Tính: 19 - 9 = ?",
+    "correctAnswer": 10,
+    "options": [
+      9,
+      7,
+      10,
+      8
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 19,
+    "targetCount2": 9,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l17-q015",
+    "gameId": "level_17",
+    "type": "level_17",
+    "prompt": "6 - 3 = ?",
+    "correctAnswer": 3,
+    "options": [
+      1,
+      2,
+      3,
+      0
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 6,
+    "targetCount2": 3,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l17-q016",
+    "gameId": "level_17",
+    "type": "level_17",
+    "prompt": "Tính: 8 - 0 = ?",
+    "correctAnswer": 8,
+    "options": [
+      7,
+      8,
+      6,
+      5
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 8,
+    "targetCount2": 0,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l17-q017",
+    "gameId": "level_17",
+    "type": "level_17",
+    "prompt": "16 - 11 = ?",
+    "correctAnswer": 5,
+    "options": [
+      5,
+      3,
+      4,
+      2
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 16,
+    "targetCount2": 11,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l17-q018",
+    "gameId": "level_17",
+    "type": "level_17",
+    "prompt": "Tính: 12 - 11 = ?",
+    "correctAnswer": 1,
+    "options": [
+      0,
+      3,
+      2,
+      1
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 12,
+    "targetCount2": 11,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l17-q019",
+    "gameId": "level_17",
+    "type": "level_17",
+    "prompt": "4 - 0 = ?",
+    "correctAnswer": 4,
+    "options": [
+      3,
+      1,
+      4,
+      2
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 4,
+    "targetCount2": 0,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l17-q020",
+    "gameId": "level_17",
+    "type": "level_17",
+    "prompt": "Tính: 15 - 9 = ?",
+    "correctAnswer": 6,
+    "options": [
+      6,
+      3,
+      5,
+      4
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 15,
+    "targetCount2": 9,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l17-q021",
+    "gameId": "level_17",
+    "type": "level_17",
+    "prompt": "7 - 0 = ?",
+    "correctAnswer": 7,
+    "options": [
+      4,
+      7,
+      5,
+      6
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 7,
+    "targetCount2": 0,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l17-q022",
+    "gameId": "level_17",
+    "type": "level_17",
+    "prompt": "10 - 1 = ?",
+    "correctAnswer": 9,
+    "options": [
+      7,
+      8,
+      6,
+      9
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 10,
+    "targetCount2": 1,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l17-q023",
+    "gameId": "level_17",
+    "type": "level_17",
+    "prompt": "3 - 1 = ?",
+    "correctAnswer": 2,
+    "options": [
+      0,
+      2,
+      1,
+      3
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 3,
+    "targetCount2": 1,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l17-q024",
+    "gameId": "level_17",
+    "type": "level_17",
+    "prompt": "2 - 0 = ?",
+    "correctAnswer": 2,
+    "options": [
+      1,
+      3,
+      2,
+      0
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 2,
+    "targetCount2": 0,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l17-q025",
+    "gameId": "level_17",
+    "type": "level_17",
+    "prompt": "Tính: 12 - 2 = ?",
+    "correctAnswer": 10,
+    "options": [
+      8,
+      9,
+      10,
+      7
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 12,
+    "targetCount2": 2,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l17-q026",
+    "gameId": "level_17",
+    "type": "level_17",
+    "prompt": "Tính: 11 - 0 = ?",
+    "correctAnswer": 11,
+    "options": [
+      8,
+      11,
+      9,
+      10
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 11,
+    "targetCount2": 0,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l17-q027",
+    "gameId": "level_17",
+    "type": "level_17",
+    "prompt": "15 - 3 = ?",
+    "correctAnswer": 12,
+    "options": [
+      12,
+      9,
+      10,
+      11
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 15,
+    "targetCount2": 3,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l17-q028",
+    "gameId": "level_17",
+    "type": "level_17",
+    "prompt": "Tính: 9 - 4 = ?",
+    "correctAnswer": 5,
+    "options": [
+      3,
+      5,
+      4,
+      2
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 9,
+    "targetCount2": 4,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l17-q029",
+    "gameId": "level_17",
+    "type": "level_17",
+    "prompt": "12 - 3 = ?",
+    "correctAnswer": 9,
+    "options": [
+      7,
+      6,
+      8,
+      9
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 12,
+    "targetCount2": 3,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l17-q030",
+    "gameId": "level_17",
+    "type": "level_17",
+    "prompt": "Tính: 12 - 5 = ?",
+    "correctAnswer": 7,
+    "options": [
+      5,
+      7,
+      6,
+      4
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 12,
+    "targetCount2": 5,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l17-q031",
+    "gameId": "level_17",
+    "type": "level_17",
+    "prompt": "16 - 3 = ?",
+    "correctAnswer": 13,
+    "options": [
+      10,
+      13,
+      12,
+      11
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 16,
+    "targetCount2": 3,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l17-q032",
+    "gameId": "level_17",
+    "type": "level_17",
+    "prompt": "17 - 4 = ?",
+    "correctAnswer": 13,
+    "options": [
+      13,
+      11,
+      10,
+      12
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 17,
+    "targetCount2": 4,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l17-q033",
+    "gameId": "level_17",
+    "type": "level_17",
+    "prompt": "7 - 6 = ?",
+    "correctAnswer": 1,
+    "options": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 7,
+    "targetCount2": 6,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l17-q034",
+    "gameId": "level_17",
+    "type": "level_17",
+    "prompt": "Tính: 12 - 2 = ?",
+    "correctAnswer": 10,
+    "options": [
+      10,
+      7,
+      9,
+      8
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 12,
+    "targetCount2": 2,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l17-q035",
+    "gameId": "level_17",
+    "type": "level_17",
+    "prompt": "20 - 7 = ?",
+    "correctAnswer": 13,
+    "options": [
+      13,
+      11,
+      10,
+      12
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 20,
+    "targetCount2": 7,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l17-q036",
+    "gameId": "level_17",
+    "type": "level_17",
+    "prompt": "15 + 1 = ?",
+    "correctAnswer": 16,
+    "options": [
+      15,
+      13,
+      14,
+      16
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 15,
+    "targetCount2": 1,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l17-q037",
+    "gameId": "level_17",
+    "type": "level_17",
+    "prompt": "3 + 1 = ?",
+    "correctAnswer": 4,
+    "options": [
+      2,
+      1,
+      3,
+      4
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 3,
+    "targetCount2": 1,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l17-q038",
+    "gameId": "level_17",
+    "type": "level_17",
+    "prompt": "7 + 9 = ?",
+    "correctAnswer": 16,
+    "options": [
+      16,
+      13,
+      15,
+      14
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 7,
+    "targetCount2": 9,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l17-q039",
+    "gameId": "level_17",
+    "type": "level_17",
+    "prompt": "2 + 12 = ?",
+    "correctAnswer": 14,
+    "options": [
+      13,
+      12,
+      11,
+      14
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 2,
+    "targetCount2": 12,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l17-q040",
+    "gameId": "level_17",
+    "type": "level_17",
+    "prompt": "6 + 1 = ?",
+    "correctAnswer": 7,
+    "options": [
+      4,
+      5,
+      7,
+      6
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 6,
+    "targetCount2": 1,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l17-q041",
+    "gameId": "level_17",
+    "type": "level_17",
+    "prompt": "Tính: 13 + 3 = ?",
+    "correctAnswer": 16,
+    "options": [
+      15,
+      13,
+      16,
+      14
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 13,
+    "targetCount2": 3,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l17-q042",
+    "gameId": "level_17",
+    "type": "level_17",
+    "prompt": "Tính: 4 + 9 = ?",
+    "correctAnswer": 13,
+    "options": [
+      13,
+      11,
+      10,
+      12
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 4,
+    "targetCount2": 9,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l17-q043",
+    "gameId": "level_17",
+    "type": "level_17",
+    "prompt": "4 + 15 = ?",
+    "correctAnswer": 19,
+    "options": [
+      16,
+      17,
+      19,
+      18
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 4,
+    "targetCount2": 15,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l17-q044",
+    "gameId": "level_17",
+    "type": "level_17",
+    "prompt": "Tính: 11 + 3 = ?",
+    "correctAnswer": 14,
+    "options": [
+      12,
+      14,
+      13,
+      11
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 11,
+    "targetCount2": 3,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l17-q045",
+    "gameId": "level_17",
+    "type": "level_17",
+    "prompt": "1 + 13 = ?",
+    "correctAnswer": 14,
+    "options": [
+      14,
+      11,
+      12,
+      13
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 1,
+    "targetCount2": 13,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l17-q046",
+    "gameId": "level_17",
+    "type": "level_17",
+    "prompt": "12 và 6, số nào lớn hơn?",
+    "correctAnswer": 12,
+    "options": [
+      12,
+      11,
+      10,
+      9
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 12,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l17-q047",
+    "gameId": "level_17",
+    "type": "level_17",
+    "prompt": "Số nào lớn hơn: 9 hay 16?",
+    "correctAnswer": 16,
+    "options": [
+      15,
+      13,
+      16,
+      14
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 16,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l17-q048",
+    "gameId": "level_17",
+    "type": "level_17",
+    "prompt": "Số nào bé hơn: 19 hay 12?",
+    "correctAnswer": 12,
+    "options": [
+      10,
+      11,
+      9,
+      12
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 19,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l17-q049",
+    "gameId": "level_17",
+    "type": "level_17",
+    "prompt": "Số nào lớn hơn: 6 hay 16?",
+    "correctAnswer": 16,
+    "options": [
+      13,
+      15,
+      14,
+      16
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 16,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l17-q050",
+    "gameId": "level_17",
+    "type": "level_17",
+    "prompt": "2 và 5, số nào lớn hơn?",
+    "correctAnswer": 5,
+    "options": [
+      3,
+      4,
+      2,
+      5
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  }
 ]

@@ -1,952 +1,952 @@
 [
- {
-  "id": "l24-ai_coop_-1",
-  "gameId": "ai_coop_boss_battle",
-  "type": "ai_coop_boss_battle",
-  "prompt": "13 + 1 = ?",
-  "correctAnswer": 14,
-  "options": [
-   15,
-   12,
-   14,
-   17
-  ],
-  "objectIcon": "/sprites/apple.png",
-  "objectIcon2": "",
-  "targetCount": 13,
-  "targetCount2": 1,
-  "renderMode": "addition",
-  "displayPrompt": null
- },
- {
-  "id": "l24-std_flas-1",
-  "gameId": "std_flashcard_sprint",
-  "type": "std_flashcard_sprint",
-  "prompt": "Số nào lớn hơn: 6 hay 13?",
-  "correctAnswer": 13,
-  "options": [
-   11,
-   16,
-   14,
-   13
-  ],
-  "objectIcon": "/sprites/crown.png",
-  "objectIcon2": "",
-  "targetCount": 6,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l24-std_quiz-1",
-  "gameId": "std_quiz_ladder",
-  "type": "std_quiz_ladder",
-  "prompt": "12 + ? = 17",
-  "correctAnswer": 5,
-  "options": [
-   7,
-   5,
-   8,
-   2
-  ],
-  "objectIcon": "/sprites/lollipop.png",
-  "objectIcon2": "",
-  "targetCount": 12,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l24-ai_coop_-2",
-  "gameId": "ai_coop_boss_battle",
-  "type": "ai_coop_boss_battle",
-  "prompt": "12 - 11 = ?",
-  "correctAnswer": 1,
-  "options": [
-   3,
-   0,
-   1,
-   4
-  ],
-  "objectIcon": "/sprites/star.png",
-  "objectIcon2": "",
-  "targetCount": 12,
-  "targetCount2": 11,
-  "renderMode": "subtraction",
-  "displayPrompt": null
- },
- {
-  "id": "l24-std_flas-2",
-  "gameId": "std_flashcard_sprint",
-  "type": "std_flashcard_sprint",
-  "prompt": "11 + 7 = ?",
-  "correctAnswer": 18,
-  "options": [
-   18,
-   20,
-   17,
-   16
-  ],
-  "objectIcon": "/sprites/apple.png",
-  "objectIcon2": "",
-  "targetCount": 11,
-  "targetCount2": 7,
-  "renderMode": "addition",
-  "displayPrompt": null
- },
- {
-  "id": "l24-std_quiz-2",
-  "gameId": "std_quiz_ladder",
-  "type": "std_quiz_ladder",
-  "prompt": "Nam có 5 bóng, mẹ cho thêm 14. Có tất cả bao nhiêu?",
-  "correctAnswer": 19,
-  "options": [
-   16,
-   19,
-   22,
-   18
-  ],
-  "objectIcon": "/sprites/crown.png",
-  "objectIcon2": "",
-  "targetCount": 5,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l24-ai_coop_-3",
-  "gameId": "ai_coop_boss_battle",
-  "type": "ai_coop_boss_battle",
-  "prompt": "Đếm kẹo và chọn số đúng!",
-  "correctAnswer": 7,
-  "options": [
-   4,
-   7,
-   10,
-   8
-  ],
-  "objectIcon": "/sprites/candy.png",
-  "objectIcon2": "",
-  "targetCount": 7,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l24-std_flas-3",
-  "gameId": "std_flashcard_sprint",
-  "type": "std_flashcard_sprint",
-  "prompt": "18 - 9 = ?",
-  "correctAnswer": 9,
-  "options": [
-   12,
-   7,
-   8,
-   9
-  ],
-  "objectIcon": "/sprites/star.png",
-  "objectIcon2": "",
-  "targetCount": 18,
-  "targetCount2": 9,
-  "renderMode": "subtraction",
-  "displayPrompt": null
- },
- {
-  "id": "l24-std_quiz-3",
-  "gameId": "std_quiz_ladder",
-  "type": "std_quiz_ladder",
-  "prompt": "12 + 6 = ?",
-  "correctAnswer": 18,
-  "options": [
-   18,
-   21,
-   19,
-   20
-  ],
-  "objectIcon": "/sprites/apple.png",
-  "objectIcon2": "",
-  "targetCount": 12,
-  "targetCount2": 6,
-  "renderMode": "addition",
-  "displayPrompt": null
- },
- {
-  "id": "l24-ai_coop_-4",
-  "gameId": "ai_coop_boss_battle",
-  "type": "ai_coop_boss_battle",
-  "prompt": "Số nào lớn hơn: 2 hay 11?",
-  "correctAnswer": 11,
-  "options": [
-   11,
-   10,
-   12,
-   8
-  ],
-  "objectIcon": "/sprites/ball.png",
-  "objectIcon2": "",
-  "targetCount": 2,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l24-std_flas-4",
-  "gameId": "std_flashcard_sprint",
-  "type": "std_flashcard_sprint",
-  "prompt": "Số nào lớn hơn: 16 hay 18?",
-  "correctAnswer": 18,
-  "options": [
-   18,
-   16,
-   17,
-   20
-  ],
-  "objectIcon": "/sprites/candy.png",
-  "objectIcon2": "",
-  "targetCount": 16,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l24-std_quiz-4",
-  "gameId": "std_quiz_ladder",
-  "type": "std_quiz_ladder",
-  "prompt": "3 - 3 = ?",
-  "correctAnswer": 0,
-  "options": [
-   0,
-   2,
-   3,
-   1
-  ],
-  "objectIcon": "/sprites/star.png",
-  "objectIcon2": "",
-  "targetCount": 3,
-  "targetCount2": 3,
-  "renderMode": "subtraction",
-  "displayPrompt": null
- },
- {
-  "id": "l24-ai_coop_-5",
-  "gameId": "ai_coop_boss_battle",
-  "type": "ai_coop_boss_battle",
-  "prompt": "4 + ? = 8",
-  "correctAnswer": 4,
-  "options": [
-   3,
-   4,
-   5,
-   1
-  ],
-  "objectIcon": "/sprites/coin.png",
-  "objectIcon2": "",
-  "targetCount": 4,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l24-std_flas-5",
-  "gameId": "std_flashcard_sprint",
-  "type": "std_flashcard_sprint",
-  "prompt": "6 + 4 = ?",
-  "correctAnswer": 10,
-  "options": [
-   9,
-   10,
-   8,
-   11
-  ],
-  "objectIcon": "/sprites/ball.png",
-  "objectIcon2": "",
-  "targetCount": 6,
-  "targetCount2": 4,
-  "renderMode": "addition",
-  "displayPrompt": null
- },
- {
-  "id": "l24-std_quiz-5",
-  "gameId": "std_quiz_ladder",
-  "type": "std_quiz_ladder",
-  "prompt": "Đếm mèo và chọn số đúng!",
-  "correctAnswer": 6,
-  "options": [
-   4,
-   5,
-   6,
-   8
-  ],
-  "objectIcon": "/sprites/candy.png",
-  "objectIcon2": "",
-  "targetCount": 6,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l24-ai_coop_-6",
-  "gameId": "ai_coop_boss_battle",
-  "type": "ai_coop_boss_battle",
-  "prompt": "Nam có 12 hoa, mẹ cho thêm 1. Có tất cả bao nhiêu?",
-  "correctAnswer": 13,
-  "options": [
-   14,
-   10,
-   13,
-   12
-  ],
-  "objectIcon": "/sprites/flower.png",
-  "objectIcon2": "",
-  "targetCount": 12,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l24-std_flas-6",
-  "gameId": "std_flashcard_sprint",
-  "type": "std_flashcard_sprint",
-  "prompt": "6 - 4 = ?",
-  "correctAnswer": 2,
-  "options": [
-   2,
-   1,
-   0,
-   5
-  ],
-  "objectIcon": "/sprites/coin.png",
-  "objectIcon2": "",
-  "targetCount": 6,
-  "targetCount2": 4,
-  "renderMode": "subtraction",
-  "displayPrompt": null
- },
- {
-  "id": "l24-std_quiz-6",
-  "gameId": "std_quiz_ladder",
-  "type": "std_quiz_ladder",
-  "prompt": "Số nào lớn hơn: 17 hay 17?",
-  "correctAnswer": 17,
-  "options": [
-   14,
-   16,
-   20,
-   17
-  ],
-  "objectIcon": "/sprites/ball.png",
-  "objectIcon2": "",
-  "targetCount": 17,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l24-ai_coop_-7",
-  "gameId": "ai_coop_boss_battle",
-  "type": "ai_coop_boss_battle",
-  "prompt": "14 + 6 = ?",
-  "correctAnswer": 20,
-  "options": [
-   18,
-   20,
-   19,
-   23
-  ],
-  "objectIcon": "/sprites/cat.png",
-  "objectIcon2": "",
-  "targetCount": 14,
-  "targetCount2": 6,
-  "renderMode": "addition",
-  "displayPrompt": null
- },
- {
-  "id": "l24-std_flas-7",
-  "gameId": "std_flashcard_sprint",
-  "type": "std_flashcard_sprint",
-  "prompt": "Số nào lớn hơn: 8 hay 10?",
-  "correctAnswer": 10,
-  "options": [
-   13,
-   8,
-   10,
-   7
-  ],
-  "objectIcon": "/sprites/flower.png",
-  "objectIcon2": "",
-  "targetCount": 8,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l24-std_quiz-7",
-  "gameId": "std_quiz_ladder",
-  "type": "std_quiz_ladder",
-  "prompt": "14 + ? = 17",
-  "correctAnswer": 3,
-  "options": [
-   1,
-   3,
-   4,
-   2
-  ],
-  "objectIcon": "/sprites/coin.png",
-  "objectIcon2": "",
-  "targetCount": 14,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l24-ai_coop_-8",
-  "gameId": "ai_coop_boss_battle",
-  "type": "ai_coop_boss_battle",
-  "prompt": "14 - 12 = ?",
-  "correctAnswer": 2,
-  "options": [
-   5,
-   3,
-   0,
-   2
-  ],
-  "objectIcon": "/sprites/rabbit.png",
-  "objectIcon2": "",
-  "targetCount": 14,
-  "targetCount2": 12,
-  "renderMode": "subtraction",
-  "displayPrompt": null
- },
- {
-  "id": "l24-std_flas-8",
-  "gameId": "std_flashcard_sprint",
-  "type": "std_flashcard_sprint",
-  "prompt": "10 + 4 = ?",
-  "correctAnswer": 14,
-  "options": [
-   12,
-   13,
-   17,
-   14
-  ],
-  "objectIcon": "/sprites/cat.png",
-  "objectIcon2": "",
-  "targetCount": 10,
-  "targetCount2": 4,
-  "renderMode": "addition",
-  "displayPrompt": null
- },
- {
-  "id": "l24-std_quiz-8",
-  "gameId": "std_quiz_ladder",
-  "type": "std_quiz_ladder",
-  "prompt": "Nam có 5 ếch, mẹ cho thêm 1. Có tất cả bao nhiêu?",
-  "correctAnswer": 6,
-  "options": [
-   8,
-   3,
-   6,
-   5
-  ],
-  "objectIcon": "/sprites/flower.png",
-  "objectIcon2": "",
-  "targetCount": 5,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l24-ai_coop_-9",
-  "gameId": "ai_coop_boss_battle",
-  "type": "ai_coop_boss_battle",
-  "prompt": "Đếm kim cương và chọn số đúng!",
-  "correctAnswer": 3,
-  "options": [
-   5,
-   6,
-   1,
-   3
-  ],
-  "objectIcon": "/sprites/diamond.png",
-  "objectIcon2": "",
-  "targetCount": 3,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l24-std_flas-9",
-  "gameId": "std_flashcard_sprint",
-  "type": "std_flashcard_sprint",
-  "prompt": "2 - 1 = ?",
-  "correctAnswer": 1,
-  "options": [
-   0,
-   3,
-   1,
-   2
-  ],
-  "objectIcon": "/sprites/rabbit.png",
-  "objectIcon2": "",
-  "targetCount": 2,
-  "targetCount2": 1,
-  "renderMode": "subtraction",
-  "displayPrompt": null
- },
- {
-  "id": "l24-std_quiz-9",
-  "gameId": "std_quiz_ladder",
-  "type": "std_quiz_ladder",
-  "prompt": "1 + 19 = ?",
-  "correctAnswer": 20,
-  "options": [
-   17,
-   18,
-   20,
-   21
-  ],
-  "objectIcon": "/sprites/cat.png",
-  "objectIcon2": "",
-  "targetCount": 1,
-  "targetCount2": 19,
-  "renderMode": "addition",
-  "displayPrompt": null
- },
- {
-  "id": "l24-ai_coop_-10",
-  "gameId": "ai_coop_boss_battle",
-  "type": "ai_coop_boss_battle",
-  "prompt": "Số nào lớn hơn: 2 hay 8?",
-  "correctAnswer": 8,
-  "options": [
-   11,
-   6,
-   7,
-   8
-  ],
-  "objectIcon": "/sprites/frog.png",
-  "objectIcon2": "",
-  "targetCount": 2,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l24-std_flas-10",
-  "gameId": "std_flashcard_sprint",
-  "type": "std_flashcard_sprint",
-  "prompt": "Số nào lớn hơn: 8 hay 18?",
-  "correctAnswer": 18,
-  "options": [
-   20,
-   18,
-   15,
-   17
-  ],
-  "objectIcon": "/sprites/diamond.png",
-  "objectIcon2": "",
-  "targetCount": 8,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l24-std_quiz-10",
-  "gameId": "std_quiz_ladder",
-  "type": "std_quiz_ladder",
-  "prompt": "19 - 15 = ?",
-  "correctAnswer": 4,
-  "options": [
-   6,
-   1,
-   4,
-   7
-  ],
-  "objectIcon": "/sprites/rabbit.png",
-  "objectIcon2": "",
-  "targetCount": 19,
-  "targetCount2": 15,
-  "renderMode": "subtraction",
-  "displayPrompt": null
- },
- {
-  "id": "l24-ai_coop_-11",
-  "gameId": "ai_coop_boss_battle",
-  "type": "ai_coop_boss_battle",
-  "prompt": "6 + ? = 12",
-  "correctAnswer": 6,
-  "options": [
-   6,
-   3,
-   9,
-   7
-  ],
-  "objectIcon": "/sprites/carrot.png",
-  "objectIcon2": "",
-  "targetCount": 6,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l24-std_flas-11",
-  "gameId": "std_flashcard_sprint",
-  "type": "std_flashcard_sprint",
-  "prompt": "1 + 18 = ?",
-  "correctAnswer": 19,
-  "options": [
-   21,
-   19,
-   18,
-   22
-  ],
-  "objectIcon": "/sprites/frog.png",
-  "objectIcon2": "",
-  "targetCount": 1,
-  "targetCount2": 18,
-  "renderMode": "addition",
-  "displayPrompt": null
- },
- {
-  "id": "l24-std_quiz-11",
-  "gameId": "std_quiz_ladder",
-  "type": "std_quiz_ladder",
-  "prompt": "Đếm nấm và chọn số đúng!",
-  "correctAnswer": 7,
-  "options": [
-   7,
-   4,
-   10,
-   9
-  ],
-  "objectIcon": "/sprites/diamond.png",
-  "objectIcon2": "",
-  "targetCount": 7,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l24-ai_coop_-12",
-  "gameId": "ai_coop_boss_battle",
-  "type": "ai_coop_boss_battle",
-  "prompt": "Nam có 2 dâu, mẹ cho thêm 5. Có tất cả bao nhiêu?",
-  "correctAnswer": 7,
-  "options": [
-   6,
-   10,
-   7,
-   5
-  ],
-  "objectIcon": "/sprites/strawberry.png",
-  "objectIcon2": "",
-  "targetCount": 2,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l24-std_flas-12",
-  "gameId": "std_flashcard_sprint",
-  "type": "std_flashcard_sprint",
-  "prompt": "6 - 4 = ?",
-  "correctAnswer": 2,
-  "options": [
-   0,
-   5,
-   2,
-   1
-  ],
-  "objectIcon": "/sprites/carrot.png",
-  "objectIcon2": "",
-  "targetCount": 6,
-  "targetCount2": 4,
-  "renderMode": "subtraction",
-  "displayPrompt": null
- },
- {
-  "id": "l24-std_quiz-12",
-  "gameId": "std_quiz_ladder",
-  "type": "std_quiz_ladder",
-  "prompt": "Số nào lớn hơn: 10 hay 10?",
-  "correctAnswer": 10,
-  "options": [
-   9,
-   12,
-   11,
-   10
-  ],
-  "objectIcon": "/sprites/frog.png",
-  "objectIcon2": "",
-  "targetCount": 10,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l24-ai_coop_-13",
-  "gameId": "ai_coop_boss_battle",
-  "type": "ai_coop_boss_battle",
-  "prompt": "4 + 16 = ?",
-  "correctAnswer": 20,
-  "options": [
-   22,
-   20,
-   19,
-   21
-  ],
-  "objectIcon": "/sprites/mushroom.png",
-  "objectIcon2": "",
-  "targetCount": 4,
-  "targetCount2": 16,
-  "renderMode": "addition",
-  "displayPrompt": null
- },
- {
-  "id": "l24-std_flas-13",
-  "gameId": "std_flashcard_sprint",
-  "type": "std_flashcard_sprint",
-  "prompt": "Số nào lớn hơn: 16 hay 20?",
-  "correctAnswer": 20,
-  "options": [
-   20,
-   17,
-   18,
-   19
-  ],
-  "objectIcon": "/sprites/strawberry.png",
-  "objectIcon2": "",
-  "targetCount": 16,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l24-std_quiz-13",
-  "gameId": "std_quiz_ladder",
-  "type": "std_quiz_ladder",
-  "prompt": "6 + ? = 14",
-  "correctAnswer": 8,
-  "options": [
-   8,
-   7,
-   5,
-   9
-  ],
-  "objectIcon": "/sprites/carrot.png",
-  "objectIcon2": "",
-  "targetCount": 6,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l24-ai_coop_-14",
-  "gameId": "ai_coop_boss_battle",
-  "type": "ai_coop_boss_battle",
-  "prompt": "17 - 6 = ?",
-  "correctAnswer": 11,
-  "options": [
-   8,
-   11,
-   9,
-   12
-  ],
-  "objectIcon": "/sprites/fish.png",
-  "objectIcon2": "",
-  "targetCount": 17,
-  "targetCount2": 6,
-  "renderMode": "subtraction",
-  "displayPrompt": null
- },
- {
-  "id": "l24-std_flas-14",
-  "gameId": "std_flashcard_sprint",
-  "type": "std_flashcard_sprint",
-  "prompt": "10 + 3 = ?",
-  "correctAnswer": 13,
-  "options": [
-   14,
-   10,
-   13,
-   12
-  ],
-  "objectIcon": "/sprites/mushroom.png",
-  "objectIcon2": "",
-  "targetCount": 10,
-  "targetCount2": 3,
-  "renderMode": "addition",
-  "displayPrompt": null
- },
- {
-  "id": "l24-std_quiz-14",
-  "gameId": "std_quiz_ladder",
-  "type": "std_quiz_ladder",
-  "prompt": "Nam có 10 bánh, mẹ cho thêm 6. Có tất cả bao nhiêu?",
-  "correctAnswer": 16,
-  "options": [
-   16,
-   15,
-   14,
-   13
-  ],
-  "objectIcon": "/sprites/strawberry.png",
-  "objectIcon2": "",
-  "targetCount": 10,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l24-ai_coop_-15",
-  "gameId": "ai_coop_boss_battle",
-  "type": "ai_coop_boss_battle",
-  "prompt": "Đếm bướm và chọn số đúng!",
-  "correctAnswer": 6,
-  "options": [
-   9,
-   7,
-   6,
-   5
-  ],
-  "objectIcon": "/sprites/butterfly.png",
-  "objectIcon2": "",
-  "targetCount": 6,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l24-std_flas-15",
-  "gameId": "std_flashcard_sprint",
-  "type": "std_flashcard_sprint",
-  "prompt": "9 - 5 = ?",
-  "correctAnswer": 4,
-  "options": [
-   6,
-   5,
-   2,
-   4
-  ],
-  "objectIcon": "/sprites/fish.png",
-  "objectIcon2": "",
-  "targetCount": 9,
-  "targetCount2": 5,
-  "renderMode": "subtraction",
-  "displayPrompt": null
- },
- {
-  "id": "l24-std_quiz-15",
-  "gameId": "std_quiz_ladder",
-  "type": "std_quiz_ladder",
-  "prompt": "14 + 1 = ?",
-  "correctAnswer": 15,
-  "options": [
-   17,
-   13,
-   12,
-   15
-  ],
-  "objectIcon": "/sprites/mushroom.png",
-  "objectIcon2": "",
-  "targetCount": 14,
-  "targetCount2": 1,
-  "renderMode": "addition",
-  "displayPrompt": null
- },
- {
-  "id": "l24-ai_coop_-16",
-  "gameId": "ai_coop_boss_battle",
-  "type": "ai_coop_boss_battle",
-  "prompt": "Số nào lớn hơn: 11 hay 10?",
-  "correctAnswer": 11,
-  "options": [
-   10,
-   11,
-   12,
-   13
-  ],
-  "objectIcon": "/sprites/cupcake.png",
-  "objectIcon2": "",
-  "targetCount": 11,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l24-std_flas-16",
-  "gameId": "std_flashcard_sprint",
-  "type": "std_flashcard_sprint",
-  "prompt": "Số nào lớn hơn: 17 hay 9?",
-  "correctAnswer": 17,
-  "options": [
-   20,
-   15,
-   17,
-   18
-  ],
-  "objectIcon": "/sprites/butterfly.png",
-  "objectIcon2": "",
-  "targetCount": 17,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l24-std_quiz-16",
-  "gameId": "std_quiz_ladder",
-  "type": "std_quiz_ladder",
-  "prompt": "7 - 7 = ?",
-  "correctAnswer": 0,
-  "options": [
-   3,
-   0,
-   2,
-   1
-  ],
-  "objectIcon": "/sprites/fish.png",
-  "objectIcon2": "",
-  "targetCount": 7,
-  "targetCount2": 7,
-  "renderMode": "subtraction",
-  "displayPrompt": null
- },
- {
-  "id": "l24-ai_coop_-17",
-  "gameId": "ai_coop_boss_battle",
-  "type": "ai_coop_boss_battle",
-  "prompt": "12 + ? = 17",
-  "correctAnswer": 5,
-  "options": [
-   4,
-   3,
-   5,
-   2
-  ],
-  "objectIcon": "/sprites/lollipop.png",
-  "objectIcon2": "",
-  "targetCount": 12,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l24-std_flas-17",
-  "gameId": "std_flashcard_sprint",
-  "type": "std_flashcard_sprint",
-  "prompt": "8 + 7 = ?",
-  "correctAnswer": 15,
-  "options": [
-   15,
-   14,
-   17,
-   18
-  ],
-  "objectIcon": "/sprites/cupcake.png",
-  "objectIcon2": "",
-  "targetCount": 8,
-  "targetCount2": 7,
-  "renderMode": "addition",
-  "displayPrompt": null
- }
+  {
+    "id": "l24-q001",
+    "gameId": "level_24",
+    "type": "level_24",
+    "prompt": "Lan nhặt được 16 quả bóng rồi nhặt thêm 3 quả bóng. Có tất cả mấy quả bóng?",
+    "correctAnswer": 19,
+    "options": [
+      19,
+      16,
+      17,
+      18
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 16,
+    "targetCount2": 3,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l24-q002",
+    "gameId": "level_24",
+    "type": "level_24",
+    "prompt": "Buổi sáng có 7 tờ giấy, buổi chiều thêm 3 tờ giấy. Tất cả là bao nhiêu?",
+    "correctAnswer": 10,
+    "options": [
+      8,
+      10,
+      7,
+      9
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 7,
+    "targetCount2": 3,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l24-q003",
+    "gameId": "level_24",
+    "type": "level_24",
+    "prompt": "Buổi sáng có 4 tờ giấy, buổi chiều thêm 3 tờ giấy. Tất cả là bao nhiêu?",
+    "correctAnswer": 7,
+    "options": [
+      4,
+      5,
+      7,
+      6
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 4,
+    "targetCount2": 3,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l24-q004",
+    "gameId": "level_24",
+    "type": "level_24",
+    "prompt": "Minh nhặt được 3 viên bi rồi nhặt thêm 1 viên bi. Có tất cả mấy viên bi?",
+    "correctAnswer": 4,
+    "options": [
+      1,
+      4,
+      2,
+      3
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 3,
+    "targetCount2": 1,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l24-q005",
+    "gameId": "level_24",
+    "type": "level_24",
+    "prompt": "Buổi sáng có 5 bông hoa, buổi chiều thêm 5 bông hoa. Tất cả là bao nhiêu?",
+    "correctAnswer": 10,
+    "options": [
+      7,
+      10,
+      9,
+      8
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 5,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l24-q006",
+    "gameId": "level_24",
+    "type": "level_24",
+    "prompt": "Minh có 12 tờ giấy, mẹ cho thêm 7. Có tất cả bao nhiêu?",
+    "correctAnswer": 19,
+    "options": [
+      18,
+      19,
+      16,
+      17
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 12,
+    "targetCount2": 7,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l24-q007",
+    "gameId": "level_24",
+    "type": "level_24",
+    "prompt": "Nam có 15 quyển sách, mẹ cho thêm 3. Có tất cả bao nhiêu?",
+    "correctAnswer": 18,
+    "options": [
+      17,
+      16,
+      15,
+      18
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 15,
+    "targetCount2": 3,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l24-q008",
+    "gameId": "level_24",
+    "type": "level_24",
+    "prompt": "Bình nhặt được 6 quả bóng rồi nhặt thêm 10 quả bóng. Có tất cả mấy quả bóng?",
+    "correctAnswer": 16,
+    "options": [
+      14,
+      15,
+      13,
+      16
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 6,
+    "targetCount2": 10,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l24-q009",
+    "gameId": "level_24",
+    "type": "level_24",
+    "prompt": "Hoa có 17 viên bi, mẹ cho thêm 2. Có tất cả bao nhiêu?",
+    "correctAnswer": 19,
+    "options": [
+      16,
+      17,
+      19,
+      18
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 17,
+    "targetCount2": 2,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l24-q010",
+    "gameId": "level_24",
+    "type": "level_24",
+    "prompt": "Hoa nhặt được 12 quyển sách rồi nhặt thêm 4 quyển sách. Có tất cả mấy quyển sách?",
+    "correctAnswer": 16,
+    "options": [
+      14,
+      13,
+      16,
+      15
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 12,
+    "targetCount2": 4,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l24-q011",
+    "gameId": "level_24",
+    "type": "level_24",
+    "prompt": "Minh có 5 quyển sách, mẹ cho thêm 14. Có tất cả bao nhiêu?",
+    "correctAnswer": 19,
+    "options": [
+      17,
+      19,
+      16,
+      18
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 14,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l24-q012",
+    "gameId": "level_24",
+    "type": "level_24",
+    "prompt": "Buổi sáng có 11 kẹo, buổi chiều thêm 4 kẹo. Tất cả là bao nhiêu?",
+    "correctAnswer": 15,
+    "options": [
+      14,
+      12,
+      15,
+      13
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 11,
+    "targetCount2": 4,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l24-q013",
+    "gameId": "level_24",
+    "type": "level_24",
+    "prompt": "Hoa nhặt được 9 kẹo rồi nhặt thêm 3 kẹo. Có tất cả mấy kẹo?",
+    "correctAnswer": 12,
+    "options": [
+      10,
+      11,
+      12,
+      9
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 9,
+    "targetCount2": 3,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l24-q014",
+    "gameId": "level_24",
+    "type": "level_24",
+    "prompt": "Buổi sáng có 8 viên bi, buổi chiều thêm 2 viên bi. Tất cả là bao nhiêu?",
+    "correctAnswer": 10,
+    "options": [
+      10,
+      7,
+      8,
+      9
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 8,
+    "targetCount2": 2,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l24-q015",
+    "gameId": "level_24",
+    "type": "level_24",
+    "prompt": "Buổi sáng có 16 viên bi, buổi chiều thêm 3 viên bi. Tất cả là bao nhiêu?",
+    "correctAnswer": 19,
+    "options": [
+      18,
+      17,
+      16,
+      19
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 16,
+    "targetCount2": 3,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l24-q016",
+    "gameId": "level_24",
+    "type": "level_24",
+    "prompt": "Buổi sáng có 14 chiếc lá, buổi chiều thêm 2 chiếc lá. Tất cả là bao nhiêu?",
+    "correctAnswer": 16,
+    "options": [
+      14,
+      13,
+      15,
+      16
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 14,
+    "targetCount2": 2,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l24-q017",
+    "gameId": "level_24",
+    "type": "level_24",
+    "prompt": "Buổi sáng có 11 táo, buổi chiều thêm 1 táo. Tất cả là bao nhiêu?",
+    "correctAnswer": 12,
+    "options": [
+      12,
+      11,
+      10,
+      9
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 11,
+    "targetCount2": 1,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l24-q018",
+    "gameId": "level_24",
+    "type": "level_24",
+    "prompt": "Buổi sáng có 3 chiếc lá, buổi chiều thêm 7 chiếc lá. Tất cả là bao nhiêu?",
+    "correctAnswer": 10,
+    "options": [
+      10,
+      9,
+      8,
+      7
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 3,
+    "targetCount2": 7,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l24-q019",
+    "gameId": "level_24",
+    "type": "level_24",
+    "prompt": "Mai có 18 quả bóng, mẹ cho thêm 1. Có tất cả bao nhiêu?",
+    "correctAnswer": 19,
+    "options": [
+      16,
+      19,
+      18,
+      17
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 18,
+    "targetCount2": 1,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l24-q020",
+    "gameId": "level_24",
+    "type": "level_24",
+    "prompt": "Bình có 7 quả bóng, mẹ cho thêm 4. Có tất cả bao nhiêu?",
+    "correctAnswer": 11,
+    "options": [
+      10,
+      8,
+      9,
+      11
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 7,
+    "targetCount2": 4,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l24-q021",
+    "gameId": "level_24",
+    "type": "level_24",
+    "prompt": "Buổi sáng có 18 chiếc lá, buổi chiều thêm 1 chiếc lá. Tất cả là bao nhiêu?",
+    "correctAnswer": 19,
+    "options": [
+      18,
+      16,
+      19,
+      17
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 18,
+    "targetCount2": 1,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l24-q022",
+    "gameId": "level_24",
+    "type": "level_24",
+    "prompt": "Buổi sáng có 1 tờ giấy, buổi chiều thêm 5 tờ giấy. Tất cả là bao nhiêu?",
+    "correctAnswer": 6,
+    "options": [
+      4,
+      5,
+      6,
+      3
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 1,
+    "targetCount2": 5,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l24-q023",
+    "gameId": "level_24",
+    "type": "level_24",
+    "prompt": "Buổi sáng có 7 bông hoa, buổi chiều thêm 7 bông hoa. Tất cả là bao nhiêu?",
+    "correctAnswer": 14,
+    "options": [
+      14,
+      13,
+      11,
+      12
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 7,
+    "targetCount2": 7,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l24-q024",
+    "gameId": "level_24",
+    "type": "level_24",
+    "prompt": "Lan có 5 tờ giấy, mẹ cho thêm 3. Có tất cả bao nhiêu?",
+    "correctAnswer": 8,
+    "options": [
+      7,
+      6,
+      8,
+      5
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 3,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l24-q025",
+    "gameId": "level_24",
+    "type": "level_24",
+    "prompt": "Buổi sáng có 9 quyển sách, buổi chiều thêm 2 quyển sách. Tất cả là bao nhiêu?",
+    "correctAnswer": 11,
+    "options": [
+      11,
+      9,
+      8,
+      10
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 9,
+    "targetCount2": 2,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l24-q026",
+    "gameId": "level_24",
+    "type": "level_24",
+    "prompt": "Hộp có 8 viên bi, lấy ra 2. Còn lại bao nhiêu?",
+    "correctAnswer": 6,
+    "options": [
+      3,
+      5,
+      4,
+      6
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 8,
+    "targetCount2": 2,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l24-q027",
+    "gameId": "level_24",
+    "type": "level_24",
+    "prompt": "Minh có 12 táo, cho bạn 2. Còn lại bao nhiêu?",
+    "correctAnswer": 10,
+    "options": [
+      7,
+      9,
+      10,
+      8
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 12,
+    "targetCount2": 2,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l24-q028",
+    "gameId": "level_24",
+    "type": "level_24",
+    "prompt": "Minh có 9 bông hoa, cho bạn 5. Còn lại bao nhiêu?",
+    "correctAnswer": 4,
+    "options": [
+      1,
+      4,
+      2,
+      3
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 9,
+    "targetCount2": 5,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l24-q029",
+    "gameId": "level_24",
+    "type": "level_24",
+    "prompt": "Có 14 táo, dùng hết 1. Còn lại mấy táo?",
+    "correctAnswer": 13,
+    "options": [
+      10,
+      11,
+      13,
+      12
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 14,
+    "targetCount2": 1,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l24-q030",
+    "gameId": "level_24",
+    "type": "level_24",
+    "prompt": "Linh có 18 chiếc lá, cho bạn 11. Còn lại bao nhiêu?",
+    "correctAnswer": 7,
+    "options": [
+      7,
+      6,
+      4,
+      5
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 18,
+    "targetCount2": 11,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l24-q031",
+    "gameId": "level_24",
+    "type": "level_24",
+    "prompt": "Có 14 viên bi, dùng hết 10. Còn lại mấy viên bi?",
+    "correctAnswer": 4,
+    "options": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 14,
+    "targetCount2": 10,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l24-q032",
+    "gameId": "level_24",
+    "type": "level_24",
+    "prompt": "Hộp có 10 quyển sách, lấy ra 1. Còn lại bao nhiêu?",
+    "correctAnswer": 9,
+    "options": [
+      7,
+      9,
+      8,
+      6
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 10,
+    "targetCount2": 1,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l24-q033",
+    "gameId": "level_24",
+    "type": "level_24",
+    "prompt": "Có 8 táo, dùng hết 4. Còn lại mấy táo?",
+    "correctAnswer": 4,
+    "options": [
+      2,
+      4,
+      1,
+      3
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 8,
+    "targetCount2": 4,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l24-q034",
+    "gameId": "level_24",
+    "type": "level_24",
+    "prompt": "Có 11 táo, dùng hết 9. Còn lại mấy táo?",
+    "correctAnswer": 2,
+    "options": [
+      0,
+      2,
+      1,
+      3
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 11,
+    "targetCount2": 9,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l24-q035",
+    "gameId": "level_24",
+    "type": "level_24",
+    "prompt": "Linh có 5 bông hoa, cho bạn 4. Còn lại bao nhiêu?",
+    "correctAnswer": 1,
+    "options": [
+      2,
+      0,
+      3,
+      1
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 4,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l24-q036",
+    "gameId": "level_24",
+    "type": "level_24",
+    "prompt": "Có 2 quả bóng, dùng hết 1. Còn lại mấy quả bóng?",
+    "correctAnswer": 1,
+    "options": [
+      2,
+      3,
+      0,
+      1
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 2,
+    "targetCount2": 1,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l24-q037",
+    "gameId": "level_24",
+    "type": "level_24",
+    "prompt": "Hộp có 14 tờ giấy, lấy ra 8. Còn lại bao nhiêu?",
+    "correctAnswer": 6,
+    "options": [
+      4,
+      6,
+      3,
+      5
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 14,
+    "targetCount2": 8,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l24-q038",
+    "gameId": "level_24",
+    "type": "level_24",
+    "prompt": "Có 15 bông hoa, dùng hết 6. Còn lại mấy bông hoa?",
+    "correctAnswer": 9,
+    "options": [
+      6,
+      8,
+      9,
+      7
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 15,
+    "targetCount2": 6,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l24-q039",
+    "gameId": "level_24",
+    "type": "level_24",
+    "prompt": "Bình có 3 kẹo, cho bạn 2. Còn lại bao nhiêu?",
+    "correctAnswer": 1,
+    "options": [
+      0,
+      1,
+      3,
+      2
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 3,
+    "targetCount2": 2,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l24-q040",
+    "gameId": "level_24",
+    "type": "level_24",
+    "prompt": "Hộp có 6 bông hoa, lấy ra 1. Còn lại bao nhiêu?",
+    "correctAnswer": 5,
+    "options": [
+      5,
+      4,
+      3,
+      2
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 6,
+    "targetCount2": 1,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l24-q041",
+    "gameId": "level_24",
+    "type": "level_24",
+    "prompt": "Có 14 quyển sách, dùng hết 5. Còn lại mấy quyển sách?",
+    "correctAnswer": 9,
+    "options": [
+      6,
+      9,
+      8,
+      7
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 14,
+    "targetCount2": 5,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l24-q042",
+    "gameId": "level_24",
+    "type": "level_24",
+    "prompt": "Có 16 kẹo, dùng hết 5. Còn lại mấy kẹo?",
+    "correctAnswer": 11,
+    "options": [
+      9,
+      8,
+      10,
+      11
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 16,
+    "targetCount2": 5,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l24-q043",
+    "gameId": "level_24",
+    "type": "level_24",
+    "prompt": "Hộp có 19 bông hoa, lấy ra 16. Còn lại bao nhiêu?",
+    "correctAnswer": 3,
+    "options": [
+      3,
+      0,
+      2,
+      1
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 19,
+    "targetCount2": 16,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l24-q044",
+    "gameId": "level_24",
+    "type": "level_24",
+    "prompt": "Có 11 kẹo, dùng hết 1. Còn lại mấy kẹo?",
+    "correctAnswer": 10,
+    "options": [
+      9,
+      7,
+      8,
+      10
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 11,
+    "targetCount2": 1,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l24-q045",
+    "gameId": "level_24",
+    "type": "level_24",
+    "prompt": "Linh có 3 quyển sách, cho bạn 2. Còn lại bao nhiêu?",
+    "correctAnswer": 1,
+    "options": [
+      1,
+      3,
+      0,
+      2
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 3,
+    "targetCount2": 2,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l24-q046",
+    "gameId": "level_24",
+    "type": "level_24",
+    "prompt": "Số nào lớn hơn: 5 hay 2?",
+    "correctAnswer": 5,
+    "options": [
+      4,
+      2,
+      5,
+      3
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l24-q047",
+    "gameId": "level_24",
+    "type": "level_24",
+    "prompt": "2 và 9, số nào lớn hơn?",
+    "correctAnswer": 9,
+    "options": [
+      7,
+      6,
+      8,
+      9
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 9,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l24-q048",
+    "gameId": "level_24",
+    "type": "level_24",
+    "prompt": "Số nào lớn hơn: 15 hay 17?",
+    "correctAnswer": 17,
+    "options": [
+      14,
+      16,
+      17,
+      15
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 17,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l24-q049",
+    "gameId": "level_24",
+    "type": "level_24",
+    "prompt": "9 và 7, số nào lớn hơn?",
+    "correctAnswer": 9,
+    "options": [
+      7,
+      6,
+      8,
+      9
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 9,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l24-q050",
+    "gameId": "level_24",
+    "type": "level_24",
+    "prompt": "Số nào lớn hơn: 1 hay 20?",
+    "correctAnswer": 20,
+    "options": [
+      20,
+      19,
+      18,
+      17
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 20,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  }
 ]

@@ -1,321 +1,568 @@
 [
   {
-    "id": "l26-std_erro-1",
-    "gameId": "std_error_clinic",
-    "type": "std_error_clinic",
-    "prompt": "1 + 13 = ?",
+    "id": "l26-q001",
+    "gameId": "level_26",
+    "type": "level_26",
+    "prompt": "Tính: 10 + 4 = ?",
     "correctAnswer": 14,
     "options": [
-      13,
       12,
+      11,
+      13,
+      14
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 10,
+    "targetCount2": 4,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l26-q002",
+    "gameId": "level_26",
+    "type": "level_26",
+    "prompt": "8 + 6 = ?",
+    "correctAnswer": 14,
+    "options": [
       14,
+      12,
+      11,
+      13
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 8,
+    "targetCount2": 6,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l26-q003",
+    "gameId": "level_26",
+    "type": "level_26",
+    "prompt": "15 + 4 = ?",
+    "correctAnswer": 19,
+    "options": [
+      17,
+      16,
+      19,
+      18
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 15,
+    "targetCount2": 4,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l26-q004",
+    "gameId": "level_26",
+    "type": "level_26",
+    "prompt": "9 + 10 = ?",
+    "correctAnswer": 19,
+    "options": [
+      19,
+      17,
+      16,
+      18
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 9,
+    "targetCount2": 10,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l26-q005",
+    "gameId": "level_26",
+    "type": "level_26",
+    "prompt": "Tính: 19 + 1 = ?",
+    "correctAnswer": 20,
+    "options": [
+      18,
+      20,
+      19,
       17
     ],
-    "objectIcon": "/sprites/apple.png",
+    "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
-    "targetCount": 1,
+    "targetCount": 19,
+    "targetCount2": 1,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l26-q006",
+    "gameId": "level_26",
+    "type": "level_26",
+    "prompt": "6 + 13 = ?",
+    "correctAnswer": 19,
+    "options": [
+      18,
+      16,
+      17,
+      19
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 6,
     "targetCount2": 13,
     "renderMode": "addition",
     "displayPrompt": null
   },
   {
-    "id": "l26-std_mini-1",
-    "gameId": "std_mini_exam",
-    "type": "std_mini_exam",
-    "prompt": "Đếm sao và chọn số đúng!",
-    "correctAnswer": 9,
+    "id": "l26-q007",
+    "gameId": "level_26",
+    "type": "level_26",
+    "prompt": "Tính: 9 + 10 = ?",
+    "correctAnswer": 19,
     "options": [
-      6,
-      10,
-      12,
-      9
+      17,
+      19,
+      18,
+      16
     ],
-    "objectIcon": "/sprites/crown.png",
+    "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
     "targetCount": 9,
-    "targetCount2": 0,
-    "renderMode": "single",
+    "targetCount2": 10,
+    "renderMode": "addition",
     "displayPrompt": null
   },
   {
-    "id": "l26-std_pare-1",
-    "gameId": "std_parent_assignment",
-    "type": "std_parent_assignment",
-    "prompt": "8 + 4",
+    "id": "l26-q008",
+    "gameId": "level_26",
+    "type": "level_26",
+    "prompt": "9 + 3 = ?",
     "correctAnswer": 12,
     "options": [
-      12,
-      15,
-      13,
-      11
+      10,
+      9,
+      11,
+      12
     ],
-    "objectIcon": "/sprites/lollipop.png",
+    "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
-    "targetCount": 8,
-    "targetCount2": 0,
-    "renderMode": "single",
+    "targetCount": 9,
+    "targetCount2": 3,
+    "renderMode": "addition",
     "displayPrompt": null
   },
   {
-    "id": "l26-std_erro-2",
-    "gameId": "std_error_clinic",
-    "type": "std_error_clinic",
-    "prompt": "3 - 2 = ?",
-    "correctAnswer": 1,
+    "id": "l26-q009",
+    "gameId": "level_26",
+    "type": "level_26",
+    "prompt": "7 + 10 = ?",
+    "correctAnswer": 17,
+    "options": [
+      16,
+      17,
+      15,
+      14
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 7,
+    "targetCount2": 10,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l26-q010",
+    "gameId": "level_26",
+    "type": "level_26",
+    "prompt": "6 + 12 = ?",
+    "correctAnswer": 18,
+    "options": [
+      18,
+      17,
+      16,
+      15
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 6,
+    "targetCount2": 12,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l26-q011",
+    "gameId": "level_26",
+    "type": "level_26",
+    "prompt": "6 - 2 = ?",
+    "correctAnswer": 4,
+    "options": [
+      3,
+      2,
+      1,
+      4
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 6,
+    "targetCount2": 2,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l26-q012",
+    "gameId": "level_26",
+    "type": "level_26",
+    "prompt": "Tính: 12 - 9 = ?",
+    "correctAnswer": 3,
+    "options": [
+      1,
+      3,
+      0,
+      2
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 12,
+    "targetCount2": 9,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l26-q013",
+    "gameId": "level_26",
+    "type": "level_26",
+    "prompt": "Tính: 13 - 10 = ?",
+    "correctAnswer": 3,
     "options": [
       2,
       1,
       3,
       0
     ],
-    "objectIcon": "/sprites/star.png",
-    "objectIcon2": "",
-    "targetCount": 3,
-    "targetCount2": 2,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l26-std_mini-2",
-    "gameId": "std_mini_exam",
-    "type": "std_mini_exam",
-    "prompt": "8 + 2 = ?",
-    "correctAnswer": 10,
-    "options": [
-      8,
-      10,
-      12,
-      13
-    ],
-    "objectIcon": "/sprites/apple.png",
-    "objectIcon2": "",
-    "targetCount": 8,
-    "targetCount2": 2,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l26-std_pare-2",
-    "gameId": "std_parent_assignment",
-    "type": "std_parent_assignment",
-    "prompt": "Hãy giải: có 14 quả, ăn 2 quả. Còn lại?",
-    "correctAnswer": 12,
-    "options": [
-      13,
-      14,
-      12,
-      10
-    ],
-    "objectIcon": "/sprites/crown.png",
-    "objectIcon2": "",
-    "targetCount": 12,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l26-std_erro-3",
-    "gameId": "std_error_clinic",
-    "type": "std_error_clinic",
-    "prompt": "13 + 1 = ?",
-    "correctAnswer": 14,
-    "options": [
-      14,
-      11,
-      13,
-      17
-    ],
-    "objectIcon": "/sprites/candy.png",
+    "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
     "targetCount": 13,
-    "targetCount2": 1,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l26-std_mini-3",
-    "gameId": "std_mini_exam",
-    "type": "std_mini_exam",
-    "prompt": "7 - 5 = ?",
-    "correctAnswer": 2,
-    "options": [
-      4,
-      2,
-      0,
-      1
-    ],
-    "objectIcon": "/sprites/star.png",
-    "objectIcon2": "",
-    "targetCount": 7,
-    "targetCount2": 5,
+    "targetCount2": 10,
     "renderMode": "subtraction",
     "displayPrompt": null
   },
   {
-    "id": "l26-std_pare-3",
-    "gameId": "std_parent_assignment",
-    "type": "std_parent_assignment",
-    "prompt": "5 + 5 = ?",
-    "correctAnswer": 10,
-    "options": [
-      12,
-      10,
-      8,
-      13
-    ],
-    "objectIcon": "/sprites/apple.png",
-    "objectIcon2": "",
-    "targetCount": 5,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l26-std_erro-4",
-    "gameId": "std_error_clinic",
-    "type": "std_error_clinic",
-    "prompt": "17 - 15 = ?",
-    "correctAnswer": 2,
+    "id": "l26-q014",
+    "gameId": "level_26",
+    "type": "level_26",
+    "prompt": "20 - 15 = ?",
+    "correctAnswer": 5,
     "options": [
       3,
-      0,
-      2,
-      4
+      4,
+      5,
+      2
     ],
-    "objectIcon": "/sprites/ball.png",
+    "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
-    "targetCount": 17,
+    "targetCount": 20,
     "targetCount2": 15,
     "renderMode": "subtraction",
     "displayPrompt": null
   },
   {
-    "id": "l26-std_mini-4",
-    "gameId": "std_mini_exam",
-    "type": "std_mini_exam",
-    "prompt": "Đếm xu và chọn số đúng!",
-    "correctAnswer": 3,
-    "options": [
-      3,
-      1,
-      2,
-      5
-    ],
-    "objectIcon": "/sprites/candy.png",
-    "objectIcon2": "",
-    "targetCount": 3,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l26-std_pare-4",
-    "gameId": "std_parent_assignment",
-    "type": "std_parent_assignment",
-    "prompt": "19 - 11 = ?",
-    "correctAnswer": 8,
-    "options": [
-      11,
-      8,
-      6,
-      9
-    ],
-    "objectIcon": "/sprites/star.png",
-    "objectIcon2": "",
-    "targetCount": 8,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l26-std_erro-5",
-    "gameId": "std_error_clinic",
-    "type": "std_error_clinic",
-    "prompt": "4 + 3 = ?",
-    "correctAnswer": 7,
-    "options": [
-      9,
-      7,
-      10,
-      6
-    ],
-    "objectIcon": "/sprites/coin.png",
-    "objectIcon2": "",
-    "targetCount": 4,
-    "targetCount2": 3,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l26-std_mini-5",
-    "gameId": "std_mini_exam",
-    "type": "std_mini_exam",
-    "prompt": "10 + 8 = ?",
-    "correctAnswer": 18,
-    "options": [
-      18,
-      16,
-      15,
-      21
-    ],
-    "objectIcon": "/sprites/ball.png",
-    "objectIcon2": "",
-    "targetCount": 10,
-    "targetCount2": 8,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l26-std_pare-5",
-    "gameId": "std_parent_assignment",
-    "type": "std_parent_assignment",
-    "prompt": "4 + 5",
+    "id": "l26-q015",
+    "gameId": "level_26",
+    "type": "level_26",
+    "prompt": "20 - 11 = ?",
     "correctAnswer": 9,
     "options": [
-      9,
-      12,
       7,
-      11
+      8,
+      9,
+      6
     ],
-    "objectIcon": "/sprites/candy.png",
+    "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
-    "targetCount": 4,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l26-std_erro-6",
-    "gameId": "std_error_clinic",
-    "type": "std_error_clinic",
-    "prompt": "4 - 3 = ?",
-    "correctAnswer": 1,
-    "options": [
-      2,
-      1,
-      4,
-      0
-    ],
-    "objectIcon": "/sprites/flower.png",
-    "objectIcon2": "",
-    "targetCount": 4,
-    "targetCount2": 3,
+    "targetCount": 20,
+    "targetCount2": 11,
     "renderMode": "subtraction",
     "displayPrompt": null
   },
   {
-    "id": "l26-std_mini-6",
-    "gameId": "std_mini_exam",
-    "type": "std_mini_exam",
-    "prompt": "6 - 5 = ?",
-    "correctAnswer": 1,
+    "id": "l26-q016",
+    "gameId": "level_26",
+    "type": "level_26",
+    "prompt": "Tính: 7 - 2 = ?",
+    "correctAnswer": 5,
     "options": [
+      3,
       4,
-      1,
       2,
+      5
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 7,
+    "targetCount2": 2,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l26-q017",
+    "gameId": "level_26",
+    "type": "level_26",
+    "prompt": "Tính: 12 - 4 = ?",
+    "correctAnswer": 8,
+    "options": [
+      5,
+      8,
+      6,
+      7
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 12,
+    "targetCount2": 4,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l26-q018",
+    "gameId": "level_26",
+    "type": "level_26",
+    "prompt": "Tính: 10 - 1 = ?",
+    "correctAnswer": 9,
+    "options": [
+      6,
+      8,
+      9,
+      7
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 10,
+    "targetCount2": 1,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l26-q019",
+    "gameId": "level_26",
+    "type": "level_26",
+    "prompt": "Tính: 19 - 1 = ?",
+    "correctAnswer": 18,
+    "options": [
+      16,
+      17,
+      15,
+      18
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 19,
+    "targetCount2": 1,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l26-q020",
+    "gameId": "level_26",
+    "type": "level_26",
+    "prompt": "Tính: 10 - 7 = ?",
+    "correctAnswer": 3,
+    "options": [
+      0,
+      2,
+      3,
+      1
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 10,
+    "targetCount2": 7,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l26-q021",
+    "gameId": "level_26",
+    "type": "level_26",
+    "prompt": "Minh có 13 táo, mẹ cho thêm 4. Có tất cả bao nhiêu?",
+    "correctAnswer": 17,
+    "options": [
+      14,
+      15,
+      16,
+      17
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 13,
+    "targetCount2": 4,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l26-q022",
+    "gameId": "level_26",
+    "type": "level_26",
+    "prompt": "Hoa nhặt được 1 chiếc lá rồi nhặt thêm 5 chiếc lá. Có tất cả mấy chiếc lá?",
+    "correctAnswer": 6,
+    "options": [
+      6,
+      4,
+      5,
       3
     ],
-    "objectIcon": "/sprites/coin.png",
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 1,
+    "targetCount2": 5,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l26-q023",
+    "gameId": "level_26",
+    "type": "level_26",
+    "prompt": "Lan có 2 chiếc lá, mẹ cho thêm 11. Có tất cả bao nhiêu?",
+    "correctAnswer": 13,
+    "options": [
+      11,
+      12,
+      10,
+      13
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 2,
+    "targetCount2": 11,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l26-q024",
+    "gameId": "level_26",
+    "type": "level_26",
+    "prompt": "Minh nhặt được 9 bông hoa rồi nhặt thêm 6 bông hoa. Có tất cả mấy bông hoa?",
+    "correctAnswer": 15,
+    "options": [
+      15,
+      14,
+      12,
+      13
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 9,
+    "targetCount2": 6,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l26-q025",
+    "gameId": "level_26",
+    "type": "level_26",
+    "prompt": "An có 2 quả bóng, mẹ cho thêm 18. Có tất cả bao nhiêu?",
+    "correctAnswer": 20,
+    "options": [
+      18,
+      19,
+      17,
+      20
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 2,
+    "targetCount2": 18,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l26-q026",
+    "gameId": "level_26",
+    "type": "level_26",
+    "prompt": "Hoa có 15 kẹo, mẹ cho thêm 5. Có tất cả bao nhiêu?",
+    "correctAnswer": 20,
+    "options": [
+      17,
+      18,
+      20,
+      19
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 15,
+    "targetCount2": 5,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l26-q027",
+    "gameId": "level_26",
+    "type": "level_26",
+    "prompt": "Minh nhặt được 6 tờ giấy rồi nhặt thêm 11 tờ giấy. Có tất cả mấy tờ giấy?",
+    "correctAnswer": 17,
+    "options": [
+      17,
+      15,
+      16,
+      14
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 6,
+    "targetCount2": 11,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l26-q028",
+    "gameId": "level_26",
+    "type": "level_26",
+    "prompt": "Buổi sáng có 10 táo, buổi chiều thêm 5 táo. Tất cả là bao nhiêu?",
+    "correctAnswer": 15,
+    "options": [
+      15,
+      13,
+      12,
+      14
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 10,
+    "targetCount2": 5,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l26-q029",
+    "gameId": "level_26",
+    "type": "level_26",
+    "prompt": "Có 17 viên bi, dùng hết 6. Còn lại mấy viên bi?",
+    "correctAnswer": 11,
+    "options": [
+      10,
+      11,
+      8,
+      9
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 17,
+    "targetCount2": 6,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l26-q030",
+    "gameId": "level_26",
+    "type": "level_26",
+    "prompt": "Hộp có 6 chiếc lá, lấy ra 5. Còn lại bao nhiêu?",
+    "correctAnswer": 1,
+    "options": [
+      1,
+      2,
+      0,
+      3
+    ],
+    "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
     "targetCount": 6,
     "targetCount2": 5,
@@ -323,189 +570,227 @@
     "displayPrompt": null
   },
   {
-    "id": "l26-std_pare-6",
-    "gameId": "std_parent_assignment",
-    "type": "std_parent_assignment",
-    "prompt": "Hãy giải: có 11 quả, ăn 10 quả. Còn lại?",
-    "correctAnswer": 1,
+    "id": "l26-q031",
+    "gameId": "level_26",
+    "type": "level_26",
+    "prompt": "Có 13 kẹo, dùng hết 3. Còn lại mấy kẹo?",
+    "correctAnswer": 10,
     "options": [
+      7,
+      10,
+      9,
+      8
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 13,
+    "targetCount2": 3,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l26-q032",
+    "gameId": "level_26",
+    "type": "level_26",
+    "prompt": "Linh có 19 bông hoa, cho bạn 7. Còn lại bao nhiêu?",
+    "correctAnswer": 12,
+    "options": [
+      9,
+      10,
+      12,
+      11
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 19,
+    "targetCount2": 7,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l26-q033",
+    "gameId": "level_26",
+    "type": "level_26",
+    "prompt": "Hộp có 11 kẹo, lấy ra 8. Còn lại bao nhiêu?",
+    "correctAnswer": 3,
+    "options": [
+      3,
       1,
       0,
-      2,
-      4
+      2
     ],
-    "objectIcon": "/sprites/ball.png",
+    "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
-    "targetCount": 1,
-    "targetCount2": 0,
-    "renderMode": "single",
+    "targetCount": 11,
+    "targetCount2": 8,
+    "renderMode": "subtraction",
     "displayPrompt": null
   },
   {
-    "id": "l26-std_erro-7",
-    "gameId": "std_error_clinic",
-    "type": "std_error_clinic",
-    "prompt": "7 + 11 = ?",
-    "correctAnswer": 18,
+    "id": "l26-q034",
+    "gameId": "level_26",
+    "type": "level_26",
+    "prompt": "Nam có 10 táo, cho bạn 3. Còn lại bao nhiêu?",
+    "correctAnswer": 7,
     "options": [
-      20,
-      19,
-      18,
-      21
-    ],
-    "objectIcon": "/sprites/cat.png",
-    "objectIcon2": "",
-    "targetCount": 7,
-    "targetCount2": 11,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l26-std_mini-7",
-    "gameId": "std_mini_exam",
-    "type": "std_mini_exam",
-    "prompt": "Đếm thỏ và chọn số đúng!",
-    "correctAnswer": 4,
-    "options": [
+      7,
       4,
-      2,
-      1,
+      5,
       6
     ],
-    "objectIcon": "/sprites/flower.png",
-    "objectIcon2": "",
-    "targetCount": 4,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l26-std_pare-7",
-    "gameId": "std_parent_assignment",
-    "type": "std_parent_assignment",
-    "prompt": "10 + 4 = ?",
-    "correctAnswer": 14,
-    "options": [
-      12,
-      11,
-      14,
-      13
-    ],
-    "objectIcon": "/sprites/coin.png",
+    "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
     "targetCount": 10,
-    "targetCount2": 0,
-    "renderMode": "single",
+    "targetCount2": 3,
+    "renderMode": "subtraction",
     "displayPrompt": null
   },
   {
-    "id": "l26-std_erro-8",
-    "gameId": "std_error_clinic",
-    "type": "std_error_clinic",
-    "prompt": "6 - 2 = ?",
-    "correctAnswer": 4,
+    "id": "l26-q035",
+    "gameId": "level_26",
+    "type": "level_26",
+    "prompt": "Có 10 quyển sách, dùng hết 8. Còn lại mấy quyển sách?",
+    "correctAnswer": 2,
     "options": [
-      4,
-      6,
+      3,
+      0,
       2,
       1
     ],
-    "objectIcon": "/sprites/rabbit.png",
+    "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
-    "targetCount": 6,
-    "targetCount2": 2,
+    "targetCount": 10,
+    "targetCount2": 8,
     "renderMode": "subtraction",
     "displayPrompt": null
   },
   {
-    "id": "l26-std_mini-8",
-    "gameId": "std_mini_exam",
-    "type": "std_mini_exam",
-    "prompt": "7 + 2 = ?",
-    "correctAnswer": 9,
-    "options": [
-      9,
-      11,
-      7,
-      12
-    ],
-    "objectIcon": "/sprites/cat.png",
-    "objectIcon2": "",
-    "targetCount": 7,
-    "targetCount2": 2,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l26-std_pare-8",
-    "gameId": "std_parent_assignment",
-    "type": "std_parent_assignment",
-    "prompt": "3 - 1 = ?",
+    "id": "l26-q036",
+    "gameId": "level_26",
+    "type": "level_26",
+    "prompt": "Có 5 chiếc lá, dùng hết 3. Còn lại mấy chiếc lá?",
     "correctAnswer": 2,
     "options": [
       2,
-      4,
-      5,
+      3,
+      1,
       0
     ],
-    "objectIcon": "/sprites/flower.png",
+    "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
-    "targetCount": 2,
+    "targetCount": 5,
+    "targetCount2": 3,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l26-q037",
+    "gameId": "level_26",
+    "type": "level_26",
+    "prompt": "14 + ? = 16",
+    "correctAnswer": 2,
+    "options": [
+      1,
+      2,
+      3,
+      0
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 16,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
   },
   {
-    "id": "l26-std_erro-9",
-    "gameId": "std_error_clinic",
-    "type": "std_error_clinic",
-    "prompt": "8 + 3 = ?",
-    "correctAnswer": 11,
-    "options": [
-      11,
-      9,
-      10,
-      12
-    ],
-    "objectIcon": "/sprites/diamond.png",
-    "objectIcon2": "",
-    "targetCount": 8,
-    "targetCount2": 3,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l26-std_mini-9",
-    "gameId": "std_mini_exam",
-    "type": "std_mini_exam",
-    "prompt": "8 - 1 = ?",
+    "id": "l26-q038",
+    "gameId": "level_26",
+    "type": "level_26",
+    "prompt": "13 + ? = 20",
     "correctAnswer": 7,
     "options": [
-      4,
       7,
-      5,
-      8
+      4,
+      6,
+      5
     ],
-    "objectIcon": "/sprites/rabbit.png",
+    "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
-    "targetCount": 8,
-    "targetCount2": 1,
-    "renderMode": "subtraction",
+    "targetCount": 20,
+    "targetCount2": 0,
+    "renderMode": "single",
     "displayPrompt": null
   },
   {
-    "id": "l26-std_pare-9",
-    "gameId": "std_parent_assignment",
-    "type": "std_parent_assignment",
-    "prompt": "11 + 4",
-    "correctAnswer": 15,
+    "id": "l26-q039",
+    "gameId": "level_26",
+    "type": "level_26",
+    "prompt": "8 + ? = 16",
+    "correctAnswer": 8,
     "options": [
-      15,
-      18,
-      16,
-      14
+      6,
+      5,
+      8,
+      7
     ],
-    "objectIcon": "/sprites/cat.png",
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 16,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l26-q040",
+    "gameId": "level_26",
+    "type": "level_26",
+    "prompt": "2 + ? = 14",
+    "correctAnswer": 12,
+    "options": [
+      12,
+      11,
+      9,
+      10
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 14,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l26-q041",
+    "gameId": "level_26",
+    "type": "level_26",
+    "prompt": "17 + ? = 19",
+    "correctAnswer": 2,
+    "options": [
+      2,
+      0,
+      3,
+      1
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 19,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l26-q042",
+    "gameId": "level_26",
+    "type": "level_26",
+    "prompt": "10 + ? = 11",
+    "correctAnswer": 1,
+    "options": [
+      2,
+      1,
+      0,
+      3
+    ],
+    "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
     "targetCount": 11,
     "targetCount2": 0,
@@ -513,56 +798,18 @@
     "displayPrompt": null
   },
   {
-    "id": "l26-std_erro-10",
-    "gameId": "std_error_clinic",
-    "type": "std_error_clinic",
-    "prompt": "6 - 1 = ?",
-    "correctAnswer": 5,
+    "id": "l26-q043",
+    "gameId": "level_26",
+    "type": "level_26",
+    "prompt": "4 + ? = 5",
+    "correctAnswer": 1,
     "options": [
-      5,
-      4,
-      6,
-      3
-    ],
-    "objectIcon": "/sprites/frog.png",
-    "objectIcon2": "",
-    "targetCount": 6,
-    "targetCount2": 1,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l26-std_mini-10",
-    "gameId": "std_mini_exam",
-    "type": "std_mini_exam",
-    "prompt": "Đếm cà rốt và chọn số đúng!",
-    "correctAnswer": 2,
-    "options": [
+      3,
+      0,
       2,
-      5,
-      1,
-      4
+      1
     ],
-    "objectIcon": "/sprites/diamond.png",
-    "objectIcon2": "",
-    "targetCount": 2,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l26-std_pare-10",
-    "gameId": "std_parent_assignment",
-    "type": "std_parent_assignment",
-    "prompt": "Hãy giải: có 11 quả, ăn 6 quả. Còn lại?",
-    "correctAnswer": 5,
-    "options": [
-      5,
-      8,
-      6,
-      2
-    ],
-    "objectIcon": "/sprites/rabbit.png",
+    "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
     "targetCount": 5,
     "targetCount2": 0,
@@ -570,383 +817,136 @@
     "displayPrompt": null
   },
   {
-    "id": "l26-std_erro-11",
-    "gameId": "std_error_clinic",
-    "type": "std_error_clinic",
-    "prompt": "3 + 12 = ?",
-    "correctAnswer": 15,
+    "id": "l26-q044",
+    "gameId": "level_26",
+    "type": "level_26",
+    "prompt": "Số nào bé hơn: 19 hay 1?",
+    "correctAnswer": 1,
     "options": [
-      13,
-      12,
-      15,
-      14
-    ],
-    "objectIcon": "/sprites/carrot.png",
-    "objectIcon2": "",
-    "targetCount": 3,
-    "targetCount2": 12,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l26-std_mini-11",
-    "gameId": "std_mini_exam",
-    "type": "std_mini_exam",
-    "prompt": "14 + 4 = ?",
-    "correctAnswer": 18,
-    "options": [
-      18,
-      15,
-      20,
-      17
-    ],
-    "objectIcon": "/sprites/frog.png",
-    "objectIcon2": "",
-    "targetCount": 14,
-    "targetCount2": 4,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l26-std_pare-11",
-    "gameId": "std_parent_assignment",
-    "type": "std_parent_assignment",
-    "prompt": "4 + 9 = ?",
-    "correctAnswer": 13,
-    "options": [
-      14,
-      13,
-      16,
-      15
-    ],
-    "objectIcon": "/sprites/diamond.png",
-    "objectIcon2": "",
-    "targetCount": 4,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l26-std_erro-12",
-    "gameId": "std_error_clinic",
-    "type": "std_error_clinic",
-    "prompt": "2 - 2 = ?",
-    "correctAnswer": 0,
-    "options": [
-      0,
-      1,
-      2,
-      3
-    ],
-    "objectIcon": "/sprites/strawberry.png",
-    "objectIcon2": "",
-    "targetCount": 2,
-    "targetCount2": 2,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l26-std_mini-12",
-    "gameId": "std_mini_exam",
-    "type": "std_mini_exam",
-    "prompt": "20 - 9 = ?",
-    "correctAnswer": 11,
-    "options": [
-      13,
-      9,
-      8,
-      11
-    ],
-    "objectIcon": "/sprites/carrot.png",
-    "objectIcon2": "",
-    "targetCount": 20,
-    "targetCount2": 9,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l26-std_pare-12",
-    "gameId": "std_parent_assignment",
-    "type": "std_parent_assignment",
-    "prompt": "15 - 1 = ?",
-    "correctAnswer": 14,
-    "options": [
-      13,
-      14,
-      12,
-      11
-    ],
-    "objectIcon": "/sprites/frog.png",
-    "objectIcon2": "",
-    "targetCount": 14,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l26-std_erro-13",
-    "gameId": "std_error_clinic",
-    "type": "std_error_clinic",
-    "prompt": "10 + 1 = ?",
-    "correctAnswer": 11,
-    "options": [
-      8,
-      9,
-      10,
-      11
-    ],
-    "objectIcon": "/sprites/mushroom.png",
-    "objectIcon2": "",
-    "targetCount": 10,
-    "targetCount2": 1,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l26-std_mini-13",
-    "gameId": "std_mini_exam",
-    "type": "std_mini_exam",
-    "prompt": "Đếm cá và chọn số đúng!",
-    "correctAnswer": 2,
-    "options": [
-      2,
-      1,
-      4,
-      5
-    ],
-    "objectIcon": "/sprites/strawberry.png",
-    "objectIcon2": "",
-    "targetCount": 2,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l26-std_pare-13",
-    "gameId": "std_parent_assignment",
-    "type": "std_parent_assignment",
-    "prompt": "10 + 7",
-    "correctAnswer": 17,
-    "options": [
-      16,
-      14,
-      17,
-      15
-    ],
-    "objectIcon": "/sprites/carrot.png",
-    "objectIcon2": "",
-    "targetCount": 10,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l26-std_erro-14",
-    "gameId": "std_error_clinic",
-    "type": "std_error_clinic",
-    "prompt": "4 - 4 = ?",
-    "correctAnswer": 0,
-    "options": [
-      1,
       3,
+      1,
       2,
-      0
+      4
     ],
-    "objectIcon": "/sprites/fish.png",
+    "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
-    "targetCount": 4,
-    "targetCount2": 4,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l26-std_mini-14",
-    "gameId": "std_mini_exam",
-    "type": "std_mini_exam",
-    "prompt": "10 + 3 = ?",
-    "correctAnswer": 13,
-    "options": [
-      13,
-      15,
-      16,
-      12
-    ],
-    "objectIcon": "/sprites/mushroom.png",
-    "objectIcon2": "",
-    "targetCount": 10,
-    "targetCount2": 3,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l26-std_pare-14",
-    "gameId": "std_parent_assignment",
-    "type": "std_parent_assignment",
-    "prompt": "Hãy giải: có 11 quả, ăn 2 quả. Còn lại?",
-    "correctAnswer": 9,
-    "options": [
-      10,
-      6,
-      7,
-      9
-    ],
-    "objectIcon": "/sprites/strawberry.png",
-    "objectIcon2": "",
-    "targetCount": 9,
+    "targetCount": 19,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
   },
   {
-    "id": "l26-std_erro-15",
-    "gameId": "std_error_clinic",
-    "type": "std_error_clinic",
-    "prompt": "13 + 5 = ?",
-    "correctAnswer": 18,
+    "id": "l26-q045",
+    "gameId": "level_26",
+    "type": "level_26",
+    "prompt": "Số nào lớn hơn: 1 hay 13?",
+    "correctAnswer": 13,
     "options": [
-      19,
-      17,
-      20,
-      18
+      10,
+      12,
+      11,
+      13
     ],
-    "objectIcon": "/sprites/butterfly.png",
+    "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
     "targetCount": 13,
-    "targetCount2": 5,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l26-std_mini-15",
-    "gameId": "std_mini_exam",
-    "type": "std_mini_exam",
-    "prompt": "12 - 7 = ?",
-    "correctAnswer": 5,
-    "options": [
-      4,
-      3,
-      7,
-      5
-    ],
-    "objectIcon": "/sprites/fish.png",
-    "objectIcon2": "",
-    "targetCount": 12,
-    "targetCount2": 7,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l26-std_pare-15",
-    "gameId": "std_parent_assignment",
-    "type": "std_parent_assignment",
-    "prompt": "9 + 8 = ?",
-    "correctAnswer": 17,
-    "options": [
-      19,
-      17,
-      16,
-      20
-    ],
-    "objectIcon": "/sprites/mushroom.png",
-    "objectIcon2": "",
-    "targetCount": 9,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
   },
   {
-    "id": "l26-std_erro-16",
-    "gameId": "std_error_clinic",
-    "type": "std_error_clinic",
-    "prompt": "16 - 7 = ?",
-    "correctAnswer": 9,
+    "id": "l26-q046",
+    "gameId": "level_26",
+    "type": "level_26",
+    "prompt": "Chọn số lớn hơn trong hai số: 12 và 7.",
+    "correctAnswer": 12,
     "options": [
-      9,
-      7,
+      11,
       10,
-      8
+      12,
+      9
     ],
-    "objectIcon": "/sprites/cupcake.png",
+    "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
-    "targetCount": 16,
-    "targetCount2": 7,
-    "renderMode": "subtraction",
+    "targetCount": 12,
+    "targetCount2": 0,
+    "renderMode": "single",
     "displayPrompt": null
   },
   {
-    "id": "l26-std_mini-16",
-    "gameId": "std_mini_exam",
-    "type": "std_mini_exam",
-    "prompt": "Đếm táo và chọn số đúng!",
+    "id": "l26-q047",
+    "gameId": "level_26",
+    "type": "level_26",
+    "prompt": "8 và 13, số nào lớn hơn?",
+    "correctAnswer": 13,
+    "options": [
+      11,
+      10,
+      12,
+      13
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 13,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l26-q048",
+    "gameId": "level_26",
+    "type": "level_26",
+    "prompt": "Chọn số lớn hơn trong hai số: 19 và 12.",
+    "correctAnswer": 19,
+    "options": [
+      17,
+      19,
+      16,
+      18
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 19,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l26-q049",
+    "gameId": "level_26",
+    "type": "level_26",
+    "prompt": "17 và 18, số nào lớn hơn?",
+    "correctAnswer": 18,
+    "options": [
+      17,
+      18,
+      16,
+      15
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 18,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l26-q050",
+    "gameId": "level_26",
+    "type": "level_26",
+    "prompt": "Số nào lớn hơn: 5 hay 8?",
     "correctAnswer": 8,
     "options": [
+      6,
       7,
-      8,
-      10,
-      11
+      5,
+      8
     ],
-    "objectIcon": "/sprites/butterfly.png",
+    "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
     "targetCount": 8,
     "targetCount2": 0,
     "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l26-std_pare-16",
-    "gameId": "std_parent_assignment",
-    "type": "std_parent_assignment",
-    "prompt": "15 - 5 = ?",
-    "correctAnswer": 10,
-    "options": [
-      11,
-      10,
-      8,
-      9
-    ],
-    "objectIcon": "/sprites/fish.png",
-    "objectIcon2": "",
-    "targetCount": 10,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l26-std_erro-17",
-    "gameId": "std_error_clinic",
-    "type": "std_error_clinic",
-    "prompt": "12 + 3 = ?",
-    "correctAnswer": 15,
-    "options": [
-      14,
-      15,
-      17,
-      18
-    ],
-    "objectIcon": "/sprites/lollipop.png",
-    "objectIcon2": "",
-    "targetCount": 12,
-    "targetCount2": 3,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l26-std_mini-17",
-    "gameId": "std_mini_exam",
-    "type": "std_mini_exam",
-    "prompt": "2 + 1 = ?",
-    "correctAnswer": 3,
-    "options": [
-      6,
-      1,
-      3,
-      2
-    ],
-    "objectIcon": "/sprites/cupcake.png",
-    "objectIcon2": "",
-    "targetCount": 2,
-    "targetCount2": 1,
-    "renderMode": "addition",
     "displayPrompt": null
   }
 ]

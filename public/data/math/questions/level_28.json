@@ -1,952 +1,952 @@
 [
- {
-  "id": "l28-gen_infi-1",
-  "gameId": "gen_infinite_island_archipelago",
-  "type": "gen_infinite_island_archipelago",
-  "prompt": "Đếm táo và chọn số đúng!",
-  "correctAnswer": 2,
-  "options": [
-   1,
-   2,
-   3,
-   5
-  ],
-  "objectIcon": "/sprites/apple.png",
-  "objectIcon2": "",
-  "targetCount": 2,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l28-gen_clou-1",
-  "gameId": "gen_cloud_city_numbers",
-  "type": "gen_cloud_city_numbers",
-  "prompt": "Đếm sao và chọn số đúng!",
-  "correctAnswer": 10,
-  "options": [
-   11,
-   13,
-   10,
-   9
-  ],
-  "objectIcon": "/sprites/crown.png",
-  "objectIcon2": "",
-  "targetCount": 10,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l28-gen_crys-1",
-  "gameId": "gen_crystal_cave_explorer",
-  "type": "gen_crystal_cave_explorer",
-  "prompt": "Đếm kẹo và chọn số đúng!",
-  "correctAnswer": 7,
-  "options": [
-   7,
-   10,
-   5,
-   8
-  ],
-  "objectIcon": "/sprites/lollipop.png",
-  "objectIcon2": "",
-  "targetCount": 7,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l28-gen_infi-2",
-  "gameId": "gen_infinite_island_archipelago",
-  "type": "gen_infinite_island_archipelago",
-  "prompt": "Đếm sao và chọn số đúng!",
-  "correctAnswer": 5,
-  "options": [
-   5,
-   7,
-   8,
-   6
-  ],
-  "objectIcon": "/sprites/star.png",
-  "objectIcon2": "",
-  "targetCount": 5,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l28-gen_clou-2",
-  "gameId": "gen_cloud_city_numbers",
-  "type": "gen_cloud_city_numbers",
-  "prompt": "Đếm kẹo và chọn số đúng!",
-  "correctAnswer": 9,
-  "options": [
-   9,
-   6,
-   8,
-   11
-  ],
-  "objectIcon": "/sprites/apple.png",
-  "objectIcon2": "",
-  "targetCount": 9,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l28-gen_crys-2",
-  "gameId": "gen_crystal_cave_explorer",
-  "type": "gen_crystal_cave_explorer",
-  "prompt": "Đếm bóng và chọn số đúng!",
-  "correctAnswer": 1,
-  "options": [
-   4,
-   1,
-   2,
-   3
-  ],
-  "objectIcon": "/sprites/crown.png",
-  "objectIcon2": "",
-  "targetCount": 1,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l28-gen_infi-3",
-  "gameId": "gen_infinite_island_archipelago",
-  "type": "gen_infinite_island_archipelago",
-  "prompt": "Đếm kẹo và chọn số đúng!",
-  "correctAnswer": 7,
-  "options": [
-   5,
-   9,
-   7,
-   6
-  ],
-  "objectIcon": "/sprites/candy.png",
-  "objectIcon2": "",
-  "targetCount": 7,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l28-gen_clou-3",
-  "gameId": "gen_cloud_city_numbers",
-  "type": "gen_cloud_city_numbers",
-  "prompt": "Đếm bóng và chọn số đúng!",
-  "correctAnswer": 9,
-  "options": [
-   6,
-   8,
-   7,
-   9
-  ],
-  "objectIcon": "/sprites/star.png",
-  "objectIcon2": "",
-  "targetCount": 9,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l28-gen_crys-3",
-  "gameId": "gen_crystal_cave_explorer",
-  "type": "gen_crystal_cave_explorer",
-  "prompt": "Đếm xu và chọn số đúng!",
-  "correctAnswer": 2,
-  "options": [
-   1,
-   2,
-   3,
-   5
-  ],
-  "objectIcon": "/sprites/apple.png",
-  "objectIcon2": "",
-  "targetCount": 2,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l28-gen_infi-4",
-  "gameId": "gen_infinite_island_archipelago",
-  "type": "gen_infinite_island_archipelago",
-  "prompt": "Đếm bóng và chọn số đúng!",
-  "correctAnswer": 9,
-  "options": [
-   12,
-   10,
-   9,
-   7
-  ],
-  "objectIcon": "/sprites/ball.png",
-  "objectIcon2": "",
-  "targetCount": 9,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l28-gen_clou-4",
-  "gameId": "gen_cloud_city_numbers",
-  "type": "gen_cloud_city_numbers",
-  "prompt": "Đếm xu và chọn số đúng!",
-  "correctAnswer": 3,
-  "options": [
-   2,
-   3,
-   5,
-   6
-  ],
-  "objectIcon": "/sprites/candy.png",
-  "objectIcon2": "",
-  "targetCount": 3,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l28-gen_crys-4",
-  "gameId": "gen_crystal_cave_explorer",
-  "type": "gen_crystal_cave_explorer",
-  "prompt": "Đếm hoa và chọn số đúng!",
-  "correctAnswer": 9,
-  "options": [
-   12,
-   11,
-   6,
-   9
-  ],
-  "objectIcon": "/sprites/star.png",
-  "objectIcon2": "",
-  "targetCount": 9,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l28-gen_infi-5",
-  "gameId": "gen_infinite_island_archipelago",
-  "type": "gen_infinite_island_archipelago",
-  "prompt": "Đếm xu và chọn số đúng!",
-  "correctAnswer": 2,
-  "options": [
-   2,
-   1,
-   3,
-   5
-  ],
-  "objectIcon": "/sprites/coin.png",
-  "objectIcon2": "",
-  "targetCount": 2,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l28-gen_clou-5",
-  "gameId": "gen_cloud_city_numbers",
-  "type": "gen_cloud_city_numbers",
-  "prompt": "Đếm hoa và chọn số đúng!",
-  "correctAnswer": 3,
-  "options": [
-   2,
-   3,
-   4,
-   1
-  ],
-  "objectIcon": "/sprites/ball.png",
-  "objectIcon2": "",
-  "targetCount": 3,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l28-gen_crys-5",
-  "gameId": "gen_crystal_cave_explorer",
-  "type": "gen_crystal_cave_explorer",
-  "prompt": "Đếm mèo và chọn số đúng!",
-  "correctAnswer": 2,
-  "options": [
-   2,
-   1,
-   3,
-   5
-  ],
-  "objectIcon": "/sprites/candy.png",
-  "objectIcon2": "",
-  "targetCount": 2,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l28-gen_infi-6",
-  "gameId": "gen_infinite_island_archipelago",
-  "type": "gen_infinite_island_archipelago",
-  "prompt": "Đếm hoa và chọn số đúng!",
-  "correctAnswer": 3,
-  "options": [
-   3,
-   5,
-   1,
-   4
-  ],
-  "objectIcon": "/sprites/flower.png",
-  "objectIcon2": "",
-  "targetCount": 3,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l28-gen_clou-6",
-  "gameId": "gen_cloud_city_numbers",
-  "type": "gen_cloud_city_numbers",
-  "prompt": "Đếm mèo và chọn số đúng!",
-  "correctAnswer": 4,
-  "options": [
-   4,
-   6,
-   1,
-   3
-  ],
-  "objectIcon": "/sprites/coin.png",
-  "objectIcon2": "",
-  "targetCount": 4,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l28-gen_crys-6",
-  "gameId": "gen_crystal_cave_explorer",
-  "type": "gen_crystal_cave_explorer",
-  "prompt": "Đếm thỏ và chọn số đúng!",
-  "correctAnswer": 1,
-  "options": [
-   3,
-   1,
-   2,
-   4
-  ],
-  "objectIcon": "/sprites/ball.png",
-  "objectIcon2": "",
-  "targetCount": 1,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l28-gen_infi-7",
-  "gameId": "gen_infinite_island_archipelago",
-  "type": "gen_infinite_island_archipelago",
-  "prompt": "Đếm mèo và chọn số đúng!",
-  "correctAnswer": 4,
-  "options": [
-   2,
-   7,
-   4,
-   1
-  ],
-  "objectIcon": "/sprites/cat.png",
-  "objectIcon2": "",
-  "targetCount": 4,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l28-gen_clou-7",
-  "gameId": "gen_cloud_city_numbers",
-  "type": "gen_cloud_city_numbers",
-  "prompt": "Đếm thỏ và chọn số đúng!",
-  "correctAnswer": 10,
-  "options": [
-   10,
-   12,
-   8,
-   7
-  ],
-  "objectIcon": "/sprites/flower.png",
-  "objectIcon2": "",
-  "targetCount": 10,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l28-gen_crys-7",
-  "gameId": "gen_crystal_cave_explorer",
-  "type": "gen_crystal_cave_explorer",
-  "prompt": "Đếm kim cương và chọn số đúng!",
-  "correctAnswer": 2,
-  "options": [
-   2,
-   4,
-   3,
-   1
-  ],
-  "objectIcon": "/sprites/coin.png",
-  "objectIcon2": "",
-  "targetCount": 2,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l28-gen_infi-8",
-  "gameId": "gen_infinite_island_archipelago",
-  "type": "gen_infinite_island_archipelago",
-  "prompt": "Đếm thỏ và chọn số đúng!",
-  "correctAnswer": 6,
-  "options": [
-   6,
-   8,
-   9,
-   3
-  ],
-  "objectIcon": "/sprites/rabbit.png",
-  "objectIcon2": "",
-  "targetCount": 6,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l28-gen_clou-8",
-  "gameId": "gen_cloud_city_numbers",
-  "type": "gen_cloud_city_numbers",
-  "prompt": "Đếm kim cương và chọn số đúng!",
-  "correctAnswer": 4,
-  "options": [
-   1,
-   3,
-   4,
-   2
-  ],
-  "objectIcon": "/sprites/cat.png",
-  "objectIcon2": "",
-  "targetCount": 4,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l28-gen_crys-8",
-  "gameId": "gen_crystal_cave_explorer",
-  "type": "gen_crystal_cave_explorer",
-  "prompt": "Đếm ếch và chọn số đúng!",
-  "correctAnswer": 5,
-  "options": [
-   6,
-   4,
-   8,
-   5
-  ],
-  "objectIcon": "/sprites/flower.png",
-  "objectIcon2": "",
-  "targetCount": 5,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l28-gen_infi-9",
-  "gameId": "gen_infinite_island_archipelago",
-  "type": "gen_infinite_island_archipelago",
-  "prompt": "Đếm kim cương và chọn số đúng!",
-  "correctAnswer": 1,
-  "options": [
-   2,
-   4,
-   3,
-   1
-  ],
-  "objectIcon": "/sprites/diamond.png",
-  "objectIcon2": "",
-  "targetCount": 1,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l28-gen_clou-9",
-  "gameId": "gen_cloud_city_numbers",
-  "type": "gen_cloud_city_numbers",
-  "prompt": "Đếm ếch và chọn số đúng!",
-  "correctAnswer": 8,
-  "options": [
-   5,
-   8,
-   10,
-   9
-  ],
-  "objectIcon": "/sprites/rabbit.png",
-  "objectIcon2": "",
-  "targetCount": 8,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l28-gen_crys-9",
-  "gameId": "gen_crystal_cave_explorer",
-  "type": "gen_crystal_cave_explorer",
-  "prompt": "Đếm cà rốt và chọn số đúng!",
-  "correctAnswer": 7,
-  "options": [
-   10,
-   6,
-   4,
-   7
-  ],
-  "objectIcon": "/sprites/cat.png",
-  "objectIcon2": "",
-  "targetCount": 7,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l28-gen_infi-10",
-  "gameId": "gen_infinite_island_archipelago",
-  "type": "gen_infinite_island_archipelago",
-  "prompt": "Đếm ếch và chọn số đúng!",
-  "correctAnswer": 8,
-  "options": [
-   11,
-   6,
-   10,
-   8
-  ],
-  "objectIcon": "/sprites/frog.png",
-  "objectIcon2": "",
-  "targetCount": 8,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l28-gen_clou-10",
-  "gameId": "gen_cloud_city_numbers",
-  "type": "gen_cloud_city_numbers",
-  "prompt": "Đếm cà rốt và chọn số đúng!",
-  "correctAnswer": 9,
-  "options": [
-   7,
-   6,
-   9,
-   11
-  ],
-  "objectIcon": "/sprites/diamond.png",
-  "objectIcon2": "",
-  "targetCount": 9,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l28-gen_crys-10",
-  "gameId": "gen_crystal_cave_explorer",
-  "type": "gen_crystal_cave_explorer",
-  "prompt": "Đếm dâu và chọn số đúng!",
-  "correctAnswer": 9,
-  "options": [
-   11,
-   9,
-   6,
-   7
-  ],
-  "objectIcon": "/sprites/rabbit.png",
-  "objectIcon2": "",
-  "targetCount": 9,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l28-gen_infi-11",
-  "gameId": "gen_infinite_island_archipelago",
-  "type": "gen_infinite_island_archipelago",
-  "prompt": "Đếm cà rốt và chọn số đúng!",
-  "correctAnswer": 9,
-  "options": [
-   6,
-   9,
-   12,
-   11
-  ],
-  "objectIcon": "/sprites/carrot.png",
-  "objectIcon2": "",
-  "targetCount": 9,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l28-gen_clou-11",
-  "gameId": "gen_cloud_city_numbers",
-  "type": "gen_cloud_city_numbers",
-  "prompt": "Đếm dâu và chọn số đúng!",
-  "correctAnswer": 6,
-  "options": [
-   6,
-   4,
-   8,
-   3
-  ],
-  "objectIcon": "/sprites/frog.png",
-  "objectIcon2": "",
-  "targetCount": 6,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l28-gen_crys-11",
-  "gameId": "gen_crystal_cave_explorer",
-  "type": "gen_crystal_cave_explorer",
-  "prompt": "Đếm nấm và chọn số đúng!",
-  "correctAnswer": 5,
-  "options": [
-   6,
-   4,
-   5,
-   2
-  ],
-  "objectIcon": "/sprites/diamond.png",
-  "objectIcon2": "",
-  "targetCount": 5,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l28-gen_infi-12",
-  "gameId": "gen_infinite_island_archipelago",
-  "type": "gen_infinite_island_archipelago",
-  "prompt": "Đếm dâu và chọn số đúng!",
-  "correctAnswer": 3,
-  "options": [
-   1,
-   3,
-   4,
-   5
-  ],
-  "objectIcon": "/sprites/strawberry.png",
-  "objectIcon2": "",
-  "targetCount": 3,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l28-gen_clou-12",
-  "gameId": "gen_cloud_city_numbers",
-  "type": "gen_cloud_city_numbers",
-  "prompt": "Đếm nấm và chọn số đúng!",
-  "correctAnswer": 2,
-  "options": [
-   4,
-   2,
-   1,
-   3
-  ],
-  "objectIcon": "/sprites/carrot.png",
-  "objectIcon2": "",
-  "targetCount": 2,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l28-gen_crys-12",
-  "gameId": "gen_crystal_cave_explorer",
-  "type": "gen_crystal_cave_explorer",
-  "prompt": "Đếm cá và chọn số đúng!",
-  "correctAnswer": 5,
-  "options": [
-   4,
-   5,
-   2,
-   6
-  ],
-  "objectIcon": "/sprites/frog.png",
-  "objectIcon2": "",
-  "targetCount": 5,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l28-gen_infi-13",
-  "gameId": "gen_infinite_island_archipelago",
-  "type": "gen_infinite_island_archipelago",
-  "prompt": "Đếm nấm và chọn số đúng!",
-  "correctAnswer": 1,
-  "options": [
-   1,
-   2,
-   4,
-   3
-  ],
-  "objectIcon": "/sprites/mushroom.png",
-  "objectIcon2": "",
-  "targetCount": 1,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l28-gen_clou-13",
-  "gameId": "gen_cloud_city_numbers",
-  "type": "gen_cloud_city_numbers",
-  "prompt": "Đếm cá và chọn số đúng!",
-  "correctAnswer": 2,
-  "options": [
-   2,
-   3,
-   4,
-   5
-  ],
-  "objectIcon": "/sprites/strawberry.png",
-  "objectIcon2": "",
-  "targetCount": 2,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l28-gen_crys-13",
-  "gameId": "gen_crystal_cave_explorer",
-  "type": "gen_crystal_cave_explorer",
-  "prompt": "Đếm bướm và chọn số đúng!",
-  "correctAnswer": 4,
-  "options": [
-   4,
-   6,
-   3,
-   1
-  ],
-  "objectIcon": "/sprites/carrot.png",
-  "objectIcon2": "",
-  "targetCount": 4,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l28-gen_infi-14",
-  "gameId": "gen_infinite_island_archipelago",
-  "type": "gen_infinite_island_archipelago",
-  "prompt": "Đếm cá và chọn số đúng!",
-  "correctAnswer": 6,
-  "options": [
-   3,
-   6,
-   9,
-   5
-  ],
-  "objectIcon": "/sprites/fish.png",
-  "objectIcon2": "",
-  "targetCount": 6,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l28-gen_clou-14",
-  "gameId": "gen_cloud_city_numbers",
-  "type": "gen_cloud_city_numbers",
-  "prompt": "Đếm bướm và chọn số đúng!",
-  "correctAnswer": 4,
-  "options": [
-   6,
-   7,
-   4,
-   3
-  ],
-  "objectIcon": "/sprites/mushroom.png",
-  "objectIcon2": "",
-  "targetCount": 4,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l28-gen_crys-14",
-  "gameId": "gen_crystal_cave_explorer",
-  "type": "gen_crystal_cave_explorer",
-  "prompt": "Đếm bánh và chọn số đúng!",
-  "correctAnswer": 4,
-  "options": [
-   3,
-   7,
-   4,
-   2
-  ],
-  "objectIcon": "/sprites/strawberry.png",
-  "objectIcon2": "",
-  "targetCount": 4,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l28-gen_infi-15",
-  "gameId": "gen_infinite_island_archipelago",
-  "type": "gen_infinite_island_archipelago",
-  "prompt": "Đếm bướm và chọn số đúng!",
-  "correctAnswer": 6,
-  "options": [
-   5,
-   6,
-   7,
-   8
-  ],
-  "objectIcon": "/sprites/butterfly.png",
-  "objectIcon2": "",
-  "targetCount": 6,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l28-gen_clou-15",
-  "gameId": "gen_cloud_city_numbers",
-  "type": "gen_cloud_city_numbers",
-  "prompt": "Đếm bánh và chọn số đúng!",
-  "correctAnswer": 10,
-  "options": [
-   11,
-   13,
-   10,
-   12
-  ],
-  "objectIcon": "/sprites/fish.png",
-  "objectIcon2": "",
-  "targetCount": 10,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l28-gen_crys-15",
-  "gameId": "gen_crystal_cave_explorer",
-  "type": "gen_crystal_cave_explorer",
-  "prompt": "Đếm táo và chọn số đúng!",
-  "correctAnswer": 8,
-  "options": [
-   9,
-   6,
-   10,
-   8
-  ],
-  "objectIcon": "/sprites/mushroom.png",
-  "objectIcon2": "",
-  "targetCount": 8,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l28-gen_infi-16",
-  "gameId": "gen_infinite_island_archipelago",
-  "type": "gen_infinite_island_archipelago",
-  "prompt": "Đếm bánh và chọn số đúng!",
-  "correctAnswer": 7,
-  "options": [
-   7,
-   5,
-   10,
-   6
-  ],
-  "objectIcon": "/sprites/cupcake.png",
-  "objectIcon2": "",
-  "targetCount": 7,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l28-gen_clou-16",
-  "gameId": "gen_cloud_city_numbers",
-  "type": "gen_cloud_city_numbers",
-  "prompt": "Đếm táo và chọn số đúng!",
-  "correctAnswer": 5,
-  "options": [
-   8,
-   5,
-   6,
-   3
-  ],
-  "objectIcon": "/sprites/butterfly.png",
-  "objectIcon2": "",
-  "targetCount": 5,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l28-gen_crys-16",
-  "gameId": "gen_crystal_cave_explorer",
-  "type": "gen_crystal_cave_explorer",
-  "prompt": "Đếm sao và chọn số đúng!",
-  "correctAnswer": 6,
-  "options": [
-   7,
-   6,
-   9,
-   8
-  ],
-  "objectIcon": "/sprites/fish.png",
-  "objectIcon2": "",
-  "targetCount": 6,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l28-gen_infi-17",
-  "gameId": "gen_infinite_island_archipelago",
-  "type": "gen_infinite_island_archipelago",
-  "prompt": "Đếm táo và chọn số đúng!",
-  "correctAnswer": 7,
-  "options": [
-   10,
-   5,
-   7,
-   6
-  ],
-  "objectIcon": "/sprites/lollipop.png",
-  "objectIcon2": "",
-  "targetCount": 7,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- },
- {
-  "id": "l28-gen_clou-17",
-  "gameId": "gen_cloud_city_numbers",
-  "type": "gen_cloud_city_numbers",
-  "prompt": "Đếm sao và chọn số đúng!",
-  "correctAnswer": 8,
-  "options": [
-   7,
-   8,
-   5,
-   9
-  ],
-  "objectIcon": "/sprites/cupcake.png",
-  "objectIcon2": "",
-  "targetCount": 8,
-  "targetCount2": 0,
-  "renderMode": "single",
-  "displayPrompt": null
- }
+  {
+    "id": "l28-q001",
+    "gameId": "level_28",
+    "type": "level_28",
+    "prompt": "Buổi sáng có 13 chiếc lá, buổi chiều thêm 7 chiếc lá. Tất cả là bao nhiêu?",
+    "correctAnswer": 20,
+    "options": [
+      20,
+      17,
+      19,
+      18
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 13,
+    "targetCount2": 7,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l28-q002",
+    "gameId": "level_28",
+    "type": "level_28",
+    "prompt": "Buổi sáng có 9 tờ giấy, buổi chiều thêm 2 tờ giấy. Tất cả là bao nhiêu?",
+    "correctAnswer": 11,
+    "options": [
+      8,
+      10,
+      9,
+      11
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 9,
+    "targetCount2": 2,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l28-q003",
+    "gameId": "level_28",
+    "type": "level_28",
+    "prompt": "Nam có 2 quả bóng, mẹ cho thêm 17. Có tất cả bao nhiêu?",
+    "correctAnswer": 19,
+    "options": [
+      16,
+      17,
+      19,
+      18
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 2,
+    "targetCount2": 17,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l28-q004",
+    "gameId": "level_28",
+    "type": "level_28",
+    "prompt": "Bình có 9 quả bóng, mẹ cho thêm 8. Có tất cả bao nhiêu?",
+    "correctAnswer": 17,
+    "options": [
+      14,
+      16,
+      15,
+      17
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 9,
+    "targetCount2": 8,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l28-q005",
+    "gameId": "level_28",
+    "type": "level_28",
+    "prompt": "Buổi sáng có 2 chiếc lá, buổi chiều thêm 16 chiếc lá. Tất cả là bao nhiêu?",
+    "correctAnswer": 18,
+    "options": [
+      17,
+      18,
+      15,
+      16
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 2,
+    "targetCount2": 16,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l28-q006",
+    "gameId": "level_28",
+    "type": "level_28",
+    "prompt": "Buổi sáng có 19 bông hoa, buổi chiều thêm 1 bông hoa. Tất cả là bao nhiêu?",
+    "correctAnswer": 20,
+    "options": [
+      17,
+      18,
+      19,
+      20
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 19,
+    "targetCount2": 1,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l28-q007",
+    "gameId": "level_28",
+    "type": "level_28",
+    "prompt": "Bình nhặt được 16 kẹo rồi nhặt thêm 3 kẹo. Có tất cả mấy kẹo?",
+    "correctAnswer": 19,
+    "options": [
+      16,
+      17,
+      18,
+      19
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 16,
+    "targetCount2": 3,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l28-q008",
+    "gameId": "level_28",
+    "type": "level_28",
+    "prompt": "Bình nhặt được 12 kẹo rồi nhặt thêm 1 kẹo. Có tất cả mấy kẹo?",
+    "correctAnswer": 13,
+    "options": [
+      11,
+      10,
+      13,
+      12
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 12,
+    "targetCount2": 1,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l28-q009",
+    "gameId": "level_28",
+    "type": "level_28",
+    "prompt": "An có 6 bông hoa, mẹ cho thêm 10. Có tất cả bao nhiêu?",
+    "correctAnswer": 16,
+    "options": [
+      13,
+      16,
+      15,
+      14
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 6,
+    "targetCount2": 10,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l28-q010",
+    "gameId": "level_28",
+    "type": "level_28",
+    "prompt": "Lan nhặt được 1 tờ giấy rồi nhặt thêm 7 tờ giấy. Có tất cả mấy tờ giấy?",
+    "correctAnswer": 8,
+    "options": [
+      6,
+      7,
+      5,
+      8
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 1,
+    "targetCount2": 7,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l28-q011",
+    "gameId": "level_28",
+    "type": "level_28",
+    "prompt": "Linh có 4 quả bóng, mẹ cho thêm 7. Có tất cả bao nhiêu?",
+    "correctAnswer": 11,
+    "options": [
+      9,
+      10,
+      11,
+      8
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 4,
+    "targetCount2": 7,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l28-q012",
+    "gameId": "level_28",
+    "type": "level_28",
+    "prompt": "Bình có 7 táo, mẹ cho thêm 9. Có tất cả bao nhiêu?",
+    "correctAnswer": 16,
+    "options": [
+      15,
+      13,
+      14,
+      16
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 7,
+    "targetCount2": 9,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l28-q013",
+    "gameId": "level_28",
+    "type": "level_28",
+    "prompt": "Lan nhặt được 6 tờ giấy rồi nhặt thêm 4 tờ giấy. Có tất cả mấy tờ giấy?",
+    "correctAnswer": 10,
+    "options": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 6,
+    "targetCount2": 4,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l28-q014",
+    "gameId": "level_28",
+    "type": "level_28",
+    "prompt": "Lan nhặt được 2 bông hoa rồi nhặt thêm 9 bông hoa. Có tất cả mấy bông hoa?",
+    "correctAnswer": 11,
+    "options": [
+      11,
+      8,
+      9,
+      10
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 2,
+    "targetCount2": 9,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l28-q015",
+    "gameId": "level_28",
+    "type": "level_28",
+    "prompt": "Lan có 13 quyển sách, mẹ cho thêm 4. Có tất cả bao nhiêu?",
+    "correctAnswer": 17,
+    "options": [
+      14,
+      15,
+      17,
+      16
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 13,
+    "targetCount2": 4,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l28-q016",
+    "gameId": "level_28",
+    "type": "level_28",
+    "prompt": "Buổi sáng có 7 chiếc lá, buổi chiều thêm 12 chiếc lá. Tất cả là bao nhiêu?",
+    "correctAnswer": 19,
+    "options": [
+      17,
+      19,
+      18,
+      16
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 7,
+    "targetCount2": 12,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l28-q017",
+    "gameId": "level_28",
+    "type": "level_28",
+    "prompt": "Linh có 8 kẹo, mẹ cho thêm 7. Có tất cả bao nhiêu?",
+    "correctAnswer": 15,
+    "options": [
+      15,
+      13,
+      12,
+      14
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 8,
+    "targetCount2": 7,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l28-q018",
+    "gameId": "level_28",
+    "type": "level_28",
+    "prompt": "Buổi sáng có 12 viên bi, buổi chiều thêm 6 viên bi. Tất cả là bao nhiêu?",
+    "correctAnswer": 18,
+    "options": [
+      18,
+      15,
+      16,
+      17
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 12,
+    "targetCount2": 6,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l28-q019",
+    "gameId": "level_28",
+    "type": "level_28",
+    "prompt": "Buổi sáng có 12 bông hoa, buổi chiều thêm 6 bông hoa. Tất cả là bao nhiêu?",
+    "correctAnswer": 18,
+    "options": [
+      17,
+      16,
+      15,
+      18
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 12,
+    "targetCount2": 6,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l28-q020",
+    "gameId": "level_28",
+    "type": "level_28",
+    "prompt": "Buổi sáng có 11 quả bóng, buổi chiều thêm 4 quả bóng. Tất cả là bao nhiêu?",
+    "correctAnswer": 15,
+    "options": [
+      12,
+      13,
+      15,
+      14
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 11,
+    "targetCount2": 4,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l28-q021",
+    "gameId": "level_28",
+    "type": "level_28",
+    "prompt": "Hộp có 7 viên bi, lấy ra 2. Còn lại bao nhiêu?",
+    "correctAnswer": 5,
+    "options": [
+      4,
+      2,
+      3,
+      5
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 7,
+    "targetCount2": 2,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l28-q022",
+    "gameId": "level_28",
+    "type": "level_28",
+    "prompt": "Hộp có 10 bông hoa, lấy ra 4. Còn lại bao nhiêu?",
+    "correctAnswer": 6,
+    "options": [
+      5,
+      3,
+      4,
+      6
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 10,
+    "targetCount2": 4,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l28-q023",
+    "gameId": "level_28",
+    "type": "level_28",
+    "prompt": "Hộp có 3 chiếc lá, lấy ra 1. Còn lại bao nhiêu?",
+    "correctAnswer": 2,
+    "options": [
+      1,
+      3,
+      0,
+      2
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 3,
+    "targetCount2": 1,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l28-q024",
+    "gameId": "level_28",
+    "type": "level_28",
+    "prompt": "An có 18 táo, cho bạn 6. Còn lại bao nhiêu?",
+    "correctAnswer": 12,
+    "options": [
+      10,
+      11,
+      9,
+      12
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 18,
+    "targetCount2": 6,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l28-q025",
+    "gameId": "level_28",
+    "type": "level_28",
+    "prompt": "Hộp có 8 táo, lấy ra 1. Còn lại bao nhiêu?",
+    "correctAnswer": 7,
+    "options": [
+      5,
+      6,
+      7,
+      4
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 8,
+    "targetCount2": 1,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l28-q026",
+    "gameId": "level_28",
+    "type": "level_28",
+    "prompt": "Hộp có 13 táo, lấy ra 7. Còn lại bao nhiêu?",
+    "correctAnswer": 6,
+    "options": [
+      3,
+      5,
+      4,
+      6
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 13,
+    "targetCount2": 7,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l28-q027",
+    "gameId": "level_28",
+    "type": "level_28",
+    "prompt": "Hộp có 12 chiếc lá, lấy ra 4. Còn lại bao nhiêu?",
+    "correctAnswer": 8,
+    "options": [
+      6,
+      7,
+      8,
+      5
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 12,
+    "targetCount2": 4,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l28-q028",
+    "gameId": "level_28",
+    "type": "level_28",
+    "prompt": "Có 2 bông hoa, dùng hết 1. Còn lại mấy bông hoa?",
+    "correctAnswer": 1,
+    "options": [
+      0,
+      2,
+      1,
+      3
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 2,
+    "targetCount2": 1,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l28-q029",
+    "gameId": "level_28",
+    "type": "level_28",
+    "prompt": "Hộp có 3 táo, lấy ra 2. Còn lại bao nhiêu?",
+    "correctAnswer": 1,
+    "options": [
+      0,
+      3,
+      2,
+      1
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 3,
+    "targetCount2": 2,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l28-q030",
+    "gameId": "level_28",
+    "type": "level_28",
+    "prompt": "Có 4 quyển sách, dùng hết 1. Còn lại mấy quyển sách?",
+    "correctAnswer": 3,
+    "options": [
+      1,
+      3,
+      0,
+      2
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 4,
+    "targetCount2": 1,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l28-q031",
+    "gameId": "level_28",
+    "type": "level_28",
+    "prompt": "Có 16 tờ giấy, dùng hết 6. Còn lại mấy tờ giấy?",
+    "correctAnswer": 10,
+    "options": [
+      8,
+      7,
+      10,
+      9
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 16,
+    "targetCount2": 6,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l28-q032",
+    "gameId": "level_28",
+    "type": "level_28",
+    "prompt": "Lan có 5 tờ giấy, cho bạn 2. Còn lại bao nhiêu?",
+    "correctAnswer": 3,
+    "options": [
+      0,
+      3,
+      2,
+      1
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 2,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l28-q033",
+    "gameId": "level_28",
+    "type": "level_28",
+    "prompt": "Mai có 2 quyển sách, cho bạn 1. Còn lại bao nhiêu?",
+    "correctAnswer": 1,
+    "options": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 2,
+    "targetCount2": 1,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l28-q034",
+    "gameId": "level_28",
+    "type": "level_28",
+    "prompt": "Có 5 quyển sách, dùng hết 4. Còn lại mấy quyển sách?",
+    "correctAnswer": 1,
+    "options": [
+      0,
+      1,
+      3,
+      2
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 4,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l28-q035",
+    "gameId": "level_28",
+    "type": "level_28",
+    "prompt": "An có 12 quyển sách, cho bạn 5. Còn lại bao nhiêu?",
+    "correctAnswer": 7,
+    "options": [
+      5,
+      6,
+      7,
+      4
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 12,
+    "targetCount2": 5,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l28-q036",
+    "gameId": "level_28",
+    "type": "level_28",
+    "prompt": "Có 6 bông hoa, dùng hết 4. Còn lại mấy bông hoa?",
+    "correctAnswer": 2,
+    "options": [
+      0,
+      2,
+      3,
+      1
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 6,
+    "targetCount2": 4,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l28-q037",
+    "gameId": "level_28",
+    "type": "level_28",
+    "prompt": "Có 14 bông hoa, dùng hết 6. Còn lại mấy bông hoa?",
+    "correctAnswer": 8,
+    "options": [
+      6,
+      5,
+      8,
+      7
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 14,
+    "targetCount2": 6,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l28-q038",
+    "gameId": "level_28",
+    "type": "level_28",
+    "prompt": "Có 7 chiếc lá, dùng hết 6. Còn lại mấy chiếc lá?",
+    "correctAnswer": 1,
+    "options": [
+      3,
+      2,
+      0,
+      1
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 7,
+    "targetCount2": 6,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l28-q039",
+    "gameId": "level_28",
+    "type": "level_28",
+    "prompt": "Có 10 táo, dùng hết 1. Còn lại mấy táo?",
+    "correctAnswer": 9,
+    "options": [
+      8,
+      9,
+      6,
+      7
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 10,
+    "targetCount2": 1,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l28-q040",
+    "gameId": "level_28",
+    "type": "level_28",
+    "prompt": "Có 19 quả bóng, dùng hết 12. Còn lại mấy quả bóng?",
+    "correctAnswer": 7,
+    "options": [
+      6,
+      5,
+      7,
+      4
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 19,
+    "targetCount2": 12,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l28-q041",
+    "gameId": "level_28",
+    "type": "level_28",
+    "prompt": "7 + 5 + 3 = ?",
+    "correctAnswer": 15,
+    "options": [
+      13,
+      14,
+      12,
+      15
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 15,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l28-q042",
+    "gameId": "level_28",
+    "type": "level_28",
+    "prompt": "7 + 5 + 2 = ?",
+    "correctAnswer": 14,
+    "options": [
+      11,
+      14,
+      13,
+      12
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 14,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l28-q043",
+    "gameId": "level_28",
+    "type": "level_28",
+    "prompt": "6 + 3 + 5 = ?",
+    "correctAnswer": 14,
+    "options": [
+      14,
+      13,
+      12,
+      11
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 14,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l28-q044",
+    "gameId": "level_28",
+    "type": "level_28",
+    "prompt": "4 + 7 + 2 = ?",
+    "correctAnswer": 13,
+    "options": [
+      12,
+      10,
+      11,
+      13
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 13,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l28-q045",
+    "gameId": "level_28",
+    "type": "level_28",
+    "prompt": "7 + 6 + 1 = ?",
+    "correctAnswer": 14,
+    "options": [
+      14,
+      12,
+      11,
+      13
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 14,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l28-q046",
+    "gameId": "level_28",
+    "type": "level_28",
+    "prompt": "8 + 5 + 2 = ?",
+    "correctAnswer": 15,
+    "options": [
+      12,
+      14,
+      13,
+      15
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 15,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l28-q047",
+    "gameId": "level_28",
+    "type": "level_28",
+    "prompt": "1 + 3 + 2 = ?",
+    "correctAnswer": 6,
+    "options": [
+      3,
+      4,
+      5,
+      6
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 6,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l28-q048",
+    "gameId": "level_28",
+    "type": "level_28",
+    "prompt": "2 + 3 + 1 = ?",
+    "correctAnswer": 6,
+    "options": [
+      4,
+      5,
+      3,
+      6
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 6,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l28-q049",
+    "gameId": "level_28",
+    "type": "level_28",
+    "prompt": "3 + 5 + 4 = ?",
+    "correctAnswer": 12,
+    "options": [
+      11,
+      10,
+      9,
+      12
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 12,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l28-q050",
+    "gameId": "level_28",
+    "type": "level_28",
+    "prompt": "11 + 3 + 1 = ?",
+    "correctAnswer": 15,
+    "options": [
+      14,
+      13,
+      15,
+      12
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 15,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  }
 ]
