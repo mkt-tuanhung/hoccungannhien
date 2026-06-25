@@ -136,28 +136,59 @@ export default function BaseGameShell({ question, onAnswer, showObjects = true, 
         )}
 
         {/* Khu đáp án — chiếm phần dưới màn hình */}
-        {customAnswers ? (
-          customAnswers({ g, themedIcon })
-        ) : answerMode === "path" ? (
-          <PathAnswers options={g.options} correctAnswer={g.correctAnswer} selectedOption={g.selectedOption} isCorrect={g.isCorrect} onSelect={g.handleSelect} />
-        ) : answerMode === "balloon" ? (
-          <BalloonAnswers options={g.options} correctAnswer={g.correctAnswer} selectedOption={g.selectedOption} isCorrect={g.isCorrect} onSelect={g.handleSelect} />
-        ) : answerMode === "basket" ? (
-          <DragBasketAnswers options={g.options} correctAnswer={g.correctAnswer} selectedOption={g.selectedOption} isCorrect={g.isCorrect} onSelect={g.handleSelect} />
-        ) : (
-          <div className="grid grid-cols-2 gap-3">
-            {g.options.map((opt, i) => (
-              <AnswerButton
-                key={`${opt}-${i}`}
-                label={opt}
-                scheme={ANSWER_SCHEMES[i % ANSWER_SCHEMES.length]}
-                state={buttonState(opt)}
-                disabled={g.isAnswered}
-                onClick={() => g.handleSelect(opt)}
-              />
-            ))}
-          </div>
-        )}
+        {(() => {
+          const isSignQuestion = typeof g.correctAnswer === 'string' && ['>', '<', '='].includes(g.correctAnswer);
+
+          if (customAnswers) return customAnswers({ g, themedIcon });
+
+          if (isSignQuestion) {
+            return (
+              <div className="flex gap-4 justify-center mt-4">
+                {g.options.map((opt, i) => {
+                  const state = buttonState(opt);
+                  const colors: Record<string, string> = { '>': '#E040FB', '<': '#29B6F6', '=': '#66BB6A' };
+                  const bg = state === 'correct' ? '#66BB6A' : state === 'wrong' ? '#EF5350' : state === 'reveal' ? '#66BB6A' : state === 'dimmed' ? '#BDBDBD' : (colors[String(opt)] || '#7C4DFF');
+                  return (
+                    <button
+                      key={`${opt}-${i}`}
+                      disabled={g.isAnswered}
+                      onClick={() => g.handleSelect(opt)}
+                      className="flex items-center justify-center rounded-3xl shadow-lg active:scale-95 transition-transform"
+                      style={{ background: bg, width: 88, height: 88, fontSize: 44, fontWeight: 900, color: '#fff', fontFamily: "'Mochiy Pop One', system-ui", border: '4px solid rgba(255,255,255,0.5)' }}
+                    >
+                      {opt}
+                    </button>
+                  );
+                })}
+              </div>
+            );
+          }
+
+          if (answerMode === "path") {
+            return <PathAnswers options={g.options} correctAnswer={g.correctAnswer} selectedOption={g.selectedOption} isCorrect={g.isCorrect} onSelect={g.handleSelect} />;
+          }
+          if (answerMode === "balloon") {
+            return <BalloonAnswers options={g.options} correctAnswer={g.correctAnswer} selectedOption={g.selectedOption} isCorrect={g.isCorrect} onSelect={g.handleSelect} />;
+          }
+          if (answerMode === "basket") {
+            return <DragBasketAnswers options={g.options} correctAnswer={g.correctAnswer} selectedOption={g.selectedOption} isCorrect={g.isCorrect} onSelect={g.handleSelect} />;
+          }
+
+          return (
+            <div className="grid grid-cols-2 gap-3">
+              {g.options.map((opt, i) => (
+                <AnswerButton
+                  key={`${opt}-${i}`}
+                  label={opt}
+                  scheme={ANSWER_SCHEMES[i % ANSWER_SCHEMES.length]}
+                  state={buttonState(opt)}
+                  disabled={g.isAnswered}
+                  onClick={() => g.handleSelect(opt)}
+                />
+              ))}
+            </div>
+          );
+        })()}
       </div>
     </div>
   );

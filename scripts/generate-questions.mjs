@@ -117,28 +117,42 @@ function subQ(levelNum, i, maxVal, minDiff = 0) {
 function compareQ(levelNum, i, min, max) {
   let a, b;
   do { a = rnd(min, max); b = rnd(min, max); } while (a === b);
-  const ans = Math.max(a, b);
-  const wrongs = wrongOptions(ans, min, max, 3);
-  const types = [
-    `Số nào lớn hơn: ${a} hay ${b}?`,
-    `Số nào bé hơn: ${Math.max(a,b)} hay ${Math.min(a,b)}?`,
-    `${a} và ${b}, số nào lớn hơn?`,
-    `Chọn số lớn hơn trong hai số: ${a} và ${b}.`,
+  const sign = a > b ? '>' : '<';
+  const prompts = [
+    `Điền dấu đúng: ${a} __ ${b}`,
+    `${a} ___ ${b}. Chọn dấu thích hợp:`,
+    `So sánh: ${a} ☐ ${b}`,
+    `${a} và ${b}, điền dấu so sánh:`,
   ];
-  let prompt = pick(types);
-  let correctAnswer = ans;
-  // Nếu hỏi bé hơn, đáp án là số nhỏ hơn
-  if (prompt.includes('bé hơn') || prompt.includes('nhỏ hơn')) {
-    correctAnswer = Math.min(a, b);
-  }
-  const ws = wrongOptions(correctAnswer, min, max, 3);
   return {
     id: qId(levelNum, i), gameId: `level_${levelNum}`, type: `level_${levelNum}`,
-    prompt,
-    correctAnswer, options: buildOptions(correctAnswer, ws),
-    objectIcon: '/icons/star_icon.png', objectIcon2: '',
-    targetCount: Math.max(a,b), targetCount2: 0, renderMode: 'single', displayPrompt: null
+    prompt: pick(prompts),
+    correctAnswer: sign,
+    options: ['>', '<', '='],
+    objectIcon: '', objectIcon2: '',
+    targetCount: 0, targetCount2: 0, renderMode: 'single', displayPrompt: null
   };
+}
+
+function compareEqQ(levelNum, i, min, max) {
+  const a = rnd(min, max);
+  const prompts = [
+    `Điền dấu đúng: ${a} __ ${a}`,
+    `${a} ___ ${a}. Chọn dấu thích hợp:`,
+    `So sánh: ${a} ☐ ${a}`,
+  ];
+  return {
+    id: qId(levelNum, i), gameId: `level_${levelNum}`, type: `level_${levelNum}`,
+    prompt: pick(prompts),
+    correctAnswer: '=',
+    options: ['>', '<', '='],
+    objectIcon: '', objectIcon2: '',
+    targetCount: 0, targetCount2: 0, renderMode: 'single', displayPrompt: null
+  };
+}
+
+function anyCompareQ(levelNum, i, min, max) {
+  return Math.random() < 0.15 ? compareEqQ(levelNum, i, min, max) : compareQ(levelNum, i, min, max);
 }
 
 function storyAddQ(levelNum, i, maxSum) {
@@ -318,14 +332,14 @@ function generateLevel(levelNum) {
       break;
 
     case 4: // So sánh hai số (1-10)
-      while (i < 35) add(compareQ(4, i, 1, 10));
+      while (i < 35) add(anyCompareQ(4, i, 1, 10));
       while (i < 50) add(recognizeQ(4, i, 1, 10));
       break;
 
     case 5: // Cộng và trừ hỗn hợp trong 10
       while (i < 20) add(addQ(5, i, 10));
       while (i < 40) add(subQ(5, i, 10));
-      while (i < 50) add(compareQ(5, i, 1, 10));
+      while (i < 50) add(anyCompareQ(5, i, 1, 10));
       break;
 
     case 6: // Toán có lời văn đơn giản (trong 10)
@@ -342,7 +356,7 @@ function generateLevel(levelNum) {
     case 8: // Ôn tập tổng hợp 1-10
       while (i < 12) add(addQ(8, i, 10));
       while (i < 24) add(subQ(8, i, 10));
-      while (i < 36) add(compareQ(8, i, 1, 10));
+      while (i < 36) add(anyCompareQ(8, i, 1, 10));
       while (i < 43) add(storyAddQ(8, i, 10));
       while (i < 50) add(storySubQ(8, i, 10));
       break;
@@ -356,7 +370,7 @@ function generateLevel(levelNum) {
     case 10: // Boss level: tổng hợp trong 10
       while (i < 10) add(addQ(10, i, 10));
       while (i < 20) add(subQ(10, i, 10));
-      while (i < 30) add(compareQ(10, i, 1, 10));
+      while (i < 30) add(anyCompareQ(10, i, 1, 10));
       while (i < 38) add(storyAddQ(10, i, 10));
       while (i < 44) add(storySubQ(10, i, 10));
       while (i < 50) add(fillQ(10, i, 10, false));
@@ -366,13 +380,13 @@ function generateLevel(levelNum) {
     case 11: // Cộng trong 15
       while (i < 30) add(addQ(11, i, 15, 1));
       while (i < 45) add(storyAddQ(11, i, 15));
-      while (i < 50) add(compareQ(11, i, 1, 15));
+      while (i < 50) add(anyCompareQ(11, i, 1, 15));
       break;
 
     case 12: // Trừ trong 15
       while (i < 30) add(subQ(12, i, 15));
       while (i < 40) add(addQ(12, i, 15));
-      while (i < 50) add(compareQ(12, i, 1, 15));
+      while (i < 50) add(anyCompareQ(12, i, 1, 15));
       break;
 
     case 13: // Ôn tập + kiểm tra 1-15
@@ -386,27 +400,27 @@ function generateLevel(levelNum) {
     case 14: // Cộng trừ hỗn hợp trong 15
       while (i < 15) add(addQ(14, i, 15));
       while (i < 30) add(subQ(14, i, 15));
-      while (i < 40) add(compareQ(14, i, 1, 15));
+      while (i < 40) add(anyCompareQ(14, i, 1, 15));
       while (i < 50) add(fillQ(14, i, 15, true));
       break;
 
     case 15: // Toán có lời văn nâng cao (trong 15)
       while (i < 25) add(storyAddQ(15, i, 15));
       while (i < 45) add(storySubQ(15, i, 15));
-      while (i < 50) add(compareQ(15, i, 1, 15));
+      while (i < 50) add(anyCompareQ(15, i, 1, 15));
       break;
 
     // ── GIAI ĐOẠN 3: Số 16-20 ─────────────────────────────
     case 16: // Cộng trong 20
       while (i < 30) add(addQ(16, i, 20));
       while (i < 45) add(storyAddQ(16, i, 20));
-      while (i < 50) add(compareQ(16, i, 1, 20));
+      while (i < 50) add(anyCompareQ(16, i, 1, 20));
       break;
 
     case 17: // Trừ trong 20
       while (i < 35) add(subQ(17, i, 20));
       while (i < 45) add(addQ(17, i, 20));
-      while (i < 50) add(compareQ(17, i, 1, 20));
+      while (i < 50) add(anyCompareQ(17, i, 1, 20));
       break;
 
     case 18: // Toán có lời văn trong 20
@@ -423,7 +437,7 @@ function generateLevel(levelNum) {
     case 20: // Ôn tập tổng hợp 11-20
       while (i < 10) add(addQ(20, i, 20));
       while (i < 20) add(subQ(20, i, 20));
-      while (i < 30) add(compareQ(20, i, 1, 20));
+      while (i < 30) add(anyCompareQ(20, i, 1, 20));
       while (i < 38) add(storyAddQ(20, i, 20));
       while (i < 44) add(storySubQ(20, i, 20));
       while (i < 50) add(sequenceQ(20, i, 20));
@@ -437,7 +451,7 @@ function generateLevel(levelNum) {
 
     case 22: // Số chẵn, số lẻ trong 20
       while (i < 30) add(evenOddQ(22, i, 20));
-      while (i < 40) add(compareQ(22, i, 1, 20));
+      while (i < 40) add(anyCompareQ(22, i, 1, 20));
       while (i < 50) add(sequenceQ(22, i, 20));
       break;
 
@@ -449,7 +463,7 @@ function generateLevel(levelNum) {
     case 24: // Toán đố tổng hợp trong 20
       while (i < 25) add(storyAddQ(24, i, 20));
       while (i < 45) add(storySubQ(24, i, 20));
-      while (i < 50) add(compareQ(24, i, 1, 20));
+      while (i < 50) add(anyCompareQ(24, i, 1, 20));
       break;
 
     case 25: // Cộng 3 số trong 15
@@ -465,7 +479,7 @@ function generateLevel(levelNum) {
       while (i < 28) add(storyAddQ(26, i, 20));
       while (i < 36) add(storySubQ(26, i, 20));
       while (i < 43) add(fillQ(26, i, 20, false));
-      while (i < 50) add(compareQ(26, i, 1, 20));
+      while (i < 50) add(anyCompareQ(26, i, 1, 20));
       break;
 
     case 27: // Thử thách tư duy: dãy số + số chẵn/lẻ + điền
@@ -485,7 +499,7 @@ function generateLevel(levelNum) {
       while (i < 16) add(subQ(29, i, 20));
       while (i < 24) add(storyAddQ(29, i, 20));
       while (i < 30) add(storySubQ(29, i, 20));
-      while (i < 36) add(compareQ(29, i, 1, 20));
+      while (i < 36) add(anyCompareQ(29, i, 1, 20));
       while (i < 42) add(sequenceQ(29, i, 20));
       while (i < 46) add(evenOddQ(29, i, 20));
       while (i < 50) add(fillQ(29, i, 20, false));
@@ -499,7 +513,7 @@ function generateLevel(levelNum) {
       while (i < 34) add(storySubQ(30, i, 20));
       while (i < 40) add(fillQ(30, i, 20, false));
       while (i < 46) add(fillQ(30, i, 20, true));
-      while (i < 50) add(compareQ(30, i, 1, 20));
+      while (i < 50) add(anyCompareQ(30, i, 1, 20));
       break;
 
     default:

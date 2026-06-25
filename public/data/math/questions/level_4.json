@@ -3,17 +3,16 @@
     "id": "l04-q001",
     "gameId": "level_4",
     "type": "level_4",
-    "prompt": "10 và 4, số nào lớn hơn?",
-    "correctAnswer": 10,
+    "prompt": "So sánh: 7 ☐ 7",
+    "correctAnswer": "=",
     "options": [
-      8,
-      9,
-      7,
-      10
+      ">",
+      "<",
+      "="
     ],
-    "objectIcon": "/icons/star_icon.png",
+    "objectIcon": "",
     "objectIcon2": "",
-    "targetCount": 10,
+    "targetCount": 0,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
@@ -22,17 +21,16 @@
     "id": "l04-q002",
     "gameId": "level_4",
     "type": "level_4",
-    "prompt": "Số nào lớn hơn: 5 hay 8?",
-    "correctAnswer": 8,
+    "prompt": "5 và 6, điền dấu so sánh:",
+    "correctAnswer": "<",
     "options": [
-      7,
-      5,
-      6,
-      8
+      ">",
+      "<",
+      "="
     ],
-    "objectIcon": "/icons/star_icon.png",
+    "objectIcon": "",
     "objectIcon2": "",
-    "targetCount": 8,
+    "targetCount": 0,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
@@ -41,17 +39,16 @@
     "id": "l04-q003",
     "gameId": "level_4",
     "type": "level_4",
-    "prompt": "Chọn số lớn hơn trong hai số: 5 và 4.",
-    "correctAnswer": 5,
+    "prompt": "So sánh: 9 ☐ 2",
+    "correctAnswer": ">",
     "options": [
-      5,
-      3,
-      2,
-      4
+      ">",
+      "<",
+      "="
     ],
-    "objectIcon": "/icons/star_icon.png",
+    "objectIcon": "",
     "objectIcon2": "",
-    "targetCount": 5,
+    "targetCount": 0,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
@@ -60,17 +57,16 @@
     "id": "l04-q004",
     "gameId": "level_4",
     "type": "level_4",
-    "prompt": "7 và 8, số nào lớn hơn?",
-    "correctAnswer": 8,
+    "prompt": "Điền dấu đúng: 1 __ 1",
+    "correctAnswer": "=",
     "options": [
-      8,
-      6,
-      5,
-      7
+      ">",
+      "<",
+      "="
     ],
-    "objectIcon": "/icons/star_icon.png",
+    "objectIcon": "",
     "objectIcon2": "",
-    "targetCount": 8,
+    "targetCount": 0,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
@@ -79,17 +75,16 @@
     "id": "l04-q005",
     "gameId": "level_4",
     "type": "level_4",
-    "prompt": "Chọn số lớn hơn trong hai số: 3 và 9.",
-    "correctAnswer": 9,
+    "prompt": "So sánh: 1 ☐ 1",
+    "correctAnswer": "=",
     "options": [
-      6,
-      9,
-      8,
-      7
+      ">",
+      "<",
+      "="
     ],
-    "objectIcon": "/icons/star_icon.png",
+    "objectIcon": "",
     "objectIcon2": "",
-    "targetCount": 9,
+    "targetCount": 0,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
@@ -98,17 +93,16 @@
     "id": "l04-q006",
     "gameId": "level_4",
     "type": "level_4",
-    "prompt": "Số nào bé hơn: 8 hay 5?",
-    "correctAnswer": 5,
+    "prompt": "So sánh: 3 ☐ 3",
+    "correctAnswer": "=",
     "options": [
-      3,
-      5,
-      2,
-      4
+      ">",
+      "<",
+      "="
     ],
-    "objectIcon": "/icons/star_icon.png",
+    "objectIcon": "",
     "objectIcon2": "",
-    "targetCount": 8,
+    "targetCount": 0,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
@@ -117,17 +111,16 @@
     "id": "l04-q007",
     "gameId": "level_4",
     "type": "level_4",
-    "prompt": "4 và 6, số nào lớn hơn?",
-    "correctAnswer": 6,
+    "prompt": "Điền dấu đúng: 4 __ 7",
+    "correctAnswer": "<",
     "options": [
-      6,
-      4,
-      5,
-      3
+      ">",
+      "<",
+      "="
     ],
-    "objectIcon": "/icons/star_icon.png",
+    "objectIcon": "",
     "objectIcon2": "",
-    "targetCount": 6,
+    "targetCount": 0,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
@@ -136,17 +129,16 @@
     "id": "l04-q008",
     "gameId": "level_4",
     "type": "level_4",
-    "prompt": "Số nào lớn hơn: 6 hay 8?",
-    "correctAnswer": 8,
+    "prompt": "Điền dấu đúng: 8 __ 1",
+    "correctAnswer": ">",
     "options": [
-      7,
-      8,
-      5,
-      6
+      ">",
+      "<",
+      "="
     ],
-    "objectIcon": "/icons/star_icon.png",
+    "objectIcon": "",
     "objectIcon2": "",
-    "targetCount": 8,
+    "targetCount": 0,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
@@ -155,17 +147,16 @@
     "id": "l04-q009",
     "gameId": "level_4",
     "type": "level_4",
-    "prompt": "Số nào lớn hơn: 1 hay 6?",
-    "correctAnswer": 6,
+    "prompt": "7 và 9, điền dấu so sánh:",
+    "correctAnswer": "<",
     "options": [
-      4,
-      6,
-      5,
-      3
+      ">",
+      "<",
+      "="
     ],
-    "objectIcon": "/icons/star_icon.png",
+    "objectIcon": "",
     "objectIcon2": "",
-    "targetCount": 6,
+    "targetCount": 0,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
@@ -174,17 +165,16 @@
     "id": "l04-q010",
     "gameId": "level_4",
     "type": "level_4",
-    "prompt": "Số nào bé hơn: 4 hay 1?",
-    "correctAnswer": 1,
+    "prompt": "So sánh: 9 ☐ 4",
+    "correctAnswer": ">",
     "options": [
-      2,
-      3,
-      1,
-      4
+      ">",
+      "<",
+      "="
     ],
-    "objectIcon": "/icons/star_icon.png",
+    "objectIcon": "",
     "objectIcon2": "",
-    "targetCount": 4,
+    "targetCount": 0,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
@@ -193,17 +183,16 @@
     "id": "l04-q011",
     "gameId": "level_4",
     "type": "level_4",
-    "prompt": "Số nào lớn hơn: 9 hay 2?",
-    "correctAnswer": 9,
+    "prompt": "Điền dấu đúng: 8 __ 3",
+    "correctAnswer": ">",
     "options": [
-      6,
-      9,
-      8,
-      7
+      ">",
+      "<",
+      "="
     ],
-    "objectIcon": "/icons/star_icon.png",
+    "objectIcon": "",
     "objectIcon2": "",
-    "targetCount": 9,
+    "targetCount": 0,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
@@ -212,17 +201,16 @@
     "id": "l04-q012",
     "gameId": "level_4",
     "type": "level_4",
-    "prompt": "Số nào lớn hơn: 8 hay 5?",
-    "correctAnswer": 8,
+    "prompt": "5 và 3, điền dấu so sánh:",
+    "correctAnswer": ">",
     "options": [
-      8,
-      6,
-      7,
-      5
+      ">",
+      "<",
+      "="
     ],
-    "objectIcon": "/icons/star_icon.png",
+    "objectIcon": "",
     "objectIcon2": "",
-    "targetCount": 8,
+    "targetCount": 0,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
@@ -231,17 +219,16 @@
     "id": "l04-q013",
     "gameId": "level_4",
     "type": "level_4",
-    "prompt": "Số nào bé hơn: 7 hay 5?",
-    "correctAnswer": 5,
+    "prompt": "8 ___ 2. Chọn dấu thích hợp:",
+    "correctAnswer": ">",
     "options": [
-      2,
-      3,
-      5,
-      4
+      ">",
+      "<",
+      "="
     ],
-    "objectIcon": "/icons/star_icon.png",
+    "objectIcon": "",
     "objectIcon2": "",
-    "targetCount": 7,
+    "targetCount": 0,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
@@ -250,17 +237,16 @@
     "id": "l04-q014",
     "gameId": "level_4",
     "type": "level_4",
-    "prompt": "Chọn số lớn hơn trong hai số: 6 và 10.",
-    "correctAnswer": 10,
+    "prompt": "Điền dấu đúng: 1 __ 9",
+    "correctAnswer": "<",
     "options": [
-      10,
-      9,
-      7,
-      8
+      ">",
+      "<",
+      "="
     ],
-    "objectIcon": "/icons/star_icon.png",
+    "objectIcon": "",
     "objectIcon2": "",
-    "targetCount": 10,
+    "targetCount": 0,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
@@ -269,17 +255,16 @@
     "id": "l04-q015",
     "gameId": "level_4",
     "type": "level_4",
-    "prompt": "Số nào bé hơn: 9 hay 4?",
-    "correctAnswer": 4,
+    "prompt": "Điền dấu đúng: 1 __ 5",
+    "correctAnswer": "<",
     "options": [
-      2,
-      4,
-      3,
-      1
+      ">",
+      "<",
+      "="
     ],
-    "objectIcon": "/icons/star_icon.png",
+    "objectIcon": "",
     "objectIcon2": "",
-    "targetCount": 9,
+    "targetCount": 0,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
@@ -288,17 +273,16 @@
     "id": "l04-q016",
     "gameId": "level_4",
     "type": "level_4",
-    "prompt": "5 và 8, số nào lớn hơn?",
-    "correctAnswer": 8,
+    "prompt": "Điền dấu đúng: 4 __ 9",
+    "correctAnswer": "<",
     "options": [
-      6,
-      7,
-      5,
-      8
+      ">",
+      "<",
+      "="
     ],
-    "objectIcon": "/icons/star_icon.png",
+    "objectIcon": "",
     "objectIcon2": "",
-    "targetCount": 8,
+    "targetCount": 0,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
@@ -307,17 +291,16 @@
     "id": "l04-q017",
     "gameId": "level_4",
     "type": "level_4",
-    "prompt": "Chọn số lớn hơn trong hai số: 9 và 2.",
-    "correctAnswer": 9,
+    "prompt": "Điền dấu đúng: 1 __ 9",
+    "correctAnswer": "<",
     "options": [
-      6,
-      8,
-      9,
-      7
+      ">",
+      "<",
+      "="
     ],
-    "objectIcon": "/icons/star_icon.png",
+    "objectIcon": "",
     "objectIcon2": "",
-    "targetCount": 9,
+    "targetCount": 0,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
@@ -326,17 +309,16 @@
     "id": "l04-q018",
     "gameId": "level_4",
     "type": "level_4",
-    "prompt": "4 và 2, số nào lớn hơn?",
-    "correctAnswer": 4,
+    "prompt": "9 và 8, điền dấu so sánh:",
+    "correctAnswer": ">",
     "options": [
-      3,
-      1,
-      2,
-      4
+      ">",
+      "<",
+      "="
     ],
-    "objectIcon": "/icons/star_icon.png",
+    "objectIcon": "",
     "objectIcon2": "",
-    "targetCount": 4,
+    "targetCount": 0,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
@@ -345,17 +327,16 @@
     "id": "l04-q019",
     "gameId": "level_4",
     "type": "level_4",
-    "prompt": "Chọn số lớn hơn trong hai số: 1 và 6.",
-    "correctAnswer": 6,
+    "prompt": "So sánh: 5 ☐ 4",
+    "correctAnswer": ">",
     "options": [
-      4,
-      5,
-      3,
-      6
+      ">",
+      "<",
+      "="
     ],
-    "objectIcon": "/icons/star_icon.png",
+    "objectIcon": "",
     "objectIcon2": "",
-    "targetCount": 6,
+    "targetCount": 0,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
@@ -364,17 +345,16 @@
     "id": "l04-q020",
     "gameId": "level_4",
     "type": "level_4",
-    "prompt": "Chọn số lớn hơn trong hai số: 6 và 3.",
-    "correctAnswer": 6,
+    "prompt": "8 và 6, điền dấu so sánh:",
+    "correctAnswer": ">",
     "options": [
-      3,
-      6,
-      5,
-      4
+      ">",
+      "<",
+      "="
     ],
-    "objectIcon": "/icons/star_icon.png",
+    "objectIcon": "",
     "objectIcon2": "",
-    "targetCount": 6,
+    "targetCount": 0,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
@@ -383,17 +363,16 @@
     "id": "l04-q021",
     "gameId": "level_4",
     "type": "level_4",
-    "prompt": "Số nào bé hơn: 7 hay 3?",
-    "correctAnswer": 3,
+    "prompt": "1 ___ 7. Chọn dấu thích hợp:",
+    "correctAnswer": "<",
     "options": [
-      1,
-      4,
-      2,
-      3
+      ">",
+      "<",
+      "="
     ],
-    "objectIcon": "/icons/star_icon.png",
+    "objectIcon": "",
     "objectIcon2": "",
-    "targetCount": 7,
+    "targetCount": 0,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
@@ -402,17 +381,16 @@
     "id": "l04-q022",
     "gameId": "level_4",
     "type": "level_4",
-    "prompt": "1 và 5, số nào lớn hơn?",
-    "correctAnswer": 5,
+    "prompt": "7 và 5, điền dấu so sánh:",
+    "correctAnswer": ">",
     "options": [
-      2,
-      3,
-      4,
-      5
+      ">",
+      "<",
+      "="
     ],
-    "objectIcon": "/icons/star_icon.png",
+    "objectIcon": "",
     "objectIcon2": "",
-    "targetCount": 5,
+    "targetCount": 0,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
@@ -421,17 +399,16 @@
     "id": "l04-q023",
     "gameId": "level_4",
     "type": "level_4",
-    "prompt": "Số nào lớn hơn: 6 hay 5?",
-    "correctAnswer": 6,
+    "prompt": "Điền dấu đúng: 10 __ 6",
+    "correctAnswer": ">",
     "options": [
-      3,
-      4,
-      5,
-      6
+      ">",
+      "<",
+      "="
     ],
-    "objectIcon": "/icons/star_icon.png",
+    "objectIcon": "",
     "objectIcon2": "",
-    "targetCount": 6,
+    "targetCount": 0,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
@@ -440,17 +417,16 @@
     "id": "l04-q024",
     "gameId": "level_4",
     "type": "level_4",
-    "prompt": "Chọn số lớn hơn trong hai số: 7 và 3.",
-    "correctAnswer": 7,
+    "prompt": "4 ___ 7. Chọn dấu thích hợp:",
+    "correctAnswer": "<",
     "options": [
-      5,
-      4,
-      7,
-      6
+      ">",
+      "<",
+      "="
     ],
-    "objectIcon": "/icons/star_icon.png",
+    "objectIcon": "",
     "objectIcon2": "",
-    "targetCount": 7,
+    "targetCount": 0,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
@@ -459,17 +435,16 @@
     "id": "l04-q025",
     "gameId": "level_4",
     "type": "level_4",
-    "prompt": "Số nào bé hơn: 10 hay 2?",
-    "correctAnswer": 2,
+    "prompt": "So sánh: 7 ☐ 9",
+    "correctAnswer": "<",
     "options": [
-      4,
-      2,
-      1,
-      3
+      ">",
+      "<",
+      "="
     ],
-    "objectIcon": "/icons/star_icon.png",
+    "objectIcon": "",
     "objectIcon2": "",
-    "targetCount": 10,
+    "targetCount": 0,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
@@ -478,17 +453,16 @@
     "id": "l04-q026",
     "gameId": "level_4",
     "type": "level_4",
-    "prompt": "Số nào bé hơn: 4 hay 3?",
-    "correctAnswer": 3,
+    "prompt": "Điền dấu đúng: 8 __ 1",
+    "correctAnswer": ">",
     "options": [
-      2,
-      4,
-      3,
-      1
+      ">",
+      "<",
+      "="
     ],
-    "objectIcon": "/icons/star_icon.png",
+    "objectIcon": "",
     "objectIcon2": "",
-    "targetCount": 4,
+    "targetCount": 0,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
@@ -497,17 +471,16 @@
     "id": "l04-q027",
     "gameId": "level_4",
     "type": "level_4",
-    "prompt": "Số nào lớn hơn: 4 hay 7?",
-    "correctAnswer": 7,
+    "prompt": "9 ___ 10. Chọn dấu thích hợp:",
+    "correctAnswer": "<",
     "options": [
-      4,
-      7,
-      5,
-      6
+      ">",
+      "<",
+      "="
     ],
-    "objectIcon": "/icons/star_icon.png",
+    "objectIcon": "",
     "objectIcon2": "",
-    "targetCount": 7,
+    "targetCount": 0,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
@@ -516,17 +489,16 @@
     "id": "l04-q028",
     "gameId": "level_4",
     "type": "level_4",
-    "prompt": "Chọn số lớn hơn trong hai số: 8 và 7.",
-    "correctAnswer": 8,
+    "prompt": "Điền dấu đúng: 7 __ 5",
+    "correctAnswer": ">",
     "options": [
-      6,
-      7,
-      5,
-      8
+      ">",
+      "<",
+      "="
     ],
-    "objectIcon": "/icons/star_icon.png",
+    "objectIcon": "",
     "objectIcon2": "",
-    "targetCount": 8,
+    "targetCount": 0,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
@@ -535,17 +507,16 @@
     "id": "l04-q029",
     "gameId": "level_4",
     "type": "level_4",
-    "prompt": "Số nào bé hơn: 10 hay 2?",
-    "correctAnswer": 2,
+    "prompt": "Điền dấu đúng: 2 __ 4",
+    "correctAnswer": "<",
     "options": [
-      1,
-      3,
-      2,
-      4
+      ">",
+      "<",
+      "="
     ],
-    "objectIcon": "/icons/star_icon.png",
+    "objectIcon": "",
     "objectIcon2": "",
-    "targetCount": 10,
+    "targetCount": 0,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
@@ -554,17 +525,16 @@
     "id": "l04-q030",
     "gameId": "level_4",
     "type": "level_4",
-    "prompt": "9 và 3, số nào lớn hơn?",
-    "correctAnswer": 9,
+    "prompt": "So sánh: 7 ☐ 4",
+    "correctAnswer": ">",
     "options": [
-      8,
-      7,
-      9,
-      6
+      ">",
+      "<",
+      "="
     ],
-    "objectIcon": "/icons/star_icon.png",
+    "objectIcon": "",
     "objectIcon2": "",
-    "targetCount": 9,
+    "targetCount": 0,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
@@ -573,17 +543,16 @@
     "id": "l04-q031",
     "gameId": "level_4",
     "type": "level_4",
-    "prompt": "Chọn số lớn hơn trong hai số: 3 và 7.",
-    "correctAnswer": 7,
+    "prompt": "4 ___ 4. Chọn dấu thích hợp:",
+    "correctAnswer": "=",
     "options": [
-      5,
-      7,
-      6,
-      4
+      ">",
+      "<",
+      "="
     ],
-    "objectIcon": "/icons/star_icon.png",
+    "objectIcon": "",
     "objectIcon2": "",
-    "targetCount": 7,
+    "targetCount": 0,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
@@ -592,17 +561,16 @@
     "id": "l04-q032",
     "gameId": "level_4",
     "type": "level_4",
-    "prompt": "Chọn số lớn hơn trong hai số: 1 và 3.",
-    "correctAnswer": 3,
+    "prompt": "5 ___ 6. Chọn dấu thích hợp:",
+    "correctAnswer": "<",
     "options": [
-      3,
-      1,
-      4,
-      2
+      ">",
+      "<",
+      "="
     ],
-    "objectIcon": "/icons/star_icon.png",
+    "objectIcon": "",
     "objectIcon2": "",
-    "targetCount": 3,
+    "targetCount": 0,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
@@ -611,17 +579,16 @@
     "id": "l04-q033",
     "gameId": "level_4",
     "type": "level_4",
-    "prompt": "5 và 2, số nào lớn hơn?",
-    "correctAnswer": 5,
+    "prompt": "So sánh: 7 ☐ 7",
+    "correctAnswer": "=",
     "options": [
-      4,
-      2,
-      3,
-      5
+      ">",
+      "<",
+      "="
     ],
-    "objectIcon": "/icons/star_icon.png",
+    "objectIcon": "",
     "objectIcon2": "",
-    "targetCount": 5,
+    "targetCount": 0,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
@@ -630,17 +597,16 @@
     "id": "l04-q034",
     "gameId": "level_4",
     "type": "level_4",
-    "prompt": "Chọn số lớn hơn trong hai số: 6 và 10.",
-    "correctAnswer": 10,
+    "prompt": "8 và 3, điền dấu so sánh:",
+    "correctAnswer": ">",
     "options": [
-      8,
-      10,
-      9,
-      7
+      ">",
+      "<",
+      "="
     ],
-    "objectIcon": "/icons/star_icon.png",
+    "objectIcon": "",
     "objectIcon2": "",
-    "targetCount": 10,
+    "targetCount": 0,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
@@ -649,17 +615,16 @@
     "id": "l04-q035",
     "gameId": "level_4",
     "type": "level_4",
-    "prompt": "Chọn số lớn hơn trong hai số: 7 và 2.",
-    "correctAnswer": 7,
+    "prompt": "8 và 9, điền dấu so sánh:",
+    "correctAnswer": "<",
     "options": [
-      7,
-      5,
-      4,
-      6
+      ">",
+      "<",
+      "="
     ],
-    "objectIcon": "/icons/star_icon.png",
+    "objectIcon": "",
     "objectIcon2": "",
-    "targetCount": 7,
+    "targetCount": 0,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
@@ -668,31 +633,12 @@
     "id": "l04-q036",
     "gameId": "level_4",
     "type": "level_4",
-    "prompt": "Bé hãy chọn thẻ số 10!",
-    "correctAnswer": 10,
-    "options": [
-      8,
-      7,
-      9,
-      10
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 10,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l04-q037",
-    "gameId": "level_4",
-    "type": "level_4",
-    "prompt": "Chọn đúng số 2 nhé!",
+    "prompt": "Bé hãy chọn thẻ số 2!",
     "correctAnswer": 2,
     "options": [
       1,
-      3,
       0,
+      3,
       2
     ],
     "objectIcon": "/icons/star_icon.png",
@@ -703,14 +649,14 @@
     "displayPrompt": null
   },
   {
-    "id": "l04-q038",
+    "id": "l04-q037",
     "gameId": "level_4",
     "type": "level_4",
     "prompt": "Tìm số 10 trong các thẻ dưới đây!",
     "correctAnswer": 10,
     "options": [
-      10,
       7,
+      10,
       9,
       8
     ],
@@ -722,14 +668,14 @@
     "displayPrompt": null
   },
   {
-    "id": "l04-q039",
+    "id": "l04-q038",
     "gameId": "level_4",
     "type": "level_4",
-    "prompt": "Chọn đúng số 1 nhé!",
+    "prompt": "Bé hãy chọn thẻ số 1!",
     "correctAnswer": 1,
     "options": [
-      3,
       1,
+      3,
       0,
       2
     ],
@@ -741,20 +687,39 @@
     "displayPrompt": null
   },
   {
-    "id": "l04-q040",
+    "id": "l04-q039",
     "gameId": "level_4",
     "type": "level_4",
-    "prompt": "Chọn đúng số 4 nhé!",
-    "correctAnswer": 4,
+    "prompt": "Tìm số 2 trong các thẻ dưới đây!",
+    "correctAnswer": 2,
     "options": [
       1,
-      3,
+      0,
       2,
-      4
+      3
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
-    "targetCount": 4,
+    "targetCount": 2,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l04-q040",
+    "gameId": "level_4",
+    "type": "level_4",
+    "prompt": "Bé hãy chọn thẻ số 1!",
+    "correctAnswer": 1,
+    "options": [
+      1,
+      2,
+      3,
+      0
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 1,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
@@ -763,32 +728,13 @@
     "id": "l04-q041",
     "gameId": "level_4",
     "type": "level_4",
-    "prompt": "Tìm số 5 trong các thẻ dưới đây!",
-    "correctAnswer": 5,
-    "options": [
-      4,
-      2,
-      5,
-      3
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 5,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l04-q042",
-    "gameId": "level_4",
-    "type": "level_4",
-    "prompt": "Tìm số 3 trong các thẻ dưới đây!",
+    "prompt": "Bé hãy chọn thẻ số 3!",
     "correctAnswer": 3,
     "options": [
+      3,
       0,
-      1,
       2,
-      3
+      1
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
@@ -798,15 +744,15 @@
     "displayPrompt": null
   },
   {
-    "id": "l04-q043",
+    "id": "l04-q042",
     "gameId": "level_4",
     "type": "level_4",
-    "prompt": "Chọn đúng số 7 nhé!",
+    "prompt": "Tìm số 7 trong các thẻ dưới đây!",
     "correctAnswer": 7,
     "options": [
       5,
-      7,
       4,
+      7,
       6
     ],
     "objectIcon": "/icons/star_icon.png",
@@ -817,45 +763,7 @@
     "displayPrompt": null
   },
   {
-    "id": "l04-q044",
-    "gameId": "level_4",
-    "type": "level_4",
-    "prompt": "Tìm số 6 trong các thẻ dưới đây!",
-    "correctAnswer": 6,
-    "options": [
-      5,
-      3,
-      4,
-      6
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 6,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l04-q045",
-    "gameId": "level_4",
-    "type": "level_4",
-    "prompt": "Chọn đúng số 3 nhé!",
-    "correctAnswer": 3,
-    "options": [
-      1,
-      2,
-      3,
-      0
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 3,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l04-q046",
+    "id": "l04-q043",
     "gameId": "level_4",
     "type": "level_4",
     "prompt": "Chọn đúng số 8 nhé!",
@@ -874,16 +782,54 @@
     "displayPrompt": null
   },
   {
-    "id": "l04-q047",
+    "id": "l04-q044",
+    "gameId": "level_4",
+    "type": "level_4",
+    "prompt": "Chọn đúng số 7 nhé!",
+    "correctAnswer": 7,
+    "options": [
+      6,
+      4,
+      5,
+      7
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 7,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l04-q045",
+    "gameId": "level_4",
+    "type": "level_4",
+    "prompt": "Bé hãy chọn thẻ số 8!",
+    "correctAnswer": 8,
+    "options": [
+      7,
+      5,
+      6,
+      8
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 8,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l04-q046",
     "gameId": "level_4",
     "type": "level_4",
     "prompt": "Tìm số 6 trong các thẻ dưới đây!",
     "correctAnswer": 6,
     "options": [
-      6,
-      5,
+      4,
       3,
-      4
+      5,
+      6
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
@@ -893,16 +839,35 @@
     "displayPrompt": null
   },
   {
+    "id": "l04-q047",
+    "gameId": "level_4",
+    "type": "level_4",
+    "prompt": "Bé hãy chọn thẻ số 3!",
+    "correctAnswer": 3,
+    "options": [
+      1,
+      0,
+      3,
+      2
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 3,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
     "id": "l04-q048",
     "gameId": "level_4",
     "type": "level_4",
-    "prompt": "Chọn đúng số 1 nhé!",
+    "prompt": "Tìm số 1 trong các thẻ dưới đây!",
     "correctAnswer": 1,
     "options": [
-      0,
-      2,
       3,
-      1
+      2,
+      1,
+      0
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
@@ -915,17 +880,17 @@
     "id": "l04-q049",
     "gameId": "level_4",
     "type": "level_4",
-    "prompt": "Tìm số 7 trong các thẻ dưới đây!",
-    "correctAnswer": 7,
+    "prompt": "Tìm số 10 trong các thẻ dưới đây!",
+    "correctAnswer": 10,
     "options": [
-      4,
-      6,
-      5,
-      7
+      10,
+      7,
+      8,
+      9
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
-    "targetCount": 7,
+    "targetCount": 10,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
@@ -934,17 +899,17 @@
     "id": "l04-q050",
     "gameId": "level_4",
     "type": "level_4",
-    "prompt": "Tìm số 3 trong các thẻ dưới đây!",
-    "correctAnswer": 3,
+    "prompt": "Tìm số 4 trong các thẻ dưới đây!",
+    "correctAnswer": 4,
     "options": [
       3,
+      4,
       1,
-      0,
       2
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
-    "targetCount": 3,
+    "targetCount": 4,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null

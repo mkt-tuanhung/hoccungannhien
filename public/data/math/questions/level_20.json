@@ -3,18 +3,18 @@
     "id": "l20-q001",
     "gameId": "level_20",
     "type": "level_20",
-    "prompt": "18 + 2 = ?",
-    "correctAnswer": 20,
+    "prompt": "2 + 10 = ?",
+    "correctAnswer": 12,
     "options": [
-      20,
-      18,
-      17,
-      19
+      10,
+      11,
+      9,
+      12
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
-    "targetCount": 18,
-    "targetCount2": 2,
+    "targetCount": 2,
+    "targetCount2": 10,
     "renderMode": "addition",
     "displayPrompt": null
   },
@@ -22,18 +22,18 @@
     "id": "l20-q002",
     "gameId": "level_20",
     "type": "level_20",
-    "prompt": "3 + 11 = ?",
-    "correctAnswer": 14,
+    "prompt": "10 + 2 = ?",
+    "correctAnswer": 12,
     "options": [
-      11,
-      14,
-      13,
-      12
+      9,
+      12,
+      10,
+      11
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
-    "targetCount": 3,
-    "targetCount2": 11,
+    "targetCount": 10,
+    "targetCount2": 2,
     "renderMode": "addition",
     "displayPrompt": null
   },
@@ -41,18 +41,18 @@
     "id": "l20-q003",
     "gameId": "level_20",
     "type": "level_20",
-    "prompt": "8 + 10 = ?",
-    "correctAnswer": 18,
+    "prompt": "15 + 4 = ?",
+    "correctAnswer": 19,
     "options": [
-      15,
-      18,
+      19,
       17,
+      18,
       16
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
-    "targetCount": 8,
-    "targetCount2": 10,
+    "targetCount": 15,
+    "targetCount2": 4,
     "renderMode": "addition",
     "displayPrompt": null
   },
@@ -60,18 +60,18 @@
     "id": "l20-q004",
     "gameId": "level_20",
     "type": "level_20",
-    "prompt": "5 + 14 = ?",
-    "correctAnswer": 19,
+    "prompt": "4 + 9 = ?",
+    "correctAnswer": 13,
     "options": [
-      16,
-      19,
-      18,
-      17
+      10,
+      13,
+      11,
+      12
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
-    "targetCount": 5,
-    "targetCount2": 14,
+    "targetCount": 4,
+    "targetCount2": 9,
     "renderMode": "addition",
     "displayPrompt": null
   },
@@ -79,18 +79,18 @@
     "id": "l20-q005",
     "gameId": "level_20",
     "type": "level_20",
-    "prompt": "7 + 10 = ?",
-    "correctAnswer": 17,
+    "prompt": "7 + 13 = ?",
+    "correctAnswer": 20,
     "options": [
-      16,
+      18,
       17,
-      14,
-      15
+      20,
+      19
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
     "targetCount": 7,
-    "targetCount2": 10,
+    "targetCount2": 13,
     "renderMode": "addition",
     "displayPrompt": null
   },
@@ -98,18 +98,18 @@
     "id": "l20-q006",
     "gameId": "level_20",
     "type": "level_20",
-    "prompt": "17 + 3 = ?",
+    "prompt": "Tính: 19 + 1 = ?",
     "correctAnswer": 20,
     "options": [
-      20,
       19,
+      20,
       17,
       18
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
-    "targetCount": 17,
-    "targetCount2": 3,
+    "targetCount": 19,
+    "targetCount2": 1,
     "renderMode": "addition",
     "displayPrompt": null
   },
@@ -117,51 +117,13 @@
     "id": "l20-q007",
     "gameId": "level_20",
     "type": "level_20",
-    "prompt": "15 + 5 = ?",
-    "correctAnswer": 20,
-    "options": [
-      18,
-      17,
-      19,
-      20
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 15,
-    "targetCount2": 5,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l20-q008",
-    "gameId": "level_20",
-    "type": "level_20",
-    "prompt": "4 + 2 = ?",
-    "correctAnswer": 6,
-    "options": [
-      3,
-      6,
-      4,
-      5
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 4,
-    "targetCount2": 2,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l20-q009",
-    "gameId": "level_20",
-    "type": "level_20",
     "prompt": "Tính: 18 + 1 = ?",
     "correctAnswer": 19,
     "options": [
-      18,
       16,
       17,
-      19
+      19,
+      18
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
@@ -171,21 +133,59 @@
     "displayPrompt": null
   },
   {
+    "id": "l20-q008",
+    "gameId": "level_20",
+    "type": "level_20",
+    "prompt": "14 + 5 = ?",
+    "correctAnswer": 19,
+    "options": [
+      18,
+      19,
+      17,
+      16
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 14,
+    "targetCount2": 5,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l20-q009",
+    "gameId": "level_20",
+    "type": "level_20",
+    "prompt": "9 + 2 = ?",
+    "correctAnswer": 11,
+    "options": [
+      8,
+      11,
+      9,
+      10
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 9,
+    "targetCount2": 2,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
     "id": "l20-q010",
     "gameId": "level_20",
     "type": "level_20",
-    "prompt": "7 + 5 = ?",
-    "correctAnswer": 12,
+    "prompt": "7 + 9 = ?",
+    "correctAnswer": 16,
     "options": [
-      9,
-      10,
-      11,
-      12
+      13,
+      15,
+      16,
+      14
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
     "targetCount": 7,
-    "targetCount2": 5,
+    "targetCount2": 9,
     "renderMode": "addition",
     "displayPrompt": null
   },
@@ -193,18 +193,18 @@
     "id": "l20-q011",
     "gameId": "level_20",
     "type": "level_20",
-    "prompt": "16 - 2 = ?",
-    "correctAnswer": 14,
+    "prompt": "19 - 0 = ?",
+    "correctAnswer": 19,
     "options": [
-      13,
-      14,
-      12,
-      11
+      18,
+      16,
+      19,
+      17
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
-    "targetCount": 16,
-    "targetCount2": 2,
+    "targetCount": 19,
+    "targetCount2": 0,
     "renderMode": "subtraction",
     "displayPrompt": null
   },
@@ -212,18 +212,18 @@
     "id": "l20-q012",
     "gameId": "level_20",
     "type": "level_20",
-    "prompt": "19 - 16 = ?",
-    "correctAnswer": 3,
+    "prompt": "Tính: 11 - 6 = ?",
+    "correctAnswer": 5,
     "options": [
       3,
       2,
-      0,
-      1
+      5,
+      4
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
-    "targetCount": 19,
-    "targetCount2": 16,
+    "targetCount": 11,
+    "targetCount2": 6,
     "renderMode": "subtraction",
     "displayPrompt": null
   },
@@ -231,18 +231,18 @@
     "id": "l20-q013",
     "gameId": "level_20",
     "type": "level_20",
-    "prompt": "Tính: 4 - 2 = ?",
-    "correctAnswer": 2,
+    "prompt": "Tính: 6 - 0 = ?",
+    "correctAnswer": 6,
     "options": [
-      1,
+      6,
       3,
-      2,
-      0
+      4,
+      5
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
-    "targetCount": 4,
-    "targetCount2": 2,
+    "targetCount": 6,
+    "targetCount2": 0,
     "renderMode": "subtraction",
     "displayPrompt": null
   },
@@ -250,17 +250,17 @@
     "id": "l20-q014",
     "gameId": "level_20",
     "type": "level_20",
-    "prompt": "Tính: 3 - 0 = ?",
-    "correctAnswer": 3,
+    "prompt": "Tính: 13 - 0 = ?",
+    "correctAnswer": 13,
     "options": [
-      3,
-      1,
-      2,
-      0
+      12,
+      13,
+      10,
+      11
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
-    "targetCount": 3,
+    "targetCount": 13,
     "targetCount2": 0,
     "renderMode": "subtraction",
     "displayPrompt": null
@@ -269,13 +269,51 @@
     "id": "l20-q015",
     "gameId": "level_20",
     "type": "level_20",
+    "prompt": "15 - 5 = ?",
+    "correctAnswer": 10,
+    "options": [
+      8,
+      10,
+      9,
+      7
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 15,
+    "targetCount2": 5,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l20-q016",
+    "gameId": "level_20",
+    "type": "level_20",
+    "prompt": "Tính: 8 - 6 = ?",
+    "correctAnswer": 2,
+    "options": [
+      1,
+      2,
+      0,
+      3
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 8,
+    "targetCount2": 6,
+    "renderMode": "subtraction",
+    "displayPrompt": null
+  },
+  {
+    "id": "l20-q017",
+    "gameId": "level_20",
+    "type": "level_20",
     "prompt": "6 - 4 = ?",
     "correctAnswer": 2,
     "options": [
-      3,
-      1,
       2,
-      0
+      1,
+      0,
+      3
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
@@ -285,59 +323,21 @@
     "displayPrompt": null
   },
   {
-    "id": "l20-q016",
+    "id": "l20-q018",
     "gameId": "level_20",
     "type": "level_20",
-    "prompt": "3 - 2 = ?",
-    "correctAnswer": 1,
-    "options": [
-      1,
-      2,
-      3,
-      0
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 3,
-    "targetCount2": 2,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l20-q017",
-    "gameId": "level_20",
-    "type": "level_20",
-    "prompt": "2 - 0 = ?",
+    "prompt": "Tính: 8 - 6 = ?",
     "correctAnswer": 2,
     "options": [
-      0,
       2,
       3,
+      0,
       1
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
-    "targetCount": 2,
-    "targetCount2": 0,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l20-q018",
-    "gameId": "level_20",
-    "type": "level_20",
-    "prompt": "Tính: 17 - 4 = ?",
-    "correctAnswer": 13,
-    "options": [
-      11,
-      10,
-      12,
-      13
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 17,
-    "targetCount2": 4,
+    "targetCount": 8,
+    "targetCount2": 6,
     "renderMode": "subtraction",
     "displayPrompt": null
   },
@@ -345,18 +345,18 @@
     "id": "l20-q019",
     "gameId": "level_20",
     "type": "level_20",
-    "prompt": "Tính: 3 - 1 = ?",
-    "correctAnswer": 2,
+    "prompt": "12 - 5 = ?",
+    "correctAnswer": 7,
     "options": [
-      3,
-      1,
-      2,
-      0
+      4,
+      6,
+      5,
+      7
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
-    "targetCount": 3,
-    "targetCount2": 1,
+    "targetCount": 12,
+    "targetCount2": 5,
     "renderMode": "subtraction",
     "displayPrompt": null
   },
@@ -364,17 +364,17 @@
     "id": "l20-q020",
     "gameId": "level_20",
     "type": "level_20",
-    "prompt": "3 - 0 = ?",
-    "correctAnswer": 3,
+    "prompt": "6 - 0 = ?",
+    "correctAnswer": 6,
     "options": [
-      1,
-      2,
-      3,
-      0
+      6,
+      5,
+      4,
+      3
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
-    "targetCount": 3,
+    "targetCount": 6,
     "targetCount2": 0,
     "renderMode": "subtraction",
     "displayPrompt": null
@@ -383,17 +383,16 @@
     "id": "l20-q021",
     "gameId": "level_20",
     "type": "level_20",
-    "prompt": "Số nào lớn hơn: 18 hay 11?",
-    "correctAnswer": 18,
+    "prompt": "So sánh: 20 ☐ 20",
+    "correctAnswer": "=",
     "options": [
-      15,
-      16,
-      17,
-      18
+      ">",
+      "<",
+      "="
     ],
-    "objectIcon": "/icons/star_icon.png",
+    "objectIcon": "",
     "objectIcon2": "",
-    "targetCount": 18,
+    "targetCount": 0,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
@@ -402,17 +401,16 @@
     "id": "l20-q022",
     "gameId": "level_20",
     "type": "level_20",
-    "prompt": "Số nào bé hơn: 12 hay 3?",
-    "correctAnswer": 3,
+    "prompt": "So sánh: 6 ☐ 2",
+    "correctAnswer": ">",
     "options": [
-      4,
-      1,
-      2,
-      3
+      ">",
+      "<",
+      "="
     ],
-    "objectIcon": "/icons/star_icon.png",
+    "objectIcon": "",
     "objectIcon2": "",
-    "targetCount": 12,
+    "targetCount": 0,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
@@ -421,17 +419,16 @@
     "id": "l20-q023",
     "gameId": "level_20",
     "type": "level_20",
-    "prompt": "Chọn số lớn hơn trong hai số: 4 và 6.",
-    "correctAnswer": 6,
+    "prompt": "10 và 20, điền dấu so sánh:",
+    "correctAnswer": "<",
     "options": [
-      5,
-      3,
-      4,
-      6
+      ">",
+      "<",
+      "="
     ],
-    "objectIcon": "/icons/star_icon.png",
+    "objectIcon": "",
     "objectIcon2": "",
-    "targetCount": 6,
+    "targetCount": 0,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
@@ -440,17 +437,16 @@
     "id": "l20-q024",
     "gameId": "level_20",
     "type": "level_20",
-    "prompt": "15 và 6, số nào lớn hơn?",
-    "correctAnswer": 15,
+    "prompt": "20 ___ 14. Chọn dấu thích hợp:",
+    "correctAnswer": ">",
     "options": [
-      12,
-      14,
-      13,
-      15
+      ">",
+      "<",
+      "="
     ],
-    "objectIcon": "/icons/star_icon.png",
+    "objectIcon": "",
     "objectIcon2": "",
-    "targetCount": 15,
+    "targetCount": 0,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
@@ -459,17 +455,16 @@
     "id": "l20-q025",
     "gameId": "level_20",
     "type": "level_20",
-    "prompt": "14 và 17, số nào lớn hơn?",
-    "correctAnswer": 17,
+    "prompt": "So sánh: 19 ☐ 17",
+    "correctAnswer": ">",
     "options": [
-      16,
-      17,
-      14,
-      15
+      ">",
+      "<",
+      "="
     ],
-    "objectIcon": "/icons/star_icon.png",
+    "objectIcon": "",
     "objectIcon2": "",
-    "targetCount": 17,
+    "targetCount": 0,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
@@ -478,17 +473,16 @@
     "id": "l20-q026",
     "gameId": "level_20",
     "type": "level_20",
-    "prompt": "1 và 3, số nào lớn hơn?",
-    "correctAnswer": 3,
+    "prompt": "So sánh: 7 ☐ 7",
+    "correctAnswer": "=",
     "options": [
-      1,
-      4,
-      2,
-      3
+      ">",
+      "<",
+      "="
     ],
-    "objectIcon": "/icons/star_icon.png",
+    "objectIcon": "",
     "objectIcon2": "",
-    "targetCount": 3,
+    "targetCount": 0,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
@@ -497,17 +491,16 @@
     "id": "l20-q027",
     "gameId": "level_20",
     "type": "level_20",
-    "prompt": "Số nào lớn hơn: 6 hay 4?",
-    "correctAnswer": 6,
+    "prompt": "19 ___ 19. Chọn dấu thích hợp:",
+    "correctAnswer": "=",
     "options": [
-      4,
-      5,
-      6,
-      3
+      ">",
+      "<",
+      "="
     ],
-    "objectIcon": "/icons/star_icon.png",
+    "objectIcon": "",
     "objectIcon2": "",
-    "targetCount": 6,
+    "targetCount": 0,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
@@ -516,17 +509,16 @@
     "id": "l20-q028",
     "gameId": "level_20",
     "type": "level_20",
-    "prompt": "Số nào bé hơn: 9 hay 8?",
-    "correctAnswer": 8,
+    "prompt": "Điền dấu đúng: 20 __ 11",
+    "correctAnswer": ">",
     "options": [
-      6,
-      8,
-      7,
-      5
+      ">",
+      "<",
+      "="
     ],
-    "objectIcon": "/icons/star_icon.png",
+    "objectIcon": "",
     "objectIcon2": "",
-    "targetCount": 9,
+    "targetCount": 0,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
@@ -535,17 +527,16 @@
     "id": "l20-q029",
     "gameId": "level_20",
     "type": "level_20",
-    "prompt": "Số nào lớn hơn: 18 hay 15?",
-    "correctAnswer": 18,
+    "prompt": "Điền dấu đúng: 16 __ 8",
+    "correctAnswer": ">",
     "options": [
-      16,
-      17,
-      15,
-      18
+      ">",
+      "<",
+      "="
     ],
-    "objectIcon": "/icons/star_icon.png",
+    "objectIcon": "",
     "objectIcon2": "",
-    "targetCount": 18,
+    "targetCount": 0,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
@@ -554,17 +545,16 @@
     "id": "l20-q030",
     "gameId": "level_20",
     "type": "level_20",
-    "prompt": "Chọn số lớn hơn trong hai số: 14 và 15.",
-    "correctAnswer": 15,
+    "prompt": "15 ___ 8. Chọn dấu thích hợp:",
+    "correctAnswer": ">",
     "options": [
-      13,
-      12,
-      15,
-      14
+      ">",
+      "<",
+      "="
     ],
-    "objectIcon": "/icons/star_icon.png",
+    "objectIcon": "",
     "objectIcon2": "",
-    "targetCount": 15,
+    "targetCount": 0,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
@@ -573,18 +563,18 @@
     "id": "l20-q031",
     "gameId": "level_20",
     "type": "level_20",
-    "prompt": "Minh có 4 quả dâu, mẹ cho thêm 1. Có tất cả bao nhiêu?",
-    "correctAnswer": 5,
+    "prompt": "An nhặt được 14 quả chuối rồi nhặt thêm 6 quả chuối. Có tất cả mấy quả chuối?",
+    "correctAnswer": 20,
     "options": [
-      2,
-      4,
-      5,
-      3
+      19,
+      18,
+      17,
+      20
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
-    "targetCount": 4,
-    "targetCount2": 1,
+    "targetCount": 14,
+    "targetCount2": 6,
     "renderMode": "addition",
     "displayPrompt": null
   },
@@ -592,127 +582,13 @@
     "id": "l20-q032",
     "gameId": "level_20",
     "type": "level_20",
-    "prompt": "Hoa có 13 viên kẹo, mẹ cho thêm 4. Có tất cả bao nhiêu?",
-    "correctAnswer": 17,
-    "options": [
-      15,
-      17,
-      16,
-      14
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 13,
-    "targetCount2": 4,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l20-q033",
-    "gameId": "level_20",
-    "type": "level_20",
-    "prompt": "Buổi sáng có 10 quả cam, buổi chiều thêm 4 quả cam. Tất cả là bao nhiêu?",
-    "correctAnswer": 14,
-    "options": [
-      13,
-      14,
-      12,
-      11
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 10,
-    "targetCount2": 4,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l20-q034",
-    "gameId": "level_20",
-    "type": "level_20",
-    "prompt": "Nam nhặt được 16 viên kẹo rồi nhặt thêm 4 viên kẹo. Có tất cả mấy viên kẹo?",
-    "correctAnswer": 20,
-    "options": [
-      17,
-      19,
-      20,
-      18
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 16,
-    "targetCount2": 4,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l20-q035",
-    "gameId": "level_20",
-    "type": "level_20",
-    "prompt": "An có 2 viên kẹo, mẹ cho thêm 16. Có tất cả bao nhiêu?",
-    "correctAnswer": 18,
-    "options": [
-      16,
-      15,
-      17,
-      18
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 2,
-    "targetCount2": 16,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l20-q036",
-    "gameId": "level_20",
-    "type": "level_20",
-    "prompt": "An nhặt được 11 chiếc bánh rồi nhặt thêm 2 chiếc bánh. Có tất cả mấy chiếc bánh?",
-    "correctAnswer": 13,
-    "options": [
-      11,
-      10,
-      13,
-      12
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 11,
-    "targetCount2": 2,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l20-q037",
-    "gameId": "level_20",
-    "type": "level_20",
-    "prompt": "Nam nhặt được 15 viên kẹo rồi nhặt thêm 3 viên kẹo. Có tất cả mấy viên kẹo?",
-    "correctAnswer": 18,
-    "options": [
-      17,
-      16,
-      18,
-      15
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 15,
-    "targetCount2": 3,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l20-q038",
-    "gameId": "level_20",
-    "type": "level_20",
-    "prompt": "Buổi sáng có 10 quả chuối, buổi chiều thêm 6 quả chuối. Tất cả là bao nhiêu?",
+    "prompt": "An có 10 quả cam, mẹ cho thêm 6. Có tất cả bao nhiêu?",
     "correctAnswer": 16,
     "options": [
-      16,
-      13,
       14,
-      15
+      15,
+      16,
+      13
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
@@ -722,21 +598,135 @@
     "displayPrompt": null
   },
   {
-    "id": "l20-q039",
+    "id": "l20-q033",
     "gameId": "level_20",
     "type": "level_20",
-    "prompt": "Hộp có 10 quả dâu, lấy ra 9. Còn lại bao nhiêu?",
-    "correctAnswer": 1,
+    "prompt": "Hoa có 12 quả bóng, mẹ cho thêm 2. Có tất cả bao nhiêu?",
+    "correctAnswer": 14,
     "options": [
-      3,
-      2,
-      1,
-      0
+      13,
+      14,
+      11,
+      12
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
-    "targetCount": 10,
-    "targetCount2": 9,
+    "targetCount": 12,
+    "targetCount2": 2,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l20-q034",
+    "gameId": "level_20",
+    "type": "level_20",
+    "prompt": "Minh nhặt được 17 bông hoa rồi nhặt thêm 3 bông hoa. Có tất cả mấy bông hoa?",
+    "correctAnswer": 20,
+    "options": [
+      19,
+      20,
+      17,
+      18
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 17,
+    "targetCount2": 3,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l20-q035",
+    "gameId": "level_20",
+    "type": "level_20",
+    "prompt": "Linh nhặt được 13 quả cam rồi nhặt thêm 2 quả cam. Có tất cả mấy quả cam?",
+    "correctAnswer": 15,
+    "options": [
+      14,
+      13,
+      12,
+      15
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 13,
+    "targetCount2": 2,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l20-q036",
+    "gameId": "level_20",
+    "type": "level_20",
+    "prompt": "Buổi sáng có 9 chiếc bánh, buổi chiều thêm 7 chiếc bánh. Tất cả là bao nhiêu?",
+    "correctAnswer": 16,
+    "options": [
+      13,
+      16,
+      14,
+      15
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 9,
+    "targetCount2": 7,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l20-q037",
+    "gameId": "level_20",
+    "type": "level_20",
+    "prompt": "Linh nhặt được 17 quả chuối rồi nhặt thêm 2 quả chuối. Có tất cả mấy quả chuối?",
+    "correctAnswer": 19,
+    "options": [
+      19,
+      18,
+      16,
+      17
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 17,
+    "targetCount2": 2,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l20-q038",
+    "gameId": "level_20",
+    "type": "level_20",
+    "prompt": "Minh có 12 quả chuối, mẹ cho thêm 5. Có tất cả bao nhiêu?",
+    "correctAnswer": 17,
+    "options": [
+      16,
+      14,
+      15,
+      17
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 12,
+    "targetCount2": 5,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l20-q039",
+    "gameId": "level_20",
+    "type": "level_20",
+    "prompt": "An có 16 quả chuối, cho bạn 4. Còn lại bao nhiêu?",
+    "correctAnswer": 12,
+    "options": [
+      9,
+      10,
+      12,
+      11
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 16,
+    "targetCount2": 4,
     "renderMode": "subtraction",
     "displayPrompt": null
   },
@@ -744,18 +734,18 @@
     "id": "l20-q040",
     "gameId": "level_20",
     "type": "level_20",
-    "prompt": "Có 3 quả bóng, dùng hết 1. Còn lại mấy quả bóng?",
-    "correctAnswer": 2,
+    "prompt": "An có 9 chiếc bánh, cho bạn 6. Còn lại bao nhiêu?",
+    "correctAnswer": 3,
     "options": [
+      3,
       0,
-      1,
       2,
-      3
+      1
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
-    "targetCount": 3,
-    "targetCount2": 1,
+    "targetCount": 9,
+    "targetCount2": 6,
     "renderMode": "subtraction",
     "displayPrompt": null
   },
@@ -763,18 +753,18 @@
     "id": "l20-q041",
     "gameId": "level_20",
     "type": "level_20",
-    "prompt": "Có 4 quả dâu, dùng hết 3. Còn lại mấy quả dâu?",
-    "correctAnswer": 1,
+    "prompt": "Có 19 quả dâu, dùng hết 12. Còn lại mấy quả dâu?",
+    "correctAnswer": 7,
     "options": [
-      3,
-      1,
-      2,
-      0
+      4,
+      6,
+      5,
+      7
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
-    "targetCount": 4,
-    "targetCount2": 3,
+    "targetCount": 19,
+    "targetCount2": 12,
     "renderMode": "subtraction",
     "displayPrompt": null
   },
@@ -782,18 +772,18 @@
     "id": "l20-q042",
     "gameId": "level_20",
     "type": "level_20",
-    "prompt": "Hộp có 17 bông hoa, lấy ra 7. Còn lại bao nhiêu?",
-    "correctAnswer": 10,
+    "prompt": "Hộp có 15 quả dâu, lấy ra 9. Còn lại bao nhiêu?",
+    "correctAnswer": 6,
     "options": [
-      8,
-      7,
-      10,
-      9
+      5,
+      6,
+      3,
+      4
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
-    "targetCount": 17,
-    "targetCount2": 7,
+    "targetCount": 15,
+    "targetCount2": 9,
     "renderMode": "subtraction",
     "displayPrompt": null
   },
@@ -801,18 +791,18 @@
     "id": "l20-q043",
     "gameId": "level_20",
     "type": "level_20",
-    "prompt": "Minh có 5 chiếc bánh, cho bạn 4. Còn lại bao nhiêu?",
+    "prompt": "Hộp có 2 quả chuối, lấy ra 1. Còn lại bao nhiêu?",
     "correctAnswer": 1,
     "options": [
-      0,
       2,
-      3,
-      1
+      1,
+      0,
+      3
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
-    "targetCount": 5,
-    "targetCount2": 4,
+    "targetCount": 2,
+    "targetCount2": 1,
     "renderMode": "subtraction",
     "displayPrompt": null
   },
@@ -820,18 +810,18 @@
     "id": "l20-q044",
     "gameId": "level_20",
     "type": "level_20",
-    "prompt": "Có 10 bông hoa, dùng hết 5. Còn lại mấy bông hoa?",
-    "correctAnswer": 5,
+    "prompt": "Có 13 quả bóng, dùng hết 1. Còn lại mấy quả bóng?",
+    "correctAnswer": 12,
     "options": [
-      4,
-      2,
-      3,
-      5
+      9,
+      11,
+      10,
+      12
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
-    "targetCount": 10,
-    "targetCount2": 5,
+    "targetCount": 13,
+    "targetCount2": 1,
     "renderMode": "subtraction",
     "displayPrompt": null
   },
@@ -839,17 +829,17 @@
     "id": "l20-q045",
     "gameId": "level_20",
     "type": "level_20",
-    "prompt": "Điền số còn thiếu: 7, 8, 9, ?",
-    "correctAnswer": 10,
+    "prompt": "Điền số còn thiếu: 13, 14, 15, ?, 17",
+    "correctAnswer": 16,
     "options": [
-      8,
-      10,
-      7,
-      9
+      14,
+      15,
+      13,
+      16
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
-    "targetCount": 10,
+    "targetCount": 16,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
@@ -858,17 +848,17 @@
     "id": "l20-q046",
     "gameId": "level_20",
     "type": "level_20",
-    "prompt": "Điền số còn thiếu: 15, 16, 17, 18, ?",
-    "correctAnswer": 19,
+    "prompt": "Điền số còn thiếu: 14, 15, ?",
+    "correctAnswer": 16,
     "options": [
-      19,
-      18,
-      17,
+      13,
+      14,
+      15,
       16
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
-    "targetCount": 19,
+    "targetCount": 16,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
@@ -877,17 +867,17 @@
     "id": "l20-q047",
     "gameId": "level_20",
     "type": "level_20",
-    "prompt": "Điền số còn thiếu: 2, ?, 4, 5, 6",
-    "correctAnswer": 3,
+    "prompt": "Điền số còn thiếu: 4, ?, 6, 7",
+    "correctAnswer": 5,
     "options": [
-      2,
-      1,
-      3,
-      4
+      4,
+      5,
+      6,
+      3
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
-    "targetCount": 3,
+    "targetCount": 5,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
@@ -896,32 +886,13 @@
     "id": "l20-q048",
     "gameId": "level_20",
     "type": "level_20",
-    "prompt": "Điền số còn thiếu: 17, 18, ?",
-    "correctAnswer": 19,
-    "options": [
-      17,
-      16,
-      19,
-      18
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 19,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l20-q049",
-    "gameId": "level_20",
-    "type": "level_20",
-    "prompt": "Điền số còn thiếu: 5, 6, 7, 8, ?",
+    "prompt": "Điền số còn thiếu: 7, 8, ?",
     "correctAnswer": 9,
     "options": [
-      9,
-      8,
       7,
-      6
+      9,
+      6,
+      8
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
@@ -931,20 +902,39 @@
     "displayPrompt": null
   },
   {
-    "id": "l20-q050",
+    "id": "l20-q049",
     "gameId": "level_20",
     "type": "level_20",
-    "prompt": "Điền số còn thiếu: 17, 18, ?",
-    "correctAnswer": 19,
+    "prompt": "Điền số còn thiếu: 4, ?, 6",
+    "correctAnswer": 5,
     "options": [
-      17,
-      19,
-      16,
-      18
+      5,
+      4,
+      3,
+      6
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
-    "targetCount": 19,
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l20-q050",
+    "gameId": "level_20",
+    "type": "level_20",
+    "prompt": "Điền số còn thiếu: 3, ?, 5",
+    "correctAnswer": 4,
+    "options": [
+      5,
+      4,
+      2,
+      3
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 4,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null

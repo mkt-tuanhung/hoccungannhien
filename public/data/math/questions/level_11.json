@@ -3,17 +3,17 @@
     "id": "l11-q001",
     "gameId": "level_11",
     "type": "level_11",
-    "prompt": "1 + 3 = ?",
-    "correctAnswer": 4,
+    "prompt": "12 + 3 = ?",
+    "correctAnswer": 15,
     "options": [
-      4,
-      3,
-      1,
-      2
+      15,
+      12,
+      14,
+      13
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
-    "targetCount": 1,
+    "targetCount": 12,
     "targetCount2": 3,
     "renderMode": "addition",
     "displayPrompt": null
@@ -22,18 +22,18 @@
     "id": "l11-q002",
     "gameId": "level_11",
     "type": "level_11",
-    "prompt": "6 + 5 = ?",
-    "correctAnswer": 11,
+    "prompt": "14 + 1 = ?",
+    "correctAnswer": 15,
     "options": [
-      8,
-      11,
-      10,
-      9
+      15,
+      12,
+      13,
+      14
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
-    "targetCount": 6,
-    "targetCount2": 5,
+    "targetCount": 14,
+    "targetCount2": 1,
     "renderMode": "addition",
     "displayPrompt": null
   },
@@ -41,18 +41,18 @@
     "id": "l11-q003",
     "gameId": "level_11",
     "type": "level_11",
-    "prompt": "Tính: 8 + 5 = ?",
-    "correctAnswer": 13,
+    "prompt": "Tính: 1 + 2 = ?",
+    "correctAnswer": 3,
     "options": [
-      12,
-      11,
-      10,
-      13
+      3,
+      2,
+      0,
+      1
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
-    "targetCount": 8,
-    "targetCount2": 5,
+    "targetCount": 1,
+    "targetCount2": 2,
     "renderMode": "addition",
     "displayPrompt": null
   },
@@ -60,11 +60,239 @@
     "id": "l11-q004",
     "gameId": "level_11",
     "type": "level_11",
+    "prompt": "13 + 2 = ?",
+    "correctAnswer": 15,
+    "options": [
+      13,
+      15,
+      14,
+      12
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 13,
+    "targetCount2": 2,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l11-q005",
+    "gameId": "level_11",
+    "type": "level_11",
+    "prompt": "10 + 5 = ?",
+    "correctAnswer": 15,
+    "options": [
+      13,
+      12,
+      14,
+      15
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 10,
+    "targetCount2": 5,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l11-q006",
+    "gameId": "level_11",
+    "type": "level_11",
+    "prompt": "6 + 8 = ?",
+    "correctAnswer": 14,
+    "options": [
+      12,
+      14,
+      11,
+      13
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 6,
+    "targetCount2": 8,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l11-q007",
+    "gameId": "level_11",
+    "type": "level_11",
+    "prompt": "11 + 3 = ?",
+    "correctAnswer": 14,
+    "options": [
+      13,
+      12,
+      14,
+      11
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 11,
+    "targetCount2": 3,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l11-q008",
+    "gameId": "level_11",
+    "type": "level_11",
+    "prompt": "14 + 1 = ?",
+    "correctAnswer": 15,
+    "options": [
+      15,
+      12,
+      14,
+      13
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 14,
+    "targetCount2": 1,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l11-q009",
+    "gameId": "level_11",
+    "type": "level_11",
+    "prompt": "Tính: 4 + 7 = ?",
+    "correctAnswer": 11,
+    "options": [
+      10,
+      11,
+      8,
+      9
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 4,
+    "targetCount2": 7,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l11-q010",
+    "gameId": "level_11",
+    "type": "level_11",
     "prompt": "Tính: 14 + 1 = ?",
     "correctAnswer": 15,
     "options": [
+      15,
       12,
+      14,
+      13
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 14,
+    "targetCount2": 1,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l11-q011",
+    "gameId": "level_11",
+    "type": "level_11",
+    "prompt": "4 + 4 = ?",
+    "correctAnswer": 8,
+    "options": [
+      8,
+      6,
+      7,
+      5
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 4,
+    "targetCount2": 4,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l11-q012",
+    "gameId": "level_11",
+    "type": "level_11",
+    "prompt": "6 + 1 = ?",
+    "correctAnswer": 7,
+    "options": [
+      6,
+      5,
+      4,
+      7
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 6,
+    "targetCount2": 1,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l11-q013",
+    "gameId": "level_11",
+    "type": "level_11",
+    "prompt": "14 + 1 = ?",
+    "correctAnswer": 15,
+    "options": [
       13,
+      15,
+      12,
+      14
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 14,
+    "targetCount2": 1,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l11-q014",
+    "gameId": "level_11",
+    "type": "level_11",
+    "prompt": "3 + 12 = ?",
+    "correctAnswer": 15,
+    "options": [
+      12,
+      14,
+      13,
+      15
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 3,
+    "targetCount2": 12,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l11-q015",
+    "gameId": "level_11",
+    "type": "level_11",
+    "prompt": "8 + 4 = ?",
+    "correctAnswer": 12,
+    "options": [
+      11,
+      12,
+      10,
+      9
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 8,
+    "targetCount2": 4,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l11-q016",
+    "gameId": "level_11",
+    "type": "level_11",
+    "prompt": "14 + 1 = ?",
+    "correctAnswer": 15,
+    "options": [
+      13,
+      12,
       15,
       14
     ],
@@ -76,86 +304,105 @@
     "displayPrompt": null
   },
   {
-    "id": "l11-q005",
+    "id": "l11-q017",
     "gameId": "level_11",
     "type": "level_11",
-    "prompt": "Tính: 13 + 1 = ?",
-    "correctAnswer": 14,
+    "prompt": "11 + 1 = ?",
+    "correctAnswer": 12,
     "options": [
       11,
-      13,
-      14,
-      12
+      12,
+      10,
+      9
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
-    "targetCount": 13,
+    "targetCount": 11,
     "targetCount2": 1,
     "renderMode": "addition",
     "displayPrompt": null
   },
   {
-    "id": "l11-q006",
+    "id": "l11-q018",
     "gameId": "level_11",
     "type": "level_11",
-    "prompt": "3 + 10 = ?",
-    "correctAnswer": 13,
+    "prompt": "8 + 7 = ?",
+    "correctAnswer": 15,
     "options": [
-      12,
-      10,
+      15,
+      14,
       13,
-      11
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 3,
-    "targetCount2": 10,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l11-q007",
-    "gameId": "level_11",
-    "type": "level_11",
-    "prompt": "Tính: 9 + 4 = ?",
-    "correctAnswer": 13,
-    "options": [
-      10,
-      13,
-      12,
-      11
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 9,
-    "targetCount2": 4,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l11-q008",
-    "gameId": "level_11",
-    "type": "level_11",
-    "prompt": "Tính: 8 + 4 = ?",
-    "correctAnswer": 12,
-    "options": [
-      11,
-      10,
-      9,
       12
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
     "targetCount": 8,
-    "targetCount2": 4,
+    "targetCount2": 7,
     "renderMode": "addition",
     "displayPrompt": null
   },
   {
-    "id": "l11-q009",
+    "id": "l11-q019",
     "gameId": "level_11",
     "type": "level_11",
-    "prompt": "Tính: 10 + 3 = ?",
+    "prompt": "4 + 6 = ?",
+    "correctAnswer": 10,
+    "options": [
+      8,
+      10,
+      7,
+      9
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 4,
+    "targetCount2": 6,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l11-q020",
+    "gameId": "level_11",
+    "type": "level_11",
+    "prompt": "9 + 1 = ?",
+    "correctAnswer": 10,
+    "options": [
+      10,
+      9,
+      7,
+      8
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 9,
+    "targetCount2": 1,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l11-q021",
+    "gameId": "level_11",
+    "type": "level_11",
+    "prompt": "Tính: 4 + 7 = ?",
+    "correctAnswer": 11,
+    "options": [
+      11,
+      10,
+      8,
+      9
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 4,
+    "targetCount2": 7,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l11-q022",
+    "gameId": "level_11",
+    "type": "level_11",
+    "prompt": "10 + 3 = ?",
     "correctAnswer": 13,
     "options": [
       13,
@@ -171,225 +418,92 @@
     "displayPrompt": null
   },
   {
-    "id": "l11-q010",
+    "id": "l11-q023",
     "gameId": "level_11",
     "type": "level_11",
-    "prompt": "Tính: 10 + 5 = ?",
-    "correctAnswer": 15,
+    "prompt": "9 + 4 = ?",
+    "correctAnswer": 13,
     "options": [
-      14,
+      10,
       13,
       12,
-      15
+      11
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
-    "targetCount": 10,
-    "targetCount2": 5,
+    "targetCount": 9,
+    "targetCount2": 4,
     "renderMode": "addition",
     "displayPrompt": null
   },
   {
-    "id": "l11-q011",
+    "id": "l11-q024",
     "gameId": "level_11",
     "type": "level_11",
-    "prompt": "12 + 2 = ?",
-    "correctAnswer": 14,
+    "prompt": "2 + 10 = ?",
+    "correctAnswer": 12,
     "options": [
-      11,
-      14,
       12,
-      13
+      11,
+      9,
+      10
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
-    "targetCount": 12,
+    "targetCount": 2,
+    "targetCount2": 10,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l11-q025",
+    "gameId": "level_11",
+    "type": "level_11",
+    "prompt": "7 + 2 = ?",
+    "correctAnswer": 9,
+    "options": [
+      6,
+      8,
+      9,
+      7
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 7,
     "targetCount2": 2,
     "renderMode": "addition",
     "displayPrompt": null
   },
   {
-    "id": "l11-q012",
+    "id": "l11-q026",
     "gameId": "level_11",
     "type": "level_11",
-    "prompt": "9 + 6 = ?",
-    "correctAnswer": 15,
+    "prompt": "7 + 7 = ?",
+    "correctAnswer": 14,
     "options": [
-      12,
       13,
-      15,
+      12,
+      11,
       14
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
-    "targetCount": 9,
-    "targetCount2": 6,
+    "targetCount": 7,
+    "targetCount2": 7,
     "renderMode": "addition",
     "displayPrompt": null
   },
   {
-    "id": "l11-q013",
+    "id": "l11-q027",
     "gameId": "level_11",
     "type": "level_11",
-    "prompt": "4 + 9 = ?",
+    "prompt": "6 + 7 = ?",
     "correctAnswer": 13,
     "options": [
+      12,
       11,
       10,
-      12,
       13
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 4,
-    "targetCount2": 9,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l11-q014",
-    "gameId": "level_11",
-    "type": "level_11",
-    "prompt": "Tính: 5 + 6 = ?",
-    "correctAnswer": 11,
-    "options": [
-      9,
-      8,
-      11,
-      10
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 5,
-    "targetCount2": 6,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l11-q015",
-    "gameId": "level_11",
-    "type": "level_11",
-    "prompt": "Tính: 14 + 1 = ?",
-    "correctAnswer": 15,
-    "options": [
-      14,
-      15,
-      12,
-      13
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 14,
-    "targetCount2": 1,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l11-q016",
-    "gameId": "level_11",
-    "type": "level_11",
-    "prompt": "5 + 1 = ?",
-    "correctAnswer": 6,
-    "options": [
-      4,
-      3,
-      6,
-      5
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 5,
-    "targetCount2": 1,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l11-q017",
-    "gameId": "level_11",
-    "type": "level_11",
-    "prompt": "8 + 6 = ?",
-    "correctAnswer": 14,
-    "options": [
-      14,
-      11,
-      12,
-      13
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 8,
-    "targetCount2": 6,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l11-q018",
-    "gameId": "level_11",
-    "type": "level_11",
-    "prompt": "Tính: 1 + 9 = ?",
-    "correctAnswer": 10,
-    "options": [
-      7,
-      8,
-      9,
-      10
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 1,
-    "targetCount2": 9,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l11-q019",
-    "gameId": "level_11",
-    "type": "level_11",
-    "prompt": "8 + 6 = ?",
-    "correctAnswer": 14,
-    "options": [
-      13,
-      14,
-      12,
-      11
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 8,
-    "targetCount2": 6,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l11-q020",
-    "gameId": "level_11",
-    "type": "level_11",
-    "prompt": "Tính: 14 + 1 = ?",
-    "correctAnswer": 15,
-    "options": [
-      13,
-      12,
-      14,
-      15
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 14,
-    "targetCount2": 1,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l11-q021",
-    "gameId": "level_11",
-    "type": "level_11",
-    "prompt": "Tính: 6 + 7 = ?",
-    "correctAnswer": 13,
-    "options": [
-      10,
-      12,
-      13,
-      11
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
@@ -399,35 +513,149 @@
     "displayPrompt": null
   },
   {
-    "id": "l11-q022",
+    "id": "l11-q028",
     "gameId": "level_11",
     "type": "level_11",
-    "prompt": "1 + 14 = ?",
-    "correctAnswer": 15,
+    "prompt": "Tính: 3 + 2 = ?",
+    "correctAnswer": 5,
     "options": [
-      13,
-      12,
-      15,
-      14
+      4,
+      5,
+      3,
+      2
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
-    "targetCount": 1,
-    "targetCount2": 14,
+    "targetCount": 3,
+    "targetCount2": 2,
     "renderMode": "addition",
     "displayPrompt": null
   },
   {
-    "id": "l11-q023",
+    "id": "l11-q029",
     "gameId": "level_11",
     "type": "level_11",
-    "prompt": "12 + 3 = ?",
+    "prompt": "5 + 4 = ?",
+    "correctAnswer": 9,
+    "options": [
+      9,
+      7,
+      6,
+      8
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 4,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l11-q030",
+    "gameId": "level_11",
+    "type": "level_11",
+    "prompt": "9 + 3 = ?",
+    "correctAnswer": 12,
+    "options": [
+      11,
+      9,
+      10,
+      12
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 9,
+    "targetCount2": 3,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l11-q031",
+    "gameId": "level_11",
+    "type": "level_11",
+    "prompt": "Bình có 13 chiếc bánh, mẹ cho thêm 2. Có tất cả bao nhiêu?",
     "correctAnswer": 15,
     "options": [
-      13,
-      14,
       12,
-      15
+      15,
+      13,
+      14
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 13,
+    "targetCount2": 2,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l11-q032",
+    "gameId": "level_11",
+    "type": "level_11",
+    "prompt": "Buổi sáng có 3 chiếc bánh, buổi chiều thêm 2 chiếc bánh. Tất cả là bao nhiêu?",
+    "correctAnswer": 5,
+    "options": [
+      3,
+      5,
+      2,
+      4
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 3,
+    "targetCount2": 2,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l11-q033",
+    "gameId": "level_11",
+    "type": "level_11",
+    "prompt": "Buổi sáng có 4 quả dâu, buổi chiều thêm 8 quả dâu. Tất cả là bao nhiêu?",
+    "correctAnswer": 12,
+    "options": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 4,
+    "targetCount2": 8,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l11-q034",
+    "gameId": "level_11",
+    "type": "level_11",
+    "prompt": "Nam có 6 quả dâu, mẹ cho thêm 3. Có tất cả bao nhiêu?",
+    "correctAnswer": 9,
+    "options": [
+      7,
+      6,
+      9,
+      8
+    ],
+    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon2": "",
+    "targetCount": 6,
+    "targetCount2": 3,
+    "renderMode": "addition",
+    "displayPrompt": null
+  },
+  {
+    "id": "l11-q035",
+    "gameId": "level_11",
+    "type": "level_11",
+    "prompt": "Bình có 12 chiếc bánh, mẹ cho thêm 3. Có tất cả bao nhiêu?",
+    "correctAnswer": 15,
+    "options": [
+      14,
+      15,
+      13,
+      12
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
@@ -437,143 +665,48 @@
     "displayPrompt": null
   },
   {
-    "id": "l11-q024",
+    "id": "l11-q036",
     "gameId": "level_11",
     "type": "level_11",
-    "prompt": "5 + 9 = ?",
-    "correctAnswer": 14,
+    "prompt": "Buổi sáng có 3 quả dâu, buổi chiều thêm 3 quả dâu. Tất cả là bao nhiêu?",
+    "correctAnswer": 6,
     "options": [
-      11,
-      14,
-      13,
-      12
+      5,
+      3,
+      6,
+      4
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
-    "targetCount": 5,
-    "targetCount2": 9,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l11-q025",
-    "gameId": "level_11",
-    "type": "level_11",
-    "prompt": "9 + 6 = ?",
-    "correctAnswer": 15,
-    "options": [
-      14,
-      13,
-      15,
-      12
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 9,
-    "targetCount2": 6,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l11-q026",
-    "gameId": "level_11",
-    "type": "level_11",
-    "prompt": "10 + 4 = ?",
-    "correctAnswer": 14,
-    "options": [
-      11,
-      13,
-      14,
-      12
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 10,
-    "targetCount2": 4,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l11-q027",
-    "gameId": "level_11",
-    "type": "level_11",
-    "prompt": "Tính: 10 + 3 = ?",
-    "correctAnswer": 13,
-    "options": [
-      11,
-      10,
-      12,
-      13
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 10,
+    "targetCount": 3,
     "targetCount2": 3,
     "renderMode": "addition",
     "displayPrompt": null
   },
   {
-    "id": "l11-q028",
+    "id": "l11-q037",
     "gameId": "level_11",
     "type": "level_11",
-    "prompt": "3 + 10 = ?",
-    "correctAnswer": 13,
+    "prompt": "Lan có 5 quả bóng, mẹ cho thêm 7. Có tất cả bao nhiêu?",
+    "correctAnswer": 12,
     "options": [
-      12,
-      11,
-      13,
-      10
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 3,
-    "targetCount2": 10,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l11-q029",
-    "gameId": "level_11",
-    "type": "level_11",
-    "prompt": "Tính: 1 + 14 = ?",
-    "correctAnswer": 15,
-    "options": [
-      13,
-      14,
-      12,
-      15
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 1,
-    "targetCount2": 14,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l11-q030",
-    "gameId": "level_11",
-    "type": "level_11",
-    "prompt": "7 + 4 = ?",
-    "correctAnswer": 11,
-    "options": [
-      11,
-      9,
       10,
-      8
+      11,
+      12,
+      9
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
-    "targetCount": 7,
-    "targetCount2": 4,
+    "targetCount": 5,
+    "targetCount2": 7,
     "renderMode": "addition",
     "displayPrompt": null
   },
   {
-    "id": "l11-q031",
+    "id": "l11-q038",
     "gameId": "level_11",
     "type": "level_11",
-    "prompt": "Buổi sáng có 3 viên kẹo, buổi chiều thêm 3 viên kẹo. Tất cả là bao nhiêu?",
+    "prompt": "Buổi sáng có 3 quả táo, buổi chiều thêm 3 quả táo. Tất cả là bao nhiêu?",
     "correctAnswer": 6,
     "options": [
       5,
@@ -589,154 +722,21 @@
     "displayPrompt": null
   },
   {
-    "id": "l11-q032",
+    "id": "l11-q039",
     "gameId": "level_11",
     "type": "level_11",
-    "prompt": "Buổi sáng có 8 quả bóng, buổi chiều thêm 3 quả bóng. Tất cả là bao nhiêu?",
-    "correctAnswer": 11,
+    "prompt": "Buổi sáng có 1 bông hoa, buổi chiều thêm 3 bông hoa. Tất cả là bao nhiêu?",
+    "correctAnswer": 4,
     "options": [
-      8,
-      11,
-      9,
-      10
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 8,
-    "targetCount2": 3,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l11-q033",
-    "gameId": "level_11",
-    "type": "level_11",
-    "prompt": "Buổi sáng có 13 quả bóng, buổi chiều thêm 1 quả bóng. Tất cả là bao nhiêu?",
-    "correctAnswer": 14,
-    "options": [
-      12,
-      14,
-      13,
-      11
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 13,
-    "targetCount2": 1,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l11-q034",
-    "gameId": "level_11",
-    "type": "level_11",
-    "prompt": "An có 6 bông hoa, mẹ cho thêm 6. Có tất cả bao nhiêu?",
-    "correctAnswer": 12,
-    "options": [
-      10,
-      9,
-      11,
-      12
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 6,
-    "targetCount2": 6,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l11-q035",
-    "gameId": "level_11",
-    "type": "level_11",
-    "prompt": "Minh nhặt được 2 quả bóng rồi nhặt thêm 10 quả bóng. Có tất cả mấy quả bóng?",
-    "correctAnswer": 12,
-    "options": [
-      9,
-      12,
-      10,
-      11
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 2,
-    "targetCount2": 10,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l11-q036",
-    "gameId": "level_11",
-    "type": "level_11",
-    "prompt": "Bình nhặt được 1 quả cam rồi nhặt thêm 7 quả cam. Có tất cả mấy quả cam?",
-    "correctAnswer": 8,
-    "options": [
-      7,
-      6,
-      8,
-      5
+      4,
+      1,
+      3,
+      2
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
     "targetCount": 1,
-    "targetCount2": 7,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l11-q037",
-    "gameId": "level_11",
-    "type": "level_11",
-    "prompt": "Hoa có 9 quả chuối, mẹ cho thêm 6. Có tất cả bao nhiêu?",
-    "correctAnswer": 15,
-    "options": [
-      12,
-      15,
-      13,
-      14
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 9,
-    "targetCount2": 6,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l11-q038",
-    "gameId": "level_11",
-    "type": "level_11",
-    "prompt": "Buổi sáng có 12 chiếc bánh, buổi chiều thêm 3 chiếc bánh. Tất cả là bao nhiêu?",
-    "correctAnswer": 15,
-    "options": [
-      15,
-      12,
-      14,
-      13
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 12,
     "targetCount2": 3,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l11-q039",
-    "gameId": "level_11",
-    "type": "level_11",
-    "prompt": "Buổi sáng có 14 quả cam, buổi chiều thêm 1 quả cam. Tất cả là bao nhiêu?",
-    "correctAnswer": 15,
-    "options": [
-      13,
-      14,
-      12,
-      15
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 14,
-    "targetCount2": 1,
     "renderMode": "addition",
     "displayPrompt": null
   },
@@ -744,17 +744,17 @@
     "id": "l11-q040",
     "gameId": "level_11",
     "type": "level_11",
-    "prompt": "Minh có 7 quả cam, mẹ cho thêm 2. Có tất cả bao nhiêu?",
-    "correctAnswer": 9,
+    "prompt": "Buổi sáng có 9 quả cam, buổi chiều thêm 2 quả cam. Tất cả là bao nhiêu?",
+    "correctAnswer": 11,
     "options": [
+      10,
+      8,
       9,
-      7,
-      6,
-      8
+      11
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
-    "targetCount": 7,
+    "targetCount": 9,
     "targetCount2": 2,
     "renderMode": "addition",
     "displayPrompt": null
@@ -763,18 +763,18 @@
     "id": "l11-q041",
     "gameId": "level_11",
     "type": "level_11",
-    "prompt": "Linh có 4 quả cam, mẹ cho thêm 10. Có tất cả bao nhiêu?",
-    "correctAnswer": 14,
+    "prompt": "Nam nhặt được 2 quả bóng rồi nhặt thêm 2 quả bóng. Có tất cả mấy quả bóng?",
+    "correctAnswer": 4,
     "options": [
-      14,
-      12,
-      11,
-      13
+      2,
+      4,
+      1,
+      3
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
-    "targetCount": 4,
-    "targetCount2": 10,
+    "targetCount": 2,
+    "targetCount2": 2,
     "renderMode": "addition",
     "displayPrompt": null
   },
@@ -782,18 +782,18 @@
     "id": "l11-q042",
     "gameId": "level_11",
     "type": "level_11",
-    "prompt": "Bình nhặt được 8 quả cam rồi nhặt thêm 3 quả cam. Có tất cả mấy quả cam?",
-    "correctAnswer": 11,
+    "prompt": "Lan có 11 viên kẹo, mẹ cho thêm 2. Có tất cả bao nhiêu?",
+    "correctAnswer": 13,
     "options": [
-      9,
       10,
-      8,
+      13,
+      12,
       11
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
-    "targetCount": 8,
-    "targetCount2": 3,
+    "targetCount": 11,
+    "targetCount2": 2,
     "renderMode": "addition",
     "displayPrompt": null
   },
@@ -801,18 +801,18 @@
     "id": "l11-q043",
     "gameId": "level_11",
     "type": "level_11",
-    "prompt": "Buổi sáng có 3 chiếc bánh, buổi chiều thêm 12 chiếc bánh. Tất cả là bao nhiêu?",
-    "correctAnswer": 15,
+    "prompt": "Lan nhặt được 1 quả dâu rồi nhặt thêm 9 quả dâu. Có tất cả mấy quả dâu?",
+    "correctAnswer": 10,
     "options": [
-      12,
-      14,
-      15,
-      13
+      7,
+      8,
+      10,
+      9
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
-    "targetCount": 3,
-    "targetCount2": 12,
+    "targetCount": 1,
+    "targetCount2": 9,
     "renderMode": "addition",
     "displayPrompt": null
   },
@@ -820,18 +820,18 @@
     "id": "l11-q044",
     "gameId": "level_11",
     "type": "level_11",
-    "prompt": "Linh có 11 chiếc bánh, mẹ cho thêm 1. Có tất cả bao nhiêu?",
-    "correctAnswer": 12,
+    "prompt": "Buổi sáng có 1 quả cam, buổi chiều thêm 6 quả cam. Tất cả là bao nhiêu?",
+    "correctAnswer": 7,
     "options": [
-      9,
-      12,
-      11,
-      10
+      6,
+      5,
+      7,
+      4
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
-    "targetCount": 11,
-    "targetCount2": 1,
+    "targetCount": 1,
+    "targetCount2": 6,
     "renderMode": "addition",
     "displayPrompt": null
   },
@@ -839,17 +839,17 @@
     "id": "l11-q045",
     "gameId": "level_11",
     "type": "level_11",
-    "prompt": "Mai nhặt được 1 quả bóng rồi nhặt thêm 1 quả bóng. Có tất cả mấy quả bóng?",
-    "correctAnswer": 2,
+    "prompt": "Buổi sáng có 12 chiếc bánh, buổi chiều thêm 1 chiếc bánh. Tất cả là bao nhiêu?",
+    "correctAnswer": 13,
     "options": [
-      3,
-      2,
-      0,
-      1
+      12,
+      10,
+      11,
+      13
     ],
     "objectIcon": "/icons/apple_icon.png",
     "objectIcon2": "",
-    "targetCount": 1,
+    "targetCount": 12,
     "targetCount2": 1,
     "renderMode": "addition",
     "displayPrompt": null
@@ -858,17 +858,16 @@
     "id": "l11-q046",
     "gameId": "level_11",
     "type": "level_11",
-    "prompt": "Chọn số lớn hơn trong hai số: 1 và 8.",
-    "correctAnswer": 8,
+    "prompt": "14 và 11, điền dấu so sánh:",
+    "correctAnswer": ">",
     "options": [
-      8,
-      5,
-      7,
-      6
+      ">",
+      "<",
+      "="
     ],
-    "objectIcon": "/icons/star_icon.png",
+    "objectIcon": "",
     "objectIcon2": "",
-    "targetCount": 8,
+    "targetCount": 0,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
@@ -877,17 +876,16 @@
     "id": "l11-q047",
     "gameId": "level_11",
     "type": "level_11",
-    "prompt": "Chọn số lớn hơn trong hai số: 3 và 1.",
-    "correctAnswer": 3,
+    "prompt": "1 ___ 9. Chọn dấu thích hợp:",
+    "correctAnswer": "<",
     "options": [
-      3,
-      1,
-      4,
-      2
+      ">",
+      "<",
+      "="
     ],
-    "objectIcon": "/icons/star_icon.png",
+    "objectIcon": "",
     "objectIcon2": "",
-    "targetCount": 3,
+    "targetCount": 0,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
@@ -896,17 +894,16 @@
     "id": "l11-q048",
     "gameId": "level_11",
     "type": "level_11",
-    "prompt": "Số nào bé hơn: 11 hay 5?",
-    "correctAnswer": 5,
+    "prompt": "Điền dấu đúng: 14 __ 9",
+    "correctAnswer": ">",
     "options": [
-      4,
-      3,
-      5,
-      2
+      ">",
+      "<",
+      "="
     ],
-    "objectIcon": "/icons/star_icon.png",
+    "objectIcon": "",
     "objectIcon2": "",
-    "targetCount": 11,
+    "targetCount": 0,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
@@ -915,17 +912,16 @@
     "id": "l11-q049",
     "gameId": "level_11",
     "type": "level_11",
-    "prompt": "Số nào lớn hơn: 15 hay 12?",
-    "correctAnswer": 15,
+    "prompt": "4 và 9, điền dấu so sánh:",
+    "correctAnswer": "<",
     "options": [
-      12,
-      14,
-      13,
-      15
+      ">",
+      "<",
+      "="
     ],
-    "objectIcon": "/icons/star_icon.png",
+    "objectIcon": "",
     "objectIcon2": "",
-    "targetCount": 15,
+    "targetCount": 0,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
@@ -934,17 +930,16 @@
     "id": "l11-q050",
     "gameId": "level_11",
     "type": "level_11",
-    "prompt": "Chọn số lớn hơn trong hai số: 15 và 1.",
-    "correctAnswer": 15,
+    "prompt": "So sánh: 4 ☐ 3",
+    "correctAnswer": ">",
     "options": [
-      12,
-      14,
-      13,
-      15
+      ">",
+      "<",
+      "="
     ],
-    "objectIcon": "/icons/star_icon.png",
+    "objectIcon": "",
     "objectIcon2": "",
-    "targetCount": 15,
+    "targetCount": 0,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
