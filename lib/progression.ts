@@ -53,12 +53,10 @@ export const isLevelUnlocked = (
   return !!subjectProgress[previousLevelId]?.isCompleted;
 };
 
-const computeStars = (score: number, total: number): number => {
-  const ratio = total > 0 ? score / total : 0;
-  if (ratio >= 0.9) return 3;
-  if (ratio >= 0.7) return 2;
-  if (ratio >= 0.5) return 1;
-  return 0;
+// 1 sao = 1 câu đúng. Hoàn thành level 50 câu đúng hết = 50 sao.
+// Tối thiểu 1 sao khi hoàn thành để bé luôn được thưởng.
+const computeStars = (score: number, _total: number): number => {
+  return Math.max(1, score);
 };
 
 export const saveLevelProgress = (

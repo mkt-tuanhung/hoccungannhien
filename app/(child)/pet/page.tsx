@@ -17,9 +17,9 @@ const PET_PHRASES = [
 ];
 
 const FOOD_ITEMS = [
-  { emoji: "🐟", name: "Cá", cost: 5 },
-  { emoji: "🍎", name: "Táo", cost: 3 },
-  { emoji: "🍰", name: "Bánh", cost: 8 },
+  { emoji: "🍎", name: "Táo", cost: 10 },
+  { emoji: "🐟", name: "Cá", cost: 20 },
+  { emoji: "🍰", name: "Bánh", cost: 35 },
 ];
 
 export default function PetRoom() {

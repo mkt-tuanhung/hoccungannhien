@@ -122,22 +122,38 @@ export default function LevelEngine({ params }: { params: { subject_id: string, 
   const progressPct = Math.round((currentIdx / questions.length) * 100);
 
   if (isFinished) {
-    const stars = totalScore / questions.length >= 0.9 ? 3 : totalScore / questions.length >= 0.7 ? 2 : totalScore / questions.length >= 0.5 ? 1 : 0;
+    // 1 sao = 1 câu đúng, tối thiểu 1 sao
+    const starsEarned = Math.max(1, totalScore);
+    const accuracy = questions.length > 0 ? Math.round((totalScore / questions.length) * 100) : 0;
+    const medal = accuracy >= 90 ? "🏆" : accuracy >= 70 ? "🥈" : accuracy >= 50 ? "🥉" : "🎯";
     return (
       <div className="min-h-[100dvh] flex items-center justify-center p-6" style={{ background: "linear-gradient(180deg, #FFF6FB 0%, #EFEAFE 100%)" }}>
         <div className="bg-white rounded-[36px] p-8 text-center shadow-[0_20px_60px_rgba(150,110,170,0.25)] max-w-sm w-full animate-in fade-in zoom-in duration-500">
-          <div className="text-7xl mb-2 animate-bounce">🏆</div>
-          <div className="flex justify-center gap-2 mb-4">
-            {[1, 2, 3].map((s) => (
-              <span key={s} className={`text-4xl ${s <= stars ? "" : "grayscale opacity-30"}`}>⭐</span>
-            ))}
-          </div>
-          <h2 className="text-3xl font-black mb-2" style={{ fontFamily: "'Mochiy Pop One', system-ui", color: "#FF8FB8" }}>
+          <div className="text-7xl mb-2 animate-bounce">{medal}</div>
+          <h2 className="text-3xl font-black mb-3" style={{ fontFamily: "'Mochiy Pop One', system-ui", color: "#FF8FB8" }}>
             Hoàn thành!
           </h2>
-          <p className="text-[#5A4A6A] font-bold mb-6">
-            Con trả lời đúng <span className="text-2xl text-[#6FD08C]">{totalScore}/{questions.length}</span> câu!
-          </p>
+
+          {/* Sao kiếm được */}
+          <div className="bg-yellow-50 border-2 border-yellow-200 rounded-3xl px-6 py-4 mb-4">
+            <p className="text-sm font-bold text-yellow-600 mb-1">Sao kiếm được</p>
+            <p className="text-5xl font-black text-yellow-500" style={{ fontFamily: "'Mochiy Pop One', system-ui" }}>
+              +{starsEarned} <span className="text-3xl">⭐</span>
+            </p>
+          </div>
+
+          {/* Kết quả */}
+          <div className="flex gap-3 mb-6">
+            <div className="flex-1 bg-green-50 rounded-2xl p-3">
+              <p className="text-xs font-bold text-green-600">Đúng</p>
+              <p className="text-2xl font-black text-green-500">{totalScore}/{questions.length}</p>
+            </div>
+            <div className="flex-1 bg-blue-50 rounded-2xl p-3">
+              <p className="text-xs font-bold text-blue-600">Chính xác</p>
+              <p className="text-2xl font-black text-blue-500">{accuracy}%</p>
+            </div>
+          </div>
+
           <button
             onClick={() => router.push(`/subject/${unwrappedParams.subject_id}`)}
             className="w-full text-white text-xl font-black py-4 rounded-[24px] active:translate-y-1.5 transition-transform"
