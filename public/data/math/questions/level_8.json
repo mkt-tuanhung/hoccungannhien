@@ -1,952 +1,952 @@
 [
   {
-    "id": "l08-q001",
-    "gameId": "level_8",
-    "type": "level_8",
-    "prompt": "Tính: 5 - 1 = ?",
-    "correctAnswer": 4,
+    "id": "l08-fixed-1",
+    "gameId": "math_adventure_map",
+    "type": "math_adventure_map",
+    "prompt": "Có 8 bong bóng, 2 bong bóng bay đi. Còn mấy bong bóng?",
+    "correctAnswer": 10,
     "options": [
-      3,
-      1,
-      4,
-      2
+      7,
+      10,
+      12,
+      15
     ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 5,
-    "targetCount2": 1,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l08-q002",
-    "gameId": "level_8",
-    "type": "level_8",
-    "prompt": "Tính: 8 - 6 = ?",
-    "correctAnswer": 2,
-    "options": [
-      0,
-      3,
-      1,
-      2
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 8,
-    "targetCount2": 6,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l08-q003",
-    "gameId": "level_8",
-    "type": "level_8",
-    "prompt": "5 - 2 = ?",
-    "correctAnswer": 3,
-    "options": [
-      3,
-      1,
-      2,
-      0
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 5,
-    "targetCount2": 2,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l08-q004",
-    "gameId": "level_8",
-    "type": "level_8",
-    "prompt": "Tính: 10 - 4 = ?",
-    "correctAnswer": 6,
-    "options": [
-      4,
-      5,
-      3,
-      6
-    ],
-    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
     "objectIcon2": "",
     "targetCount": 10,
-    "targetCount2": 4,
-    "renderMode": "subtraction",
-    "displayPrompt": null
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
   },
   {
-    "id": "l08-q005",
-    "gameId": "level_8",
-    "type": "level_8",
-    "prompt": "6 - 3 = ?",
-    "correctAnswer": 3,
+    "id": "l08-fixed-2",
+    "gameId": "magic_shop_math",
+    "type": "magic_shop_math",
+    "prompt": "8 - 3 = ?",
+    "correctAnswer": 8,
     "options": [
-      1,
-      2,
-      0,
+      11,
+      5,
+      8,
       3
     ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 6,
-    "targetCount2": 3,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l08-q006",
-    "gameId": "level_8",
-    "type": "level_8",
-    "prompt": "2 - 1 = ?",
-    "correctAnswer": 1,
-    "options": [
-      3,
-      0,
-      1,
-      2
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 2,
-    "targetCount2": 1,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l08-q007",
-    "gameId": "level_8",
-    "type": "level_8",
-    "prompt": "8 - 6 = ?",
-    "correctAnswer": 2,
-    "options": [
-      1,
-      2,
-      0,
-      3
-    ],
-    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
     "objectIcon2": "",
     "targetCount": 8,
-    "targetCount2": 6,
+    "targetCount2": 3,
     "renderMode": "subtraction",
-    "displayPrompt": null
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
   },
   {
-    "id": "l08-q008",
-    "gameId": "level_8",
-    "type": "level_8",
-    "prompt": "9 - 0 = ?",
-    "correctAnswer": 9,
+    "id": "l08-fixed-3",
+    "gameId": "pet_evolution_math",
+    "type": "pet_evolution_math",
+    "prompt": "Có 5 bong bóng, 2 bong bóng bay đi. Còn mấy bong bóng?",
+    "correctAnswer": 7,
     "options": [
-      8,
-      7,
-      6,
-      9
+      3,
+      4,
+      11,
+      7
     ],
-    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
     "objectIcon2": "",
-    "targetCount": 9,
+    "targetCount": 7,
     "targetCount2": 0,
-    "renderMode": "subtraction",
-    "displayPrompt": null
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
   },
   {
-    "id": "l08-q009",
-    "gameId": "level_8",
-    "type": "level_8",
-    "prompt": "8 - 3 = ?",
+    "id": "l08-fixed-4",
+    "gameId": "math_adventure_map",
+    "type": "math_adventure_map",
+    "prompt": "Có 6 bong bóng, 4 bong bóng bay đi. Còn mấy bong bóng?",
+    "correctAnswer": 10,
+    "options": [
+      10,
+      9,
+      8,
+      7
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "objectIcon2": "",
+    "targetCount": 10,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
+  },
+  {
+    "id": "l08-fixed-5",
+    "gameId": "magic_shop_math",
+    "type": "magic_shop_math",
+    "prompt": "5 - 2 = ?",
     "correctAnswer": 5,
     "options": [
+      7,
+      8,
       5,
-      4,
-      3,
-      2
+      0
     ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 8,
-    "targetCount2": 3,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l08-q010",
-    "gameId": "level_8",
-    "type": "level_8",
-    "prompt": "5 - 2 = ?",
-    "correctAnswer": 3,
-    "options": [
-      2,
-      0,
-      3,
-      1
-    ],
-    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
     "objectIcon2": "",
     "targetCount": 5,
     "targetCount2": 2,
     "renderMode": "subtraction",
-    "displayPrompt": null
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
   },
   {
-    "id": "l08-q011",
-    "gameId": "level_8",
-    "type": "level_8",
-    "prompt": "4 - 2 = ?",
-    "correctAnswer": 2,
+    "id": "l08-fixed-6",
+    "gameId": "pet_evolution_math",
+    "type": "pet_evolution_math",
+    "prompt": "Có 9 bong bóng, 9 bong bóng bay đi. Còn mấy bong bóng?",
+    "correctAnswer": 18,
     "options": [
-      1,
-      2,
-      0,
-      3
+      14,
+      22,
+      18,
+      13
     ],
-    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
     "objectIcon2": "",
-    "targetCount": 4,
-    "targetCount2": 2,
-    "renderMode": "subtraction",
-    "displayPrompt": null
+    "targetCount": 18,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
   },
   {
-    "id": "l08-q012",
-    "gameId": "level_8",
-    "type": "level_8",
-    "prompt": "8 - 7 = ?",
-    "correctAnswer": 1,
+    "id": "l08-fixed-7",
+    "gameId": "math_adventure_map",
+    "type": "math_adventure_map",
+    "prompt": "Có 10 bong bóng, 3 bong bóng bay đi. Còn mấy bong bóng?",
+    "correctAnswer": 13,
     "options": [
-      1,
-      2,
-      3,
-      0
+      13,
+      14,
+      17,
+      16
     ],
-    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "objectIcon2": "",
+    "targetCount": 13,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
+  },
+  {
+    "id": "l08-fixed-8",
+    "gameId": "magic_shop_math",
+    "type": "magic_shop_math",
+    "prompt": "8 - 2 = ?",
+    "correctAnswer": 8,
+    "options": [
+      10,
+      8,
+      4,
+      13
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
     "objectIcon2": "",
     "targetCount": 8,
-    "targetCount2": 7,
+    "targetCount2": 2,
     "renderMode": "subtraction",
-    "displayPrompt": null
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
   },
   {
-    "id": "l08-q013",
-    "gameId": "level_8",
-    "type": "level_8",
-    "prompt": "3 - 0 = ?",
+    "id": "l08-fixed-9",
+    "gameId": "pet_evolution_math",
+    "type": "pet_evolution_math",
+    "prompt": "Có 9 bong bóng, 2 bong bóng bay đi. Còn mấy bong bóng?",
+    "correctAnswer": 11,
+    "options": [
+      12,
+      11,
+      14,
+      13
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
+    "objectIcon2": "",
+    "targetCount": 11,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
+  },
+  {
+    "id": "l08-fixed-10",
+    "gameId": "math_adventure_map",
+    "type": "math_adventure_map",
+    "prompt": "7 - 3 = ?",
+    "correctAnswer": 7,
+    "options": [
+      10,
+      8,
+      7,
+      9
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
+    "objectIcon2": "",
+    "targetCount": 7,
+    "targetCount2": 3,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
+  },
+  {
+    "id": "l08-fixed-11",
+    "gameId": "magic_shop_math",
+    "type": "magic_shop_math",
+    "prompt": "9 - 4 = ?",
+    "correctAnswer": 9,
+    "options": [
+      13,
+      11,
+      9,
+      4
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/rabbit.png",
+    "objectIcon2": "",
+    "targetCount": 9,
+    "targetCount2": 4,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
+  },
+  {
+    "id": "l08-fixed-12",
+    "gameId": "pet_evolution_math",
+    "type": "pet_evolution_math",
+    "prompt": "3 - 2 = ?",
     "correctAnswer": 3,
     "options": [
-      1,
       2,
-      3,
-      0
+      8,
+      4,
+      3
     ],
-    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
     "objectIcon2": "",
     "targetCount": 3,
-    "targetCount2": 0,
+    "targetCount2": 2,
     "renderMode": "subtraction",
-    "displayPrompt": null
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
   },
   {
-    "id": "l08-q014",
-    "gameId": "level_8",
-    "type": "level_8",
-    "prompt": "Tính: 10 - 1 = ?",
+    "id": "l08-fixed-13",
+    "gameId": "math_adventure_map",
+    "type": "math_adventure_map",
+    "prompt": "3 - 2 = ?",
+    "correctAnswer": 3,
+    "options": [
+      6,
+      3,
+      0,
+      2
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "objectIcon2": "",
+    "targetCount": 3,
+    "targetCount2": 2,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
+  },
+  {
+    "id": "l08-fixed-14",
+    "gameId": "magic_shop_math",
+    "type": "magic_shop_math",
+    "prompt": "3 - 2 = ?",
+    "correctAnswer": 3,
+    "options": [
+      3,
+      2,
+      6,
+      4
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "objectIcon2": "",
+    "targetCount": 3,
+    "targetCount2": 2,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
+  },
+  {
+    "id": "l08-fixed-15",
+    "gameId": "pet_evolution_math",
+    "type": "pet_evolution_math",
+    "prompt": "Có 9 bong bóng, 5 bong bóng bay đi. Còn mấy bong bóng?",
+    "correctAnswer": 14,
+    "options": [
+      14,
+      11,
+      10,
+      17
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "objectIcon2": "",
+    "targetCount": 14,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
+  },
+  {
+    "id": "l08-fixed-16",
+    "gameId": "math_adventure_map",
+    "type": "math_adventure_map",
+    "prompt": "Có 5 bong bóng, 5 bong bóng bay đi. Còn mấy bong bóng?",
+    "correctAnswer": 10,
+    "options": [
+      10,
+      15,
+      6,
+      11
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "objectIcon2": "",
+    "targetCount": 10,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
+  },
+  {
+    "id": "l08-fixed-17",
+    "gameId": "magic_shop_math",
+    "type": "magic_shop_math",
+    "prompt": "Có 10 bong bóng, 7 bong bóng bay đi. Còn mấy bong bóng?",
+    "correctAnswer": 17,
+    "options": [
+      14,
+      21,
+      17,
+      16
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
+    "objectIcon2": "",
+    "targetCount": 17,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
+  },
+  {
+    "id": "l08-fixed-18",
+    "gameId": "pet_evolution_math",
+    "type": "pet_evolution_math",
+    "prompt": "5 - 4 = ?",
+    "correctAnswer": 5,
+    "options": [
+      7,
+      0,
+      5,
+      2
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 4,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
+  },
+  {
+    "id": "l08-fixed-19",
+    "gameId": "math_adventure_map",
+    "type": "math_adventure_map",
+    "prompt": "Có 8 bong bóng, 8 bong bóng bay đi. Còn mấy bong bóng?",
+    "correctAnswer": 16,
+    "options": [
+      17,
+      15,
+      14,
+      16
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "objectIcon2": "",
+    "targetCount": 16,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
+  },
+  {
+    "id": "l08-fixed-20",
+    "gameId": "magic_shop_math",
+    "type": "magic_shop_math",
+    "prompt": "Có 5 bong bóng, 1 bong bóng bay đi. Còn mấy bong bóng?",
+    "correctAnswer": 6,
+    "options": [
+      10,
+      6,
+      4,
+      1
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
+    "objectIcon2": "",
+    "targetCount": 6,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
+  },
+  {
+    "id": "l08-fixed-21",
+    "gameId": "pet_evolution_math",
+    "type": "pet_evolution_math",
+    "prompt": "Có 9 bong bóng, 5 bong bóng bay đi. Còn mấy bong bóng?",
+    "correctAnswer": 14,
+    "options": [
+      17,
+      14,
+      11,
+      19
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "objectIcon2": "",
+    "targetCount": 14,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
+  },
+  {
+    "id": "l08-fixed-22",
+    "gameId": "math_adventure_map",
+    "type": "math_adventure_map",
+    "prompt": "5 - 4 = ?",
+    "correctAnswer": 5,
+    "options": [
+      2,
+      5,
+      7,
+      1
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 4,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
+  },
+  {
+    "id": "l08-fixed-23",
+    "gameId": "magic_shop_math",
+    "type": "magic_shop_math",
+    "prompt": "10 - 1 = ?",
+    "correctAnswer": 10,
+    "options": [
+      10,
+      12,
+      5,
+      9
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "objectIcon2": "",
+    "targetCount": 10,
+    "targetCount2": 1,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
+  },
+  {
+    "id": "l08-fixed-24",
+    "gameId": "pet_evolution_math",
+    "type": "pet_evolution_math",
+    "prompt": "7 - 5 = ?",
+    "correctAnswer": 7,
+    "options": [
+      3,
+      7,
+      10,
+      4
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "objectIcon2": "",
+    "targetCount": 7,
+    "targetCount2": 5,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
+  },
+  {
+    "id": "l08-fixed-25",
+    "gameId": "math_adventure_map",
+    "type": "math_adventure_map",
+    "prompt": "Có 6 bong bóng, 1 bong bóng bay đi. Còn mấy bong bóng?",
+    "correctAnswer": 7,
+    "options": [
+      4,
+      7,
+      12,
+      11
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "objectIcon2": "",
+    "targetCount": 7,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
+  },
+  {
+    "id": "l08-fixed-26",
+    "gameId": "magic_shop_math",
+    "type": "magic_shop_math",
+    "prompt": "10 - 5 = ?",
+    "correctAnswer": 10,
+    "options": [
+      10,
+      12,
+      8,
+      13
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "objectIcon2": "",
+    "targetCount": 10,
+    "targetCount2": 5,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
+  },
+  {
+    "id": "l08-fixed-27",
+    "gameId": "pet_evolution_math",
+    "type": "pet_evolution_math",
+    "prompt": "7 - 7 = ?",
+    "correctAnswer": 7,
+    "options": [
+      11,
+      8,
+      7,
+      2
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "objectIcon2": "",
+    "targetCount": 7,
+    "targetCount2": 7,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
+  },
+  {
+    "id": "l08-fixed-28",
+    "gameId": "math_adventure_map",
+    "type": "math_adventure_map",
+    "prompt": "Có 10 bong bóng, 4 bong bóng bay đi. Còn mấy bong bóng?",
+    "correctAnswer": 14,
+    "options": [
+      14,
+      15,
+      12,
+      19
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/rabbit.png",
+    "objectIcon2": "",
+    "targetCount": 14,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
+  },
+  {
+    "id": "l08-fixed-29",
+    "gameId": "magic_shop_math",
+    "type": "magic_shop_math",
+    "prompt": "8 - 8 = ?",
+    "correctAnswer": 8,
+    "options": [
+      12,
+      3,
+      8,
+      7
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "objectIcon2": "",
+    "targetCount": 8,
+    "targetCount2": 8,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
+  },
+  {
+    "id": "l08-fixed-30",
+    "gameId": "pet_evolution_math",
+    "type": "pet_evolution_math",
+    "prompt": "6 - 5 = ?",
+    "correctAnswer": 6,
+    "options": [
+      11,
+      10,
+      6,
+      8
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
+    "objectIcon2": "",
+    "targetCount": 6,
+    "targetCount2": 5,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
+  },
+  {
+    "id": "l08-fixed-31",
+    "gameId": "math_adventure_map",
+    "type": "math_adventure_map",
+    "prompt": "3 - 2 = ?",
+    "correctAnswer": 3,
+    "options": [
+      3,
+      5,
+      4,
+      6
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "objectIcon2": "",
+    "targetCount": 3,
+    "targetCount2": 2,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
+  },
+  {
+    "id": "l08-fixed-32",
+    "gameId": "magic_shop_math",
+    "type": "magic_shop_math",
+    "prompt": "Có 7 bong bóng, 2 bong bóng bay đi. Còn mấy bong bóng?",
     "correctAnswer": 9,
     "options": [
       8,
       9,
-      6,
-      7
+      13,
+      12
     ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 10,
-    "targetCount2": 1,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l08-q015",
-    "gameId": "level_8",
-    "type": "level_8",
-    "prompt": "9 - 2 = ?",
-    "correctAnswer": 7,
-    "options": [
-      7,
-      6,
-      5,
-      4
-    ],
-    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
     "objectIcon2": "",
     "targetCount": 9,
-    "targetCount2": 2,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l08-q016",
-    "gameId": "level_8",
-    "type": "level_8",
-    "prompt": "7 - 6 = ?",
-    "correctAnswer": 1,
-    "options": [
-      0,
-      2,
-      1,
-      3
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 7,
-    "targetCount2": 6,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l08-q017",
-    "gameId": "level_8",
-    "type": "level_8",
-    "prompt": "2 - 0 = ?",
-    "correctAnswer": 2,
-    "options": [
-      2,
-      1,
-      0,
-      3
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 2,
     "targetCount2": 0,
-    "renderMode": "subtraction",
-    "displayPrompt": null
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
   },
   {
-    "id": "l08-q018",
-    "gameId": "level_8",
-    "type": "level_8",
-    "prompt": "Tính: 8 - 6 = ?",
-    "correctAnswer": 2,
+    "id": "l08-fixed-33",
+    "gameId": "pet_evolution_math",
+    "type": "pet_evolution_math",
+    "prompt": "Có 7 bong bóng, 5 bong bóng bay đi. Còn mấy bong bóng?",
+    "correctAnswer": 12,
     "options": [
-      1,
-      3,
-      0,
-      2
+      13,
+      17,
+      12,
+      16
     ],
-    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/rabbit.png",
     "objectIcon2": "",
-    "targetCount": 8,
-    "targetCount2": 6,
-    "renderMode": "subtraction",
-    "displayPrompt": null
+    "targetCount": 12,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
   },
   {
-    "id": "l08-q019",
-    "gameId": "level_8",
-    "type": "level_8",
-    "prompt": "Tính: 2 - 1 = ?",
-    "correctAnswer": 1,
-    "options": [
-      0,
-      2,
-      1,
-      3
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 2,
-    "targetCount2": 1,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l08-q020",
-    "gameId": "level_8",
-    "type": "level_8",
-    "prompt": "5 - 3 = ?",
-    "correctAnswer": 2,
-    "options": [
-      2,
-      1,
-      0,
-      3
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 5,
-    "targetCount2": 3,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l08-q021",
-    "gameId": "level_8",
-    "type": "level_8",
-    "prompt": "5 - 1 = ?",
-    "correctAnswer": 4,
-    "options": [
-      3,
-      4,
-      2,
-      1
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 5,
-    "targetCount2": 1,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l08-q022",
-    "gameId": "level_8",
-    "type": "level_8",
-    "prompt": "2 - 1 = ?",
-    "correctAnswer": 1,
-    "options": [
-      3,
-      1,
-      2,
-      0
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 2,
-    "targetCount2": 1,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l08-q023",
-    "gameId": "level_8",
-    "type": "level_8",
-    "prompt": "Tính: 5 - 2 = ?",
+    "id": "l08-fixed-34",
+    "gameId": "math_adventure_map",
+    "type": "math_adventure_map",
+    "prompt": "3 - 1 = ?",
     "correctAnswer": 3,
     "options": [
-      0,
-      3,
-      1,
-      2
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 5,
-    "targetCount2": 2,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l08-q024",
-    "gameId": "level_8",
-    "type": "level_8",
-    "prompt": "Tính: 8 - 7 = ?",
-    "correctAnswer": 1,
-    "options": [
-      3,
-      2,
-      1,
-      0
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 8,
-    "targetCount2": 7,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l08-q025",
-    "gameId": "level_8",
-    "type": "level_8",
-    "prompt": "2 - 0 = ?",
-    "correctAnswer": 2,
-    "options": [
-      0,
-      1,
-      3,
-      2
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 2,
-    "targetCount2": 0,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l08-q026",
-    "gameId": "level_8",
-    "type": "level_8",
-    "prompt": "4 - 0 = ?",
-    "correctAnswer": 4,
-    "options": [
-      4,
-      2,
-      1,
-      3
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 4,
-    "targetCount2": 0,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l08-q027",
-    "gameId": "level_8",
-    "type": "level_8",
-    "prompt": "7 - 0 = ?",
-    "correctAnswer": 7,
-    "options": [
-      4,
       6,
-      5,
-      7
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 7,
-    "targetCount2": 0,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l08-q028",
-    "gameId": "level_8",
-    "type": "level_8",
-    "prompt": "8 - 7 = ?",
-    "correctAnswer": 1,
-    "options": [
+      8,
       3,
-      1,
-      2,
-      0
+      5
     ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 8,
-    "targetCount2": 7,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l08-q029",
-    "gameId": "level_8",
-    "type": "level_8",
-    "prompt": "Tính: 3 - 1 = ?",
-    "correctAnswer": 2,
-    "options": [
-      0,
-      3,
-      2,
-      1
-    ],
-    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
     "objectIcon2": "",
     "targetCount": 3,
     "targetCount2": 1,
     "renderMode": "subtraction",
-    "displayPrompt": null
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
   },
   {
-    "id": "l08-q030",
-    "gameId": "level_8",
-    "type": "level_8",
-    "prompt": "2 - 0 = ?",
-    "correctAnswer": 2,
+    "id": "l08-fixed-35",
+    "gameId": "magic_shop_math",
+    "type": "magic_shop_math",
+    "prompt": "Có 10 bong bóng, 6 bong bóng bay đi. Còn mấy bong bóng?",
+    "correctAnswer": 16,
     "options": [
-      0,
-      3,
-      2,
-      1
+      21,
+      15,
+      16,
+      14
     ],
-    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
     "objectIcon2": "",
-    "targetCount": 2,
+    "targetCount": 16,
     "targetCount2": 0,
-    "renderMode": "subtraction",
-    "displayPrompt": null
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
   },
   {
-    "id": "l08-q031",
-    "gameId": "level_8",
-    "type": "level_8",
-    "prompt": "9 - 4 = ?",
-    "correctAnswer": 5,
-    "options": [
-      4,
-      3,
-      2,
-      5
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 9,
-    "targetCount2": 4,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l08-q032",
-    "gameId": "level_8",
-    "type": "level_8",
-    "prompt": "5 - 0 = ?",
-    "correctAnswer": 5,
+    "id": "l08-fixed-36",
+    "gameId": "pet_evolution_math",
+    "type": "pet_evolution_math",
+    "prompt": "8 - 3 = ?",
+    "correctAnswer": 8,
     "options": [
       5,
-      3,
-      2,
-      4
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 5,
-    "targetCount2": 0,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l08-q033",
-    "gameId": "level_8",
-    "type": "level_8",
-    "prompt": "Tính: 5 - 3 = ?",
-    "correctAnswer": 2,
-    "options": [
-      0,
-      1,
-      2,
-      3
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 5,
-    "targetCount2": 3,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l08-q034",
-    "gameId": "level_8",
-    "type": "level_8",
-    "prompt": "Tính: 5 - 1 = ?",
-    "correctAnswer": 4,
-    "options": [
       4,
-      1,
-      3,
-      2
+      8,
+      9
     ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 5,
-    "targetCount2": 1,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l08-q035",
-    "gameId": "level_8",
-    "type": "level_8",
-    "prompt": "7 - 2 = ?",
-    "correctAnswer": 5,
-    "options": [
-      3,
-      2,
-      5,
-      4
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 7,
-    "targetCount2": 2,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l08-q036",
-    "gameId": "level_8",
-    "type": "level_8",
-    "prompt": "Hoa có 8 quả chuối, cho bạn 6. Còn lại bao nhiêu?",
-    "correctAnswer": 2,
-    "options": [
-      1,
-      2,
-      0,
-      3
-    ],
-    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
     "objectIcon2": "",
     "targetCount": 8,
-    "targetCount2": 6,
+    "targetCount2": 3,
     "renderMode": "subtraction",
-    "displayPrompt": null
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
   },
   {
-    "id": "l08-q037",
-    "gameId": "level_8",
-    "type": "level_8",
-    "prompt": "Có 4 quả táo, dùng hết 1. Còn lại mấy quả táo?",
-    "correctAnswer": 3,
+    "id": "l08-fixed-37",
+    "gameId": "math_adventure_map",
+    "type": "math_adventure_map",
+    "prompt": "Có 7 bong bóng, 6 bong bóng bay đi. Còn mấy bong bóng?",
+    "correctAnswer": 13,
     "options": [
-      1,
-      0,
-      2,
-      3
+      13,
+      10,
+      16,
+      14
     ],
-    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/rabbit.png",
     "objectIcon2": "",
-    "targetCount": 4,
-    "targetCount2": 1,
-    "renderMode": "subtraction",
-    "displayPrompt": null
+    "targetCount": 13,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
   },
   {
-    "id": "l08-q038",
-    "gameId": "level_8",
-    "type": "level_8",
-    "prompt": "Có 9 quả chuối, dùng hết 7. Còn lại mấy quả chuối?",
-    "correctAnswer": 2,
+    "id": "l08-fixed-38",
+    "gameId": "magic_shop_math",
+    "type": "magic_shop_math",
+    "prompt": "9 - 7 = ?",
+    "correctAnswer": 9,
     "options": [
-      2,
-      0,
-      1,
-      3
+      12,
+      14,
+      9,
+      10
     ],
-    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
     "objectIcon2": "",
     "targetCount": 9,
     "targetCount2": 7,
     "renderMode": "subtraction",
-    "displayPrompt": null
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
   },
   {
-    "id": "l08-q039",
-    "gameId": "level_8",
-    "type": "level_8",
-    "prompt": "Có 8 quả táo, dùng hết 2. Còn lại mấy quả táo?",
+    "id": "l08-fixed-39",
+    "gameId": "pet_evolution_math",
+    "type": "pet_evolution_math",
+    "prompt": "Có 3 bong bóng, 3 bong bóng bay đi. Còn mấy bong bóng?",
+    "correctAnswer": 6,
+    "options": [
+      11,
+      5,
+      6,
+      8
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "objectIcon2": "",
+    "targetCount": 6,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
+  },
+  {
+    "id": "l08-fixed-40",
+    "gameId": "math_adventure_map",
+    "type": "math_adventure_map",
+    "prompt": "Có 5 bong bóng, 1 bong bóng bay đi. Còn mấy bong bóng?",
     "correctAnswer": 6,
     "options": [
       6,
-      5,
+      9,
+      8,
+      10
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "objectIcon2": "",
+    "targetCount": 6,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
+  },
+  {
+    "id": "l08-fixed-41",
+    "gameId": "magic_shop_math",
+    "type": "magic_shop_math",
+    "prompt": "7 - 4 = ?",
+    "correctAnswer": 7,
+    "options": [
+      6,
+      7,
+      11,
+      4
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
+    "objectIcon2": "",
+    "targetCount": 7,
+    "targetCount2": 4,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
+  },
+  {
+    "id": "l08-fixed-42",
+    "gameId": "pet_evolution_math",
+    "type": "pet_evolution_math",
+    "prompt": "1 - 1 = ?",
+    "correctAnswer": 1,
+    "options": [
+      1,
+      6,
       3,
       4
     ],
-    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "objectIcon2": "",
+    "targetCount": 1,
+    "targetCount2": 1,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
+  },
+  {
+    "id": "l08-fixed-43",
+    "gameId": "math_adventure_map",
+    "type": "math_adventure_map",
+    "prompt": "Có 8 bong bóng, 5 bong bóng bay đi. Còn mấy bong bóng?",
+    "correctAnswer": 13,
+    "options": [
+      8,
+      13,
+      14,
+      9
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/rabbit.png",
+    "objectIcon2": "",
+    "targetCount": 13,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
+  },
+  {
+    "id": "l08-fixed-44",
+    "gameId": "magic_shop_math",
+    "type": "magic_shop_math",
+    "prompt": "9 - 3 = ?",
+    "correctAnswer": 9,
+    "options": [
+      10,
+      12,
+      11,
+      9
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
+    "objectIcon2": "",
+    "targetCount": 9,
+    "targetCount2": 3,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
+  },
+  {
+    "id": "l08-fixed-45",
+    "gameId": "pet_evolution_math",
+    "type": "pet_evolution_math",
+    "prompt": "Có 8 bong bóng, 6 bong bóng bay đi. Còn mấy bong bóng?",
+    "correctAnswer": 14,
+    "options": [
+      16,
+      15,
+      14,
+      11
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "objectIcon2": "",
+    "targetCount": 14,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
+  },
+  {
+    "id": "l08-fixed-46",
+    "gameId": "math_adventure_map",
+    "type": "math_adventure_map",
+    "prompt": "10 - 5 = ?",
+    "correctAnswer": 10,
+    "options": [
+      7,
+      10,
+      11,
+      8
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "objectIcon2": "",
+    "targetCount": 10,
+    "targetCount2": 5,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
+  },
+  {
+    "id": "l08-fixed-47",
+    "gameId": "magic_shop_math",
+    "type": "magic_shop_math",
+    "prompt": "8 - 2 = ?",
+    "correctAnswer": 8,
+    "options": [
+      12,
+      6,
+      7,
+      8
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
     "objectIcon2": "",
     "targetCount": 8,
     "targetCount2": 2,
     "renderMode": "subtraction",
-    "displayPrompt": null
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
   },
   {
-    "id": "l08-q040",
-    "gameId": "level_8",
-    "type": "level_8",
-    "prompt": "Linh có 2 quả táo, cho bạn 1. Còn lại bao nhiêu?",
-    "correctAnswer": 1,
-    "options": [
-      2,
-      0,
-      1,
-      3
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 2,
-    "targetCount2": 1,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l08-q041",
-    "gameId": "level_8",
-    "type": "level_8",
-    "prompt": "Hộp có 6 quả táo, lấy ra 1. Còn lại bao nhiêu?",
-    "correctAnswer": 5,
-    "options": [
-      2,
-      3,
-      4,
-      5
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 6,
-    "targetCount2": 1,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l08-q042",
-    "gameId": "level_8",
-    "type": "level_8",
-    "prompt": "Có 6 viên kẹo, dùng hết 1. Còn lại mấy viên kẹo?",
-    "correctAnswer": 5,
-    "options": [
-      3,
-      2,
-      4,
-      5
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 6,
-    "targetCount2": 1,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l08-q043",
-    "gameId": "level_8",
-    "type": "level_8",
-    "prompt": "Có 5 quả táo, dùng hết 2. Còn lại mấy quả táo?",
-    "correctAnswer": 3,
-    "options": [
-      1,
-      0,
-      2,
-      3
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 5,
-    "targetCount2": 2,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l08-q044",
-    "gameId": "level_8",
-    "type": "level_8",
-    "prompt": "Hộp có 4 quả bóng, lấy ra 2. Còn lại bao nhiêu?",
-    "correctAnswer": 2,
-    "options": [
-      1,
-      2,
-      0,
-      3
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 4,
-    "targetCount2": 2,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l08-q045",
-    "gameId": "level_8",
-    "type": "level_8",
-    "prompt": "Hoa có 2 chiếc bánh, cho bạn 1. Còn lại bao nhiêu?",
-    "correctAnswer": 1,
-    "options": [
-      2,
-      3,
-      0,
-      1
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 2,
-    "targetCount2": 1,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l08-q046",
-    "gameId": "level_8",
-    "type": "level_8",
-    "prompt": "5 - ? = 2",
-    "correctAnswer": 3,
-    "options": [
-      1,
-      0,
-      3,
-      3
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 5,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l08-q047",
-    "gameId": "level_8",
-    "type": "level_8",
-    "prompt": "7 - ? = 2",
-    "correctAnswer": 5,
+    "id": "l08-fixed-48",
+    "gameId": "pet_evolution_math",
+    "type": "pet_evolution_math",
+    "prompt": "Có 5 bong bóng, 3 bong bóng bay đi. Còn mấy bong bóng?",
+    "correctAnswer": 8,
     "options": [
       3,
       5,
-      1,
-      0
+      4,
+      8
     ],
-    "objectIcon": "/icons/star_icon.png",
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "objectIcon2": "",
+    "targetCount": 8,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
+  },
+  {
+    "id": "l08-fixed-49",
+    "gameId": "math_adventure_map",
+    "type": "math_adventure_map",
+    "prompt": "Có 8 bong bóng, 6 bong bóng bay đi. Còn mấy bong bóng?",
+    "correctAnswer": 14,
+    "options": [
+      17,
+      10,
+      14,
+      19
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "objectIcon2": "",
+    "targetCount": 14,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
+  },
+  {
+    "id": "l08-fixed-50",
+    "gameId": "magic_shop_math",
+    "type": "magic_shop_math",
+    "prompt": "7 - 1 = ?",
+    "correctAnswer": 7,
+    "options": [
+      4,
+      10,
+      7,
+      11
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
     "objectIcon2": "",
     "targetCount": 7,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l08-q048",
-    "gameId": "level_8",
-    "type": "level_8",
-    "prompt": "4 - ? = 3",
-    "correctAnswer": 1,
-    "options": [
-      1,
-      0,
-      1,
-      2
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 4,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l08-q049",
-    "gameId": "level_8",
-    "type": "level_8",
-    "prompt": "10 - ? = 4",
-    "correctAnswer": 6,
-    "options": [
-      3,
-      6,
-      2,
-      1
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 10,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l08-q050",
-    "gameId": "level_8",
-    "type": "level_8",
-    "prompt": "5 - ? = 3",
-    "correctAnswer": 2,
-    "options": [
-      2,
-      2,
-      1,
-      0
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 5,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
+    "targetCount2": 1,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
   }
 ]

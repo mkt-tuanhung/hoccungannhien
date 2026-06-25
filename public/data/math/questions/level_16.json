@@ -1,937 +1,952 @@
 [
   {
-    "id": "l16-q001",
-    "gameId": "level_16",
-    "type": "level_16",
-    "prompt": "Số 78 gồm mấy chục?",
+    "id": "l16-fixed-1",
+    "gameId": "gen_fairy_forest_quest",
+    "type": "gen_fairy_forest_quest",
+    "prompt": "Số 7 gồm mấy chục và mấy đơn vị?",
     "correctAnswer": 7,
     "options": [
+      8,
+      7,
+      6,
+      2
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "objectIcon2": "",
+    "targetCount": 7,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
+  },
+  {
+    "id": "l16-fixed-2",
+    "gameId": "gen_toy_factory_automata",
+    "type": "gen_toy_factory_automata",
+    "prompt": "Ghép 3 chục và 4 đơn vị thành số nào?",
+    "correctAnswer": 5,
+    "options": [
+      3,
+      8,
+      5,
+      1
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
+  },
+  {
+    "id": "l16-fixed-3",
+    "gameId": "gen_dinosaur_valley_math",
+    "type": "gen_dinosaur_valley_math",
+    "prompt": "Ghép 4 chục và 2 đơn vị thành số nào?",
+    "correctAnswer": 5,
+    "options": [
+      5,
+      10,
+      2,
+      8
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/rabbit.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
+  },
+  {
+    "id": "l16-fixed-4",
+    "gameId": "gen_fairy_forest_quest",
+    "type": "gen_fairy_forest_quest",
+    "prompt": "Ghép 6 chục và 6 đơn vị thành số nào?",
+    "correctAnswer": 5,
+    "options": [
       4,
+      9,
+      5,
+      0
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
+  },
+  {
+    "id": "l16-fixed-5",
+    "gameId": "gen_toy_factory_automata",
+    "type": "gen_toy_factory_automata",
+    "prompt": "Số 10 gồm mấy chục và mấy đơn vị?",
+    "correctAnswer": 10,
+    "options": [
+      15,
+      14,
+      10,
+      5
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/rabbit.png",
+    "objectIcon2": "",
+    "targetCount": 10,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
+  },
+  {
+    "id": "l16-fixed-6",
+    "gameId": "gen_dinosaur_valley_math",
+    "type": "gen_dinosaur_valley_math",
+    "prompt": "Số 3 gồm mấy chục và mấy đơn vị?",
+    "correctAnswer": 3,
+    "options": [
+      7,
+      4,
+      3,
+      8
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/rabbit.png",
+    "objectIcon2": "",
+    "targetCount": 3,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
+  },
+  {
+    "id": "l16-fixed-7",
+    "gameId": "gen_fairy_forest_quest",
+    "type": "gen_fairy_forest_quest",
+    "prompt": "Ghép 4 chục và 5 đơn vị thành số nào?",
+    "correctAnswer": 5,
+    "options": [
+      9,
+      5,
+      4,
+      8
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
+  },
+  {
+    "id": "l16-fixed-8",
+    "gameId": "gen_toy_factory_automata",
+    "type": "gen_toy_factory_automata",
+    "prompt": "Ghép 9 chục và 5 đơn vị thành số nào?",
+    "correctAnswer": 5,
+    "options": [
+      5,
+      4,
+      9,
+      7
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/rabbit.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
+  },
+  {
+    "id": "l16-fixed-9",
+    "gameId": "gen_dinosaur_valley_math",
+    "type": "gen_dinosaur_valley_math",
+    "prompt": "Số 5 gồm mấy chục và mấy đơn vị?",
+    "correctAnswer": 5,
+    "options": [
+      0,
+      6,
+      5,
+      10
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
+  },
+  {
+    "id": "l16-fixed-10",
+    "gameId": "gen_fairy_forest_quest",
+    "type": "gen_fairy_forest_quest",
+    "prompt": "Số 7 gồm mấy chục và mấy đơn vị?",
+    "correctAnswer": 7,
+    "options": [
+      6,
+      12,
+      7,
+      2
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/rabbit.png",
+    "objectIcon2": "",
+    "targetCount": 7,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
+  },
+  {
+    "id": "l16-fixed-11",
+    "gameId": "gen_toy_factory_automata",
+    "type": "gen_toy_factory_automata",
+    "prompt": "Số 7 gồm mấy chục và mấy đơn vị?",
+    "correctAnswer": 7,
+    "options": [
+      10,
+      7,
+      5,
+      12
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/rabbit.png",
+    "objectIcon2": "",
+    "targetCount": 7,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
+  },
+  {
+    "id": "l16-fixed-12",
+    "gameId": "gen_dinosaur_valley_math",
+    "type": "gen_dinosaur_valley_math",
+    "prompt": "Ghép 6 chục và 7 đơn vị thành số nào?",
+    "correctAnswer": 5,
+    "options": [
+      2,
+      10,
+      5,
+      4
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
+  },
+  {
+    "id": "l16-fixed-13",
+    "gameId": "gen_fairy_forest_quest",
+    "type": "gen_fairy_forest_quest",
+    "prompt": "Ghép 1 chục và 9 đơn vị thành số nào?",
+    "correctAnswer": 5,
+    "options": [
+      5,
+      3,
+      8,
+      4
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
+  },
+  {
+    "id": "l16-fixed-14",
+    "gameId": "gen_toy_factory_automata",
+    "type": "gen_toy_factory_automata",
+    "prompt": "Số 10 gồm mấy chục và mấy đơn vị?",
+    "correctAnswer": 10,
+    "options": [
+      10,
+      5,
+      6,
+      7
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "objectIcon2": "",
+    "targetCount": 10,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
+  },
+  {
+    "id": "l16-fixed-15",
+    "gameId": "gen_dinosaur_valley_math",
+    "type": "gen_dinosaur_valley_math",
+    "prompt": "Số 8 gồm mấy chục và mấy đơn vị?",
+    "correctAnswer": 8,
+    "options": [
+      8,
+      9,
+      7,
+      11
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "objectIcon2": "",
+    "targetCount": 8,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
+  },
+  {
+    "id": "l16-fixed-16",
+    "gameId": "gen_fairy_forest_quest",
+    "type": "gen_fairy_forest_quest",
+    "prompt": "Ghép 7 chục và 4 đơn vị thành số nào?",
+    "correctAnswer": 5,
+    "options": [
+      0,
+      9,
+      5,
+      3
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
+  },
+  {
+    "id": "l16-fixed-17",
+    "gameId": "gen_toy_factory_automata",
+    "type": "gen_toy_factory_automata",
+    "prompt": "Ghép 10 chục và 6 đơn vị thành số nào?",
+    "correctAnswer": 5,
+    "options": [
+      4,
+      0,
+      7,
+      5
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
+  },
+  {
+    "id": "l16-fixed-18",
+    "gameId": "gen_dinosaur_valley_math",
+    "type": "gen_dinosaur_valley_math",
+    "prompt": "Số 7 gồm mấy chục và mấy đơn vị?",
+    "correctAnswer": 7,
+    "options": [
+      7,
+      4,
+      6,
+      5
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
+    "objectIcon2": "",
+    "targetCount": 7,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
+  },
+  {
+    "id": "l16-fixed-19",
+    "gameId": "gen_fairy_forest_quest",
+    "type": "gen_fairy_forest_quest",
+    "prompt": "Số 7 gồm mấy chục và mấy đơn vị?",
+    "correctAnswer": 7,
+    "options": [
+      11,
+      3,
+      7,
+      12
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
+    "objectIcon2": "",
+    "targetCount": 7,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
+  },
+  {
+    "id": "l16-fixed-20",
+    "gameId": "gen_toy_factory_automata",
+    "type": "gen_toy_factory_automata",
+    "prompt": "Số 8 gồm mấy chục và mấy đơn vị?",
+    "correctAnswer": 8,
+    "options": [
+      5,
+      8,
+      10,
+      7
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/rabbit.png",
+    "objectIcon2": "",
+    "targetCount": 8,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
+  },
+  {
+    "id": "l16-fixed-21",
+    "gameId": "gen_dinosaur_valley_math",
+    "type": "gen_dinosaur_valley_math",
+    "prompt": "Số 10 gồm mấy chục và mấy đơn vị?",
+    "correctAnswer": 10,
+    "options": [
+      7,
+      10,
+      13,
+      8
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/rabbit.png",
+    "objectIcon2": "",
+    "targetCount": 10,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
+  },
+  {
+    "id": "l16-fixed-22",
+    "gameId": "gen_fairy_forest_quest",
+    "type": "gen_fairy_forest_quest",
+    "prompt": "Ghép 2 chục và 4 đơn vị thành số nào?",
+    "correctAnswer": 5,
+    "options": [
+      1,
+      7,
+      4,
+      5
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
+  },
+  {
+    "id": "l16-fixed-23",
+    "gameId": "gen_toy_factory_automata",
+    "type": "gen_toy_factory_automata",
+    "prompt": "Ghép 7 chục và 4 đơn vị thành số nào?",
+    "correctAnswer": 5,
+    "options": [
+      5,
+      9,
+      4,
+      7
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
+  },
+  {
+    "id": "l16-fixed-24",
+    "gameId": "gen_dinosaur_valley_math",
+    "type": "gen_dinosaur_valley_math",
+    "prompt": "Số 6 gồm mấy chục và mấy đơn vị?",
+    "correctAnswer": 6,
+    "options": [
+      1,
+      6,
+      9,
+      8
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/rabbit.png",
+    "objectIcon2": "",
+    "targetCount": 6,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
+  },
+  {
+    "id": "l16-fixed-25",
+    "gameId": "gen_fairy_forest_quest",
+    "type": "gen_fairy_forest_quest",
+    "prompt": "Ghép 10 chục và 10 đơn vị thành số nào?",
+    "correctAnswer": 5,
+    "options": [
+      9,
+      5,
+      1,
+      0
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
+  },
+  {
+    "id": "l16-fixed-26",
+    "gameId": "gen_toy_factory_automata",
+    "type": "gen_toy_factory_automata",
+    "prompt": "Số 10 gồm mấy chục và mấy đơn vị?",
+    "correctAnswer": 10,
+    "options": [
+      15,
+      12,
+      10,
+      13
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
+    "objectIcon2": "",
+    "targetCount": 10,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
+  },
+  {
+    "id": "l16-fixed-27",
+    "gameId": "gen_dinosaur_valley_math",
+    "type": "gen_dinosaur_valley_math",
+    "prompt": "Ghép 10 chục và 1 đơn vị thành số nào?",
+    "correctAnswer": 5,
+    "options": [
+      6,
+      4,
+      7,
+      5
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
+  },
+  {
+    "id": "l16-fixed-28",
+    "gameId": "gen_fairy_forest_quest",
+    "type": "gen_fairy_forest_quest",
+    "prompt": "Ghép 8 chục và 1 đơn vị thành số nào?",
+    "correctAnswer": 5,
+    "options": [
+      5,
+      4,
+      3,
+      8
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
+  },
+  {
+    "id": "l16-fixed-29",
+    "gameId": "gen_toy_factory_automata",
+    "type": "gen_toy_factory_automata",
+    "prompt": "Ghép 7 chục và 3 đơn vị thành số nào?",
+    "correctAnswer": 5,
+    "options": [
+      9,
+      5,
+      0,
+      6
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
+  },
+  {
+    "id": "l16-fixed-30",
+    "gameId": "gen_dinosaur_valley_math",
+    "type": "gen_dinosaur_valley_math",
+    "prompt": "Số 6 gồm mấy chục và mấy đơn vị?",
+    "correctAnswer": 6,
+    "options": [
+      5,
+      7,
+      6,
+      2
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "objectIcon2": "",
+    "targetCount": 6,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
+  },
+  {
+    "id": "l16-fixed-31",
+    "gameId": "gen_fairy_forest_quest",
+    "type": "gen_fairy_forest_quest",
+    "prompt": "Số 8 gồm mấy chục và mấy đơn vị?",
+    "correctAnswer": 8,
+    "options": [
+      5,
+      11,
+      7,
+      8
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "objectIcon2": "",
+    "targetCount": 8,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
+  },
+  {
+    "id": "l16-fixed-32",
+    "gameId": "gen_toy_factory_automata",
+    "type": "gen_toy_factory_automata",
+    "prompt": "Số 9 gồm mấy chục và mấy đơn vị?",
+    "correctAnswer": 9,
+    "options": [
+      13,
+      6,
+      9,
+      10
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/rabbit.png",
+    "objectIcon2": "",
+    "targetCount": 9,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
+  },
+  {
+    "id": "l16-fixed-33",
+    "gameId": "gen_dinosaur_valley_math",
+    "type": "gen_dinosaur_valley_math",
+    "prompt": "Ghép 2 chục và 3 đơn vị thành số nào?",
+    "correctAnswer": 5,
+    "options": [
+      5,
+      7,
+      10,
+      8
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
+  },
+  {
+    "id": "l16-fixed-34",
+    "gameId": "gen_fairy_forest_quest",
+    "type": "gen_fairy_forest_quest",
+    "prompt": "Số 2 gồm mấy chục và mấy đơn vị?",
+    "correctAnswer": 2,
+    "options": [
+      7,
+      1,
+      4,
+      2
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
+    "objectIcon2": "",
+    "targetCount": 2,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
+  },
+  {
+    "id": "l16-fixed-35",
+    "gameId": "gen_toy_factory_automata",
+    "type": "gen_toy_factory_automata",
+    "prompt": "Ghép 7 chục và 9 đơn vị thành số nào?",
+    "correctAnswer": 5,
+    "options": [
+      0,
+      6,
+      9,
+      5
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
+  },
+  {
+    "id": "l16-fixed-36",
+    "gameId": "gen_dinosaur_valley_math",
+    "type": "gen_dinosaur_valley_math",
+    "prompt": "Ghép 10 chục và 4 đơn vị thành số nào?",
+    "correctAnswer": 5,
+    "options": [
+      1,
       6,
       7,
       5
     ],
-    "objectIcon": "/icons/star_icon.png",
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
     "objectIcon2": "",
-    "targetCount": 0,
+    "targetCount": 5,
     "targetCount2": 0,
     "renderMode": "single",
-    "displayPrompt": null
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
   },
   {
-    "id": "l16-q002",
-    "gameId": "level_16",
-    "type": "level_16",
-    "prompt": "Số 41 có bao nhiêu chục?",
-    "correctAnswer": 4,
-    "options": [
-      1,
-      4,
-      3,
-      2
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l16-q003",
-    "gameId": "level_16",
-    "type": "level_16",
-    "prompt": "Số 36 có bao nhiêu chục?",
-    "correctAnswer": 3,
-    "options": [
-      2,
-      4,
-      3,
-      1
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l16-q004",
-    "gameId": "level_16",
-    "type": "level_16",
-    "prompt": "41 = ? chục + 1 đơn vị",
-    "correctAnswer": 4,
-    "options": [
-      3,
-      2,
-      1,
-      4
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l16-q005",
-    "gameId": "level_16",
-    "type": "level_16",
-    "prompt": "Số 83 gồm mấy chục?",
-    "correctAnswer": 8,
-    "options": [
-      8,
-      6,
-      5,
-      7
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l16-q006",
-    "gameId": "level_16",
-    "type": "level_16",
-    "prompt": "Số 44 gồm mấy chục?",
-    "correctAnswer": 4,
-    "options": [
-      4,
-      1,
-      2,
-      3
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l16-q007",
-    "gameId": "level_16",
-    "type": "level_16",
-    "prompt": "98 = ? chục + 8 đơn vị",
-    "correctAnswer": 9,
-    "options": [
-      9,
-      7,
-      6,
-      8
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l16-q008",
-    "gameId": "level_16",
-    "type": "level_16",
-    "prompt": "Số 82 gồm mấy chục?",
-    "correctAnswer": 8,
+    "id": "l16-fixed-37",
+    "gameId": "gen_fairy_forest_quest",
+    "type": "gen_fairy_forest_quest",
+    "prompt": "Ghép 8 chục và 7 đơn vị thành số nào?",
+    "correctAnswer": 5,
     "options": [
       5,
       8,
-      6,
-      7
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l16-q009",
-    "gameId": "level_16",
-    "type": "level_16",
-    "prompt": "Số 20 có bao nhiêu chục?",
-    "correctAnswer": 2,
-    "options": [
       2,
-      3,
-      1,
-      4
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l16-q010",
-    "gameId": "level_16",
-    "type": "level_16",
-    "prompt": "65 = ? chục + 5 đơn vị",
-    "correctAnswer": 6,
-    "options": [
-      6,
-      5,
-      3,
-      4
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l16-q011",
-    "gameId": "level_16",
-    "type": "level_16",
-    "prompt": "77 = ? chục + 7 đơn vị",
-    "correctAnswer": 7,
-    "options": [
-      7,
-      5,
-      4,
       6
     ],
-    "objectIcon": "/icons/star_icon.png",
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
     "objectIcon2": "",
-    "targetCount": 0,
+    "targetCount": 5,
     "targetCount2": 0,
     "renderMode": "single",
-    "displayPrompt": null
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
   },
   {
-    "id": "l16-q012",
-    "gameId": "level_16",
-    "type": "level_16",
-    "prompt": "Số 32 gồm mấy chục?",
-    "correctAnswer": 3,
-    "options": [
-      4,
-      1,
-      3,
-      2
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l16-q013",
-    "gameId": "level_16",
-    "type": "level_16",
-    "prompt": "32 = ? chục + 2 đơn vị",
-    "correctAnswer": 3,
-    "options": [
-      1,
-      4,
-      3,
-      2
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l16-q014",
-    "gameId": "level_16",
-    "type": "level_16",
-    "prompt": "Số 31 có bao nhiêu chục?",
-    "correctAnswer": 3,
-    "options": [
-      3,
-      4,
-      1,
-      2
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l16-q015",
-    "gameId": "level_16",
-    "type": "level_16",
-    "prompt": "41 = ? chục + 1 đơn vị",
-    "correctAnswer": 4,
-    "options": [
-      2,
-      1,
-      4,
-      3
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l16-q016",
-    "gameId": "level_16",
-    "type": "level_16",
-    "prompt": "Số 38 gồm mấy chục?",
-    "correctAnswer": 3,
-    "options": [
-      2,
-      1,
-      4,
-      3
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l16-q017",
-    "gameId": "level_16",
-    "type": "level_16",
-    "prompt": "Số 38 có bao nhiêu chục?",
-    "correctAnswer": 3,
-    "options": [
-      1,
-      3,
-      2,
-      4
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l16-q018",
-    "gameId": "level_16",
-    "type": "level_16",
-    "prompt": "Số 81 gồm mấy chục?",
-    "correctAnswer": 8,
-    "options": [
-      6,
-      5,
-      8,
-      7
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l16-q019",
-    "gameId": "level_16",
-    "type": "level_16",
-    "prompt": "54 = ? chục + 4 đơn vị",
+    "id": "l16-fixed-38",
+    "gameId": "gen_toy_factory_automata",
+    "type": "gen_toy_factory_automata",
+    "prompt": "Ghép 9 chục và 9 đơn vị thành số nào?",
     "correctAnswer": 5,
     "options": [
-      2,
-      3,
-      5,
-      4
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l16-q020",
-    "gameId": "level_16",
-    "type": "level_16",
-    "prompt": "Số 91 có bao nhiêu chục?",
-    "correctAnswer": 9,
-    "options": [
-      6,
-      8,
-      7,
-      9
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l16-q021",
-    "gameId": "level_16",
-    "type": "level_16",
-    "prompt": "37 = ? chục + 7 đơn vị",
-    "correctAnswer": 3,
-    "options": [
-      3,
-      2,
-      1,
-      4
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l16-q022",
-    "gameId": "level_16",
-    "type": "level_16",
-    "prompt": "Số 27 gồm mấy chục?",
-    "correctAnswer": 2,
-    "options": [
+      10,
+      0,
       4,
-      1,
-      2,
-      3
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l16-q023",
-    "gameId": "level_16",
-    "type": "level_16",
-    "prompt": "58 = ? chục + 8 đơn vị",
-    "correctAnswer": 5,
-    "options": [
-      2,
-      4,
-      5,
-      3
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l16-q024",
-    "gameId": "level_16",
-    "type": "level_16",
-    "prompt": "Số 91 gồm mấy chục?",
-    "correctAnswer": 9,
-    "options": [
-      9,
-      6,
-      7,
-      8
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l16-q025",
-    "gameId": "level_16",
-    "type": "level_16",
-    "prompt": "Số 29 có bao nhiêu chục?",
-    "correctAnswer": 2,
-    "options": [
-      3,
-      2,
-      1,
-      4
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l16-q026",
-    "gameId": "level_16",
-    "type": "level_16",
-    "prompt": "Số 35 có bao nhiêu chục?",
-    "correctAnswer": 3,
-    "options": [
-      4,
-      2,
-      1,
-      3
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l16-q027",
-    "gameId": "level_16",
-    "type": "level_16",
-    "prompt": "78 = ? chục + 8 đơn vị",
-    "correctAnswer": 7,
-    "options": [
-      6,
-      4,
-      7,
       5
     ],
-    "objectIcon": "/icons/star_icon.png",
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
     "objectIcon2": "",
-    "targetCount": 0,
+    "targetCount": 5,
     "targetCount2": 0,
     "renderMode": "single",
-    "displayPrompt": null
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
   },
   {
-    "id": "l16-q028",
-    "gameId": "level_16",
-    "type": "level_16",
-    "prompt": "82 = ? chục + 2 đơn vị",
-    "correctAnswer": 8,
+    "id": "l16-fixed-39",
+    "gameId": "gen_dinosaur_valley_math",
+    "type": "gen_dinosaur_valley_math",
+    "prompt": "Số 5 gồm mấy chục và mấy đơn vị?",
+    "correctAnswer": 5,
     "options": [
-      5,
-      7,
-      8,
-      6
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l16-q029",
-    "gameId": "level_16",
-    "type": "level_16",
-    "prompt": "Số 97 gồm mấy chục?",
-    "correctAnswer": 9,
-    "options": [
-      8,
-      6,
-      7,
-      9
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l16-q030",
-    "gameId": "level_16",
-    "type": "level_16",
-    "prompt": "Số 15 có bao nhiêu chục?",
-    "correctAnswer": 1,
-    "options": [
-      3,
-      4,
-      1,
-      2
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l16-q031",
-    "gameId": "level_16",
-    "type": "level_16",
-    "prompt": "Số 66 có bao nhiêu chục?",
-    "correctAnswer": 6,
-    "options": [
+      10,
       4,
       5,
-      6,
-      3
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l16-q032",
-    "gameId": "level_16",
-    "type": "level_16",
-    "prompt": "19 = ? chục + 9 đơn vị",
-    "correctAnswer": 1,
-    "options": [
-      2,
-      3,
-      4,
       1
     ],
-    "objectIcon": "/icons/star_icon.png",
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
     "objectIcon2": "",
-    "targetCount": 0,
+    "targetCount": 5,
     "targetCount2": 0,
     "renderMode": "single",
-    "displayPrompt": null
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
   },
   {
-    "id": "l16-q033",
-    "gameId": "level_16",
-    "type": "level_16",
-    "prompt": "58 = ? chục + 8 đơn vị",
+    "id": "l16-fixed-40",
+    "gameId": "gen_fairy_forest_quest",
+    "type": "gen_fairy_forest_quest",
+    "prompt": "Ghép 8 chục và 6 đơn vị thành số nào?",
+    "correctAnswer": 5,
+    "options": [
+      7,
+      5,
+      8,
+      10
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
+  },
+  {
+    "id": "l16-fixed-41",
+    "gameId": "gen_toy_factory_automata",
+    "type": "gen_toy_factory_automata",
+    "prompt": "Số 1 gồm mấy chục và mấy đơn vị?",
+    "correctAnswer": 1,
+    "options": [
+      6,
+      5,
+      1,
+      7
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
+    "objectIcon2": "",
+    "targetCount": 1,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
+  },
+  {
+    "id": "l16-fixed-42",
+    "gameId": "gen_dinosaur_valley_math",
+    "type": "gen_dinosaur_valley_math",
+    "prompt": "Số 5 gồm mấy chục và mấy đơn vị?",
+    "correctAnswer": 5,
+    "options": [
+      6,
+      5,
+      10,
+      8
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
+  },
+  {
+    "id": "l16-fixed-43",
+    "gameId": "gen_fairy_forest_quest",
+    "type": "gen_fairy_forest_quest",
+    "prompt": "Số 7 gồm mấy chục và mấy đơn vị?",
+    "correctAnswer": 7,
+    "options": [
+      5,
+      7,
+      11,
+      4
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "objectIcon2": "",
+    "targetCount": 7,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
+  },
+  {
+    "id": "l16-fixed-44",
+    "gameId": "gen_toy_factory_automata",
+    "type": "gen_toy_factory_automata",
+    "prompt": "Ghép 8 chục và 8 đơn vị thành số nào?",
     "correctAnswer": 5,
     "options": [
       5,
-      3,
-      2,
-      4
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l16-q034",
-    "gameId": "level_16",
-    "type": "level_16",
-    "prompt": "42 = ? chục + 2 đơn vị",
-    "correctAnswer": 4,
-    "options": [
-      4,
-      3,
       1,
+      8,
       2
     ],
-    "objectIcon": "/icons/star_icon.png",
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
     "objectIcon2": "",
-    "targetCount": 0,
+    "targetCount": 5,
     "targetCount2": 0,
     "renderMode": "single",
-    "displayPrompt": null
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
   },
   {
-    "id": "l16-q035",
-    "gameId": "level_16",
-    "type": "level_16",
-    "prompt": "18 = ? chục + 8 đơn vị",
+    "id": "l16-fixed-45",
+    "gameId": "gen_dinosaur_valley_math",
+    "type": "gen_dinosaur_valley_math",
+    "prompt": "Số 10 gồm mấy chục và mấy đơn vị?",
+    "correctAnswer": 10,
+    "options": [
+      15,
+      11,
+      9,
+      10
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/rabbit.png",
+    "objectIcon2": "",
+    "targetCount": 10,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
+  },
+  {
+    "id": "l16-fixed-46",
+    "gameId": "gen_fairy_forest_quest",
+    "type": "gen_fairy_forest_quest",
+    "prompt": "Ghép 9 chục và 6 đơn vị thành số nào?",
+    "correctAnswer": 5,
+    "options": [
+      7,
+      5,
+      8,
+      9
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
+  },
+  {
+    "id": "l16-fixed-47",
+    "gameId": "gen_toy_factory_automata",
+    "type": "gen_toy_factory_automata",
+    "prompt": "Số 1 gồm mấy chục và mấy đơn vị?",
     "correctAnswer": 1,
     "options": [
+      1,
+      5,
       4,
-      3,
+      6
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "objectIcon2": "",
+    "targetCount": 1,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
+  },
+  {
+    "id": "l16-fixed-48",
+    "gameId": "gen_dinosaur_valley_math",
+    "type": "gen_dinosaur_valley_math",
+    "prompt": "Ghép 5 chục và 8 đơn vị thành số nào?",
+    "correctAnswer": 5,
+    "options": [
+      8,
       2,
-      1
+      3,
+      5
     ],
-    "objectIcon": "/icons/star_icon.png",
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
     "objectIcon2": "",
-    "targetCount": 0,
+    "targetCount": 5,
     "targetCount2": 0,
     "renderMode": "single",
-    "displayPrompt": null
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
   },
   {
-    "id": "l16-q036",
-    "gameId": "level_16",
-    "type": "level_16",
-    "prompt": "53 và 72, điền dấu so sánh:",
-    "correctAnswer": "<",
+    "id": "l16-fixed-49",
+    "gameId": "gen_fairy_forest_quest",
+    "type": "gen_fairy_forest_quest",
+    "prompt": "Ghép 7 chục và 1 đơn vị thành số nào?",
+    "correctAnswer": 5,
     "options": [
-      ">",
-      "<",
-      "="
+      5,
+      7,
+      10,
+      8
     ],
-    "objectIcon": "",
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
     "objectIcon2": "",
-    "targetCount": 0,
+    "targetCount": 5,
     "targetCount2": 0,
     "renderMode": "single",
-    "displayPrompt": null
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
   },
   {
-    "id": "l16-q037",
-    "gameId": "level_16",
-    "type": "level_16",
-    "prompt": "Điền dấu đúng: 89 __ 89",
-    "correctAnswer": "=",
+    "id": "l16-fixed-50",
+    "gameId": "gen_toy_factory_automata",
+    "type": "gen_toy_factory_automata",
+    "prompt": "Số 2 gồm mấy chục và mấy đơn vị?",
+    "correctAnswer": 2,
     "options": [
-      ">",
-      "<",
-      "="
+      0,
+      2,
+      7,
+      4
     ],
-    "objectIcon": "",
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
     "objectIcon2": "",
-    "targetCount": 0,
+    "targetCount": 2,
     "targetCount2": 0,
     "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l16-q038",
-    "gameId": "level_16",
-    "type": "level_16",
-    "prompt": "So sánh: 10 ☐ 21",
-    "correctAnswer": "<",
-    "options": [
-      ">",
-      "<",
-      "="
-    ],
-    "objectIcon": "",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l16-q039",
-    "gameId": "level_16",
-    "type": "level_16",
-    "prompt": "Điền dấu đúng: 21 __ 33",
-    "correctAnswer": "<",
-    "options": [
-      ">",
-      "<",
-      "="
-    ],
-    "objectIcon": "",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l16-q040",
-    "gameId": "level_16",
-    "type": "level_16",
-    "prompt": "Điền dấu đúng: 15 __ 51",
-    "correctAnswer": "<",
-    "options": [
-      ">",
-      "<",
-      "="
-    ],
-    "objectIcon": "",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l16-q041",
-    "gameId": "level_16",
-    "type": "level_16",
-    "prompt": "95 và 21, điền dấu so sánh:",
-    "correctAnswer": ">",
-    "options": [
-      ">",
-      "<",
-      "="
-    ],
-    "objectIcon": "",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l16-q042",
-    "gameId": "level_16",
-    "type": "level_16",
-    "prompt": "73 ___ 25. Chọn dấu thích hợp:",
-    "correctAnswer": ">",
-    "options": [
-      ">",
-      "<",
-      "="
-    ],
-    "objectIcon": "",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l16-q043",
-    "gameId": "level_16",
-    "type": "level_16",
-    "prompt": "Điền dấu đúng: 26 __ 95",
-    "correctAnswer": "<",
-    "options": [
-      ">",
-      "<",
-      "="
-    ],
-    "objectIcon": "",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l16-q044",
-    "gameId": "level_16",
-    "type": "level_16",
-    "prompt": "59 và 57, điền dấu so sánh:",
-    "correctAnswer": ">",
-    "options": [
-      ">",
-      "<",
-      "="
-    ],
-    "objectIcon": "",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l16-q045",
-    "gameId": "level_16",
-    "type": "level_16",
-    "prompt": "So sánh: 92 ☐ 77",
-    "correctAnswer": ">",
-    "options": [
-      ">",
-      "<",
-      "="
-    ],
-    "objectIcon": "",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l16-q046",
-    "gameId": "level_16",
-    "type": "level_16",
-    "prompt": "Điền dấu đúng: 83 __ 34",
-    "correctAnswer": ">",
-    "options": [
-      ">",
-      "<",
-      "="
-    ],
-    "objectIcon": "",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l16-q047",
-    "gameId": "level_16",
-    "type": "level_16",
-    "prompt": "64 và 73, điền dấu so sánh:",
-    "correctAnswer": "<",
-    "options": [
-      ">",
-      "<",
-      "="
-    ],
-    "objectIcon": "",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l16-q048",
-    "gameId": "level_16",
-    "type": "level_16",
-    "prompt": "59 ___ 20. Chọn dấu thích hợp:",
-    "correctAnswer": ">",
-    "options": [
-      ">",
-      "<",
-      "="
-    ],
-    "objectIcon": "",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l16-q049",
-    "gameId": "level_16",
-    "type": "level_16",
-    "prompt": "Điền dấu đúng: 56 __ 54",
-    "correctAnswer": ">",
-    "options": [
-      ">",
-      "<",
-      "="
-    ],
-    "objectIcon": "",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l16-q050",
-    "gameId": "level_16",
-    "type": "level_16",
-    "prompt": "Điền dấu đúng: 86 __ 68",
-    "correctAnswer": ">",
-    "options": [
-      ">",
-      "<",
-      "="
-    ],
-    "objectIcon": "",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
   }
 ]

@@ -1,952 +1,952 @@
 [
   {
-    "id": "l29-q001",
-    "gameId": "level_29",
-    "type": "level_29",
-    "prompt": "Mua 1 viên kẹo giá 2 nghìn và 1 bông hoa giá 4 nghìn. Tất cả bao nhiêu nghìn?",
-    "correctAnswer": 6,
-    "options": [
-      3,
-      4,
-      6,
-      5
-    ],
-    "objectIcon": "/icons/coin_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l29-q002",
-    "gameId": "level_29",
-    "type": "level_29",
-    "prompt": "Mua 1 chiếc bánh giá 9 nghìn và 1 bông hoa giá 5 nghìn. Tất cả bao nhiêu nghìn?",
-    "correctAnswer": 14,
-    "options": [
-      13,
-      11,
-      14,
-      12
-    ],
-    "objectIcon": "/icons/coin_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l29-q003",
-    "gameId": "level_29",
-    "type": "level_29",
-    "prompt": "Mua 1 bông hoa giá 2 nghìn và 1 chiếc bánh giá 8 nghìn. Tất cả bao nhiêu nghìn?",
-    "correctAnswer": 10,
-    "options": [
-      8,
-      7,
-      10,
-      9
-    ],
-    "objectIcon": "/icons/coin_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l29-q004",
-    "gameId": "level_29",
-    "type": "level_29",
-    "prompt": "Mua 1 chiếc bánh giá 6 nghìn và 1 bông hoa giá 6 nghìn. Tất cả bao nhiêu nghìn?",
-    "correctAnswer": 12,
-    "options": [
-      11,
-      9,
-      10,
-      12
-    ],
-    "objectIcon": "/icons/coin_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l29-q005",
-    "gameId": "level_29",
-    "type": "level_29",
-    "prompt": "Mua 1 chiếc bánh giá 3 nghìn và 1 viên kẹo giá 3 nghìn. Tất cả bao nhiêu nghìn?",
-    "correctAnswer": 6,
-    "options": [
-      4,
-      3,
-      6,
-      5
-    ],
-    "objectIcon": "/icons/coin_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l29-q006",
-    "gameId": "level_29",
-    "type": "level_29",
-    "prompt": "Mua 1 chiếc bánh giá 3 nghìn và 1 viên kẹo giá 2 nghìn. Tất cả bao nhiêu nghìn?",
-    "correctAnswer": 5,
-    "options": [
-      5,
-      2,
-      4,
-      3
-    ],
-    "objectIcon": "/icons/coin_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l29-q007",
-    "gameId": "level_29",
-    "type": "level_29",
-    "prompt": "Mua 1 bông hoa giá 2 nghìn và 1 chiếc bánh giá 4 nghìn. Tất cả bao nhiêu nghìn?",
-    "correctAnswer": 6,
-    "options": [
-      3,
-      6,
-      5,
-      4
-    ],
-    "objectIcon": "/icons/coin_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l29-q008",
-    "gameId": "level_29",
-    "type": "level_29",
-    "prompt": "Mua 1 bông hoa giá 3 nghìn và 1 chiếc bánh giá 3 nghìn. Tất cả bao nhiêu nghìn?",
-    "correctAnswer": 6,
-    "options": [
-      6,
-      4,
-      5,
-      3
-    ],
-    "objectIcon": "/icons/coin_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l29-q009",
-    "gameId": "level_29",
-    "type": "level_29",
-    "prompt": "Mua 1 chiếc bánh giá 8 nghìn và 1 bông hoa giá 1 nghìn. Tất cả bao nhiêu nghìn?",
-    "correctAnswer": 9,
-    "options": [
-      8,
-      6,
-      7,
-      9
-    ],
-    "objectIcon": "/icons/coin_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l29-q010",
-    "gameId": "level_29",
-    "type": "level_29",
-    "prompt": "Mua 1 quả táo giá 8 nghìn và 1 bông hoa giá 5 nghìn. Tất cả bao nhiêu nghìn?",
-    "correctAnswer": 13,
-    "options": [
-      10,
-      11,
-      13,
-      12
-    ],
-    "objectIcon": "/icons/coin_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l29-q011",
-    "gameId": "level_29",
-    "type": "level_29",
-    "prompt": "Mua 1 chiếc bánh giá 6 nghìn và 1 viên kẹo giá 3 nghìn. Tất cả bao nhiêu nghìn?",
-    "correctAnswer": 9,
-    "options": [
-      7,
-      9,
-      8,
-      6
-    ],
-    "objectIcon": "/icons/coin_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l29-q012",
-    "gameId": "level_29",
-    "type": "level_29",
-    "prompt": "Mua 1 viên kẹo giá 1 nghìn và 1 chiếc bánh giá 7 nghìn. Tất cả bao nhiêu nghìn?",
-    "correctAnswer": 8,
-    "options": [
-      6,
-      5,
-      7,
-      8
-    ],
-    "objectIcon": "/icons/coin_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l29-q013",
-    "gameId": "level_29",
-    "type": "level_29",
-    "prompt": "Mua 1 bông hoa giá 3 nghìn và 1 viên kẹo giá 1 nghìn. Tất cả bao nhiêu nghìn?",
-    "correctAnswer": 4,
-    "options": [
-      4,
-      3,
-      1,
-      2
-    ],
-    "objectIcon": "/icons/coin_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l29-q014",
-    "gameId": "level_29",
-    "type": "level_29",
-    "prompt": "Mua 1 quả táo giá 7 nghìn và 1 chiếc bánh giá 9 nghìn. Tất cả bao nhiêu nghìn?",
-    "correctAnswer": 16,
-    "options": [
-      14,
-      13,
-      15,
-      16
-    ],
-    "objectIcon": "/icons/coin_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l29-q015",
-    "gameId": "level_29",
-    "type": "level_29",
-    "prompt": "Mua 1 chiếc bánh giá 7 nghìn và 1 viên kẹo giá 5 nghìn. Tất cả bao nhiêu nghìn?",
-    "correctAnswer": 12,
-    "options": [
-      11,
-      12,
-      10,
-      9
-    ],
-    "objectIcon": "/icons/coin_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l29-q016",
-    "gameId": "level_29",
-    "type": "level_29",
-    "prompt": "Mua 1 bông hoa giá 5 nghìn và 1 chiếc bánh giá 7 nghìn. Tất cả bao nhiêu nghìn?",
+    "id": "l29-fixed-1",
+    "gameId": "gen_dinosaur_valley_math",
+    "type": "gen_dinosaur_valley_math",
+    "prompt": "Bé có 8 nghìn đồng, mua đồ hết 4 nghìn đồng. Còn bao nhiêu nghìn đồng?",
     "correctAnswer": 12,
     "options": [
       9,
       12,
-      11,
-      10
-    ],
-    "objectIcon": "/icons/coin_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l29-q017",
-    "gameId": "level_29",
-    "type": "level_29",
-    "prompt": "Mua 1 bông hoa giá 3 nghìn và 1 viên kẹo giá 2 nghìn. Tất cả bao nhiêu nghìn?",
-    "correctAnswer": 5,
-    "options": [
-      3,
-      2,
-      4,
-      5
-    ],
-    "objectIcon": "/icons/coin_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l29-q018",
-    "gameId": "level_29",
-    "type": "level_29",
-    "prompt": "Mua 1 bông hoa giá 3 nghìn và 1 quả táo giá 3 nghìn. Tất cả bao nhiêu nghìn?",
-    "correctAnswer": 6,
-    "options": [
-      5,
-      3,
-      4,
-      6
-    ],
-    "objectIcon": "/icons/coin_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l29-q019",
-    "gameId": "level_29",
-    "type": "level_29",
-    "prompt": "Mua 1 chiếc bánh giá 3 nghìn và 1 quả táo giá 5 nghìn. Tất cả bao nhiêu nghìn?",
-    "correctAnswer": 8,
-    "options": [
-      6,
       8,
-      7,
-      5
-    ],
-    "objectIcon": "/icons/coin_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l29-q020",
-    "gameId": "level_29",
-    "type": "level_29",
-    "prompt": "Mua 1 bông hoa giá 6 nghìn và 1 quả táo giá 2 nghìn. Tất cả bao nhiêu nghìn?",
-    "correctAnswer": 8,
-    "options": [
-      8,
-      6,
-      7,
-      5
-    ],
-    "objectIcon": "/icons/coin_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l29-q021",
-    "gameId": "level_29",
-    "type": "level_29",
-    "prompt": "Mua 1 quả táo giá 2 nghìn và 1 bông hoa giá 5 nghìn. Tất cả bao nhiêu nghìn?",
-    "correctAnswer": 7,
-    "options": [
-      5,
-      6,
-      7,
-      4
-    ],
-    "objectIcon": "/icons/coin_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l29-q022",
-    "gameId": "level_29",
-    "type": "level_29",
-    "prompt": "Mua 1 viên kẹo giá 2 nghìn và 1 quả táo giá 3 nghìn. Tất cả bao nhiêu nghìn?",
-    "correctAnswer": 5,
-    "options": [
-      5,
-      2,
-      3,
-      4
-    ],
-    "objectIcon": "/icons/coin_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l29-q023",
-    "gameId": "level_29",
-    "type": "level_29",
-    "prompt": "Mua 1 chiếc bánh giá 4 nghìn và 1 bông hoa giá 5 nghìn. Tất cả bao nhiêu nghìn?",
-    "correctAnswer": 9,
-    "options": [
-      7,
-      9,
-      6,
-      8
-    ],
-    "objectIcon": "/icons/coin_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l29-q024",
-    "gameId": "level_29",
-    "type": "level_29",
-    "prompt": "Mua 1 viên kẹo giá 5 nghìn và 1 quả táo giá 3 nghìn. Tất cả bao nhiêu nghìn?",
-    "correctAnswer": 8,
-    "options": [
-      6,
-      5,
-      8,
-      7
-    ],
-    "objectIcon": "/icons/coin_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l29-q025",
-    "gameId": "level_29",
-    "type": "level_29",
-    "prompt": "Mua 1 chiếc bánh giá 3 nghìn và 1 quả táo giá 4 nghìn. Tất cả bao nhiêu nghìn?",
-    "correctAnswer": 7,
-    "options": [
-      5,
-      4,
-      7,
-      6
-    ],
-    "objectIcon": "/icons/coin_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l29-q026",
-    "gameId": "level_29",
-    "type": "level_29",
-    "prompt": "Mua 1 chiếc bánh giá 9 nghìn và 1 viên kẹo giá 3 nghìn. Tất cả bao nhiêu nghìn?",
-    "correctAnswer": 12,
-    "options": [
-      11,
-      12,
-      10,
-      9
-    ],
-    "objectIcon": "/icons/coin_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l29-q027",
-    "gameId": "level_29",
-    "type": "level_29",
-    "prompt": "Mua 1 quả táo giá 3 nghìn và 1 chiếc bánh giá 4 nghìn. Tất cả bao nhiêu nghìn?",
-    "correctAnswer": 7,
-    "options": [
-      7,
-      4,
-      5,
-      6
-    ],
-    "objectIcon": "/icons/coin_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l29-q028",
-    "gameId": "level_29",
-    "type": "level_29",
-    "prompt": "Mua 1 bông hoa giá 3 nghìn và 1 chiếc bánh giá 8 nghìn. Tất cả bao nhiêu nghìn?",
-    "correctAnswer": 11,
-    "options": [
-      11,
-      9,
-      10,
-      8
-    ],
-    "objectIcon": "/icons/coin_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l29-q029",
-    "gameId": "level_29",
-    "type": "level_29",
-    "prompt": "Mua 1 quả táo giá 5 nghìn và 1 viên kẹo giá 3 nghìn. Tất cả bao nhiêu nghìn?",
-    "correctAnswer": 8,
-    "options": [
-      5,
-      7,
-      8,
-      6
-    ],
-    "objectIcon": "/icons/coin_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l29-q030",
-    "gameId": "level_29",
-    "type": "level_29",
-    "prompt": "Mua 1 quả táo giá 4 nghìn và 1 chiếc bánh giá 6 nghìn. Tất cả bao nhiêu nghìn?",
-    "correctAnswer": 10,
-    "options": [
-      8,
-      10,
-      7,
-      9
-    ],
-    "objectIcon": "/icons/coin_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l29-q031",
-    "gameId": "level_29",
-    "type": "level_29",
-    "prompt": "Mua 1 bông hoa giá 1 nghìn và 1 quả táo giá 2 nghìn. Tất cả bao nhiêu nghìn?",
-    "correctAnswer": 3,
-    "options": [
-      2,
-      4,
-      3,
-      1
-    ],
-    "objectIcon": "/icons/coin_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l29-q032",
-    "gameId": "level_29",
-    "type": "level_29",
-    "prompt": "Mua 1 chiếc bánh giá 3 nghìn và 1 quả táo giá 8 nghìn. Tất cả bao nhiêu nghìn?",
-    "correctAnswer": 11,
-    "options": [
-      11,
-      10,
-      8,
-      9
-    ],
-    "objectIcon": "/icons/coin_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l29-q033",
-    "gameId": "level_29",
-    "type": "level_29",
-    "prompt": "Mua 1 bông hoa giá 5 nghìn và 1 chiếc bánh giá 9 nghìn. Tất cả bao nhiêu nghìn?",
-    "correctAnswer": 14,
-    "options": [
-      13,
-      12,
-      14,
-      11
-    ],
-    "objectIcon": "/icons/coin_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l29-q034",
-    "gameId": "level_29",
-    "type": "level_29",
-    "prompt": "Mua 1 chiếc bánh giá 8 nghìn và 1 viên kẹo giá 5 nghìn. Tất cả bao nhiêu nghìn?",
-    "correctAnswer": 13,
-    "options": [
-      12,
-      13,
-      10,
-      11
-    ],
-    "objectIcon": "/icons/coin_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l29-q035",
-    "gameId": "level_29",
-    "type": "level_29",
-    "prompt": "Mua 1 bông hoa giá 1 nghìn và 1 chiếc bánh giá 6 nghìn. Tất cả bao nhiêu nghìn?",
-    "correctAnswer": 7,
-    "options": [
-      6,
-      4,
-      5,
-      7
-    ],
-    "objectIcon": "/icons/coin_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l29-q036",
-    "gameId": "level_29",
-    "type": "level_29",
-    "prompt": "Hoa nhặt được 1 quả dâu rồi nhặt thêm 17 quả dâu. Có tất cả mấy quả dâu?",
-    "correctAnswer": 18,
-    "options": [
-      17,
-      16,
-      18,
       15
     ],
-    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
     "objectIcon2": "",
-    "targetCount": 1,
-    "targetCount2": 17,
-    "renderMode": "addition",
-    "displayPrompt": null
+    "targetCount": 12,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
   },
   {
-    "id": "l29-q037",
-    "gameId": "level_29",
-    "type": "level_29",
-    "prompt": "Buổi sáng có 16 viên kẹo, buổi chiều thêm 2 viên kẹo. Tất cả là bao nhiêu?",
-    "correctAnswer": 18,
-    "options": [
-      16,
-      15,
-      17,
-      18
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 16,
-    "targetCount2": 2,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l29-q038",
-    "gameId": "level_29",
-    "type": "level_29",
-    "prompt": "Hoa nhặt được 10 bông hoa rồi nhặt thêm 1 bông hoa. Có tất cả mấy bông hoa?",
-    "correctAnswer": 11,
-    "options": [
-      9,
-      10,
-      11,
-      8
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 10,
-    "targetCount2": 1,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l29-q039",
-    "gameId": "level_29",
-    "type": "level_29",
-    "prompt": "Minh nhặt được 2 quả cam rồi nhặt thêm 2 quả cam. Có tất cả mấy quả cam?",
-    "correctAnswer": 4,
-    "options": [
-      2,
-      4,
-      3,
-      1
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 2,
-    "targetCount2": 2,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l29-q040",
-    "gameId": "level_29",
-    "type": "level_29",
-    "prompt": "Buổi sáng có 17 bông hoa, buổi chiều thêm 2 bông hoa. Tất cả là bao nhiêu?",
-    "correctAnswer": 19,
-    "options": [
-      17,
-      16,
-      18,
-      19
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 17,
-    "targetCount2": 2,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l29-q041",
-    "gameId": "level_29",
-    "type": "level_29",
-    "prompt": "An nhặt được 4 quả táo rồi nhặt thêm 12 quả táo. Có tất cả mấy quả táo?",
-    "correctAnswer": 16,
-    "options": [
-      15,
-      14,
-      13,
-      16
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 4,
-    "targetCount2": 12,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l29-q042",
-    "gameId": "level_29",
-    "type": "level_29",
-    "prompt": "Buổi sáng có 2 quả bóng, buổi chiều thêm 4 quả bóng. Tất cả là bao nhiêu?",
+    "id": "l29-fixed-2",
+    "gameId": "gen_fairy_forest_quest",
+    "type": "gen_fairy_forest_quest",
+    "prompt": "Bé có 3 nghìn đồng, mua đồ hết 3 nghìn đồng. Còn bao nhiêu nghìn đồng?",
     "correctAnswer": 6,
     "options": [
-      6,
-      3,
-      5,
-      4
+      8,
+      7,
+      2,
+      6
     ],
-    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
     "objectIcon2": "",
-    "targetCount": 2,
-    "targetCount2": 4,
-    "renderMode": "addition",
-    "displayPrompt": null
+    "targetCount": 6,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
   },
   {
-    "id": "l29-q043",
-    "gameId": "level_29",
-    "type": "level_29",
-    "prompt": "Hoa nhặt được 11 viên kẹo rồi nhặt thêm 3 viên kẹo. Có tất cả mấy viên kẹo?",
-    "correctAnswer": 14,
+    "id": "l29-fixed-3",
+    "gameId": "gen_ocean_reef_math",
+    "type": "gen_ocean_reef_math",
+    "prompt": "Bé có 9 nghìn đồng, mua đồ hết 3 nghìn đồng. Còn bao nhiêu nghìn đồng?",
+    "correctAnswer": 12,
     "options": [
-      11,
-      12,
+      17,
       13,
-      14
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 11,
-    "targetCount2": 3,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l29-q044",
-    "gameId": "level_29",
-    "type": "level_29",
-    "prompt": "Lan có 7 viên kẹo, mẹ cho thêm 8. Có tất cả bao nhiêu?",
-    "correctAnswer": 15,
-    "options": [
-      14,
       15,
-      13,
       12
     ],
-    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
     "objectIcon2": "",
+    "targetCount": 12,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
+  },
+  {
+    "id": "l29-fixed-4",
+    "gameId": "gen_dinosaur_valley_math",
+    "type": "gen_dinosaur_valley_math",
+    "prompt": "Bé có 2 nghìn đồng, mẹ cho thêm 10 nghìn đồng. Bé có bao nhiêu nghìn đồng?",
+    "correctAnswer": 2,
+    "options": [
+      2,
+      5,
+      6,
+      0
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "targetCount": 2,
+    "targetCount2": 10,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
+  },
+  {
+    "id": "l29-fixed-5",
+    "gameId": "gen_fairy_forest_quest",
+    "type": "gen_fairy_forest_quest",
+    "prompt": "Bé có 3 nghìn đồng, mẹ cho thêm 10 nghìn đồng. Bé có bao nhiêu nghìn đồng?",
+    "correctAnswer": 3,
+    "options": [
+      3,
+      6,
+      8,
+      2
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "targetCount": 3,
+    "targetCount2": 10,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
+  },
+  {
+    "id": "l29-fixed-6",
+    "gameId": "gen_ocean_reef_math",
+    "type": "gen_ocean_reef_math",
+    "prompt": "Bé có 7 nghìn đồng, mẹ cho thêm 8 nghìn đồng. Bé có bao nhiêu nghìn đồng?",
+    "correctAnswer": 7,
+    "options": [
+      7,
+      9,
+      6,
+      10
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/coin.png",
     "targetCount": 7,
     "targetCount2": 8,
     "renderMode": "addition",
-    "displayPrompt": null
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
   },
   {
-    "id": "l29-q045",
-    "gameId": "level_29",
-    "type": "level_29",
-    "prompt": "Mai nhặt được 10 quả chuối rồi nhặt thêm 7 quả chuối. Có tất cả mấy quả chuối?",
-    "correctAnswer": 17,
+    "id": "l29-fixed-7",
+    "gameId": "gen_dinosaur_valley_math",
+    "type": "gen_dinosaur_valley_math",
+    "prompt": "Bé có 4 nghìn đồng, mẹ cho thêm 9 nghìn đồng. Bé có bao nhiêu nghìn đồng?",
+    "correctAnswer": 4,
     "options": [
-      16,
-      17,
-      14,
-      15
+      4,
+      1,
+      0,
+      7
     ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 10,
-    "targetCount2": 7,
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "targetCount": 4,
+    "targetCount2": 9,
     "renderMode": "addition",
-    "displayPrompt": null
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
   },
   {
-    "id": "l29-q046",
-    "gameId": "level_29",
-    "type": "level_29",
-    "prompt": "Bình có 7 bông hoa, mẹ cho thêm 1. Có tất cả bao nhiêu?",
+    "id": "l29-fixed-8",
+    "gameId": "gen_fairy_forest_quest",
+    "type": "gen_fairy_forest_quest",
+    "prompt": "Bé có 2 nghìn đồng, mẹ cho thêm 2 nghìn đồng. Bé có bao nhiêu nghìn đồng?",
+    "correctAnswer": 2,
+    "options": [
+      6,
+      1,
+      2,
+      3
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/coin.png",
+    "targetCount": 2,
+    "targetCount2": 2,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
+  },
+  {
+    "id": "l29-fixed-9",
+    "gameId": "gen_ocean_reef_math",
+    "type": "gen_ocean_reef_math",
+    "prompt": "Bé có 1 nghìn đồng, mua đồ hết 7 nghìn đồng. Còn bao nhiêu nghìn đồng?",
     "correctAnswer": 8,
+    "options": [
+      6,
+      12,
+      8,
+      10
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
+    "objectIcon2": "",
+    "targetCount": 8,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
+  },
+  {
+    "id": "l29-fixed-10",
+    "gameId": "gen_dinosaur_valley_math",
+    "type": "gen_dinosaur_valley_math",
+    "prompt": "Bé có 3 nghìn đồng, mua đồ hết 2 nghìn đồng. Còn bao nhiêu nghìn đồng?",
+    "correctAnswer": 5,
+    "options": [
+      4,
+      5,
+      8,
+      2
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
+  },
+  {
+    "id": "l29-fixed-11",
+    "gameId": "gen_fairy_forest_quest",
+    "type": "gen_fairy_forest_quest",
+    "prompt": "Bé có 5 nghìn đồng, mẹ cho thêm 6 nghìn đồng. Bé có bao nhiêu nghìn đồng?",
+    "correctAnswer": 5,
+    "options": [
+      7,
+      3,
+      4,
+      5
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/coin.png",
+    "targetCount": 5,
+    "targetCount2": 6,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
+  },
+  {
+    "id": "l29-fixed-12",
+    "gameId": "gen_ocean_reef_math",
+    "type": "gen_ocean_reef_math",
+    "prompt": "Bé có 5 nghìn đồng, mẹ cho thêm 7 nghìn đồng. Bé có bao nhiêu nghìn đồng?",
+    "correctAnswer": 5,
     "options": [
       5,
       6,
-      8,
-      7
+      4,
+      3
     ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 7,
-    "targetCount2": 1,
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/candy.png",
+    "targetCount": 5,
+    "targetCount2": 7,
     "renderMode": "addition",
-    "displayPrompt": null
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
   },
   {
-    "id": "l29-q047",
-    "gameId": "level_29",
-    "type": "level_29",
-    "prompt": "An có 18 chiếc bánh, mẹ cho thêm 1. Có tất cả bao nhiêu?",
-    "correctAnswer": 19,
+    "id": "l29-fixed-13",
+    "gameId": "gen_dinosaur_valley_math",
+    "type": "gen_dinosaur_valley_math",
+    "prompt": "Bé có 4 nghìn đồng, mẹ cho thêm 5 nghìn đồng. Bé có bao nhiêu nghìn đồng?",
+    "correctAnswer": 4,
     "options": [
-      19,
-      16,
-      17,
-      18
+      2,
+      0,
+      4,
+      10
     ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 18,
-    "targetCount2": 1,
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/rabbit.png",
+    "targetCount": 4,
+    "targetCount2": 5,
     "renderMode": "addition",
-    "displayPrompt": null
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
   },
   {
-    "id": "l29-q048",
-    "gameId": "level_29",
-    "type": "level_29",
-    "prompt": "Nam có 18 quả táo, mẹ cho thêm 1. Có tất cả bao nhiêu?",
-    "correctAnswer": 19,
+    "id": "l29-fixed-14",
+    "gameId": "gen_fairy_forest_quest",
+    "type": "gen_fairy_forest_quest",
+    "prompt": "Bé có 5 nghìn đồng, mẹ cho thêm 9 nghìn đồng. Bé có bao nhiêu nghìn đồng?",
+    "correctAnswer": 5,
     "options": [
-      19,
-      16,
-      18,
-      17
+      9,
+      1,
+      5,
+      10
     ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 18,
-    "targetCount2": 1,
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/candy.png",
+    "targetCount": 5,
+    "targetCount2": 9,
     "renderMode": "addition",
-    "displayPrompt": null
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
   },
   {
-    "id": "l29-q049",
-    "gameId": "level_29",
-    "type": "level_29",
-    "prompt": "Buổi sáng có 13 quả táo, buổi chiều thêm 6 quả táo. Tất cả là bao nhiêu?",
-    "correctAnswer": 19,
+    "id": "l29-fixed-15",
+    "gameId": "gen_ocean_reef_math",
+    "type": "gen_ocean_reef_math",
+    "prompt": "Bé có 1 nghìn đồng, mẹ cho thêm 10 nghìn đồng. Bé có bao nhiêu nghìn đồng?",
+    "correctAnswer": 1,
     "options": [
-      16,
-      18,
-      17,
-      19
+      1,
+      5,
+      7,
+      4
     ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 13,
-    "targetCount2": 6,
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
+    "targetCount": 1,
+    "targetCount2": 10,
     "renderMode": "addition",
-    "displayPrompt": null
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
   },
   {
-    "id": "l29-q050",
-    "gameId": "level_29",
-    "type": "level_29",
-    "prompt": "Buổi sáng có 10 quả táo, buổi chiều thêm 2 quả táo. Tất cả là bao nhiêu?",
-    "correctAnswer": 12,
+    "id": "l29-fixed-16",
+    "gameId": "gen_dinosaur_valley_math",
+    "type": "gen_dinosaur_valley_math",
+    "prompt": "Bé có 8 nghìn đồng, mẹ cho thêm 5 nghìn đồng. Bé có bao nhiêu nghìn đồng?",
+    "correctAnswer": 8,
     "options": [
       9,
       10,
-      12,
+      8,
+      13
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
+    "targetCount": 8,
+    "targetCount2": 5,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
+  },
+  {
+    "id": "l29-fixed-17",
+    "gameId": "gen_fairy_forest_quest",
+    "type": "gen_fairy_forest_quest",
+    "prompt": "Bé có 4 nghìn đồng, mẹ cho thêm 7 nghìn đồng. Bé có bao nhiêu nghìn đồng?",
+    "correctAnswer": 4,
+    "options": [
+      2,
+      4,
+      5,
+      9
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
+    "targetCount": 4,
+    "targetCount2": 7,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
+  },
+  {
+    "id": "l29-fixed-18",
+    "gameId": "gen_ocean_reef_math",
+    "type": "gen_ocean_reef_math",
+    "prompt": "Bé có 8 nghìn đồng, mẹ cho thêm 6 nghìn đồng. Bé có bao nhiêu nghìn đồng?",
+    "correctAnswer": 8,
+    "options": [
+      8,
+      7,
+      9,
       11
     ],
-    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/coin.png",
+    "targetCount": 8,
+    "targetCount2": 6,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
+  },
+  {
+    "id": "l29-fixed-19",
+    "gameId": "gen_dinosaur_valley_math",
+    "type": "gen_dinosaur_valley_math",
+    "prompt": "Bé có 1 nghìn đồng, mua đồ hết 10 nghìn đồng. Còn bao nhiêu nghìn đồng?",
+    "correctAnswer": 11,
+    "options": [
+      11,
+      14,
+      15,
+      16
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "objectIcon2": "",
+    "targetCount": 11,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
+  },
+  {
+    "id": "l29-fixed-20",
+    "gameId": "gen_fairy_forest_quest",
+    "type": "gen_fairy_forest_quest",
+    "prompt": "Bé có 1 nghìn đồng, mua đồ hết 6 nghìn đồng. Còn bao nhiêu nghìn đồng?",
+    "correctAnswer": 7,
+    "options": [
+      6,
+      8,
+      7,
+      3
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
+    "objectIcon2": "",
+    "targetCount": 7,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
+  },
+  {
+    "id": "l29-fixed-21",
+    "gameId": "gen_ocean_reef_math",
+    "type": "gen_ocean_reef_math",
+    "prompt": "Bé có 6 nghìn đồng, mua đồ hết 4 nghìn đồng. Còn bao nhiêu nghìn đồng?",
+    "correctAnswer": 10,
+    "options": [
+      7,
+      15,
+      9,
+      10
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
     "objectIcon2": "",
     "targetCount": 10,
-    "targetCount2": 2,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
+  },
+  {
+    "id": "l29-fixed-22",
+    "gameId": "gen_dinosaur_valley_math",
+    "type": "gen_dinosaur_valley_math",
+    "prompt": "Bé có 6 nghìn đồng, mẹ cho thêm 1 nghìn đồng. Bé có bao nhiêu nghìn đồng?",
+    "correctAnswer": 6,
+    "options": [
+      7,
+      1,
+      2,
+      6
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
+    "targetCount": 6,
+    "targetCount2": 1,
     "renderMode": "addition",
-    "displayPrompt": null
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
+  },
+  {
+    "id": "l29-fixed-23",
+    "gameId": "gen_fairy_forest_quest",
+    "type": "gen_fairy_forest_quest",
+    "prompt": "Bé có 1 nghìn đồng, mua đồ hết 3 nghìn đồng. Còn bao nhiêu nghìn đồng?",
+    "correctAnswer": 4,
+    "options": [
+      5,
+      1,
+      4,
+      9
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "objectIcon2": "",
+    "targetCount": 4,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
+  },
+  {
+    "id": "l29-fixed-24",
+    "gameId": "gen_ocean_reef_math",
+    "type": "gen_ocean_reef_math",
+    "prompt": "Bé có 2 nghìn đồng, mẹ cho thêm 6 nghìn đồng. Bé có bao nhiêu nghìn đồng?",
+    "correctAnswer": 2,
+    "options": [
+      7,
+      0,
+      8,
+      2
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
+    "targetCount": 2,
+    "targetCount2": 6,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
+  },
+  {
+    "id": "l29-fixed-25",
+    "gameId": "gen_dinosaur_valley_math",
+    "type": "gen_dinosaur_valley_math",
+    "prompt": "Bé có 2 nghìn đồng, mua đồ hết 7 nghìn đồng. Còn bao nhiêu nghìn đồng?",
+    "correctAnswer": 9,
+    "options": [
+      9,
+      8,
+      7,
+      4
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "objectIcon2": "",
+    "targetCount": 9,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
+  },
+  {
+    "id": "l29-fixed-26",
+    "gameId": "gen_fairy_forest_quest",
+    "type": "gen_fairy_forest_quest",
+    "prompt": "Bé có 9 nghìn đồng, mẹ cho thêm 10 nghìn đồng. Bé có bao nhiêu nghìn đồng?",
+    "correctAnswer": 9,
+    "options": [
+      5,
+      12,
+      9,
+      7
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/rabbit.png",
+    "targetCount": 9,
+    "targetCount2": 10,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
+  },
+  {
+    "id": "l29-fixed-27",
+    "gameId": "gen_ocean_reef_math",
+    "type": "gen_ocean_reef_math",
+    "prompt": "Bé có 2 nghìn đồng, mua đồ hết 2 nghìn đồng. Còn bao nhiêu nghìn đồng?",
+    "correctAnswer": 4,
+    "options": [
+      0,
+      4,
+      3,
+      6
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "objectIcon2": "",
+    "targetCount": 4,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
+  },
+  {
+    "id": "l29-fixed-28",
+    "gameId": "gen_dinosaur_valley_math",
+    "type": "gen_dinosaur_valley_math",
+    "prompt": "Bé có 9 nghìn đồng, mẹ cho thêm 7 nghìn đồng. Bé có bao nhiêu nghìn đồng?",
+    "correctAnswer": 9,
+    "options": [
+      6,
+      8,
+      5,
+      9
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/coin.png",
+    "targetCount": 9,
+    "targetCount2": 7,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
+  },
+  {
+    "id": "l29-fixed-29",
+    "gameId": "gen_fairy_forest_quest",
+    "type": "gen_fairy_forest_quest",
+    "prompt": "Bé có 8 nghìn đồng, mẹ cho thêm 4 nghìn đồng. Bé có bao nhiêu nghìn đồng?",
+    "correctAnswer": 8,
+    "options": [
+      8,
+      10,
+      11,
+      13
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/rabbit.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/candy.png",
+    "targetCount": 8,
+    "targetCount2": 4,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
+  },
+  {
+    "id": "l29-fixed-30",
+    "gameId": "gen_ocean_reef_math",
+    "type": "gen_ocean_reef_math",
+    "prompt": "Bé có 10 nghìn đồng, mua đồ hết 4 nghìn đồng. Còn bao nhiêu nghìn đồng?",
+    "correctAnswer": 14,
+    "options": [
+      13,
+      9,
+      19,
+      14
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
+    "objectIcon2": "",
+    "targetCount": 14,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
+  },
+  {
+    "id": "l29-fixed-31",
+    "gameId": "gen_dinosaur_valley_math",
+    "type": "gen_dinosaur_valley_math",
+    "prompt": "Bé có 6 nghìn đồng, mẹ cho thêm 3 nghìn đồng. Bé có bao nhiêu nghìn đồng?",
+    "correctAnswer": 6,
+    "options": [
+      5,
+      4,
+      6,
+      10
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/rabbit.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "targetCount": 6,
+    "targetCount2": 3,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
+  },
+  {
+    "id": "l29-fixed-32",
+    "gameId": "gen_fairy_forest_quest",
+    "type": "gen_fairy_forest_quest",
+    "prompt": "Bé có 6 nghìn đồng, mua đồ hết 8 nghìn đồng. Còn bao nhiêu nghìn đồng?",
+    "correctAnswer": 14,
+    "options": [
+      12,
+      14,
+      16,
+      19
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "objectIcon2": "",
+    "targetCount": 14,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
+  },
+  {
+    "id": "l29-fixed-33",
+    "gameId": "gen_ocean_reef_math",
+    "type": "gen_ocean_reef_math",
+    "prompt": "Bé có 10 nghìn đồng, mẹ cho thêm 8 nghìn đồng. Bé có bao nhiêu nghìn đồng?",
+    "correctAnswer": 10,
+    "options": [
+      10,
+      8,
+      5,
+      11
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/rabbit.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "targetCount": 10,
+    "targetCount2": 8,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
+  },
+  {
+    "id": "l29-fixed-34",
+    "gameId": "gen_dinosaur_valley_math",
+    "type": "gen_dinosaur_valley_math",
+    "prompt": "Bé có 4 nghìn đồng, mẹ cho thêm 6 nghìn đồng. Bé có bao nhiêu nghìn đồng?",
+    "correctAnswer": 4,
+    "options": [
+      1,
+      0,
+      4,
+      2
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/candy.png",
+    "targetCount": 4,
+    "targetCount2": 6,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
+  },
+  {
+    "id": "l29-fixed-35",
+    "gameId": "gen_fairy_forest_quest",
+    "type": "gen_fairy_forest_quest",
+    "prompt": "Bé có 8 nghìn đồng, mẹ cho thêm 3 nghìn đồng. Bé có bao nhiêu nghìn đồng?",
+    "correctAnswer": 8,
+    "options": [
+      12,
+      11,
+      7,
+      8
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "targetCount": 8,
+    "targetCount2": 3,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
+  },
+  {
+    "id": "l29-fixed-36",
+    "gameId": "gen_ocean_reef_math",
+    "type": "gen_ocean_reef_math",
+    "prompt": "Bé có 10 nghìn đồng, mẹ cho thêm 6 nghìn đồng. Bé có bao nhiêu nghìn đồng?",
+    "correctAnswer": 10,
+    "options": [
+      6,
+      10,
+      13,
+      5
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "targetCount": 10,
+    "targetCount2": 6,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
+  },
+  {
+    "id": "l29-fixed-37",
+    "gameId": "gen_dinosaur_valley_math",
+    "type": "gen_dinosaur_valley_math",
+    "prompt": "Bé có 9 nghìn đồng, mua đồ hết 1 nghìn đồng. Còn bao nhiêu nghìn đồng?",
+    "correctAnswer": 10,
+    "options": [
+      11,
+      14,
+      10,
+      6
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
+    "objectIcon2": "",
+    "targetCount": 10,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
+  },
+  {
+    "id": "l29-fixed-38",
+    "gameId": "gen_fairy_forest_quest",
+    "type": "gen_fairy_forest_quest",
+    "prompt": "Bé có 1 nghìn đồng, mẹ cho thêm 8 nghìn đồng. Bé có bao nhiêu nghìn đồng?",
+    "correctAnswer": 1,
+    "options": [
+      3,
+      2,
+      4,
+      1
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "targetCount": 1,
+    "targetCount2": 8,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
+  },
+  {
+    "id": "l29-fixed-39",
+    "gameId": "gen_ocean_reef_math",
+    "type": "gen_ocean_reef_math",
+    "prompt": "Bé có 7 nghìn đồng, mua đồ hết 10 nghìn đồng. Còn bao nhiêu nghìn đồng?",
+    "correctAnswer": 17,
+    "options": [
+      17,
+      22,
+      15,
+      14
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "objectIcon2": "",
+    "targetCount": 17,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
+  },
+  {
+    "id": "l29-fixed-40",
+    "gameId": "gen_dinosaur_valley_math",
+    "type": "gen_dinosaur_valley_math",
+    "prompt": "Bé có 2 nghìn đồng, mẹ cho thêm 4 nghìn đồng. Bé có bao nhiêu nghìn đồng?",
+    "correctAnswer": 2,
+    "options": [
+      6,
+      7,
+      2,
+      0
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/rabbit.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/candy.png",
+    "targetCount": 2,
+    "targetCount2": 4,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
+  },
+  {
+    "id": "l29-fixed-41",
+    "gameId": "gen_fairy_forest_quest",
+    "type": "gen_fairy_forest_quest",
+    "prompt": "Bé có 3 nghìn đồng, mẹ cho thêm 5 nghìn đồng. Bé có bao nhiêu nghìn đồng?",
+    "correctAnswer": 3,
+    "options": [
+      3,
+      0,
+      8,
+      4
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/rabbit.png",
+    "targetCount": 3,
+    "targetCount2": 5,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
+  },
+  {
+    "id": "l29-fixed-42",
+    "gameId": "gen_ocean_reef_math",
+    "type": "gen_ocean_reef_math",
+    "prompt": "Bé có 8 nghìn đồng, mua đồ hết 7 nghìn đồng. Còn bao nhiêu nghìn đồng?",
+    "correctAnswer": 15,
+    "options": [
+      15,
+      10,
+      13,
+      11
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/rabbit.png",
+    "objectIcon2": "",
+    "targetCount": 15,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
+  },
+  {
+    "id": "l29-fixed-43",
+    "gameId": "gen_dinosaur_valley_math",
+    "type": "gen_dinosaur_valley_math",
+    "prompt": "Bé có 9 nghìn đồng, mua đồ hết 10 nghìn đồng. Còn bao nhiêu nghìn đồng?",
+    "correctAnswer": 19,
+    "options": [
+      14,
+      23,
+      15,
+      19
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "objectIcon2": "",
+    "targetCount": 19,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
+  },
+  {
+    "id": "l29-fixed-44",
+    "gameId": "gen_fairy_forest_quest",
+    "type": "gen_fairy_forest_quest",
+    "prompt": "Bé có 8 nghìn đồng, mua đồ hết 10 nghìn đồng. Còn bao nhiêu nghìn đồng?",
+    "correctAnswer": 18,
+    "options": [
+      23,
+      18,
+      20,
+      13
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
+    "objectIcon2": "",
+    "targetCount": 18,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
+  },
+  {
+    "id": "l29-fixed-45",
+    "gameId": "gen_ocean_reef_math",
+    "type": "gen_ocean_reef_math",
+    "prompt": "Bé có 8 nghìn đồng, mua đồ hết 8 nghìn đồng. Còn bao nhiêu nghìn đồng?",
+    "correctAnswer": 16,
+    "options": [
+      16,
+      12,
+      14,
+      18
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
+    "objectIcon2": "",
+    "targetCount": 16,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
+  },
+  {
+    "id": "l29-fixed-46",
+    "gameId": "gen_dinosaur_valley_math",
+    "type": "gen_dinosaur_valley_math",
+    "prompt": "Bé có 4 nghìn đồng, mua đồ hết 4 nghìn đồng. Còn bao nhiêu nghìn đồng?",
+    "correctAnswer": 8,
+    "options": [
+      9,
+      10,
+      8,
+      5
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/rabbit.png",
+    "objectIcon2": "",
+    "targetCount": 8,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
+  },
+  {
+    "id": "l29-fixed-47",
+    "gameId": "gen_fairy_forest_quest",
+    "type": "gen_fairy_forest_quest",
+    "prompt": "Bé có 6 nghìn đồng, mẹ cho thêm 8 nghìn đồng. Bé có bao nhiêu nghìn đồng?",
+    "correctAnswer": 6,
+    "options": [
+      7,
+      2,
+      8,
+      6
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "targetCount": 6,
+    "targetCount2": 8,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
+  },
+  {
+    "id": "l29-fixed-48",
+    "gameId": "gen_ocean_reef_math",
+    "type": "gen_ocean_reef_math",
+    "prompt": "Bé có 5 nghìn đồng, mua đồ hết 4 nghìn đồng. Còn bao nhiêu nghìn đồng?",
+    "correctAnswer": 9,
+    "options": [
+      5,
+      9,
+      4,
+      7
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
+    "objectIcon2": "",
+    "targetCount": 9,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
+  },
+  {
+    "id": "l29-fixed-49",
+    "gameId": "gen_dinosaur_valley_math",
+    "type": "gen_dinosaur_valley_math",
+    "prompt": "Bé có 7 nghìn đồng, mua đồ hết 8 nghìn đồng. Còn bao nhiêu nghìn đồng?",
+    "correctAnswer": 15,
+    "options": [
+      12,
+      15,
+      20,
+      16
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "objectIcon2": "",
+    "targetCount": 15,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
+  },
+  {
+    "id": "l29-fixed-50",
+    "gameId": "gen_fairy_forest_quest",
+    "type": "gen_fairy_forest_quest",
+    "prompt": "Bé có 7 nghìn đồng, mẹ cho thêm 10 nghìn đồng. Bé có bao nhiêu nghìn đồng?",
+    "correctAnswer": 7,
+    "options": [
+      6,
+      7,
+      5,
+      9
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/rabbit.png",
+    "targetCount": 7,
+    "targetCount2": 10,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
   }
 ]

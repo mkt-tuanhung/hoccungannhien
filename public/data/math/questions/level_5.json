@@ -1,952 +1,952 @@
 [
   {
-    "id": "l05-q001",
-    "gameId": "level_5",
-    "type": "level_5",
-    "prompt": "Tính: 2 + 2 = ?",
+    "id": "l05-fixed-1",
+    "gameId": "gen_candy_biome_world",
+    "type": "gen_candy_biome_world",
+    "prompt": "4 + 5 = ?",
     "correctAnswer": 4,
     "options": [
-      3,
-      1,
-      4,
-      2
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 2,
-    "targetCount2": 2,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l05-q002",
-    "gameId": "level_5",
-    "type": "level_5",
-    "prompt": "4 + 1 = ?",
-    "correctAnswer": 5,
-    "options": [
-      5,
-      3,
-      2,
-      4
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 4,
-    "targetCount2": 1,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l05-q003",
-    "gameId": "level_5",
-    "type": "level_5",
-    "prompt": "1 + 4 = ?",
-    "correctAnswer": 5,
-    "options": [
-      5,
-      4,
-      2,
-      3
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 1,
-    "targetCount2": 4,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l05-q004",
-    "gameId": "level_5",
-    "type": "level_5",
-    "prompt": "1 + 3 = ?",
-    "correctAnswer": 4,
-    "options": [
-      1,
-      2,
-      4,
-      3
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 1,
-    "targetCount2": 3,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l05-q005",
-    "gameId": "level_5",
-    "type": "level_5",
-    "prompt": "1 + 1 = ?",
-    "correctAnswer": 2,
-    "options": [
-      0,
-      1,
-      2,
-      3
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 1,
-    "targetCount2": 1,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l05-q006",
-    "gameId": "level_5",
-    "type": "level_5",
-    "prompt": "2 + 2 = ?",
-    "correctAnswer": 4,
-    "options": [
-      1,
-      3,
-      4,
-      2
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 2,
-    "targetCount2": 2,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l05-q007",
-    "gameId": "level_5",
-    "type": "level_5",
-    "prompt": "Tính: 1 + 4 = ?",
-    "correctAnswer": 5,
-    "options": [
-      3,
-      5,
-      2,
-      4
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 1,
-    "targetCount2": 4,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l05-q008",
-    "gameId": "level_5",
-    "type": "level_5",
-    "prompt": "3 + 1 = ?",
-    "correctAnswer": 4,
-    "options": [
-      4,
-      3,
-      2,
-      1
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 3,
-    "targetCount2": 1,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l05-q009",
-    "gameId": "level_5",
-    "type": "level_5",
-    "prompt": "4 + 1 = ?",
-    "correctAnswer": 5,
-    "options": [
-      4,
-      2,
-      5,
-      3
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 4,
-    "targetCount2": 1,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l05-q010",
-    "gameId": "level_5",
-    "type": "level_5",
-    "prompt": "4 + 1 = ?",
-    "correctAnswer": 5,
-    "options": [
-      4,
-      2,
-      5,
-      3
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 4,
-    "targetCount2": 1,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l05-q011",
-    "gameId": "level_5",
-    "type": "level_5",
-    "prompt": "3 + 2 = ?",
-    "correctAnswer": 5,
-    "options": [
-      4,
-      2,
-      5,
-      3
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 3,
-    "targetCount2": 2,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l05-q012",
-    "gameId": "level_5",
-    "type": "level_5",
-    "prompt": "2 + 2 = ?",
-    "correctAnswer": 4,
-    "options": [
-      4,
-      1,
-      3,
-      2
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 2,
-    "targetCount2": 2,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l05-q013",
-    "gameId": "level_5",
-    "type": "level_5",
-    "prompt": "Tính: 4 + 1 = ?",
-    "correctAnswer": 5,
-    "options": [
-      5,
-      3,
-      4,
-      2
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 4,
-    "targetCount2": 1,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l05-q014",
-    "gameId": "level_5",
-    "type": "level_5",
-    "prompt": "4 + 1 = ?",
-    "correctAnswer": 5,
-    "options": [
-      3,
+      7,
       2,
       4,
       5
     ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
     "targetCount": 4,
-    "targetCount2": 1,
+    "targetCount2": 5,
     "renderMode": "addition",
-    "displayPrompt": null
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
   },
   {
-    "id": "l05-q015",
-    "gameId": "level_5",
-    "type": "level_5",
-    "prompt": "3 + 2 = ?",
+    "id": "l05-fixed-2",
+    "gameId": "gen_storybook_popup_world",
+    "type": "gen_storybook_popup_world",
+    "prompt": "Bé có 6 ngôi sao, cô tặng thêm 7. Bé có tất cả bao nhiêu?",
+    "correctAnswer": 6,
+    "options": [
+      1,
+      6,
+      5,
+      10
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "targetCount": 6,
+    "targetCount2": 7,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
+  },
+  {
+    "id": "l05-fixed-3",
+    "gameId": "gen_robot_city_constructor",
+    "type": "gen_robot_city_constructor",
+    "prompt": "9 + 7 = ?",
+    "correctAnswer": 9,
+    "options": [
+      6,
+      5,
+      9,
+      7
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "targetCount": 9,
+    "targetCount2": 7,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
+  },
+  {
+    "id": "l05-fixed-4",
+    "gameId": "gen_candy_biome_world",
+    "type": "gen_candy_biome_world",
+    "prompt": "Bé có 5 viên kim cương, cô tặng thêm 6. Bé có tất cả bao nhiêu?",
     "correctAnswer": 5,
     "options": [
-      3,
       5,
-      4,
-      2
+      2,
+      9,
+      6
     ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 3,
-    "targetCount2": 2,
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
+    "targetCount": 5,
+    "targetCount2": 6,
     "renderMode": "addition",
-    "displayPrompt": null
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
   },
   {
-    "id": "l05-q016",
-    "gameId": "level_5",
-    "type": "level_5",
-    "prompt": "Tính: 1 + 3 = ?",
-    "correctAnswer": 4,
+    "id": "l05-fixed-5",
+    "gameId": "gen_storybook_popup_world",
+    "type": "gen_storybook_popup_world",
+    "prompt": "Bé có 6 quả bóng, cô tặng thêm 9. Bé có tất cả bao nhiêu?",
+    "correctAnswer": 6,
     "options": [
-      4,
-      1,
+      6,
+      5,
+      7,
+      10
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/rabbit.png",
+    "targetCount": 6,
+    "targetCount2": 9,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
+  },
+  {
+    "id": "l05-fixed-6",
+    "gameId": "gen_robot_city_constructor",
+    "type": "gen_robot_city_constructor",
+    "prompt": "Bé có 2 ngôi sao, cô tặng thêm 6. Bé có tất cả bao nhiêu?",
+    "correctAnswer": 2,
+    "options": [
+      5,
+      0,
       2,
+      7
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "targetCount": 2,
+    "targetCount2": 6,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
+  },
+  {
+    "id": "l05-fixed-7",
+    "gameId": "gen_candy_biome_world",
+    "type": "gen_candy_biome_world",
+    "prompt": "Bé có 8 con thỏ, cô tặng thêm 7. Bé có tất cả bao nhiêu?",
+    "correctAnswer": 8,
+    "options": [
+      12,
+      8,
+      6,
       3
     ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 1,
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/rabbit.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "targetCount": 8,
+    "targetCount2": 7,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
+  },
+  {
+    "id": "l05-fixed-8",
+    "gameId": "gen_storybook_popup_world",
+    "type": "gen_storybook_popup_world",
+    "prompt": "Bé có 6 ngôi sao, cô tặng thêm 4. Bé có tất cả bao nhiêu?",
+    "correctAnswer": 6,
+    "options": [
+      9,
+      3,
+      6,
+      10
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "targetCount": 6,
+    "targetCount2": 4,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
+  },
+  {
+    "id": "l05-fixed-9",
+    "gameId": "gen_robot_city_constructor",
+    "type": "gen_robot_city_constructor",
+    "prompt": "Bé có 7 quả bóng, cô tặng thêm 10. Bé có tất cả bao nhiêu?",
+    "correctAnswer": 7,
+    "options": [
+      9,
+      10,
+      7,
+      5
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/rabbit.png",
+    "targetCount": 7,
+    "targetCount2": 10,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
+  },
+  {
+    "id": "l05-fixed-10",
+    "gameId": "gen_candy_biome_world",
+    "type": "gen_candy_biome_world",
+    "prompt": "5 + 3 = ?",
+    "correctAnswer": 5,
+    "options": [
+      9,
+      1,
+      5,
+      2
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
+    "targetCount": 5,
     "targetCount2": 3,
     "renderMode": "addition",
-    "displayPrompt": null
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
   },
   {
-    "id": "l05-q017",
-    "gameId": "level_5",
-    "type": "level_5",
-    "prompt": "1 + 1 = ?",
-    "correctAnswer": 2,
+    "id": "l05-fixed-11",
+    "gameId": "gen_storybook_popup_world",
+    "type": "gen_storybook_popup_world",
+    "prompt": "Bé có 8 con mèo, cô tặng thêm 5. Bé có tất cả bao nhiêu?",
+    "correctAnswer": 8,
     "options": [
+      8,
       3,
-      2,
-      1,
-      0
+      12,
+      10
     ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 1,
-    "targetCount2": 1,
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/rabbit.png",
+    "targetCount": 8,
+    "targetCount2": 5,
     "renderMode": "addition",
-    "displayPrompt": null
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
   },
   {
-    "id": "l05-q018",
-    "gameId": "level_5",
-    "type": "level_5",
-    "prompt": "Tính: 2 + 2 = ?",
+    "id": "l05-fixed-12",
+    "gameId": "gen_robot_city_constructor",
+    "type": "gen_robot_city_constructor",
+    "prompt": "4 + 9 = ?",
     "correctAnswer": 4,
     "options": [
-      2,
+      6,
       4,
-      1,
-      3
+      7,
+      10
     ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 2,
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "targetCount": 4,
+    "targetCount2": 9,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
+  },
+  {
+    "id": "l05-fixed-13",
+    "gameId": "gen_candy_biome_world",
+    "type": "gen_candy_biome_world",
+    "prompt": "Bé có 8 con mèo, cô tặng thêm 9. Bé có tất cả bao nhiêu?",
+    "correctAnswer": 8,
+    "options": [
+      8,
+      4,
+      11,
+      10
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "targetCount": 8,
+    "targetCount2": 9,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
+  },
+  {
+    "id": "l05-fixed-14",
+    "gameId": "gen_storybook_popup_world",
+    "type": "gen_storybook_popup_world",
+    "prompt": "Bé có 9 viên kim cương, cô tặng thêm 2. Bé có tất cả bao nhiêu?",
+    "correctAnswer": 9,
+    "options": [
+      8,
+      14,
+      6,
+      9
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
+    "targetCount": 9,
     "targetCount2": 2,
     "renderMode": "addition",
-    "displayPrompt": null
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
   },
   {
-    "id": "l05-q019",
-    "gameId": "level_5",
-    "type": "level_5",
-    "prompt": "3 + 1 = ?",
-    "correctAnswer": 4,
+    "id": "l05-fixed-15",
+    "gameId": "gen_robot_city_constructor",
+    "type": "gen_robot_city_constructor",
+    "prompt": "1 + 5 = ?",
+    "correctAnswer": 1,
     "options": [
-      1,
-      3,
       4,
+      5,
+      1,
       2
     ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/rabbit.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/candy.png",
+    "targetCount": 1,
+    "targetCount2": 5,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
+  },
+  {
+    "id": "l05-fixed-16",
+    "gameId": "gen_candy_biome_world",
+    "type": "gen_candy_biome_world",
+    "prompt": "Bé có 3 quả bóng, cô tặng thêm 1. Bé có tất cả bao nhiêu?",
+    "correctAnswer": 3,
+    "options": [
+      7,
+      3,
+      1,
+      2
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/coin.png",
     "targetCount": 3,
     "targetCount2": 1,
     "renderMode": "addition",
-    "displayPrompt": null
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
   },
   {
-    "id": "l05-q020",
-    "gameId": "level_5",
-    "type": "level_5",
-    "prompt": "1 + 3 = ?",
-    "correctAnswer": 4,
+    "id": "l05-fixed-17",
+    "gameId": "gen_storybook_popup_world",
+    "type": "gen_storybook_popup_world",
+    "prompt": "Bé có 9 quả bóng, cô tặng thêm 4. Bé có tất cả bao nhiêu?",
+    "correctAnswer": 9,
+    "options": [
+      9,
+      4,
+      10,
+      8
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "targetCount": 9,
+    "targetCount2": 4,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
+  },
+  {
+    "id": "l05-fixed-18",
+    "gameId": "gen_robot_city_constructor",
+    "type": "gen_robot_city_constructor",
+    "prompt": "5 + 6 = ?",
+    "correctAnswer": 5,
+    "options": [
+      5,
+      6,
+      0,
+      10
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/candy.png",
+    "targetCount": 5,
+    "targetCount2": 6,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
+  },
+  {
+    "id": "l05-fixed-19",
+    "gameId": "gen_candy_biome_world",
+    "type": "gen_candy_biome_world",
+    "prompt": "Bé có 6 con mèo, cô tặng thêm 1. Bé có tất cả bao nhiêu?",
+    "correctAnswer": 6,
+    "options": [
+      6,
+      7,
+      10,
+      5
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "targetCount": 6,
+    "targetCount2": 1,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
+  },
+  {
+    "id": "l05-fixed-20",
+    "gameId": "gen_storybook_popup_world",
+    "type": "gen_storybook_popup_world",
+    "prompt": "2 + 6 = ?",
+    "correctAnswer": 2,
+    "options": [
+      3,
+      7,
+      2,
+      6
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
+    "targetCount": 2,
+    "targetCount2": 6,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
+  },
+  {
+    "id": "l05-fixed-21",
+    "gameId": "gen_robot_city_constructor",
+    "type": "gen_robot_city_constructor",
+    "prompt": "Bé có 7 ngôi sao, cô tặng thêm 5. Bé có tất cả bao nhiêu?",
+    "correctAnswer": 7,
+    "options": [
+      11,
+      10,
+      12,
+      7
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "targetCount": 7,
+    "targetCount2": 5,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
+  },
+  {
+    "id": "l05-fixed-22",
+    "gameId": "gen_candy_biome_world",
+    "type": "gen_candy_biome_world",
+    "prompt": "Bé có 2 con thỏ, cô tặng thêm 10. Bé có tất cả bao nhiêu?",
+    "correctAnswer": 2,
     "options": [
       2,
-      3,
       1,
-      4
+      7,
+      8
     ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 1,
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/rabbit.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "targetCount": 2,
+    "targetCount2": 10,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
+  },
+  {
+    "id": "l05-fixed-23",
+    "gameId": "gen_storybook_popup_world",
+    "type": "gen_storybook_popup_world",
+    "prompt": "3 + 4 = ?",
+    "correctAnswer": 3,
+    "options": [
+      1,
+      0,
+      7,
+      3
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "targetCount": 3,
+    "targetCount2": 4,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
+  },
+  {
+    "id": "l05-fixed-24",
+    "gameId": "gen_robot_city_constructor",
+    "type": "gen_robot_city_constructor",
+    "prompt": "Bé có 2 quả táo, cô tặng thêm 1. Bé có tất cả bao nhiêu?",
+    "correctAnswer": 2,
+    "options": [
+      2,
+      6,
+      1,
+      7
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
+    "targetCount": 2,
+    "targetCount2": 1,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
+  },
+  {
+    "id": "l05-fixed-25",
+    "gameId": "gen_candy_biome_world",
+    "type": "gen_candy_biome_world",
+    "prompt": "Bé có 2 quả táo, cô tặng thêm 9. Bé có tất cả bao nhiêu?",
+    "correctAnswer": 2,
+    "options": [
+      0,
+      4,
+      2,
+      7
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "targetCount": 2,
+    "targetCount2": 9,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
+  },
+  {
+    "id": "l05-fixed-26",
+    "gameId": "gen_storybook_popup_world",
+    "type": "gen_storybook_popup_world",
+    "prompt": "7 + 2 = ?",
+    "correctAnswer": 7,
+    "options": [
+      12,
+      7,
+      4,
+      10
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/rabbit.png",
+    "targetCount": 7,
+    "targetCount2": 2,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
+  },
+  {
+    "id": "l05-fixed-27",
+    "gameId": "gen_robot_city_constructor",
+    "type": "gen_robot_city_constructor",
+    "prompt": "6 + 10 = ?",
+    "correctAnswer": 6,
+    "options": [
+      6,
+      5,
+      10,
+      1
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/rabbit.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
+    "targetCount": 6,
+    "targetCount2": 10,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
+  },
+  {
+    "id": "l05-fixed-28",
+    "gameId": "gen_candy_biome_world",
+    "type": "gen_candy_biome_world",
+    "prompt": "Bé có 6 quả bóng, cô tặng thêm 5. Bé có tất cả bao nhiêu?",
+    "correctAnswer": 6,
+    "options": [
+      6,
+      10,
+      1,
+      5
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "targetCount": 6,
+    "targetCount2": 5,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
+  },
+  {
+    "id": "l05-fixed-29",
+    "gameId": "gen_storybook_popup_world",
+    "type": "gen_storybook_popup_world",
+    "prompt": "Bé có 7 viên kim cương, cô tặng thêm 8. Bé có tất cả bao nhiêu?",
+    "correctAnswer": 7,
+    "options": [
+      7,
+      5,
+      6,
+      10
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "targetCount": 7,
+    "targetCount2": 8,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
+  },
+  {
+    "id": "l05-fixed-30",
+    "gameId": "gen_robot_city_constructor",
+    "type": "gen_robot_city_constructor",
+    "prompt": "Bé có 6 viên kim cương, cô tặng thêm 8. Bé có tất cả bao nhiêu?",
+    "correctAnswer": 6,
+    "options": [
+      6,
+      1,
+      8,
+      5
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/candy.png",
+    "targetCount": 6,
+    "targetCount2": 8,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
+  },
+  {
+    "id": "l05-fixed-31",
+    "gameId": "gen_candy_biome_world",
+    "type": "gen_candy_biome_world",
+    "prompt": "Bé có 8 con thỏ, cô tặng thêm 3. Bé có tất cả bao nhiêu?",
+    "correctAnswer": 8,
+    "options": [
+      11,
+      6,
+      5,
+      8
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/rabbit.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
+    "targetCount": 8,
     "targetCount2": 3,
     "renderMode": "addition",
-    "displayPrompt": null
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
   },
   {
-    "id": "l05-q021",
-    "gameId": "level_5",
-    "type": "level_5",
-    "prompt": "Tính: 3 + 2 = ?",
-    "correctAnswer": 5,
+    "id": "l05-fixed-32",
+    "gameId": "gen_storybook_popup_world",
+    "type": "gen_storybook_popup_world",
+    "prompt": "7 + 4 = ?",
+    "correctAnswer": 7,
     "options": [
-      5,
-      4,
-      3,
-      2
+      7,
+      8,
+      2,
+      11
     ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 3,
-    "targetCount2": 2,
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/candy.png",
+    "targetCount": 7,
+    "targetCount2": 4,
     "renderMode": "addition",
-    "displayPrompt": null
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
   },
   {
-    "id": "l05-q022",
-    "gameId": "level_5",
-    "type": "level_5",
-    "prompt": "Tính: 4 + 1 = ?",
-    "correctAnswer": 5,
-    "options": [
-      5,
-      3,
-      2,
-      4
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 4,
-    "targetCount2": 1,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l05-q023",
-    "gameId": "level_5",
-    "type": "level_5",
-    "prompt": "2 + 1 = ?",
-    "correctAnswer": 3,
-    "options": [
-      3,
-      1,
-      0,
-      2
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 2,
-    "targetCount2": 1,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l05-q024",
-    "gameId": "level_5",
-    "type": "level_5",
-    "prompt": "Tính: 1 + 2 = ?",
-    "correctAnswer": 3,
-    "options": [
-      0,
-      1,
-      2,
-      3
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 1,
-    "targetCount2": 2,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l05-q025",
-    "gameId": "level_5",
-    "type": "level_5",
-    "prompt": "3 + 2 = ?",
-    "correctAnswer": 5,
-    "options": [
-      5,
-      4,
-      3,
-      2
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 3,
-    "targetCount2": 2,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l05-q026",
-    "gameId": "level_5",
-    "type": "level_5",
-    "prompt": "Tính: 3 + 2 = ?",
-    "correctAnswer": 5,
-    "options": [
-      5,
-      3,
-      4,
-      2
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 3,
-    "targetCount2": 2,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l05-q027",
-    "gameId": "level_5",
-    "type": "level_5",
-    "prompt": "Tính: 3 + 1 = ?",
-    "correctAnswer": 4,
-    "options": [
-      3,
-      2,
-      4,
-      1
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 3,
-    "targetCount2": 1,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l05-q028",
-    "gameId": "level_5",
-    "type": "level_5",
-    "prompt": "4 + 1 = ?",
-    "correctAnswer": 5,
-    "options": [
-      3,
-      5,
-      2,
-      4
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 4,
-    "targetCount2": 1,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l05-q029",
-    "gameId": "level_5",
-    "type": "level_5",
-    "prompt": "4 + 1 = ?",
-    "correctAnswer": 5,
-    "options": [
-      5,
-      4,
-      3,
-      2
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 4,
-    "targetCount2": 1,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l05-q030",
-    "gameId": "level_5",
-    "type": "level_5",
-    "prompt": "4 + 1 = ?",
-    "correctAnswer": 5,
-    "options": [
-      4,
-      2,
-      5,
-      3
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 4,
-    "targetCount2": 1,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l05-q031",
-    "gameId": "level_5",
-    "type": "level_5",
-    "prompt": "Đếm quả táo và chọn số đúng!",
-    "correctAnswer": 3,
-    "options": [
-      3,
-      0,
-      2,
-      1
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 3,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l05-q032",
-    "gameId": "level_5",
-    "type": "level_5",
-    "prompt": "Đếm quả táo và chọn số đúng!",
-    "correctAnswer": 4,
-    "options": [
-      4,
-      1,
-      2,
-      3
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 4,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l05-q033",
-    "gameId": "level_5",
-    "type": "level_5",
-    "prompt": "Đếm quả bóng và chọn số đúng!",
-    "correctAnswer": 3,
-    "options": [
-      1,
-      3,
-      2,
-      0
-    ],
-    "objectIcon": "/icons/ball_icon.png",
-    "objectIcon2": "",
-    "targetCount": 3,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l05-q034",
-    "gameId": "level_5",
-    "type": "level_5",
-    "prompt": "Đếm quả dâu và chọn số đúng!",
-    "correctAnswer": 4,
-    "options": [
-      2,
-      1,
-      3,
-      4
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 4,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l05-q035",
-    "gameId": "level_5",
-    "type": "level_5",
-    "prompt": "Đếm chiếc bánh và chọn số đúng!",
-    "correctAnswer": 4,
-    "options": [
-      2,
-      1,
-      3,
-      4
-    ],
-    "objectIcon": "/icons/candy_icon.png",
-    "objectIcon2": "",
-    "targetCount": 4,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l05-q036",
-    "gameId": "level_5",
-    "type": "level_5",
-    "prompt": "Đếm quả cam và chọn số đúng!",
-    "correctAnswer": 5,
-    "options": [
-      2,
-      5,
-      3,
-      4
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 5,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l05-q037",
-    "gameId": "level_5",
-    "type": "level_5",
-    "prompt": "Đếm quả bóng và chọn số đúng!",
-    "correctAnswer": 4,
-    "options": [
-      1,
-      4,
-      2,
-      3
-    ],
-    "objectIcon": "/icons/ball_icon.png",
-    "objectIcon2": "",
-    "targetCount": 4,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l05-q038",
-    "gameId": "level_5",
-    "type": "level_5",
-    "prompt": "Đếm quả cam và chọn số đúng!",
+    "id": "l05-fixed-33",
+    "gameId": "gen_robot_city_constructor",
+    "type": "gen_robot_city_constructor",
+    "prompt": "2 + 5 = ?",
     "correctAnswer": 2,
     "options": [
-      1,
-      3,
       0,
-      2
+      7,
+      2,
+      6
     ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/coin.png",
     "targetCount": 2,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
+    "targetCount2": 5,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
   },
   {
-    "id": "l05-q039",
-    "gameId": "level_5",
-    "type": "level_5",
-    "prompt": "Đếm quả chuối và chọn số đúng!",
+    "id": "l05-fixed-34",
+    "gameId": "gen_candy_biome_world",
+    "type": "gen_candy_biome_world",
+    "prompt": "8 + 2 = ?",
+    "correctAnswer": 8,
+    "options": [
+      11,
+      12,
+      3,
+      8
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "targetCount": 8,
+    "targetCount2": 2,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
+  },
+  {
+    "id": "l05-fixed-35",
+    "gameId": "gen_storybook_popup_world",
+    "type": "gen_storybook_popup_world",
+    "prompt": "6 + 10 = ?",
+    "correctAnswer": 6,
+    "options": [
+      11,
+      2,
+      6,
+      10
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "targetCount": 6,
+    "targetCount2": 10,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
+  },
+  {
+    "id": "l05-fixed-36",
+    "gameId": "gen_robot_city_constructor",
+    "type": "gen_robot_city_constructor",
+    "prompt": "Bé có 6 con thỏ, cô tặng thêm 3. Bé có tất cả bao nhiêu?",
+    "correctAnswer": 6,
+    "options": [
+      4,
+      6,
+      2,
+      11
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/rabbit.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
+    "targetCount": 6,
+    "targetCount2": 3,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
+  },
+  {
+    "id": "l05-fixed-37",
+    "gameId": "gen_candy_biome_world",
+    "type": "gen_candy_biome_world",
+    "prompt": "Bé có 7 quả bóng, cô tặng thêm 8. Bé có tất cả bao nhiêu?",
+    "correctAnswer": 7,
+    "options": [
+      12,
+      2,
+      3,
+      7
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "targetCount": 7,
+    "targetCount2": 8,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
+  },
+  {
+    "id": "l05-fixed-38",
+    "gameId": "gen_storybook_popup_world",
+    "type": "gen_storybook_popup_world",
+    "prompt": "8 + 6 = ?",
+    "correctAnswer": 8,
+    "options": [
+      13,
+      8,
+      5,
+      6
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/rabbit.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/candy.png",
+    "targetCount": 8,
+    "targetCount2": 6,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
+  },
+  {
+    "id": "l05-fixed-39",
+    "gameId": "gen_robot_city_constructor",
+    "type": "gen_robot_city_constructor",
+    "prompt": "Bé có 8 quả táo, cô tặng thêm 7. Bé có tất cả bao nhiêu?",
+    "correctAnswer": 8,
+    "options": [
+      9,
+      4,
+      8,
+      10
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/rabbit.png",
+    "targetCount": 8,
+    "targetCount2": 7,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
+  },
+  {
+    "id": "l05-fixed-40",
+    "gameId": "gen_candy_biome_world",
+    "type": "gen_candy_biome_world",
+    "prompt": "5 + 6 = ?",
     "correctAnswer": 5,
     "options": [
-      5,
       3,
-      2,
-      4
+      5,
+      9,
+      6
     ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/rabbit.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
     "targetCount": 5,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
+    "targetCount2": 6,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
   },
   {
-    "id": "l05-q040",
-    "gameId": "level_5",
-    "type": "level_5",
-    "prompt": "Đếm quả bóng và chọn số đúng!",
+    "id": "l05-fixed-41",
+    "gameId": "gen_storybook_popup_world",
+    "type": "gen_storybook_popup_world",
+    "prompt": "Bé có 8 quả bóng, cô tặng thêm 4. Bé có tất cả bao nhiêu?",
+    "correctAnswer": 8,
+    "options": [
+      10,
+      8,
+      7,
+      6
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
+    "targetCount": 8,
+    "targetCount2": 4,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
+  },
+  {
+    "id": "l05-fixed-42",
+    "gameId": "gen_robot_city_constructor",
+    "type": "gen_robot_city_constructor",
+    "prompt": "Bé có 9 con thỏ, cô tặng thêm 4. Bé có tất cả bao nhiêu?",
+    "correctAnswer": 9,
+    "options": [
+      5,
+      11,
+      8,
+      9
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/rabbit.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/coin.png",
+    "targetCount": 9,
+    "targetCount2": 4,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
+  },
+  {
+    "id": "l05-fixed-43",
+    "gameId": "gen_candy_biome_world",
+    "type": "gen_candy_biome_world",
+    "prompt": "Bé có 1 con mèo, cô tặng thêm 9. Bé có tất cả bao nhiêu?",
     "correctAnswer": 1,
     "options": [
-      3,
-      0,
+      7,
       1,
-      2
-    ],
-    "objectIcon": "/icons/ball_icon.png",
-    "objectIcon2": "",
-    "targetCount": 1,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l05-q041",
-    "gameId": "level_5",
-    "type": "level_5",
-    "prompt": "Đếm quả bóng và chọn số đúng!",
-    "correctAnswer": 3,
-    "options": [
-      0,
-      3,
-      1,
-      2
-    ],
-    "objectIcon": "/icons/ball_icon.png",
-    "objectIcon2": "",
-    "targetCount": 3,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l05-q042",
-    "gameId": "level_5",
-    "type": "level_5",
-    "prompt": "Đếm quả dâu và chọn số đúng!",
-    "correctAnswer": 5,
-    "options": [
-      3,
-      2,
-      5,
+      6,
       4
     ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 5,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "targetCount": 1,
+    "targetCount2": 9,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
   },
   {
-    "id": "l05-q043",
-    "gameId": "level_5",
-    "type": "level_5",
-    "prompt": "Đếm quả bóng và chọn số đúng!",
-    "correctAnswer": 2,
+    "id": "l05-fixed-44",
+    "gameId": "gen_storybook_popup_world",
+    "type": "gen_storybook_popup_world",
+    "prompt": "Bé có 8 viên kim cương, cô tặng thêm 7. Bé có tất cả bao nhiêu?",
+    "correctAnswer": 8,
     "options": [
-      1,
-      0,
-      2,
-      3
+      8,
+      5,
+      6,
+      13
     ],
-    "objectIcon": "/icons/ball_icon.png",
-    "objectIcon2": "",
-    "targetCount": 2,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "targetCount": 8,
+    "targetCount2": 7,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
   },
   {
-    "id": "l05-q044",
-    "gameId": "level_5",
-    "type": "level_5",
-    "prompt": "Đếm viên kẹo và chọn số đúng!",
-    "correctAnswer": 3,
+    "id": "l05-fixed-45",
+    "gameId": "gen_robot_city_constructor",
+    "type": "gen_robot_city_constructor",
+    "prompt": "Bé có 8 ngôi sao, cô tặng thêm 4. Bé có tất cả bao nhiêu?",
+    "correctAnswer": 8,
+    "options": [
+      6,
+      8,
+      11,
+      4
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "targetCount": 8,
+    "targetCount2": 4,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
+  },
+  {
+    "id": "l05-fixed-46",
+    "gameId": "gen_candy_biome_world",
+    "type": "gen_candy_biome_world",
+    "prompt": "6 + 5 = ?",
+    "correctAnswer": 6,
     "options": [
       3,
-      0,
+      4,
       2,
-      1
+      6
     ],
-    "objectIcon": "/icons/candy_icon.png",
-    "objectIcon2": "",
-    "targetCount": 3,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/coin.png",
+    "targetCount": 6,
+    "targetCount2": 5,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
   },
   {
-    "id": "l05-q045",
-    "gameId": "level_5",
-    "type": "level_5",
-    "prompt": "Đếm bông hoa và chọn số đúng!",
+    "id": "l05-fixed-47",
+    "gameId": "gen_storybook_popup_world",
+    "type": "gen_storybook_popup_world",
+    "prompt": "Bé có 5 ngôi sao, cô tặng thêm 5. Bé có tất cả bao nhiêu?",
     "correctAnswer": 5,
     "options": [
-      2,
+      1,
       5,
+      6,
+      3
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/candy.png",
+    "targetCount": 5,
+    "targetCount2": 5,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
+  },
+  {
+    "id": "l05-fixed-48",
+    "gameId": "gen_robot_city_constructor",
+    "type": "gen_robot_city_constructor",
+    "prompt": "Bé có 9 viên kim cương, cô tặng thêm 9. Bé có tất cả bao nhiêu?",
+    "correctAnswer": 9,
+    "options": [
+      11,
+      9,
+      10,
+      12
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "targetCount": 9,
+    "targetCount2": 9,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
+  },
+  {
+    "id": "l05-fixed-49",
+    "gameId": "gen_candy_biome_world",
+    "type": "gen_candy_biome_world",
+    "prompt": "3 + 9 = ?",
+    "correctAnswer": 3,
+    "options": [
+      3,
+      8,
       4,
-      3
+      6
     ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 5,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "targetCount": 3,
+    "targetCount2": 9,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
   },
   {
-    "id": "l05-q046",
-    "gameId": "level_5",
-    "type": "level_5",
-    "prompt": "4 + ? = 5",
-    "correctAnswer": 1,
-    "options": [
-      3,
-      0,
-      2,
-      1
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 5,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l05-q047",
-    "gameId": "level_5",
-    "type": "level_5",
-    "prompt": "2 + ? = 5",
+    "id": "l05-fixed-50",
+    "gameId": "gen_storybook_popup_world",
+    "type": "gen_storybook_popup_world",
+    "prompt": "Bé có 3 quả bóng, cô tặng thêm 3. Bé có tất cả bao nhiêu?",
     "correctAnswer": 3,
     "options": [
-      2,
+      8,
       0,
-      1,
+      7,
       3
     ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 5,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l05-q048",
-    "gameId": "level_5",
-    "type": "level_5",
-    "prompt": "2 + ? = 5",
-    "correctAnswer": 3,
-    "options": [
-      3,
-      0,
-      1,
-      2
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 5,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l05-q049",
-    "gameId": "level_5",
-    "type": "level_5",
-    "prompt": "3 + ? = 5",
-    "correctAnswer": 2,
-    "options": [
-      3,
-      2,
-      1,
-      0
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 5,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l05-q050",
-    "gameId": "level_5",
-    "type": "level_5",
-    "prompt": "3 + ? = 5",
-    "correctAnswer": 2,
-    "options": [
-      1,
-      2,
-      3,
-      0
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 5,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "targetCount": 3,
+    "targetCount2": 3,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
   }
 ]

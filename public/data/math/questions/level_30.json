@@ -1,946 +1,952 @@
 [
   {
-    "id": "l30-q001",
-    "gameId": "level_30",
-    "type": "level_30",
-    "prompt": "19 + 1 = ?",
-    "correctAnswer": 20,
+    "id": "l30-fixed-1",
+    "gameId": "gen_train_route_builder",
+    "type": "gen_train_route_builder",
+    "prompt": "Đọc câu chuyện ngắn và chọn phép tính đúng: Có 5 con chim, bay đi 2 con.",
+    "correctAnswer": 5,
     "options": [
-      19,
-      17,
-      20,
-      18
+      2,
+      5,
+      4,
+      3
     ],
-    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/rabbit.png",
     "objectIcon2": "",
-    "targetCount": 19,
-    "targetCount2": 1,
-    "renderMode": "addition",
-    "displayPrompt": null
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
   },
   {
-    "id": "l30-q002",
-    "gameId": "level_30",
-    "type": "level_30",
-    "prompt": "Tính: 19 + 1 = ?",
-    "correctAnswer": 20,
+    "id": "l30-fixed-2",
+    "gameId": "gen_dragon_farm_math",
+    "type": "gen_dragon_farm_math",
+    "prompt": "Đọc câu chuyện ngắn và chọn phép tính đúng: Có 5 con chim, bay đi 2 con.",
+    "correctAnswer": 5,
     "options": [
-      19,
-      17,
-      18,
-      20
+      8,
+      5,
+      0,
+      3
     ],
-    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
     "objectIcon2": "",
-    "targetCount": 19,
-    "targetCount2": 1,
-    "renderMode": "addition",
-    "displayPrompt": null
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
   },
   {
-    "id": "l30-q003",
-    "gameId": "level_30",
-    "type": "level_30",
-    "prompt": "Tính: 9 + 11 = ?",
-    "correctAnswer": 20,
+    "id": "l30-fixed-3",
+    "gameId": "gen_toy_factory_automata",
+    "type": "gen_toy_factory_automata",
+    "prompt": "Đọc câu chuyện ngắn và chọn phép tính đúng: Có 5 con chim, bay đi 2 con.",
+    "correctAnswer": 5,
     "options": [
-      18,
-      19,
-      17,
-      20
+      2,
+      5,
+      1,
+      0
     ],
-    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
     "objectIcon2": "",
-    "targetCount": 9,
-    "targetCount2": 11,
-    "renderMode": "addition",
-    "displayPrompt": null
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
   },
   {
-    "id": "l30-q004",
-    "gameId": "level_30",
-    "type": "level_30",
-    "prompt": "Tính: 2 + 13 = ?",
-    "correctAnswer": 15,
+    "id": "l30-fixed-4",
+    "gameId": "gen_train_route_builder",
+    "type": "gen_train_route_builder",
+    "prompt": "Thử thách tổng hợp: 5 + 3 = ?",
+    "correctAnswer": 8,
     "options": [
-      12,
-      14,
-      15,
+      9,
+      7,
+      8,
       13
     ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 2,
-    "targetCount2": 13,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l30-q005",
-    "gameId": "level_30",
-    "type": "level_30",
-    "prompt": "Tính: 18 + 1 = ?",
-    "correctAnswer": 19,
-    "options": [
-      19,
-      17,
-      18,
-      16
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 18,
-    "targetCount2": 1,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l30-q006",
-    "gameId": "level_30",
-    "type": "level_30",
-    "prompt": "7 + 5 = ?",
-    "correctAnswer": 12,
-    "options": [
-      9,
-      11,
-      12,
-      10
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 7,
-    "targetCount2": 5,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l30-q007",
-    "gameId": "level_30",
-    "type": "level_30",
-    "prompt": "16 + 2 = ?",
-    "correctAnswer": 18,
-    "options": [
-      16,
-      17,
-      15,
-      18
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 16,
-    "targetCount2": 2,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l30-q008",
-    "gameId": "level_30",
-    "type": "level_30",
-    "prompt": "Tính: 5 + 9 = ?",
-    "correctAnswer": 14,
-    "options": [
-      14,
-      11,
-      13,
-      12
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 5,
-    "targetCount2": 9,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l30-q009",
-    "gameId": "level_30",
-    "type": "level_30",
-    "prompt": "14 - 12 = ?",
-    "correctAnswer": 2,
-    "options": [
-      3,
-      0,
-      1,
-      2
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 14,
-    "targetCount2": 12,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l30-q010",
-    "gameId": "level_30",
-    "type": "level_30",
-    "prompt": "19 - 13 = ?",
-    "correctAnswer": 6,
-    "options": [
-      6,
-      5,
-      4,
-      3
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 19,
-    "targetCount2": 13,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l30-q011",
-    "gameId": "level_30",
-    "type": "level_30",
-    "prompt": "Tính: 10 - 5 = ?",
-    "correctAnswer": 5,
-    "options": [
-      4,
-      3,
-      2,
-      5
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 10,
-    "targetCount2": 5,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l30-q012",
-    "gameId": "level_30",
-    "type": "level_30",
-    "prompt": "9 - 4 = ?",
-    "correctAnswer": 5,
-    "options": [
-      5,
-      3,
-      4,
-      2
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 9,
-    "targetCount2": 4,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l30-q013",
-    "gameId": "level_30",
-    "type": "level_30",
-    "prompt": "Tính: 11 - 10 = ?",
-    "correctAnswer": 1,
-    "options": [
-      1,
-      0,
-      2,
-      3
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 11,
-    "targetCount2": 10,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l30-q014",
-    "gameId": "level_30",
-    "type": "level_30",
-    "prompt": "4 - 1 = ?",
-    "correctAnswer": 3,
-    "options": [
-      3,
-      1,
-      2,
-      0
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 4,
-    "targetCount2": 1,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l30-q015",
-    "gameId": "level_30",
-    "type": "level_30",
-    "prompt": "6 - 4 = ?",
-    "correctAnswer": 2,
-    "options": [
-      0,
-      2,
-      1,
-      3
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 6,
-    "targetCount2": 4,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l30-q016",
-    "gameId": "level_30",
-    "type": "level_30",
-    "prompt": "12 - 7 = ?",
-    "correctAnswer": 5,
-    "options": [
-      3,
-      5,
-      4,
-      2
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 12,
-    "targetCount2": 7,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l30-q017",
-    "gameId": "level_30",
-    "type": "level_30",
-    "prompt": "18 ___ 1. Chọn dấu thích hợp:",
-    "correctAnswer": ">",
-    "options": [
-      ">",
-      "<",
-      "="
-    ],
-    "objectIcon": "",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l30-q018",
-    "gameId": "level_30",
-    "type": "level_30",
-    "prompt": "Điền dấu đúng: 18 __ 13",
-    "correctAnswer": ">",
-    "options": [
-      ">",
-      "<",
-      "="
-    ],
-    "objectIcon": "",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l30-q019",
-    "gameId": "level_30",
-    "type": "level_30",
-    "prompt": "So sánh: 17 ☐ 6",
-    "correctAnswer": ">",
-    "options": [
-      ">",
-      "<",
-      "="
-    ],
-    "objectIcon": "",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l30-q020",
-    "gameId": "level_30",
-    "type": "level_30",
-    "prompt": "2 ___ 17. Chọn dấu thích hợp:",
-    "correctAnswer": "<",
-    "options": [
-      ">",
-      "<",
-      "="
-    ],
-    "objectIcon": "",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l30-q021",
-    "gameId": "level_30",
-    "type": "level_30",
-    "prompt": "1 ___ 13. Chọn dấu thích hợp:",
-    "correctAnswer": "<",
-    "options": [
-      ">",
-      "<",
-      "="
-    ],
-    "objectIcon": "",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l30-q022",
-    "gameId": "level_30",
-    "type": "level_30",
-    "prompt": "So sánh: 11 ☐ 11",
-    "correctAnswer": "=",
-    "options": [
-      ">",
-      "<",
-      "="
-    ],
-    "objectIcon": "",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l30-q023",
-    "gameId": "level_30",
-    "type": "level_30",
-    "prompt": "Linh có 7 viên kẹo, mẹ cho thêm 7. Có tất cả bao nhiêu?",
-    "correctAnswer": 14,
-    "options": [
-      12,
-      13,
-      14,
-      11
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 7,
-    "targetCount2": 7,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l30-q024",
-    "gameId": "level_30",
-    "type": "level_30",
-    "prompt": "Mai có 5 chiếc bánh, mẹ cho thêm 15. Có tất cả bao nhiêu?",
-    "correctAnswer": 20,
-    "options": [
-      18,
-      19,
-      20,
-      17
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 5,
-    "targetCount2": 15,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l30-q025",
-    "gameId": "level_30",
-    "type": "level_30",
-    "prompt": "Bình có 12 viên kẹo, mẹ cho thêm 6. Có tất cả bao nhiêu?",
-    "correctAnswer": 18,
-    "options": [
-      17,
-      18,
-      15,
-      16
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 12,
-    "targetCount2": 6,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l30-q026",
-    "gameId": "level_30",
-    "type": "level_30",
-    "prompt": "Buổi sáng có 18 quả bóng, buổi chiều thêm 2 quả bóng. Tất cả là bao nhiêu?",
-    "correctAnswer": 20,
-    "options": [
-      20,
-      17,
-      19,
-      18
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 18,
-    "targetCount2": 2,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l30-q027",
-    "gameId": "level_30",
-    "type": "level_30",
-    "prompt": "Mai nhặt được 15 quả chuối rồi nhặt thêm 2 quả chuối. Có tất cả mấy quả chuối?",
-    "correctAnswer": 17,
-    "options": [
-      15,
-      14,
-      17,
-      16
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 15,
-    "targetCount2": 2,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l30-q028",
-    "gameId": "level_30",
-    "type": "level_30",
-    "prompt": "Buổi sáng có 11 chiếc bánh, buổi chiều thêm 1 chiếc bánh. Tất cả là bao nhiêu?",
-    "correctAnswer": 12,
-    "options": [
-      10,
-      11,
-      9,
-      12
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 11,
-    "targetCount2": 1,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l30-q029",
-    "gameId": "level_30",
-    "type": "level_30",
-    "prompt": "Có 7 quả dâu, dùng hết 5. Còn lại mấy quả dâu?",
-    "correctAnswer": 2,
-    "options": [
-      3,
-      0,
-      2,
-      1
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 7,
-    "targetCount2": 5,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l30-q030",
-    "gameId": "level_30",
-    "type": "level_30",
-    "prompt": "Hộp có 10 bông hoa, lấy ra 6. Còn lại bao nhiêu?",
-    "correctAnswer": 4,
-    "options": [
-      4,
-      2,
-      1,
-      3
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 10,
-    "targetCount2": 6,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l30-q031",
-    "gameId": "level_30",
-    "type": "level_30",
-    "prompt": "Hộp có 5 viên kẹo, lấy ra 4. Còn lại bao nhiêu?",
-    "correctAnswer": 1,
-    "options": [
-      0,
-      2,
-      3,
-      1
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 5,
-    "targetCount2": 4,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l30-q032",
-    "gameId": "level_30",
-    "type": "level_30",
-    "prompt": "Có 11 quả dâu, dùng hết 3. Còn lại mấy quả dâu?",
-    "correctAnswer": 8,
-    "options": [
-      6,
-      5,
-      8,
-      7
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 11,
-    "targetCount2": 3,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l30-q033",
-    "gameId": "level_30",
-    "type": "level_30",
-    "prompt": "Bình có 13 viên kẹo, cho bạn 12. Còn lại bao nhiêu?",
-    "correctAnswer": 1,
-    "options": [
-      0,
-      1,
-      3,
-      2
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 13,
-    "targetCount2": 12,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l30-q034",
-    "gameId": "level_30",
-    "type": "level_30",
-    "prompt": "Lan có 17 viên kẹo, cho bạn 13. Còn lại bao nhiêu?",
-    "correctAnswer": 4,
-    "options": [
-      4,
-      3,
-      2,
-      1
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 17,
-    "targetCount2": 13,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l30-q035",
-    "gameId": "level_30",
-    "type": "level_30",
-    "prompt": "15 + ? = 16",
-    "correctAnswer": 1,
-    "options": [
-      2,
-      0,
-      3,
-      1
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 16,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l30-q036",
-    "gameId": "level_30",
-    "type": "level_30",
-    "prompt": "15 + ? = 16",
-    "correctAnswer": 1,
-    "options": [
-      1,
-      2,
-      0,
-      3
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 16,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l30-q037",
-    "gameId": "level_30",
-    "type": "level_30",
-    "prompt": "16 + ? = 18",
-    "correctAnswer": 2,
-    "options": [
-      3,
-      1,
-      2,
-      0
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 18,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l30-q038",
-    "gameId": "level_30",
-    "type": "level_30",
-    "prompt": "16 + ? = 19",
-    "correctAnswer": 3,
-    "options": [
-      0,
-      1,
-      2,
-      3
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 19,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l30-q039",
-    "gameId": "level_30",
-    "type": "level_30",
-    "prompt": "10 + ? = 20",
-    "correctAnswer": 10,
-    "options": [
-      7,
-      10,
-      9,
-      8
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 20,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l30-q040",
-    "gameId": "level_30",
-    "type": "level_30",
-    "prompt": "19 + ? = 20",
-    "correctAnswer": 1,
-    "options": [
-      3,
-      2,
-      0,
-      1
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 20,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l30-q041",
-    "gameId": "level_30",
-    "type": "level_30",
-    "prompt": "Điền số còn thiếu: 7, ?, 9, 10",
-    "correctAnswer": 8,
-    "options": [
-      8,
-      6,
-      9,
-      7
-    ],
-    "objectIcon": "/icons/star_icon.png",
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
     "objectIcon2": "",
     "targetCount": 8,
     "targetCount2": 0,
     "renderMode": "single",
-    "displayPrompt": null
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
   },
   {
-    "id": "l30-q042",
-    "gameId": "level_30",
-    "type": "level_30",
-    "prompt": "Điền số còn thiếu: 11, ?, 13, 14, 15",
-    "correctAnswer": 12,
-    "options": [
-      11,
-      10,
-      13,
-      12
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 12,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l30-q043",
-    "gameId": "level_30",
-    "type": "level_30",
-    "prompt": "Điền số còn thiếu: 2, ?, 4, 5, 6",
-    "correctAnswer": 3,
-    "options": [
-      4,
-      2,
-      3,
-      1
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 3,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l30-q044",
-    "gameId": "level_30",
-    "type": "level_30",
-    "prompt": "Điền số còn thiếu: 2, 3, ?",
-    "correctAnswer": 4,
-    "options": [
-      3,
-      1,
-      4,
-      2
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 4,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l30-q045",
-    "gameId": "level_30",
-    "type": "level_30",
-    "prompt": "Điền số còn thiếu: 4, ?, 6",
+    "id": "l30-fixed-5",
+    "gameId": "gen_dragon_farm_math",
+    "type": "gen_dragon_farm_math",
+    "prompt": "Đọc câu chuyện ngắn và chọn phép tính đúng: Có 5 con chim, bay đi 2 con.",
     "correctAnswer": 5,
     "options": [
-      6,
-      5,
+      8,
+      1,
       4,
-      3
+      5
     ],
-    "objectIcon": "/icons/star_icon.png",
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
     "objectIcon2": "",
     "targetCount": 5,
     "targetCount2": 0,
     "renderMode": "single",
-    "displayPrompt": null
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
   },
   {
-    "id": "l30-q046",
-    "gameId": "level_30",
-    "type": "level_30",
-    "prompt": "Mua 1 viên kẹo giá 5 nghìn và 1 chiếc bánh giá 9 nghìn. Tất cả bao nhiêu nghìn?",
+    "id": "l30-fixed-6",
+    "gameId": "gen_toy_factory_automata",
+    "type": "gen_toy_factory_automata",
+    "prompt": "Thử thách tổng hợp: 9 + 6 = ?",
+    "correctAnswer": 15,
+    "options": [
+      18,
+      19,
+      15,
+      10
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/rabbit.png",
+    "objectIcon2": "",
+    "targetCount": 15,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
+  },
+  {
+    "id": "l30-fixed-7",
+    "gameId": "gen_train_route_builder",
+    "type": "gen_train_route_builder",
+    "prompt": "Thử thách tổng hợp: 8 + 2 = ?",
+    "correctAnswer": 10,
+    "options": [
+      5,
+      12,
+      13,
+      10
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/rabbit.png",
+    "objectIcon2": "",
+    "targetCount": 10,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
+  },
+  {
+    "id": "l30-fixed-8",
+    "gameId": "gen_dragon_farm_math",
+    "type": "gen_dragon_farm_math",
+    "prompt": "Thử thách tổng hợp: 3 + 1 = ?",
+    "correctAnswer": 4,
+    "options": [
+      0,
+      4,
+      5,
+      2
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
+    "objectIcon2": "",
+    "targetCount": 4,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
+  },
+  {
+    "id": "l30-fixed-9",
+    "gameId": "gen_toy_factory_automata",
+    "type": "gen_toy_factory_automata",
+    "prompt": "Đọc câu chuyện ngắn và chọn phép tính đúng: Có 5 con chim, bay đi 2 con.",
+    "correctAnswer": 5,
+    "options": [
+      0,
+      6,
+      9,
+      5
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
+  },
+  {
+    "id": "l30-fixed-10",
+    "gameId": "gen_train_route_builder",
+    "type": "gen_train_route_builder",
+    "prompt": "Đọc câu chuyện ngắn và chọn phép tính đúng: Có 5 con chim, bay đi 2 con.",
+    "correctAnswer": 5,
+    "options": [
+      4,
+      9,
+      1,
+      5
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/rabbit.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
+  },
+  {
+    "id": "l30-fixed-11",
+    "gameId": "gen_dragon_farm_math",
+    "type": "gen_dragon_farm_math",
+    "prompt": "Thử thách tổng hợp: 9 - 5 = ?",
+    "correctAnswer": 14,
+    "options": [
+      10,
+      14,
+      13,
+      19
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "objectIcon2": "",
+    "targetCount": 14,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
+  },
+  {
+    "id": "l30-fixed-12",
+    "gameId": "gen_toy_factory_automata",
+    "type": "gen_toy_factory_automata",
+    "prompt": "Thử thách tổng hợp: 6 - 2 = ?",
+    "correctAnswer": 8,
+    "options": [
+      11,
+      7,
+      3,
+      8
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
+    "objectIcon2": "",
+    "targetCount": 8,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
+  },
+  {
+    "id": "l30-fixed-13",
+    "gameId": "gen_train_route_builder",
+    "type": "gen_train_route_builder",
+    "prompt": "Thử thách tổng hợp: 5 + 2 = ?",
+    "correctAnswer": 7,
+    "options": [
+      2,
+      6,
+      7,
+      12
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/rabbit.png",
+    "objectIcon2": "",
+    "targetCount": 7,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
+  },
+  {
+    "id": "l30-fixed-14",
+    "gameId": "gen_dragon_farm_math",
+    "type": "gen_dragon_farm_math",
+    "prompt": "Thử thách tổng hợp: 3 - 4 = ?",
+    "correctAnswer": 7,
+    "options": [
+      2,
+      7,
+      5,
+      11
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
+    "objectIcon2": "",
+    "targetCount": 7,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
+  },
+  {
+    "id": "l30-fixed-15",
+    "gameId": "gen_toy_factory_automata",
+    "type": "gen_toy_factory_automata",
+    "prompt": "Thử thách tổng hợp: 3 - 7 = ?",
+    "correctAnswer": 10,
+    "options": [
+      13,
+      12,
+      7,
+      10
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "objectIcon2": "",
+    "targetCount": 10,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
+  },
+  {
+    "id": "l30-fixed-16",
+    "gameId": "gen_train_route_builder",
+    "type": "gen_train_route_builder",
+    "prompt": "Đọc câu chuyện ngắn và chọn phép tính đúng: Có 5 con chim, bay đi 2 con.",
+    "correctAnswer": 5,
+    "options": [
+      5,
+      8,
+      6,
+      3
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/rabbit.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
+  },
+  {
+    "id": "l30-fixed-17",
+    "gameId": "gen_dragon_farm_math",
+    "type": "gen_dragon_farm_math",
+    "prompt": "Thử thách tổng hợp: 10 + 8 = ?",
+    "correctAnswer": 18,
+    "options": [
+      16,
+      20,
+      18,
+      17
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
+    "objectIcon2": "",
+    "targetCount": 18,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
+  },
+  {
+    "id": "l30-fixed-18",
+    "gameId": "gen_toy_factory_automata",
+    "type": "gen_toy_factory_automata",
+    "prompt": "Thử thách tổng hợp: 4 - 10 = ?",
     "correctAnswer": 14,
     "options": [
       12,
-      13,
       14,
-      11
+      9,
+      10
     ],
-    "objectIcon": "/icons/coin_icon.png",
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
     "objectIcon2": "",
-    "targetCount": 0,
+    "targetCount": 14,
     "targetCount2": 0,
     "renderMode": "single",
-    "displayPrompt": null
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
   },
   {
-    "id": "l30-q047",
-    "gameId": "level_30",
-    "type": "level_30",
-    "prompt": "Mua 1 viên kẹo giá 5 nghìn và 1 chiếc bánh giá 3 nghìn. Tất cả bao nhiêu nghìn?",
-    "correctAnswer": 8,
+    "id": "l30-fixed-19",
+    "gameId": "gen_train_route_builder",
+    "type": "gen_train_route_builder",
+    "prompt": "Thử thách tổng hợp: 8 + 7 = ?",
+    "correctAnswer": 15,
+    "options": [
+      13,
+      15,
+      18,
+      14
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "objectIcon2": "",
+    "targetCount": 15,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
+  },
+  {
+    "id": "l30-fixed-20",
+    "gameId": "gen_dragon_farm_math",
+    "type": "gen_dragon_farm_math",
+    "prompt": "Thử thách tổng hợp: 6 + 1 = ?",
+    "correctAnswer": 7,
+    "options": [
+      11,
+      3,
+      7,
+      6
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
+    "objectIcon2": "",
+    "targetCount": 7,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
+  },
+  {
+    "id": "l30-fixed-21",
+    "gameId": "gen_toy_factory_automata",
+    "type": "gen_toy_factory_automata",
+    "prompt": "Đọc câu chuyện ngắn và chọn phép tính đúng: Có 5 con chim, bay đi 2 con.",
+    "correctAnswer": 5,
+    "options": [
+      1,
+      4,
+      5,
+      3
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
+  },
+  {
+    "id": "l30-fixed-22",
+    "gameId": "gen_train_route_builder",
+    "type": "gen_train_route_builder",
+    "prompt": "Thử thách tổng hợp: 9 - 6 = ?",
+    "correctAnswer": 15,
+    "options": [
+      10,
+      12,
+      18,
+      15
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "objectIcon2": "",
+    "targetCount": 15,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
+  },
+  {
+    "id": "l30-fixed-23",
+    "gameId": "gen_dragon_farm_math",
+    "type": "gen_dragon_farm_math",
+    "prompt": "Thử thách tổng hợp: 8 + 9 = ?",
+    "correctAnswer": 17,
+    "options": [
+      17,
+      18,
+      20,
+      19
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "objectIcon2": "",
+    "targetCount": 17,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
+  },
+  {
+    "id": "l30-fixed-24",
+    "gameId": "gen_toy_factory_automata",
+    "type": "gen_toy_factory_automata",
+    "prompt": "Thử thách tổng hợp: 1 - 1 = ?",
+    "correctAnswer": 2,
+    "options": [
+      2,
+      3,
+      6,
+      7
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
+    "objectIcon2": "",
+    "targetCount": 2,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
+  },
+  {
+    "id": "l30-fixed-25",
+    "gameId": "gen_train_route_builder",
+    "type": "gen_train_route_builder",
+    "prompt": "Đọc câu chuyện ngắn và chọn phép tính đúng: Có 5 con chim, bay đi 2 con.",
+    "correctAnswer": 5,
+    "options": [
+      6,
+      5,
+      1,
+      4
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
+  },
+  {
+    "id": "l30-fixed-26",
+    "gameId": "gen_dragon_farm_math",
+    "type": "gen_dragon_farm_math",
+    "prompt": "Đọc câu chuyện ngắn và chọn phép tính đúng: Có 5 con chim, bay đi 2 con.",
+    "correctAnswer": 5,
+    "options": [
+      0,
+      1,
+      5,
+      7
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
+  },
+  {
+    "id": "l30-fixed-27",
+    "gameId": "gen_toy_factory_automata",
+    "type": "gen_toy_factory_automata",
+    "prompt": "Đọc câu chuyện ngắn và chọn phép tính đúng: Có 5 con chim, bay đi 2 con.",
+    "correctAnswer": 5,
+    "options": [
+      7,
+      5,
+      0,
+      6
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
+  },
+  {
+    "id": "l30-fixed-28",
+    "gameId": "gen_train_route_builder",
+    "type": "gen_train_route_builder",
+    "prompt": "Thử thách tổng hợp: 3 - 2 = ?",
+    "correctAnswer": 5,
+    "options": [
+      5,
+      8,
+      10,
+      3
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
+  },
+  {
+    "id": "l30-fixed-29",
+    "gameId": "gen_dragon_farm_math",
+    "type": "gen_dragon_farm_math",
+    "prompt": "Đọc câu chuyện ngắn và chọn phép tính đúng: Có 5 con chim, bay đi 2 con.",
+    "correctAnswer": 5,
+    "options": [
+      4,
+      5,
+      2,
+      7
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
+  },
+  {
+    "id": "l30-fixed-30",
+    "gameId": "gen_toy_factory_automata",
+    "type": "gen_toy_factory_automata",
+    "prompt": "Thử thách tổng hợp: 2 + 3 = ?",
+    "correctAnswer": 5,
     "options": [
       5,
       6,
-      7,
-      8
+      4,
+      10
     ],
-    "objectIcon": "/icons/coin_icon.png",
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
     "objectIcon2": "",
-    "targetCount": 0,
+    "targetCount": 5,
     "targetCount2": 0,
     "renderMode": "single",
-    "displayPrompt": null
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
   },
   {
-    "id": "l30-q048",
-    "gameId": "level_30",
-    "type": "level_30",
-    "prompt": "Mua 1 chiếc bánh giá 8 nghìn và 1 viên kẹo giá 3 nghìn. Tất cả bao nhiêu nghìn?",
-    "correctAnswer": 11,
-    "options": [
-      8,
-      11,
-      10,
-      9
-    ],
-    "objectIcon": "/icons/coin_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l30-q049",
-    "gameId": "level_30",
-    "type": "level_30",
-    "prompt": "Mua 1 bông hoa giá 3 nghìn và 1 quả táo giá 5 nghìn. Tất cả bao nhiêu nghìn?",
+    "id": "l30-fixed-31",
+    "gameId": "gen_train_route_builder",
+    "type": "gen_train_route_builder",
+    "prompt": "Thử thách tổng hợp: 4 + 4 = ?",
     "correctAnswer": 8,
     "options": [
-      8,
       7,
-      5,
-      6
+      3,
+      8,
+      9
     ],
-    "objectIcon": "/icons/coin_icon.png",
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
     "objectIcon2": "",
-    "targetCount": 0,
+    "targetCount": 8,
     "targetCount2": 0,
     "renderMode": "single",
-    "displayPrompt": null
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
   },
   {
-    "id": "l30-q050",
-    "gameId": "level_30",
-    "type": "level_30",
-    "prompt": "Mua 1 quả táo giá 5 nghìn và 1 viên kẹo giá 4 nghìn. Tất cả bao nhiêu nghìn?",
+    "id": "l30-fixed-32",
+    "gameId": "gen_dragon_farm_math",
+    "type": "gen_dragon_farm_math",
+    "prompt": "Thử thách tổng hợp: 1 - 9 = ?",
+    "correctAnswer": 10,
+    "options": [
+      7,
+      10,
+      5,
+      8
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "objectIcon2": "",
+    "targetCount": 10,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
+  },
+  {
+    "id": "l30-fixed-33",
+    "gameId": "gen_toy_factory_automata",
+    "type": "gen_toy_factory_automata",
+    "prompt": "Thử thách tổng hợp: 6 + 6 = ?",
+    "correctAnswer": 12,
+    "options": [
+      9,
+      12,
+      17,
+      15
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
+    "objectIcon2": "",
+    "targetCount": 12,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
+  },
+  {
+    "id": "l30-fixed-34",
+    "gameId": "gen_train_route_builder",
+    "type": "gen_train_route_builder",
+    "prompt": "Thử thách tổng hợp: 6 + 4 = ?",
+    "correctAnswer": 10,
+    "options": [
+      6,
+      7,
+      12,
+      10
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "objectIcon2": "",
+    "targetCount": 10,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
+  },
+  {
+    "id": "l30-fixed-35",
+    "gameId": "gen_dragon_farm_math",
+    "type": "gen_dragon_farm_math",
+    "prompt": "Thử thách tổng hợp: 4 + 4 = ?",
+    "correctAnswer": 8,
+    "options": [
+      6,
+      13,
+      8,
+      12
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "objectIcon2": "",
+    "targetCount": 8,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
+  },
+  {
+    "id": "l30-fixed-36",
+    "gameId": "gen_toy_factory_automata",
+    "type": "gen_toy_factory_automata",
+    "prompt": "Đọc câu chuyện ngắn và chọn phép tính đúng: Có 5 con chim, bay đi 2 con.",
+    "correctAnswer": 5,
+    "options": [
+      8,
+      5,
+      10,
+      0
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
+  },
+  {
+    "id": "l30-fixed-37",
+    "gameId": "gen_train_route_builder",
+    "type": "gen_train_route_builder",
+    "prompt": "Thử thách tổng hợp: 8 - 1 = ?",
+    "correctAnswer": 9,
+    "options": [
+      4,
+      9,
+      8,
+      11
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "objectIcon2": "",
+    "targetCount": 9,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
+  },
+  {
+    "id": "l30-fixed-38",
+    "gameId": "gen_dragon_farm_math",
+    "type": "gen_dragon_farm_math",
+    "prompt": "Thử thách tổng hợp: 6 + 7 = ?",
+    "correctAnswer": 13,
+    "options": [
+      13,
+      18,
+      11,
+      9
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "objectIcon2": "",
+    "targetCount": 13,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
+  },
+  {
+    "id": "l30-fixed-39",
+    "gameId": "gen_toy_factory_automata",
+    "type": "gen_toy_factory_automata",
+    "prompt": "Thử thách tổng hợp: 2 - 4 = ?",
+    "correctAnswer": 6,
+    "options": [
+      10,
+      8,
+      6,
+      3
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "objectIcon2": "",
+    "targetCount": 6,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
+  },
+  {
+    "id": "l30-fixed-40",
+    "gameId": "gen_train_route_builder",
+    "type": "gen_train_route_builder",
+    "prompt": "Thử thách tổng hợp: 6 + 8 = ?",
+    "correctAnswer": 14,
+    "options": [
+      9,
+      14,
+      13,
+      11
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
+    "objectIcon2": "",
+    "targetCount": 14,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
+  },
+  {
+    "id": "l30-fixed-41",
+    "gameId": "gen_dragon_farm_math",
+    "type": "gen_dragon_farm_math",
+    "prompt": "Đọc câu chuyện ngắn và chọn phép tính đúng: Có 5 con chim, bay đi 2 con.",
+    "correctAnswer": 5,
+    "options": [
+      5,
+      8,
+      2,
+      4
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
+  },
+  {
+    "id": "l30-fixed-42",
+    "gameId": "gen_toy_factory_automata",
+    "type": "gen_toy_factory_automata",
+    "prompt": "Đọc câu chuyện ngắn và chọn phép tính đúng: Có 5 con chim, bay đi 2 con.",
+    "correctAnswer": 5,
+    "options": [
+      5,
+      9,
+      6,
+      3
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
+  },
+  {
+    "id": "l30-fixed-43",
+    "gameId": "gen_train_route_builder",
+    "type": "gen_train_route_builder",
+    "prompt": "Thử thách tổng hợp: 4 - 10 = ?",
+    "correctAnswer": 14,
+    "options": [
+      12,
+      16,
+      14,
+      13
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "objectIcon2": "",
+    "targetCount": 14,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
+  },
+  {
+    "id": "l30-fixed-44",
+    "gameId": "gen_dragon_farm_math",
+    "type": "gen_dragon_farm_math",
+    "prompt": "Đọc câu chuyện ngắn và chọn phép tính đúng: Có 5 con chim, bay đi 2 con.",
+    "correctAnswer": 5,
+    "options": [
+      4,
+      1,
+      7,
+      5
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
+  },
+  {
+    "id": "l30-fixed-45",
+    "gameId": "gen_toy_factory_automata",
+    "type": "gen_toy_factory_automata",
+    "prompt": "Thử thách tổng hợp: 4 + 2 = ?",
+    "correctAnswer": 6,
+    "options": [
+      7,
+      8,
+      6,
+      3
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/rabbit.png",
+    "objectIcon2": "",
+    "targetCount": 6,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
+  },
+  {
+    "id": "l30-fixed-46",
+    "gameId": "gen_train_route_builder",
+    "type": "gen_train_route_builder",
+    "prompt": "Thử thách tổng hợp: 1 + 8 = ?",
     "correctAnswer": 9,
     "options": [
       9,
-      6,
-      8,
-      7
+      4,
+      11,
+      14
     ],
-    "objectIcon": "/icons/coin_icon.png",
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
     "objectIcon2": "",
-    "targetCount": 0,
+    "targetCount": 9,
     "targetCount2": 0,
     "renderMode": "single",
-    "displayPrompt": null
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
+  },
+  {
+    "id": "l30-fixed-47",
+    "gameId": "gen_dragon_farm_math",
+    "type": "gen_dragon_farm_math",
+    "prompt": "Thử thách tổng hợp: 3 - 6 = ?",
+    "correctAnswer": 9,
+    "options": [
+      13,
+      12,
+      9,
+      5
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
+    "objectIcon2": "",
+    "targetCount": 9,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
+  },
+  {
+    "id": "l30-fixed-48",
+    "gameId": "gen_toy_factory_automata",
+    "type": "gen_toy_factory_automata",
+    "prompt": "Thử thách tổng hợp: 5 + 10 = ?",
+    "correctAnswer": 15,
+    "options": [
+      15,
+      13,
+      10,
+      20
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "objectIcon2": "",
+    "targetCount": 15,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
+  },
+  {
+    "id": "l30-fixed-49",
+    "gameId": "gen_train_route_builder",
+    "type": "gen_train_route_builder",
+    "prompt": "Thử thách tổng hợp: 9 + 5 = ?",
+    "correctAnswer": 14,
+    "options": [
+      16,
+      18,
+      14,
+      9
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
+    "objectIcon2": "",
+    "targetCount": 14,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
+  },
+  {
+    "id": "l30-fixed-50",
+    "gameId": "gen_dragon_farm_math",
+    "type": "gen_dragon_farm_math",
+    "prompt": "Đọc câu chuyện ngắn và chọn phép tính đúng: Có 5 con chim, bay đi 2 con.",
+    "correctAnswer": 5,
+    "options": [
+      7,
+      5,
+      3,
+      0
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
   }
 ]

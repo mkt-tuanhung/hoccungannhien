@@ -1,952 +1,952 @@
 [
   {
-    "id": "l02-q001",
-    "gameId": "level_2",
-    "type": "level_2",
-    "prompt": "Đếm quả dâu và chọn số đúng!",
-    "correctAnswer": 6,
+    "id": "l02-fixed-1",
+    "gameId": "gen_ocean_reef_math",
+    "type": "gen_ocean_reef_math",
+    "prompt": "Đếm xem trong giỏ có bao nhiêu quả bóng.",
+    "correctAnswer": 5,
     "options": [
-      3,
       5,
-      4,
-      6
+      9,
+      7,
+      4
     ],
-    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
     "objectIcon2": "",
-    "targetCount": 6,
+    "targetCount": 5,
     "targetCount2": 0,
     "renderMode": "single",
-    "displayPrompt": null
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
   },
   {
-    "id": "l02-q002",
-    "gameId": "level_2",
-    "type": "level_2",
-    "prompt": "Đếm quả táo và chọn số đúng!",
-    "correctAnswer": 1,
+    "id": "l02-fixed-2",
+    "gameId": "gen_dinosaur_valley_math",
+    "type": "gen_dinosaur_valley_math",
+    "prompt": "Cho thú cưng ăn đúng 4 con thỏ.",
+    "correctAnswer": 4,
     "options": [
-      1,
-      3,
+      9,
+      4,
       2,
+      8
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/rabbit.png",
+    "objectIcon2": "",
+    "targetCount": 4,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
+  },
+  {
+    "id": "l02-fixed-3",
+    "gameId": "gen_crystal_cave_explorer",
+    "type": "gen_crystal_cave_explorer",
+    "prompt": "Đếm xem trong giỏ có bao nhiêu quả táo.",
+    "correctAnswer": 5,
+    "options": [
+      7,
+      5,
+      2,
+      3
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
+  },
+  {
+    "id": "l02-fixed-4",
+    "gameId": "gen_ocean_reef_math",
+    "type": "gen_ocean_reef_math",
+    "prompt": "Cho thú cưng ăn đúng 4 con mèo.",
+    "correctAnswer": 4,
+    "options": [
+      4,
+      7,
+      10,
       0
     ],
-    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "objectIcon2": "",
+    "targetCount": 4,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
+  },
+  {
+    "id": "l02-fixed-5",
+    "gameId": "gen_dinosaur_valley_math",
+    "type": "gen_dinosaur_valley_math",
+    "prompt": "Cho thú cưng ăn đúng 1 viên kim cương.",
+    "correctAnswer": 1,
+    "options": [
+      0,
+      5,
+      2,
+      1
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
     "objectIcon2": "",
     "targetCount": 1,
     "targetCount2": 0,
     "renderMode": "single",
-    "displayPrompt": null
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
   },
   {
-    "id": "l02-q003",
-    "gameId": "level_2",
-    "type": "level_2",
-    "prompt": "Đếm ngôi sao và chọn số đúng!",
-    "correctAnswer": 6,
+    "id": "l02-fixed-6",
+    "gameId": "gen_crystal_cave_explorer",
+    "type": "gen_crystal_cave_explorer",
+    "prompt": "Đếm xem trong giỏ có bao nhiêu ngôi sao.",
+    "correctAnswer": 5,
     "options": [
       6,
-      3,
       5,
+      10,
       4
     ],
-    "objectIcon": "/icons/star_icon.png",
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
     "objectIcon2": "",
-    "targetCount": 6,
+    "targetCount": 5,
     "targetCount2": 0,
     "renderMode": "single",
-    "displayPrompt": null
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
   },
   {
-    "id": "l02-q004",
-    "gameId": "level_2",
-    "type": "level_2",
-    "prompt": "Đếm viên kẹo và chọn số đúng!",
-    "correctAnswer": 9,
+    "id": "l02-fixed-7",
+    "gameId": "gen_ocean_reef_math",
+    "type": "gen_ocean_reef_math",
+    "prompt": "Cho thú cưng ăn đúng 7 ngôi sao.",
+    "correctAnswer": 7,
     "options": [
-      9,
+      2,
+      10,
       8,
-      7,
-      6
+      7
     ],
-    "objectIcon": "/icons/candy_icon.png",
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
     "objectIcon2": "",
-    "targetCount": 9,
+    "targetCount": 7,
     "targetCount2": 0,
     "renderMode": "single",
-    "displayPrompt": null
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
   },
   {
-    "id": "l02-q005",
-    "gameId": "level_2",
-    "type": "level_2",
-    "prompt": "Đếm chiếc bánh và chọn số đúng!",
+    "id": "l02-fixed-8",
+    "gameId": "gen_dinosaur_valley_math",
+    "type": "gen_dinosaur_valley_math",
+    "prompt": "Đếm xem trong giỏ có bao nhiêu quả táo.",
+    "correctAnswer": 5,
+    "options": [
+      2,
+      4,
+      5,
+      7
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
+  },
+  {
+    "id": "l02-fixed-9",
+    "gameId": "gen_crystal_cave_explorer",
+    "type": "gen_crystal_cave_explorer",
+    "prompt": "Đếm xem trong giỏ có bao nhiêu ngôi sao.",
+    "correctAnswer": 5,
+    "options": [
+      7,
+      4,
+      6,
+      5
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
+  },
+  {
+    "id": "l02-fixed-10",
+    "gameId": "gen_ocean_reef_math",
+    "type": "gen_ocean_reef_math",
+    "prompt": "Cho thú cưng ăn đúng 10 quả táo.",
     "correctAnswer": 10,
     "options": [
-      9,
+      10,
+      14,
       8,
+      12
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
+    "objectIcon2": "",
+    "targetCount": 10,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
+  },
+  {
+    "id": "l02-fixed-11",
+    "gameId": "gen_dinosaur_valley_math",
+    "type": "gen_dinosaur_valley_math",
+    "prompt": "Cho thú cưng ăn đúng 3 quả táo.",
+    "correctAnswer": 3,
+    "options": [
       7,
+      8,
+      3,
+      2
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
+    "objectIcon2": "",
+    "targetCount": 3,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
+  },
+  {
+    "id": "l02-fixed-12",
+    "gameId": "gen_crystal_cave_explorer",
+    "type": "gen_crystal_cave_explorer",
+    "prompt": "Đếm xem trong giỏ có bao nhiêu con thỏ.",
+    "correctAnswer": 5,
+    "options": [
+      5,
+      3,
+      6,
       10
     ],
-    "objectIcon": "/icons/candy_icon.png",
-    "objectIcon2": "",
-    "targetCount": 10,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l02-q006",
-    "gameId": "level_2",
-    "type": "level_2",
-    "prompt": "Đếm quả dâu và chọn số đúng!",
-    "correctAnswer": 5,
-    "options": [
-      3,
-      2,
-      4,
-      5
-    ],
-    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/rabbit.png",
     "objectIcon2": "",
     "targetCount": 5,
     "targetCount2": 0,
     "renderMode": "single",
-    "displayPrompt": null
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
   },
   {
-    "id": "l02-q007",
-    "gameId": "level_2",
-    "type": "level_2",
-    "prompt": "Đếm quả bóng và chọn số đúng!",
-    "correctAnswer": 2,
-    "options": [
-      2,
-      1,
-      0,
-      3
-    ],
-    "objectIcon": "/icons/ball_icon.png",
-    "objectIcon2": "",
-    "targetCount": 2,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l02-q008",
-    "gameId": "level_2",
-    "type": "level_2",
-    "prompt": "Đếm chiếc bánh và chọn số đúng!",
-    "correctAnswer": 9,
+    "id": "l02-fixed-13",
+    "gameId": "gen_ocean_reef_math",
+    "type": "gen_ocean_reef_math",
+    "prompt": "Cho thú cưng ăn đúng 7 con mèo.",
+    "correctAnswer": 7,
     "options": [
       7,
+      6,
+      2,
+      5
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "objectIcon2": "",
+    "targetCount": 7,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
+  },
+  {
+    "id": "l02-fixed-14",
+    "gameId": "gen_dinosaur_valley_math",
+    "type": "gen_dinosaur_valley_math",
+    "prompt": "Cho thú cưng ăn đúng 7 viên kim cương.",
+    "correctAnswer": 7,
+    "options": [
+      12,
       9,
       6,
-      8
+      7
     ],
-    "objectIcon": "/icons/candy_icon.png",
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
     "objectIcon2": "",
-    "targetCount": 9,
+    "targetCount": 7,
     "targetCount2": 0,
     "renderMode": "single",
-    "displayPrompt": null
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
   },
   {
-    "id": "l02-q009",
-    "gameId": "level_2",
-    "type": "level_2",
-    "prompt": "Đếm quả táo và chọn số đúng!",
+    "id": "l02-fixed-15",
+    "gameId": "gen_crystal_cave_explorer",
+    "type": "gen_crystal_cave_explorer",
+    "prompt": "Đếm xem trong giỏ có bao nhiêu con thỏ.",
+    "correctAnswer": 5,
+    "options": [
+      5,
+      9,
+      4,
+      8
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/rabbit.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
+  },
+  {
+    "id": "l02-fixed-16",
+    "gameId": "gen_ocean_reef_math",
+    "type": "gen_ocean_reef_math",
+    "prompt": "Cho thú cưng ăn đúng 10 con mèo.",
     "correctAnswer": 10,
     "options": [
-      8,
+      5,
+      13,
       10,
-      7,
+      8
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "objectIcon2": "",
+    "targetCount": 10,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
+  },
+  {
+    "id": "l02-fixed-17",
+    "gameId": "gen_dinosaur_valley_math",
+    "type": "gen_dinosaur_valley_math",
+    "prompt": "Cho thú cưng ăn đúng 8 con mèo.",
+    "correctAnswer": 8,
+    "options": [
+      5,
+      6,
+      8,
+      7
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "objectIcon2": "",
+    "targetCount": 8,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
+  },
+  {
+    "id": "l02-fixed-18",
+    "gameId": "gen_crystal_cave_explorer",
+    "type": "gen_crystal_cave_explorer",
+    "prompt": "Cho thú cưng ăn đúng 4 quả táo.",
+    "correctAnswer": 4,
+    "options": [
+      10,
+      6,
+      4,
       9
     ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 10,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l02-q010",
-    "gameId": "level_2",
-    "type": "level_2",
-    "prompt": "Đếm chiếc bánh và chọn số đúng!",
-    "correctAnswer": 4,
-    "options": [
-      2,
-      4,
-      1,
-      3
-    ],
-    "objectIcon": "/icons/candy_icon.png",
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
     "objectIcon2": "",
     "targetCount": 4,
     "targetCount2": 0,
     "renderMode": "single",
-    "displayPrompt": null
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
   },
   {
-    "id": "l02-q011",
-    "gameId": "level_2",
-    "type": "level_2",
-    "prompt": "Đếm quả bóng và chọn số đúng!",
-    "correctAnswer": 10,
+    "id": "l02-fixed-19",
+    "gameId": "gen_ocean_reef_math",
+    "type": "gen_ocean_reef_math",
+    "prompt": "Cho thú cưng ăn đúng 9 viên kim cương.",
+    "correctAnswer": 9,
     "options": [
-      10,
-      8,
       9,
-      7
+      7,
+      14,
+      6
     ],
-    "objectIcon": "/icons/ball_icon.png",
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
     "objectIcon2": "",
-    "targetCount": 10,
+    "targetCount": 9,
     "targetCount2": 0,
     "renderMode": "single",
-    "displayPrompt": null
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
   },
   {
-    "id": "l02-q012",
-    "gameId": "level_2",
-    "type": "level_2",
-    "prompt": "Đếm bông hoa và chọn số đúng!",
-    "correctAnswer": 3,
+    "id": "l02-fixed-20",
+    "gameId": "gen_dinosaur_valley_math",
+    "type": "gen_dinosaur_valley_math",
+    "prompt": "Đếm xem trong giỏ có bao nhiêu con thỏ.",
+    "correctAnswer": 5,
     "options": [
-      0,
-      3,
-      1,
-      2
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 3,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l02-q013",
-    "gameId": "level_2",
-    "type": "level_2",
-    "prompt": "Đếm quả bóng và chọn số đúng!",
-    "correctAnswer": 3,
-    "options": [
-      3,
-      1,
-      2,
+      8,
+      4,
+      5,
       0
     ],
-    "objectIcon": "/icons/ball_icon.png",
-    "objectIcon2": "",
-    "targetCount": 3,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l02-q014",
-    "gameId": "level_2",
-    "type": "level_2",
-    "prompt": "Đếm viên kẹo và chọn số đúng!",
-    "correctAnswer": 5,
-    "options": [
-      2,
-      4,
-      3,
-      5
-    ],
-    "objectIcon": "/icons/candy_icon.png",
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/rabbit.png",
     "objectIcon2": "",
     "targetCount": 5,
     "targetCount2": 0,
     "renderMode": "single",
-    "displayPrompt": null
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
   },
   {
-    "id": "l02-q015",
-    "gameId": "level_2",
-    "type": "level_2",
-    "prompt": "Đếm quả táo và chọn số đúng!",
-    "correctAnswer": 6,
-    "options": [
-      3,
-      4,
-      6,
-      5
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 6,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l02-q016",
-    "gameId": "level_2",
-    "type": "level_2",
-    "prompt": "Đếm quả bóng và chọn số đúng!",
-    "correctAnswer": 10,
-    "options": [
-      9,
-      8,
-      10,
-      7
-    ],
-    "objectIcon": "/icons/ball_icon.png",
-    "objectIcon2": "",
-    "targetCount": 10,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l02-q017",
-    "gameId": "level_2",
-    "type": "level_2",
-    "prompt": "Đếm ngôi sao và chọn số đúng!",
-    "correctAnswer": 7,
-    "options": [
-      7,
-      4,
-      6,
-      5
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 7,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l02-q018",
-    "gameId": "level_2",
-    "type": "level_2",
-    "prompt": "Đếm viên kẹo và chọn số đúng!",
-    "correctAnswer": 9,
-    "options": [
-      8,
-      9,
-      7,
-      6
-    ],
-    "objectIcon": "/icons/candy_icon.png",
-    "objectIcon2": "",
-    "targetCount": 9,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l02-q019",
-    "gameId": "level_2",
-    "type": "level_2",
-    "prompt": "Đếm ngôi sao và chọn số đúng!",
-    "correctAnswer": 7,
-    "options": [
-      6,
-      7,
-      4,
-      5
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 7,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l02-q020",
-    "gameId": "level_2",
-    "type": "level_2",
-    "prompt": "Đếm quả chuối và chọn số đúng!",
-    "correctAnswer": 8,
-    "options": [
-      7,
-      8,
-      5,
-      6
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 8,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l02-q021",
-    "gameId": "level_2",
-    "type": "level_2",
-    "prompt": "Đếm quả dâu và chọn số đúng!",
-    "correctAnswer": 4,
-    "options": [
-      1,
-      3,
-      2,
-      4
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 4,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l02-q022",
-    "gameId": "level_2",
-    "type": "level_2",
-    "prompt": "Đếm quả bóng và chọn số đúng!",
-    "correctAnswer": 1,
-    "options": [
-      0,
-      3,
-      2,
-      1
-    ],
-    "objectIcon": "/icons/ball_icon.png",
-    "objectIcon2": "",
-    "targetCount": 1,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l02-q023",
-    "gameId": "level_2",
-    "type": "level_2",
-    "prompt": "Đếm bông hoa và chọn số đúng!",
-    "correctAnswer": 8,
-    "options": [
-      7,
-      8,
-      6,
-      5
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 8,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l02-q024",
-    "gameId": "level_2",
-    "type": "level_2",
-    "prompt": "Đếm bông hoa và chọn số đúng!",
-    "correctAnswer": 10,
-    "options": [
-      10,
-      9,
-      7,
-      8
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 10,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l02-q025",
-    "gameId": "level_2",
-    "type": "level_2",
-    "prompt": "Đếm quả táo và chọn số đúng!",
-    "correctAnswer": 8,
-    "options": [
-      8,
-      5,
-      6,
-      7
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 8,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l02-q026",
-    "gameId": "level_2",
-    "type": "level_2",
-    "prompt": "Đếm ngôi sao và chọn số đúng!",
-    "correctAnswer": 5,
-    "options": [
-      4,
-      2,
-      5,
-      3
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 5,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l02-q027",
-    "gameId": "level_2",
-    "type": "level_2",
-    "prompt": "Đếm quả bóng và chọn số đúng!",
-    "correctAnswer": 3,
-    "options": [
-      0,
-      3,
-      2,
-      1
-    ],
-    "objectIcon": "/icons/ball_icon.png",
-    "objectIcon2": "",
-    "targetCount": 3,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l02-q028",
-    "gameId": "level_2",
-    "type": "level_2",
-    "prompt": "Đếm bông hoa và chọn số đúng!",
-    "correctAnswer": 4,
-    "options": [
-      1,
-      3,
-      4,
-      2
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 4,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l02-q029",
-    "gameId": "level_2",
-    "type": "level_2",
-    "prompt": "Đếm quả cam và chọn số đúng!",
-    "correctAnswer": 5,
-    "options": [
-      4,
-      3,
-      5,
-      2
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 5,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l02-q030",
-    "gameId": "level_2",
-    "type": "level_2",
-    "prompt": "Đếm viên kẹo và chọn số đúng!",
-    "correctAnswer": 9,
-    "options": [
-      7,
-      9,
-      8,
-      6
-    ],
-    "objectIcon": "/icons/candy_icon.png",
-    "objectIcon2": "",
-    "targetCount": 9,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l02-q031",
-    "gameId": "level_2",
-    "type": "level_2",
-    "prompt": "Đếm chiếc bánh và chọn số đúng!",
-    "correctAnswer": 8,
-    "options": [
-      7,
-      6,
-      5,
-      8
-    ],
-    "objectIcon": "/icons/candy_icon.png",
-    "objectIcon2": "",
-    "targetCount": 8,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l02-q032",
-    "gameId": "level_2",
-    "type": "level_2",
-    "prompt": "Đếm bông hoa và chọn số đúng!",
+    "id": "l02-fixed-21",
+    "gameId": "gen_crystal_cave_explorer",
+    "type": "gen_crystal_cave_explorer",
+    "prompt": "Cho thú cưng ăn đúng 2 con thỏ.",
     "correctAnswer": 2,
     "options": [
-      1,
-      0,
+      2,
+      7,
       3,
-      2
+      6
     ],
-    "objectIcon": "/icons/star_icon.png",
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/rabbit.png",
     "objectIcon2": "",
     "targetCount": 2,
     "targetCount2": 0,
     "renderMode": "single",
-    "displayPrompt": null
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
   },
   {
-    "id": "l02-q033",
-    "gameId": "level_2",
-    "type": "level_2",
-    "prompt": "Đếm quả bóng và chọn số đúng!",
-    "correctAnswer": 10,
+    "id": "l02-fixed-22",
+    "gameId": "gen_ocean_reef_math",
+    "type": "gen_ocean_reef_math",
+    "prompt": "Đếm xem trong giỏ có bao nhiêu con thỏ.",
+    "correctAnswer": 5,
     "options": [
-      10,
       9,
-      7,
-      8
-    ],
-    "objectIcon": "/icons/ball_icon.png",
-    "objectIcon2": "",
-    "targetCount": 10,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l02-q034",
-    "gameId": "level_2",
-    "type": "level_2",
-    "prompt": "Đếm ngôi sao và chọn số đúng!",
-    "correctAnswer": 4,
-    "options": [
       3,
       2,
-      4,
-      1
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 4,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l02-q035",
-    "gameId": "level_2",
-    "type": "level_2",
-    "prompt": "Đếm bông hoa và chọn số đúng!",
-    "correctAnswer": 7,
-    "options": [
-      5,
-      7,
-      6,
-      4
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 7,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l02-q036",
-    "gameId": "level_2",
-    "type": "level_2",
-    "prompt": "Đếm quả dâu và chọn số đúng!",
-    "correctAnswer": 5,
-    "options": [
-      4,
-      3,
-      5,
-      2
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 5,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l02-q037",
-    "gameId": "level_2",
-    "type": "level_2",
-    "prompt": "Đếm viên kẹo và chọn số đúng!",
-    "correctAnswer": 1,
-    "options": [
-      1,
-      3,
-      0,
-      2
-    ],
-    "objectIcon": "/icons/candy_icon.png",
-    "objectIcon2": "",
-    "targetCount": 1,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l02-q038",
-    "gameId": "level_2",
-    "type": "level_2",
-    "prompt": "Đếm quả bóng và chọn số đúng!",
-    "correctAnswer": 2,
-    "options": [
-      2,
-      0,
-      1,
-      3
-    ],
-    "objectIcon": "/icons/ball_icon.png",
-    "objectIcon2": "",
-    "targetCount": 2,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l02-q039",
-    "gameId": "level_2",
-    "type": "level_2",
-    "prompt": "Đếm chiếc bánh và chọn số đúng!",
-    "correctAnswer": 3,
-    "options": [
-      3,
-      2,
-      1,
-      0
-    ],
-    "objectIcon": "/icons/candy_icon.png",
-    "objectIcon2": "",
-    "targetCount": 3,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l02-q040",
-    "gameId": "level_2",
-    "type": "level_2",
-    "prompt": "Đếm chiếc bánh và chọn số đúng!",
-    "correctAnswer": 5,
-    "options": [
-      3,
-      2,
-      4,
       5
     ],
-    "objectIcon": "/icons/candy_icon.png",
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/rabbit.png",
     "objectIcon2": "",
     "targetCount": 5,
     "targetCount2": 0,
     "renderMode": "single",
-    "displayPrompt": null
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
   },
   {
-    "id": "l02-q041",
-    "gameId": "level_2",
-    "type": "level_2",
-    "prompt": "Bé hãy chọn thẻ số 3!",
-    "correctAnswer": 3,
+    "id": "l02-fixed-23",
+    "gameId": "gen_dinosaur_valley_math",
+    "type": "gen_dinosaur_valley_math",
+    "prompt": "Đếm xem trong giỏ có bao nhiêu ngôi sao.",
+    "correctAnswer": 5,
     "options": [
+      9,
+      5,
       0,
-      1,
-      3,
-      2
+      1
     ],
-    "objectIcon": "/icons/star_icon.png",
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
     "objectIcon2": "",
-    "targetCount": 3,
+    "targetCount": 5,
     "targetCount2": 0,
     "renderMode": "single",
-    "displayPrompt": null
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
   },
   {
-    "id": "l02-q042",
-    "gameId": "level_2",
-    "type": "level_2",
-    "prompt": "Chọn đúng số 8 nhé!",
+    "id": "l02-fixed-24",
+    "gameId": "gen_crystal_cave_explorer",
+    "type": "gen_crystal_cave_explorer",
+    "prompt": "Cho thú cưng ăn đúng 8 con thỏ.",
     "correctAnswer": 8,
     "options": [
-      7,
-      6,
+      10,
+      8,
       5,
-      8
+      4
     ],
-    "objectIcon": "/icons/star_icon.png",
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/rabbit.png",
     "objectIcon2": "",
     "targetCount": 8,
     "targetCount2": 0,
     "renderMode": "single",
-    "displayPrompt": null
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
   },
   {
-    "id": "l02-q043",
-    "gameId": "level_2",
-    "type": "level_2",
-    "prompt": "Bé hãy chọn thẻ số 6!",
-    "correctAnswer": 6,
-    "options": [
-      6,
-      5,
-      4,
-      3
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 6,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l02-q044",
-    "gameId": "level_2",
-    "type": "level_2",
-    "prompt": "Bé hãy chọn thẻ số 1!",
-    "correctAnswer": 1,
-    "options": [
-      0,
-      2,
-      1,
-      3
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 1,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l02-q045",
-    "gameId": "level_2",
-    "type": "level_2",
-    "prompt": "Bé hãy chọn thẻ số 3!",
-    "correctAnswer": 3,
-    "options": [
-      0,
-      2,
-      1,
-      3
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 3,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l02-q046",
-    "gameId": "level_2",
-    "type": "level_2",
-    "prompt": "Chọn đúng số 5 nhé!",
+    "id": "l02-fixed-25",
+    "gameId": "gen_ocean_reef_math",
+    "type": "gen_ocean_reef_math",
+    "prompt": "Đếm xem trong giỏ có bao nhiêu viên kim cương.",
     "correctAnswer": 5,
     "options": [
-      2,
-      3,
       4,
-      5
+      1,
+      5,
+      0
     ],
-    "objectIcon": "/icons/star_icon.png",
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
     "objectIcon2": "",
     "targetCount": 5,
     "targetCount2": 0,
     "renderMode": "single",
-    "displayPrompt": null
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
   },
   {
-    "id": "l02-q047",
-    "gameId": "level_2",
-    "type": "level_2",
-    "prompt": "Tìm số 1 trong các thẻ dưới đây!",
-    "correctAnswer": 1,
-    "options": [
-      1,
-      0,
-      3,
-      2
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 1,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l02-q048",
-    "gameId": "level_2",
-    "type": "level_2",
-    "prompt": "Bé hãy chọn thẻ số 10!",
-    "correctAnswer": 10,
-    "options": [
-      10,
-      8,
-      9,
-      7
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 10,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l02-q049",
-    "gameId": "level_2",
-    "type": "level_2",
-    "prompt": "Bé hãy chọn thẻ số 9!",
+    "id": "l02-fixed-26",
+    "gameId": "gen_dinosaur_valley_math",
+    "type": "gen_dinosaur_valley_math",
+    "prompt": "Cho thú cưng ăn đúng 9 con mèo.",
     "correctAnswer": 9,
     "options": [
-      8,
+      4,
       9,
-      6,
-      7
+      10,
+      5
     ],
-    "objectIcon": "/icons/star_icon.png",
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
     "objectIcon2": "",
     "targetCount": 9,
     "targetCount2": 0,
     "renderMode": "single",
-    "displayPrompt": null
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
   },
   {
-    "id": "l02-q050",
-    "gameId": "level_2",
-    "type": "level_2",
-    "prompt": "Chọn đúng số 8 nhé!",
-    "correctAnswer": 8,
+    "id": "l02-fixed-27",
+    "gameId": "gen_crystal_cave_explorer",
+    "type": "gen_crystal_cave_explorer",
+    "prompt": "Cho thú cưng ăn đúng 1 ngôi sao.",
+    "correctAnswer": 1,
+    "options": [
+      5,
+      2,
+      1,
+      7
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
+    "objectIcon2": "",
+    "targetCount": 1,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
+  },
+  {
+    "id": "l02-fixed-28",
+    "gameId": "gen_ocean_reef_math",
+    "type": "gen_ocean_reef_math",
+    "prompt": "Đếm xem trong giỏ có bao nhiêu quả bóng.",
+    "correctAnswer": 5,
     "options": [
       7,
-      8,
+      2,
       5,
+      4
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
+  },
+  {
+    "id": "l02-fixed-29",
+    "gameId": "gen_dinosaur_valley_math",
+    "type": "gen_dinosaur_valley_math",
+    "prompt": "Đếm xem trong giỏ có bao nhiêu con thỏ.",
+    "correctAnswer": 5,
+    "options": [
+      5,
+      4,
+      7,
+      8
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/rabbit.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
+  },
+  {
+    "id": "l02-fixed-30",
+    "gameId": "gen_crystal_cave_explorer",
+    "type": "gen_crystal_cave_explorer",
+    "prompt": "Cho thú cưng ăn đúng 1 con thỏ.",
+    "correctAnswer": 1,
+    "options": [
+      0,
+      1,
+      3,
+      7
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/rabbit.png",
+    "objectIcon2": "",
+    "targetCount": 1,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
+  },
+  {
+    "id": "l02-fixed-31",
+    "gameId": "gen_ocean_reef_math",
+    "type": "gen_ocean_reef_math",
+    "prompt": "Đếm xem trong giỏ có bao nhiêu viên kim cương.",
+    "correctAnswer": 5,
+    "options": [
+      5,
+      10,
+      8,
+      2
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
+  },
+  {
+    "id": "l02-fixed-32",
+    "gameId": "gen_dinosaur_valley_math",
+    "type": "gen_dinosaur_valley_math",
+    "prompt": "Cho thú cưng ăn đúng 4 quả bóng.",
+    "correctAnswer": 4,
+    "options": [
+      1,
+      4,
+      7,
       6
     ],
-    "objectIcon": "/icons/star_icon.png",
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "objectIcon2": "",
+    "targetCount": 4,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
+  },
+  {
+    "id": "l02-fixed-33",
+    "gameId": "gen_crystal_cave_explorer",
+    "type": "gen_crystal_cave_explorer",
+    "prompt": "Đếm xem trong giỏ có bao nhiêu quả táo.",
+    "correctAnswer": 5,
+    "options": [
+      9,
+      6,
+      5,
+      10
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
+  },
+  {
+    "id": "l02-fixed-34",
+    "gameId": "gen_ocean_reef_math",
+    "type": "gen_ocean_reef_math",
+    "prompt": "Cho thú cưng ăn đúng 8 quả bóng.",
+    "correctAnswer": 8,
+    "options": [
+      4,
+      11,
+      10,
+      8
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
     "objectIcon2": "",
     "targetCount": 8,
     "targetCount2": 0,
     "renderMode": "single",
-    "displayPrompt": null
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
+  },
+  {
+    "id": "l02-fixed-35",
+    "gameId": "gen_dinosaur_valley_math",
+    "type": "gen_dinosaur_valley_math",
+    "prompt": "Đếm xem trong giỏ có bao nhiêu con thỏ.",
+    "correctAnswer": 5,
+    "options": [
+      5,
+      2,
+      4,
+      3
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/rabbit.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
+  },
+  {
+    "id": "l02-fixed-36",
+    "gameId": "gen_crystal_cave_explorer",
+    "type": "gen_crystal_cave_explorer",
+    "prompt": "Đếm xem trong giỏ có bao nhiêu viên kim cương.",
+    "correctAnswer": 5,
+    "options": [
+      5,
+      0,
+      6,
+      8
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
+  },
+  {
+    "id": "l02-fixed-37",
+    "gameId": "gen_ocean_reef_math",
+    "type": "gen_ocean_reef_math",
+    "prompt": "Cho thú cưng ăn đúng 2 con thỏ.",
+    "correctAnswer": 2,
+    "options": [
+      2,
+      5,
+      0,
+      7
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/rabbit.png",
+    "objectIcon2": "",
+    "targetCount": 2,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
+  },
+  {
+    "id": "l02-fixed-38",
+    "gameId": "gen_dinosaur_valley_math",
+    "type": "gen_dinosaur_valley_math",
+    "prompt": "Đếm xem trong giỏ có bao nhiêu ngôi sao.",
+    "correctAnswer": 5,
+    "options": [
+      6,
+      4,
+      7,
+      5
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
+  },
+  {
+    "id": "l02-fixed-39",
+    "gameId": "gen_crystal_cave_explorer",
+    "type": "gen_crystal_cave_explorer",
+    "prompt": "Đếm xem trong giỏ có bao nhiêu viên kim cương.",
+    "correctAnswer": 5,
+    "options": [
+      1,
+      5,
+      3,
+      4
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
+  },
+  {
+    "id": "l02-fixed-40",
+    "gameId": "gen_ocean_reef_math",
+    "type": "gen_ocean_reef_math",
+    "prompt": "Cho thú cưng ăn đúng 9 ngôi sao.",
+    "correctAnswer": 9,
+    "options": [
+      5,
+      8,
+      4,
+      9
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
+    "objectIcon2": "",
+    "targetCount": 9,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
+  },
+  {
+    "id": "l02-fixed-41",
+    "gameId": "gen_dinosaur_valley_math",
+    "type": "gen_dinosaur_valley_math",
+    "prompt": "Đếm xem trong giỏ có bao nhiêu quả bóng.",
+    "correctAnswer": 5,
+    "options": [
+      2,
+      3,
+      9,
+      5
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
+  },
+  {
+    "id": "l02-fixed-42",
+    "gameId": "gen_crystal_cave_explorer",
+    "type": "gen_crystal_cave_explorer",
+    "prompt": "Đếm xem trong giỏ có bao nhiêu ngôi sao.",
+    "correctAnswer": 5,
+    "options": [
+      4,
+      6,
+      5,
+      7
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
+  },
+  {
+    "id": "l02-fixed-43",
+    "gameId": "gen_ocean_reef_math",
+    "type": "gen_ocean_reef_math",
+    "prompt": "Cho thú cưng ăn đúng 7 quả táo.",
+    "correctAnswer": 7,
+    "options": [
+      9,
+      10,
+      7,
+      4
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
+    "objectIcon2": "",
+    "targetCount": 7,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
+  },
+  {
+    "id": "l02-fixed-44",
+    "gameId": "gen_dinosaur_valley_math",
+    "type": "gen_dinosaur_valley_math",
+    "prompt": "Cho thú cưng ăn đúng 7 viên kim cương.",
+    "correctAnswer": 7,
+    "options": [
+      7,
+      11,
+      8,
+      3
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "objectIcon2": "",
+    "targetCount": 7,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
+  },
+  {
+    "id": "l02-fixed-45",
+    "gameId": "gen_crystal_cave_explorer",
+    "type": "gen_crystal_cave_explorer",
+    "prompt": "Cho thú cưng ăn đúng 9 quả táo.",
+    "correctAnswer": 9,
+    "options": [
+      9,
+      4,
+      5,
+      8
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
+    "objectIcon2": "",
+    "targetCount": 9,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
+  },
+  {
+    "id": "l02-fixed-46",
+    "gameId": "gen_ocean_reef_math",
+    "type": "gen_ocean_reef_math",
+    "prompt": "Cho thú cưng ăn đúng 10 viên kim cương.",
+    "correctAnswer": 10,
+    "options": [
+      7,
+      9,
+      6,
+      10
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "objectIcon2": "",
+    "targetCount": 10,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
+  },
+  {
+    "id": "l02-fixed-47",
+    "gameId": "gen_dinosaur_valley_math",
+    "type": "gen_dinosaur_valley_math",
+    "prompt": "Đếm xem trong giỏ có bao nhiêu con mèo.",
+    "correctAnswer": 5,
+    "options": [
+      6,
+      9,
+      5,
+      8
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
+  },
+  {
+    "id": "l02-fixed-48",
+    "gameId": "gen_crystal_cave_explorer",
+    "type": "gen_crystal_cave_explorer",
+    "prompt": "Đếm xem trong giỏ có bao nhiêu con mèo.",
+    "correctAnswer": 5,
+    "options": [
+      2,
+      6,
+      5,
+      7
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
+  },
+  {
+    "id": "l02-fixed-49",
+    "gameId": "gen_ocean_reef_math",
+    "type": "gen_ocean_reef_math",
+    "prompt": "Cho thú cưng ăn đúng 6 quả táo.",
+    "correctAnswer": 6,
+    "options": [
+      10,
+      9,
+      6,
+      1
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
+    "objectIcon2": "",
+    "targetCount": 6,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
+  },
+  {
+    "id": "l02-fixed-50",
+    "gameId": "gen_dinosaur_valley_math",
+    "type": "gen_dinosaur_valley_math",
+    "prompt": "Đếm xem trong giỏ có bao nhiêu quả táo.",
+    "correctAnswer": 5,
+    "options": [
+      4,
+      5,
+      1,
+      7
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
   }
 ]

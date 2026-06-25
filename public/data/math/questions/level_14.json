@@ -1,952 +1,952 @@
 [
   {
-    "id": "l14-q001",
-    "gameId": "level_14",
-    "type": "level_14",
-    "prompt": "Tính: 6 - 0 = ?",
-    "correctAnswer": 6,
+    "id": "l14-fixed-1",
+    "gameId": "gen_living_math_garden",
+    "type": "gen_living_math_garden",
+    "prompt": "Có 5 con mèo, lấy đi 5. Còn lại bao nhiêu?",
+    "correctAnswer": 5,
     "options": [
       5,
-      4,
-      6,
-      3
+      0,
+      3,
+      8
     ],
-    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
     "objectIcon2": "",
-    "targetCount": 6,
-    "targetCount2": 0,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l14-q002",
-    "gameId": "level_14",
-    "type": "level_14",
-    "prompt": "12 - 5 = ?",
-    "correctAnswer": 7,
-    "options": [
-      5,
-      6,
-      4,
-      7
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 12,
+    "targetCount": 5,
     "targetCount2": 5,
     "renderMode": "subtraction",
-    "displayPrompt": null
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
   },
   {
-    "id": "l14-q003",
-    "gameId": "level_14",
-    "type": "level_14",
-    "prompt": "Tính: 13 - 8 = ?",
+    "id": "l14-fixed-2",
+    "gameId": "gen_infinite_island_archipelago",
+    "type": "gen_infinite_island_archipelago",
+    "prompt": "Có 10 con mèo, lấy đi 7. Còn lại bao nhiêu?",
+    "correctAnswer": 10,
+    "options": [
+      10,
+      11,
+      8,
+      7
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "objectIcon2": "",
+    "targetCount": 10,
+    "targetCount2": 7,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
+  },
+  {
+    "id": "l14-fixed-3",
+    "gameId": "std_sticker_board",
+    "type": "std_sticker_board",
+    "prompt": "Có 7 con thỏ, lấy đi 4. Còn lại bao nhiêu?",
+    "correctAnswer": 7,
+    "options": [
+      7,
+      11,
+      4,
+      6
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/rabbit.png",
+    "objectIcon2": "",
+    "targetCount": 7,
+    "targetCount2": 4,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
+  },
+  {
+    "id": "l14-fixed-4",
+    "gameId": "gen_living_math_garden",
+    "type": "gen_living_math_garden",
+    "prompt": "Có 8 quả bóng, lấy đi 4. Còn lại bao nhiêu?",
+    "correctAnswer": 8,
+    "options": [
+      3,
+      8,
+      6,
+      5
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "objectIcon2": "",
+    "targetCount": 8,
+    "targetCount2": 4,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
+  },
+  {
+    "id": "l14-fixed-5",
+    "gameId": "gen_infinite_island_archipelago",
+    "type": "gen_infinite_island_archipelago",
+    "prompt": "Có 5 viên kim cương, lấy đi 4. Còn lại bao nhiêu?",
+    "correctAnswer": 5,
+    "options": [
+      2,
+      1,
+      10,
+      5
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 4,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
+  },
+  {
+    "id": "l14-fixed-6",
+    "gameId": "std_sticker_board",
+    "type": "std_sticker_board",
+    "prompt": "Có 7 con mèo, lấy đi 6. Còn lại bao nhiêu?",
+    "correctAnswer": 7,
+    "options": [
+      10,
+      7,
+      5,
+      9
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "objectIcon2": "",
+    "targetCount": 7,
+    "targetCount2": 6,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
+  },
+  {
+    "id": "l14-fixed-7",
+    "gameId": "gen_living_math_garden",
+    "type": "gen_living_math_garden",
+    "prompt": "10 - 8 = ?",
+    "correctAnswer": 10,
+    "options": [
+      10,
+      15,
+      8,
+      14
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "objectIcon2": "",
+    "targetCount": 10,
+    "targetCount2": 8,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
+  },
+  {
+    "id": "l14-fixed-8",
+    "gameId": "gen_infinite_island_archipelago",
+    "type": "gen_infinite_island_archipelago",
+    "prompt": "Có 8 con mèo, lấy đi 8. Còn lại bao nhiêu?",
+    "correctAnswer": 8,
+    "options": [
+      8,
+      9,
+      6,
+      5
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "objectIcon2": "",
+    "targetCount": 8,
+    "targetCount2": 8,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
+  },
+  {
+    "id": "l14-fixed-9",
+    "gameId": "std_sticker_board",
+    "type": "std_sticker_board",
+    "prompt": "Có 9 quả bóng, lấy đi 9. Còn lại bao nhiêu?",
+    "correctAnswer": 9,
+    "options": [
+      11,
+      9,
+      4,
+      8
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "objectIcon2": "",
+    "targetCount": 9,
+    "targetCount2": 9,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
+  },
+  {
+    "id": "l14-fixed-10",
+    "gameId": "gen_living_math_garden",
+    "type": "gen_living_math_garden",
+    "prompt": "6 - 4 = ?",
+    "correctAnswer": 6,
+    "options": [
+      1,
+      7,
+      11,
+      6
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
+    "objectIcon2": "",
+    "targetCount": 6,
+    "targetCount2": 4,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
+  },
+  {
+    "id": "l14-fixed-11",
+    "gameId": "gen_infinite_island_archipelago",
+    "type": "gen_infinite_island_archipelago",
+    "prompt": "7 - 6 = ?",
+    "correctAnswer": 7,
+    "options": [
+      6,
+      3,
+      8,
+      7
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/rabbit.png",
+    "objectIcon2": "",
+    "targetCount": 7,
+    "targetCount2": 6,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
+  },
+  {
+    "id": "l14-fixed-12",
+    "gameId": "std_sticker_board",
+    "type": "std_sticker_board",
+    "prompt": "5 - 2 = ?",
+    "correctAnswer": 5,
+    "options": [
+      9,
+      5,
+      2,
+      0
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 2,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
+  },
+  {
+    "id": "l14-fixed-13",
+    "gameId": "gen_living_math_garden",
+    "type": "gen_living_math_garden",
+    "prompt": "Có 8 quả táo, lấy đi 7. Còn lại bao nhiêu?",
+    "correctAnswer": 8,
+    "options": [
+      8,
+      7,
+      13,
+      12
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
+    "objectIcon2": "",
+    "targetCount": 8,
+    "targetCount2": 7,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
+  },
+  {
+    "id": "l14-fixed-14",
+    "gameId": "gen_infinite_island_archipelago",
+    "type": "gen_infinite_island_archipelago",
+    "prompt": "Có 8 quả bóng, lấy đi 2. Còn lại bao nhiêu?",
+    "correctAnswer": 8,
+    "options": [
+      5,
+      4,
+      13,
+      8
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "objectIcon2": "",
+    "targetCount": 8,
+    "targetCount2": 2,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
+  },
+  {
+    "id": "l14-fixed-15",
+    "gameId": "std_sticker_board",
+    "type": "std_sticker_board",
+    "prompt": "10 - 7 = ?",
+    "correctAnswer": 10,
+    "options": [
+      12,
+      15,
+      7,
+      10
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "objectIcon2": "",
+    "targetCount": 10,
+    "targetCount2": 7,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
+  },
+  {
+    "id": "l14-fixed-16",
+    "gameId": "gen_living_math_garden",
+    "type": "gen_living_math_garden",
+    "prompt": "5 - 3 = ?",
+    "correctAnswer": 5,
+    "options": [
+      6,
+      0,
+      3,
+      5
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 3,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
+  },
+  {
+    "id": "l14-fixed-17",
+    "gameId": "gen_infinite_island_archipelago",
+    "type": "gen_infinite_island_archipelago",
+    "prompt": "9 - 8 = ?",
+    "correctAnswer": 9,
+    "options": [
+      6,
+      9,
+      10,
+      13
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
+    "objectIcon2": "",
+    "targetCount": 9,
+    "targetCount2": 8,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
+  },
+  {
+    "id": "l14-fixed-18",
+    "gameId": "std_sticker_board",
+    "type": "std_sticker_board",
+    "prompt": "5 - 4 = ?",
+    "correctAnswer": 5,
+    "options": [
+      7,
+      3,
+      5,
+      10
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 4,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
+  },
+  {
+    "id": "l14-fixed-19",
+    "gameId": "gen_living_math_garden",
+    "type": "gen_living_math_garden",
+    "prompt": "9 - 8 = ?",
+    "correctAnswer": 9,
+    "options": [
+      14,
+      5,
+      9,
+      4
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "objectIcon2": "",
+    "targetCount": 9,
+    "targetCount2": 8,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
+  },
+  {
+    "id": "l14-fixed-20",
+    "gameId": "gen_infinite_island_archipelago",
+    "type": "gen_infinite_island_archipelago",
+    "prompt": "9 - 3 = ?",
+    "correctAnswer": 9,
+    "options": [
+      10,
+      11,
+      4,
+      9
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
+    "objectIcon2": "",
+    "targetCount": 9,
+    "targetCount2": 3,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
+  },
+  {
+    "id": "l14-fixed-21",
+    "gameId": "std_sticker_board",
+    "type": "std_sticker_board",
+    "prompt": "Có 1 quả bóng, lấy đi 1. Còn lại bao nhiêu?",
+    "correctAnswer": 1,
+    "options": [
+      1,
+      6,
+      7,
+      0
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "objectIcon2": "",
+    "targetCount": 1,
+    "targetCount2": 1,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
+  },
+  {
+    "id": "l14-fixed-22",
+    "gameId": "gen_living_math_garden",
+    "type": "gen_living_math_garden",
+    "prompt": "5 - 3 = ?",
     "correctAnswer": 5,
     "options": [
       4,
-      3,
-      2,
-      5
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 13,
-    "targetCount2": 8,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l14-q004",
-    "gameId": "level_14",
-    "type": "level_14",
-    "prompt": "8 - 1 = ?",
-    "correctAnswer": 7,
-    "options": [
-      7,
-      6,
-      4,
-      5
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 8,
-    "targetCount2": 1,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l14-q005",
-    "gameId": "level_14",
-    "type": "level_14",
-    "prompt": "8 - 1 = ?",
-    "correctAnswer": 7,
-    "options": [
       5,
-      4,
-      7,
-      6
+      9,
+      7
     ],
-    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
     "objectIcon2": "",
-    "targetCount": 8,
-    "targetCount2": 1,
+    "targetCount": 5,
+    "targetCount2": 3,
     "renderMode": "subtraction",
-    "displayPrompt": null
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
   },
   {
-    "id": "l14-q006",
-    "gameId": "level_14",
-    "type": "level_14",
-    "prompt": "19 - 18 = ?",
-    "correctAnswer": 1,
+    "id": "l14-fixed-23",
+    "gameId": "gen_infinite_island_archipelago",
+    "type": "gen_infinite_island_archipelago",
+    "prompt": "9 - 6 = ?",
+    "correctAnswer": 9,
     "options": [
-      0,
-      3,
-      2,
-      1
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 19,
-    "targetCount2": 18,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l14-q007",
-    "gameId": "level_14",
-    "type": "level_14",
-    "prompt": "11 - 1 = ?",
-    "correctAnswer": 10,
-    "options": [
-      7,
-      8,
       10,
-      9
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 11,
-    "targetCount2": 1,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l14-q008",
-    "gameId": "level_14",
-    "type": "level_14",
-    "prompt": "16 - 2 = ?",
-    "correctAnswer": 14,
-    "options": [
-      12,
-      14,
-      11,
-      13
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 16,
-    "targetCount2": 2,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l14-q009",
-    "gameId": "level_14",
-    "type": "level_14",
-    "prompt": "Tính: 11 - 5 = ?",
-    "correctAnswer": 6,
-    "options": [
-      5,
-      6,
-      3,
-      4
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 11,
-    "targetCount2": 5,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l14-q010",
-    "gameId": "level_14",
-    "type": "level_14",
-    "prompt": "Tính: 7 - 0 = ?",
-    "correctAnswer": 7,
-    "options": [
-      7,
-      6,
-      5,
-      4
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 7,
-    "targetCount2": 0,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l14-q011",
-    "gameId": "level_14",
-    "type": "level_14",
-    "prompt": "Tính: 17 - 0 = ?",
-    "correctAnswer": 17,
-    "options": [
-      17,
-      15,
-      16,
+      9,
+      13,
       14
     ],
-    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
     "objectIcon2": "",
-    "targetCount": 17,
-    "targetCount2": 0,
+    "targetCount": 9,
+    "targetCount2": 6,
     "renderMode": "subtraction",
-    "displayPrompt": null
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
   },
   {
-    "id": "l14-q012",
-    "gameId": "level_14",
-    "type": "level_14",
-    "prompt": "17 - 3 = ?",
-    "correctAnswer": 14,
+    "id": "l14-fixed-24",
+    "gameId": "std_sticker_board",
+    "type": "std_sticker_board",
+    "prompt": "Có 8 quả bóng, lấy đi 6. Còn lại bao nhiêu?",
+    "correctAnswer": 8,
     "options": [
-      12,
+      8,
+      11,
+      5,
+      6
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "objectIcon2": "",
+    "targetCount": 8,
+    "targetCount2": 6,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
+  },
+  {
+    "id": "l14-fixed-25",
+    "gameId": "gen_living_math_garden",
+    "type": "gen_living_math_garden",
+    "prompt": "9 - 6 = ?",
+    "correctAnswer": 9,
+    "options": [
       13,
+      9,
       14,
       11
     ],
-    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
     "objectIcon2": "",
-    "targetCount": 17,
-    "targetCount2": 3,
+    "targetCount": 9,
+    "targetCount2": 6,
     "renderMode": "subtraction",
-    "displayPrompt": null
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
   },
   {
-    "id": "l14-q013",
-    "gameId": "level_14",
-    "type": "level_14",
-    "prompt": "Tính: 20 - 11 = ?",
-    "correctAnswer": 9,
+    "id": "l14-fixed-26",
+    "gameId": "gen_infinite_island_archipelago",
+    "type": "gen_infinite_island_archipelago",
+    "prompt": "2 - 2 = ?",
+    "correctAnswer": 2,
     "options": [
-      9,
-      8,
-      6,
-      7
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 20,
-    "targetCount2": 11,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l14-q014",
-    "gameId": "level_14",
-    "type": "level_14",
-    "prompt": "Tính: 6 - 3 = ?",
-    "correctAnswer": 3,
-    "options": [
+      7,
       2,
-      3,
-      0,
-      1
+      8,
+      5
     ],
-    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "objectIcon2": "",
+    "targetCount": 2,
+    "targetCount2": 2,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
+  },
+  {
+    "id": "l14-fixed-27",
+    "gameId": "std_sticker_board",
+    "type": "std_sticker_board",
+    "prompt": "Có 6 quả táo, lấy đi 1. Còn lại bao nhiêu?",
+    "correctAnswer": 6,
+    "options": [
+      10,
+      6,
+      1,
+      4
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
     "objectIcon2": "",
     "targetCount": 6,
-    "targetCount2": 3,
+    "targetCount2": 1,
     "renderMode": "subtraction",
-    "displayPrompt": null
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
   },
   {
-    "id": "l14-q015",
-    "gameId": "level_14",
-    "type": "level_14",
-    "prompt": "20 - 15 = ?",
+    "id": "l14-fixed-28",
+    "gameId": "gen_living_math_garden",
+    "type": "gen_living_math_garden",
+    "prompt": "Có 9 con thỏ, lấy đi 2. Còn lại bao nhiêu?",
+    "correctAnswer": 9,
+    "options": [
+      4,
+      9,
+      10,
+      6
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/rabbit.png",
+    "objectIcon2": "",
+    "targetCount": 9,
+    "targetCount2": 2,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
+  },
+  {
+    "id": "l14-fixed-29",
+    "gameId": "gen_infinite_island_archipelago",
+    "type": "gen_infinite_island_archipelago",
+    "prompt": "5 - 3 = ?",
+    "correctAnswer": 5,
+    "options": [
+      9,
+      5,
+      10,
+      7
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 3,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
+  },
+  {
+    "id": "l14-fixed-30",
+    "gameId": "std_sticker_board",
+    "type": "std_sticker_board",
+    "prompt": "10 - 4 = ?",
+    "correctAnswer": 10,
+    "options": [
+      13,
+      10,
+      12,
+      14
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
+    "objectIcon2": "",
+    "targetCount": 10,
+    "targetCount2": 4,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
+  },
+  {
+    "id": "l14-fixed-31",
+    "gameId": "gen_living_math_garden",
+    "type": "gen_living_math_garden",
+    "prompt": "5 - 3 = ?",
     "correctAnswer": 5,
     "options": [
       4,
-      5,
-      3,
-      2
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 20,
-    "targetCount2": 15,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l14-q016",
-    "gameId": "level_14",
-    "type": "level_14",
-    "prompt": "18 - 1 = ?",
-    "correctAnswer": 17,
-    "options": [
-      15,
-      17,
-      14,
-      16
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 18,
-    "targetCount2": 1,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l14-q017",
-    "gameId": "level_14",
-    "type": "level_14",
-    "prompt": "7 - 2 = ?",
-    "correctAnswer": 5,
-    "options": [
       2,
-      5,
-      3,
+      1,
+      5
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 3,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
+  },
+  {
+    "id": "l14-fixed-32",
+    "gameId": "gen_infinite_island_archipelago",
+    "type": "gen_infinite_island_archipelago",
+    "prompt": "7 - 7 = ?",
+    "correctAnswer": 7,
+    "options": [
+      12,
+      8,
+      7,
       4
     ],
-    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
+    "objectIcon2": "",
+    "targetCount": 7,
+    "targetCount2": 7,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
+  },
+  {
+    "id": "l14-fixed-33",
+    "gameId": "std_sticker_board",
+    "type": "std_sticker_board",
+    "prompt": "Có 7 ngôi sao, lấy đi 2. Còn lại bao nhiêu?",
+    "correctAnswer": 7,
+    "options": [
+      11,
+      7,
+      9,
+      12
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
     "objectIcon2": "",
     "targetCount": 7,
     "targetCount2": 2,
     "renderMode": "subtraction",
-    "displayPrompt": null
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
   },
   {
-    "id": "l14-q018",
-    "gameId": "level_14",
-    "type": "level_14",
-    "prompt": "20 - 10 = ?",
+    "id": "l14-fixed-34",
+    "gameId": "gen_living_math_garden",
+    "type": "gen_living_math_garden",
+    "prompt": "10 - 10 = ?",
     "correctAnswer": 10,
     "options": [
-      9,
       10,
-      8,
+      6,
+      13,
       7
     ],
-    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
     "objectIcon2": "",
-    "targetCount": 20,
+    "targetCount": 10,
     "targetCount2": 10,
     "renderMode": "subtraction",
-    "displayPrompt": null
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
   },
   {
-    "id": "l14-q019",
-    "gameId": "level_14",
-    "type": "level_14",
-    "prompt": "4 - 1 = ?",
-    "correctAnswer": 3,
+    "id": "l14-fixed-35",
+    "gameId": "gen_infinite_island_archipelago",
+    "type": "gen_infinite_island_archipelago",
+    "prompt": "9 - 2 = ?",
+    "correctAnswer": 9,
     "options": [
-      1,
-      3,
-      0,
-      2
+      14,
+      9,
+      13,
+      5
     ],
-    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "objectIcon2": "",
+    "targetCount": 9,
+    "targetCount2": 2,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
+  },
+  {
+    "id": "l14-fixed-36",
+    "gameId": "std_sticker_board",
+    "type": "std_sticker_board",
+    "prompt": "Có 9 ngôi sao, lấy đi 5. Còn lại bao nhiêu?",
+    "correctAnswer": 9,
+    "options": [
+      8,
+      4,
+      9,
+      11
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
+    "objectIcon2": "",
+    "targetCount": 9,
+    "targetCount2": 5,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
+  },
+  {
+    "id": "l14-fixed-37",
+    "gameId": "gen_living_math_garden",
+    "type": "gen_living_math_garden",
+    "prompt": "4 - 1 = ?",
+    "correctAnswer": 4,
+    "options": [
+      4,
+      2,
+      10,
+      5
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
     "objectIcon2": "",
     "targetCount": 4,
     "targetCount2": 1,
     "renderMode": "subtraction",
-    "displayPrompt": null
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
   },
   {
-    "id": "l14-q020",
-    "gameId": "level_14",
-    "type": "level_14",
-    "prompt": "13 - 4 = ?",
-    "correctAnswer": 9,
-    "options": [
-      7,
-      6,
-      8,
-      9
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 13,
-    "targetCount2": 4,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l14-q021",
-    "gameId": "level_14",
-    "type": "level_14",
-    "prompt": "Tính: 9 - 5 = ?",
-    "correctAnswer": 4,
-    "options": [
-      2,
-      1,
-      3,
-      4
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 9,
-    "targetCount2": 5,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l14-q022",
-    "gameId": "level_14",
-    "type": "level_14",
-    "prompt": "14 - 4 = ?",
-    "correctAnswer": 10,
-    "options": [
-      9,
-      7,
-      10,
-      8
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 14,
-    "targetCount2": 4,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l14-q023",
-    "gameId": "level_14",
-    "type": "level_14",
-    "prompt": "20 - 18 = ?",
-    "correctAnswer": 2,
-    "options": [
-      1,
-      0,
-      3,
-      2
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 20,
-    "targetCount2": 18,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l14-q024",
-    "gameId": "level_14",
-    "type": "level_14",
-    "prompt": "2 - 1 = ?",
-    "correctAnswer": 1,
-    "options": [
-      2,
-      1,
-      3,
-      0
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 2,
-    "targetCount2": 1,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l14-q025",
-    "gameId": "level_14",
-    "type": "level_14",
-    "prompt": "10 - 6 = ?",
-    "correctAnswer": 4,
-    "options": [
-      3,
-      1,
-      4,
-      2
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 10,
-    "targetCount2": 6,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l14-q026",
-    "gameId": "level_14",
-    "type": "level_14",
-    "prompt": "Tính: 7 - 1 = ?",
-    "correctAnswer": 6,
-    "options": [
-      3,
-      4,
-      5,
-      6
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 7,
-    "targetCount2": 1,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l14-q027",
-    "gameId": "level_14",
-    "type": "level_14",
-    "prompt": "Tính: 10 - 0 = ?",
-    "correctAnswer": 10,
-    "options": [
-      7,
-      10,
-      9,
-      8
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 10,
-    "targetCount2": 0,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l14-q028",
-    "gameId": "level_14",
-    "type": "level_14",
-    "prompt": "Tính: 13 - 0 = ?",
-    "correctAnswer": 13,
-    "options": [
-      11,
-      12,
-      13,
-      10
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 13,
-    "targetCount2": 0,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l14-q029",
-    "gameId": "level_14",
-    "type": "level_14",
-    "prompt": "Tính: 19 - 3 = ?",
-    "correctAnswer": 16,
-    "options": [
-      15,
-      13,
-      14,
-      16
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 19,
-    "targetCount2": 3,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l14-q030",
-    "gameId": "level_14",
-    "type": "level_14",
-    "prompt": "Tính: 18 - 13 = ?",
-    "correctAnswer": 5,
-    "options": [
-      2,
-      3,
-      5,
-      4
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 18,
-    "targetCount2": 13,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l14-q031",
-    "gameId": "level_14",
-    "type": "level_14",
-    "prompt": "7 - 0 = ?",
+    "id": "l14-fixed-38",
+    "gameId": "gen_infinite_island_archipelago",
+    "type": "gen_infinite_island_archipelago",
+    "prompt": "Có 7 viên kim cương, lấy đi 4. Còn lại bao nhiêu?",
     "correctAnswer": 7,
     "options": [
-      6,
-      4,
+      5,
       7,
-      5
+      12,
+      2
     ],
-    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
     "objectIcon2": "",
     "targetCount": 7,
-    "targetCount2": 0,
+    "targetCount2": 4,
     "renderMode": "subtraction",
-    "displayPrompt": null
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
   },
   {
-    "id": "l14-q032",
-    "gameId": "level_14",
-    "type": "level_14",
-    "prompt": "6 - 4 = ?",
-    "correctAnswer": 2,
+    "id": "l14-fixed-39",
+    "gameId": "std_sticker_board",
+    "type": "std_sticker_board",
+    "prompt": "7 - 2 = ?",
+    "correctAnswer": 7,
     "options": [
-      1,
-      0,
-      2,
-      3
+      7,
+      3,
+      8,
+      4
     ],
-    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "objectIcon2": "",
+    "targetCount": 7,
+    "targetCount2": 2,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
+  },
+  {
+    "id": "l14-fixed-40",
+    "gameId": "gen_living_math_garden",
+    "type": "gen_living_math_garden",
+    "prompt": "Có 6 con thỏ, lấy đi 4. Còn lại bao nhiêu?",
+    "correctAnswer": 6,
+    "options": [
+      6,
+      1,
+      8,
+      5
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/rabbit.png",
     "objectIcon2": "",
     "targetCount": 6,
     "targetCount2": 4,
     "renderMode": "subtraction",
-    "displayPrompt": null
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
   },
   {
-    "id": "l14-q033",
-    "gameId": "level_14",
-    "type": "level_14",
-    "prompt": "19 - 13 = ?",
-    "correctAnswer": 6,
-    "options": [
-      5,
-      6,
-      4,
-      3
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 19,
-    "targetCount2": 13,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l14-q034",
-    "gameId": "level_14",
-    "type": "level_14",
-    "prompt": "7 - 3 = ?",
+    "id": "l14-fixed-41",
+    "gameId": "gen_infinite_island_archipelago",
+    "type": "gen_infinite_island_archipelago",
+    "prompt": "4 - 3 = ?",
     "correctAnswer": 4,
     "options": [
-      3,
-      1,
       4,
-      2
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 7,
-    "targetCount2": 3,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l14-q035",
-    "gameId": "level_14",
-    "type": "level_14",
-    "prompt": "3 - 0 = ?",
-    "correctAnswer": 3,
-    "options": [
-      0,
-      3,
-      1,
-      2
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 3,
-    "targetCount2": 0,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l14-q036",
-    "gameId": "level_14",
-    "type": "level_14",
-    "prompt": "Lan có 12 quả chuối, cho bạn 5. Còn lại bao nhiêu?",
-    "correctAnswer": 7,
-    "options": [
-      5,
       7,
-      6,
-      4
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 12,
-    "targetCount2": 5,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l14-q037",
-    "gameId": "level_14",
-    "type": "level_14",
-    "prompt": "Hộp có 10 quả bóng, lấy ra 6. Còn lại bao nhiêu?",
-    "correctAnswer": 4,
-    "options": [
-      4,
       3,
-      2,
-      1
+      6
     ],
-    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
     "objectIcon2": "",
-    "targetCount": 10,
-    "targetCount2": 6,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l14-q038",
-    "gameId": "level_14",
-    "type": "level_14",
-    "prompt": "Minh có 12 quả cam, cho bạn 6. Còn lại bao nhiêu?",
-    "correctAnswer": 6,
-    "options": [
-      4,
-      3,
-      6,
-      5
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 12,
-    "targetCount2": 6,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l14-q039",
-    "gameId": "level_14",
-    "type": "level_14",
-    "prompt": "Có 9 quả dâu, dùng hết 3. Còn lại mấy quả dâu?",
-    "correctAnswer": 6,
-    "options": [
-      3,
-      6,
-      5,
-      4
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 9,
+    "targetCount": 4,
     "targetCount2": 3,
     "renderMode": "subtraction",
-    "displayPrompt": null
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
   },
   {
-    "id": "l14-q040",
-    "gameId": "level_14",
-    "type": "level_14",
-    "prompt": "An có 3 quả chuối, cho bạn 1. Còn lại bao nhiêu?",
-    "correctAnswer": 2,
+    "id": "l14-fixed-42",
+    "gameId": "std_sticker_board",
+    "type": "std_sticker_board",
+    "prompt": "Có 8 con mèo, lấy đi 2. Còn lại bao nhiêu?",
+    "correctAnswer": 8,
     "options": [
-      2,
-      1,
-      3,
-      0
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 3,
-    "targetCount2": 1,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l14-q041",
-    "gameId": "level_14",
-    "type": "level_14",
-    "prompt": "Lan có 10 quả dâu, cho bạn 8. Còn lại bao nhiêu?",
-    "correctAnswer": 2,
-    "options": [
-      1,
-      3,
-      0,
-      2
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 10,
-    "targetCount2": 8,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l14-q042",
-    "gameId": "level_14",
-    "type": "level_14",
-    "prompt": "Có 17 chiếc bánh, dùng hết 13. Còn lại mấy chiếc bánh?",
-    "correctAnswer": 4,
-    "options": [
-      4,
-      1,
-      3,
-      2
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 17,
-    "targetCount2": 13,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l14-q043",
-    "gameId": "level_14",
-    "type": "level_14",
-    "prompt": "An có 13 chiếc bánh, cho bạn 2. Còn lại bao nhiêu?",
-    "correctAnswer": 11,
-    "options": [
-      11,
-      9,
       8,
-      10
+      10,
+      12,
+      11
     ],
-    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
     "objectIcon2": "",
-    "targetCount": 13,
+    "targetCount": 8,
     "targetCount2": 2,
     "renderMode": "subtraction",
-    "displayPrompt": null
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
   },
   {
-    "id": "l14-q044",
-    "gameId": "level_14",
-    "type": "level_14",
-    "prompt": "Có 19 quả chuối, dùng hết 12. Còn lại mấy quả chuối?",
+    "id": "l14-fixed-43",
+    "gameId": "gen_living_math_garden",
+    "type": "gen_living_math_garden",
+    "prompt": "Có 6 ngôi sao, lấy đi 3. Còn lại bao nhiêu?",
+    "correctAnswer": 6,
+    "options": [
+      6,
+      1,
+      8,
+      5
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
+    "objectIcon2": "",
+    "targetCount": 6,
+    "targetCount2": 3,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
+  },
+  {
+    "id": "l14-fixed-44",
+    "gameId": "gen_infinite_island_archipelago",
+    "type": "gen_infinite_island_archipelago",
+    "prompt": "Có 6 viên kim cương, lấy đi 5. Còn lại bao nhiêu?",
+    "correctAnswer": 6,
+    "options": [
+      6,
+      10,
+      11,
+      2
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "objectIcon2": "",
+    "targetCount": 6,
+    "targetCount2": 5,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
+  },
+  {
+    "id": "l14-fixed-45",
+    "gameId": "std_sticker_board",
+    "type": "std_sticker_board",
+    "prompt": "10 - 1 = ?",
+    "correctAnswer": 10,
+    "options": [
+      11,
+      13,
+      12,
+      10
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "objectIcon2": "",
+    "targetCount": 10,
+    "targetCount2": 1,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
+  },
+  {
+    "id": "l14-fixed-46",
+    "gameId": "gen_living_math_garden",
+    "type": "gen_living_math_garden",
+    "prompt": "Có 7 quả táo, lấy đi 6. Còn lại bao nhiêu?",
     "correctAnswer": 7,
     "options": [
+      7,
+      9,
       4,
-      5,
-      6,
-      7
+      8
     ],
-    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
     "objectIcon2": "",
-    "targetCount": 19,
-    "targetCount2": 12,
+    "targetCount": 7,
+    "targetCount2": 6,
     "renderMode": "subtraction",
-    "displayPrompt": null
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
   },
   {
-    "id": "l14-q045",
-    "gameId": "level_14",
-    "type": "level_14",
-    "prompt": "Có 11 quả chuối, dùng hết 1. Còn lại mấy quả chuối?",
+    "id": "l14-fixed-47",
+    "gameId": "gen_infinite_island_archipelago",
+    "type": "gen_infinite_island_archipelago",
+    "prompt": "10 - 2 = ?",
     "correctAnswer": 10,
     "options": [
       7,
+      6,
       10,
-      9,
-      8
+      15
     ],
-    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
     "objectIcon2": "",
-    "targetCount": 11,
-    "targetCount2": 1,
+    "targetCount": 10,
+    "targetCount2": 2,
     "renderMode": "subtraction",
-    "displayPrompt": null
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
   },
   {
-    "id": "l14-q046",
-    "gameId": "level_14",
-    "type": "level_14",
-    "prompt": "8 - ? = 3",
-    "correctAnswer": 5,
+    "id": "l14-fixed-48",
+    "gameId": "std_sticker_board",
+    "type": "std_sticker_board",
+    "prompt": "8 - 3 = ?",
+    "correctAnswer": 8,
     "options": [
-      2,
-      1,
-      5,
-      0
+      4,
+      8,
+      11,
+      5
     ],
-    "objectIcon": "/icons/star_icon.png",
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
     "objectIcon2": "",
     "targetCount": 8,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
+    "targetCount2": 3,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
   },
   {
-    "id": "l14-q047",
-    "gameId": "level_14",
-    "type": "level_14",
-    "prompt": "15 - ? = 3",
-    "correctAnswer": 12,
+    "id": "l14-fixed-49",
+    "gameId": "gen_living_math_garden",
+    "type": "gen_living_math_garden",
+    "prompt": "5 - 4 = ?",
+    "correctAnswer": 5,
     "options": [
-      0,
-      12,
-      2,
-      1
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 15,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l14-q048",
-    "gameId": "level_14",
-    "type": "level_14",
-    "prompt": "18 - ? = 17",
-    "correctAnswer": 1,
-    "options": [
-      1,
-      16,
-      14,
-      15
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 18,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l14-q049",
-    "gameId": "level_14",
-    "type": "level_14",
-    "prompt": "17 - ? = 2",
-    "correctAnswer": 15,
-    "options": [
-      3,
-      0,
-      1,
-      15
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 17,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l14-q050",
-    "gameId": "level_14",
-    "type": "level_14",
-    "prompt": "20 - ? = 3",
-    "correctAnswer": 17,
-    "options": [
-      0,
-      1,
-      17,
+      4,
+      5,
+      9,
       2
     ],
-    "objectIcon": "/icons/star_icon.png",
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
     "objectIcon2": "",
-    "targetCount": 20,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
+    "targetCount": 5,
+    "targetCount2": 4,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
+  },
+  {
+    "id": "l14-fixed-50",
+    "gameId": "gen_infinite_island_archipelago",
+    "type": "gen_infinite_island_archipelago",
+    "prompt": "4 - 4 = ?",
+    "correctAnswer": 4,
+    "options": [
+      9,
+      4,
+      7,
+      2
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
+    "objectIcon2": "",
+    "targetCount": 4,
+    "targetCount2": 4,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
   }
 ]

@@ -1,952 +1,952 @@
 [
   {
-    "id": "l19-q001",
-    "gameId": "level_19",
-    "type": "level_19",
-    "prompt": "70 + 20 = ?",
-    "correctAnswer": 90,
+    "id": "l19-fixed-1",
+    "gameId": "gen_number_maze",
+    "type": "gen_number_maze",
+    "prompt": "Có 4 viên gạch, thêm 1 viên gạch. Có tất cả bao nhiêu?",
+    "correctAnswer": 4,
     "options": [
-      80,
-      90,
-      70,
-      100
+      10,
+      3,
+      4,
+      1
     ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "targetCount": 4,
+    "targetCount2": 1,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
   },
   {
-    "id": "l19-q002",
-    "gameId": "level_19",
-    "type": "level_19",
-    "prompt": "80 + 20 = ?",
-    "correctAnswer": 100,
+    "id": "l19-fixed-2",
+    "gameId": "gen_festival_parade_math",
+    "type": "gen_festival_parade_math",
+    "prompt": "7 + 7 = ?",
+    "correctAnswer": 7,
     "options": [
-      130,
-      90,
-      100,
-      80
+      9,
+      8,
+      12,
+      7
     ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "targetCount": 7,
+    "targetCount2": 7,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
   },
   {
-    "id": "l19-q003",
-    "gameId": "level_19",
-    "type": "level_19",
-    "prompt": "10 + 30 = ?",
-    "correctAnswer": 40,
+    "id": "l19-fixed-3",
+    "gameId": "gen_storybook_popup_world",
+    "type": "gen_storybook_popup_world",
+    "prompt": "Có 2 viên gạch, thêm 4 viên gạch. Có tất cả bao nhiêu?",
+    "correctAnswer": 2,
     "options": [
-      30,
-      40,
-      50,
-      20
+      6,
+      7,
+      1,
+      2
     ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/coin.png",
+    "targetCount": 2,
+    "targetCount2": 4,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
   },
   {
-    "id": "l19-q004",
-    "gameId": "level_19",
-    "type": "level_19",
-    "prompt": "70 + 10 = ?",
-    "correctAnswer": 80,
-    "options": [
-      70,
-      60,
-      90,
-      80
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l19-q005",
-    "gameId": "level_19",
-    "type": "level_19",
-    "prompt": "50 + 30 = ?",
-    "correctAnswer": 80,
-    "options": [
-      60,
-      90,
-      70,
-      80
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l19-q006",
-    "gameId": "level_19",
-    "type": "level_19",
-    "prompt": "20 + 60 = ?",
-    "correctAnswer": 80,
-    "options": [
-      80,
-      90,
-      60,
-      70
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l19-q007",
-    "gameId": "level_19",
-    "type": "level_19",
-    "prompt": "80 + 10 = ?",
-    "correctAnswer": 90,
-    "options": [
-      80,
-      100,
-      90,
-      70
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l19-q008",
-    "gameId": "level_19",
-    "type": "level_19",
-    "prompt": "40 + 20 = ?",
-    "correctAnswer": 60,
-    "options": [
-      40,
-      60,
-      50,
-      70
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l19-q009",
-    "gameId": "level_19",
-    "type": "level_19",
-    "prompt": "30 + 20 = ?",
-    "correctAnswer": 50,
-    "options": [
-      50,
-      60,
-      40,
-      30
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l19-q010",
-    "gameId": "level_19",
-    "type": "level_19",
-    "prompt": "50 + 30 = ?",
-    "correctAnswer": 80,
-    "options": [
-      60,
-      70,
-      90,
-      80
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l19-q011",
-    "gameId": "level_19",
-    "type": "level_19",
-    "prompt": "20 + 80 = ?",
-    "correctAnswer": 100,
-    "options": [
-      80,
-      130,
-      100,
-      90
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l19-q012",
-    "gameId": "level_19",
-    "type": "level_19",
-    "prompt": "50 + 30 = ?",
-    "correctAnswer": 80,
-    "options": [
-      60,
-      90,
-      80,
-      70
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l19-q013",
-    "gameId": "level_19",
-    "type": "level_19",
-    "prompt": "10 + 60 = ?",
-    "correctAnswer": 70,
-    "options": [
-      60,
-      70,
-      50,
-      80
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l19-q014",
-    "gameId": "level_19",
-    "type": "level_19",
-    "prompt": "80 + 20 = ?",
-    "correctAnswer": 100,
-    "options": [
-      80,
-      130,
-      90,
-      100
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l19-q015",
-    "gameId": "level_19",
-    "type": "level_19",
-    "prompt": "50 + 30 = ?",
-    "correctAnswer": 80,
-    "options": [
-      90,
-      60,
-      80,
-      70
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l19-q016",
-    "gameId": "level_19",
-    "type": "level_19",
-    "prompt": "80 + 20 = ?",
-    "correctAnswer": 100,
-    "options": [
-      80,
-      130,
-      100,
-      90
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l19-q017",
-    "gameId": "level_19",
-    "type": "level_19",
-    "prompt": "80 + 10 = ?",
-    "correctAnswer": 90,
-    "options": [
-      80,
-      70,
-      90,
-      100
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l19-q018",
-    "gameId": "level_19",
-    "type": "level_19",
-    "prompt": "80 + 10 = ?",
-    "correctAnswer": 90,
-    "options": [
-      90,
-      70,
-      80,
-      100
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l19-q019",
-    "gameId": "level_19",
-    "type": "level_19",
-    "prompt": "50 + 30 = ?",
-    "correctAnswer": 80,
-    "options": [
-      80,
-      70,
-      90,
-      60
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l19-q020",
-    "gameId": "level_19",
-    "type": "level_19",
-    "prompt": "70 + 10 = ?",
-    "correctAnswer": 80,
-    "options": [
-      90,
-      80,
-      70,
-      60
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l19-q021",
-    "gameId": "level_19",
-    "type": "level_19",
-    "prompt": "60 + 30 = ?",
-    "correctAnswer": 90,
-    "options": [
-      90,
-      100,
-      70,
-      80
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l19-q022",
-    "gameId": "level_19",
-    "type": "level_19",
-    "prompt": "40 + 50 = ?",
-    "correctAnswer": 90,
-    "options": [
-      70,
-      80,
-      100,
-      90
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l19-q023",
-    "gameId": "level_19",
-    "type": "level_19",
-    "prompt": "80 + 10 = ?",
-    "correctAnswer": 90,
-    "options": [
-      90,
-      100,
-      80,
-      70
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l19-q024",
-    "gameId": "level_19",
-    "type": "level_19",
-    "prompt": "10 + 20 = ?",
-    "correctAnswer": 30,
-    "options": [
-      30,
-      40,
-      20,
-      10
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l19-q025",
-    "gameId": "level_19",
-    "type": "level_19",
-    "prompt": "70 + 30 = ?",
-    "correctAnswer": 100,
-    "options": [
-      100,
-      130,
-      80,
-      90
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l19-q026",
-    "gameId": "level_19",
-    "type": "level_19",
-    "prompt": "50 + 50 = ?",
-    "correctAnswer": 100,
-    "options": [
-      80,
-      90,
-      130,
-      100
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l19-q027",
-    "gameId": "level_19",
-    "type": "level_19",
-    "prompt": "10 + 90 = ?",
-    "correctAnswer": 100,
-    "options": [
-      80,
-      100,
-      90,
-      130
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l19-q028",
-    "gameId": "level_19",
-    "type": "level_19",
-    "prompt": "40 + 40 = ?",
-    "correctAnswer": 80,
-    "options": [
-      60,
-      90,
-      80,
-      70
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l19-q029",
-    "gameId": "level_19",
-    "type": "level_19",
-    "prompt": "20 + 20 = ?",
-    "correctAnswer": 40,
-    "options": [
-      30,
-      20,
-      40,
-      50
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l19-q030",
-    "gameId": "level_19",
-    "type": "level_19",
-    "prompt": "80 + 10 = ?",
-    "correctAnswer": 90,
-    "options": [
-      80,
-      90,
-      100,
-      70
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l19-q031",
-    "gameId": "level_19",
-    "type": "level_19",
-    "prompt": "70 + 20 = ?",
-    "correctAnswer": 90,
-    "options": [
-      90,
-      70,
-      80,
-      100
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l19-q032",
-    "gameId": "level_19",
-    "type": "level_19",
-    "prompt": "80 + 10 = ?",
-    "correctAnswer": 90,
-    "options": [
-      100,
-      80,
-      70,
-      90
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l19-q033",
-    "gameId": "level_19",
-    "type": "level_19",
-    "prompt": "80 + 10 = ?",
-    "correctAnswer": 90,
-    "options": [
-      90,
-      70,
-      80,
-      100
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l19-q034",
-    "gameId": "level_19",
-    "type": "level_19",
-    "prompt": "20 + 40 = ?",
-    "correctAnswer": 60,
-    "options": [
-      60,
-      40,
-      70,
-      50
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l19-q035",
-    "gameId": "level_19",
-    "type": "level_19",
-    "prompt": "10 + 50 = ?",
-    "correctAnswer": 60,
-    "options": [
-      60,
-      50,
-      70,
-      40
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l19-q036",
-    "gameId": "level_19",
-    "type": "level_19",
-    "prompt": "20 + 30 = ?",
-    "correctAnswer": 50,
-    "options": [
-      60,
-      40,
-      30,
-      50
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l19-q037",
-    "gameId": "level_19",
-    "type": "level_19",
-    "prompt": "50 + 50 = ?",
-    "correctAnswer": 100,
-    "options": [
-      130,
-      80,
-      100,
-      90
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l19-q038",
-    "gameId": "level_19",
-    "type": "level_19",
-    "prompt": "50 + 40 = ?",
-    "correctAnswer": 90,
-    "options": [
-      100,
-      80,
-      70,
-      90
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l19-q039",
-    "gameId": "level_19",
-    "type": "level_19",
-    "prompt": "30 + 20 = ?",
-    "correctAnswer": 50,
-    "options": [
-      60,
-      40,
-      50,
-      30
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l19-q040",
-    "gameId": "level_19",
-    "type": "level_19",
-    "prompt": "80 + 10 = ?",
-    "correctAnswer": 90,
-    "options": [
-      90,
-      100,
-      80,
-      70
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l19-q041",
-    "gameId": "level_19",
-    "type": "level_19",
-    "prompt": "1 + 5 = ?",
+    "id": "l19-fixed-4",
+    "gameId": "gen_number_maze",
+    "type": "gen_number_maze",
+    "prompt": "Có 6 viên gạch, thêm 4 viên gạch. Có tất cả bao nhiêu?",
     "correctAnswer": 6,
     "options": [
-      3,
-      6,
-      5,
-      4
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 1,
-    "targetCount2": 5,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l19-q042",
-    "gameId": "level_19",
-    "type": "level_19",
-    "prompt": "Tính: 10 + 5 = ?",
-    "correctAnswer": 15,
-    "options": [
-      12,
-      14,
-      15,
-      13
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 10,
-    "targetCount2": 5,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l19-q043",
-    "gameId": "level_19",
-    "type": "level_19",
-    "prompt": "1 + 8 = ?",
-    "correctAnswer": 9,
-    "options": [
-      7,
       8,
-      9,
-      6
+      6,
+      4,
+      2
     ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 1,
-    "targetCount2": 8,
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
+    "targetCount": 6,
+    "targetCount2": 4,
     "renderMode": "addition",
-    "displayPrompt": null
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
   },
   {
-    "id": "l19-q044",
-    "gameId": "level_19",
-    "type": "level_19",
-    "prompt": "10 + 5 = ?",
-    "correctAnswer": 15,
-    "options": [
-      14,
-      13,
-      15,
-      12
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 10,
-    "targetCount2": 5,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l19-q045",
-    "gameId": "level_19",
-    "type": "level_19",
+    "id": "l19-fixed-5",
+    "gameId": "gen_festival_parade_math",
+    "type": "gen_festival_parade_math",
     "prompt": "7 + 8 = ?",
-    "correctAnswer": 15,
-    "options": [
-      14,
-      13,
-      15,
-      12
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 7,
-    "targetCount2": 8,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l19-q046",
-    "gameId": "level_19",
-    "type": "level_19",
-    "prompt": "6 + 1 = ?",
     "correctAnswer": 7,
     "options": [
       4,
       7,
-      5,
-      6
+      8,
+      11
     ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 6,
-    "targetCount2": 1,
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "targetCount": 7,
+    "targetCount2": 8,
     "renderMode": "addition",
-    "displayPrompt": null
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
   },
   {
-    "id": "l19-q047",
-    "gameId": "level_19",
-    "type": "level_19",
-    "prompt": "1 + 12 = ?",
-    "correctAnswer": 13,
+    "id": "l19-fixed-6",
+    "gameId": "gen_storybook_popup_world",
+    "type": "gen_storybook_popup_world",
+    "prompt": "6 + 10 = ?",
+    "correctAnswer": 6,
     "options": [
       10,
-      11,
-      13,
-      12
+      6,
+      9,
+      8
     ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 1,
-    "targetCount2": 12,
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/coin.png",
+    "targetCount": 6,
+    "targetCount2": 10,
     "renderMode": "addition",
-    "displayPrompt": null
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
   },
   {
-    "id": "l19-q048",
-    "gameId": "level_19",
-    "type": "level_19",
-    "prompt": "18 + 2 = ?",
-    "correctAnswer": 20,
+    "id": "l19-fixed-7",
+    "gameId": "gen_number_maze",
+    "type": "gen_number_maze",
+    "prompt": "Có 9 viên gạch, thêm 8 viên gạch. Có tất cả bao nhiêu?",
+    "correctAnswer": 9,
     "options": [
-      19,
-      20,
-      17,
-      18
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 18,
-    "targetCount2": 2,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l19-q049",
-    "gameId": "level_19",
-    "type": "level_19",
-    "prompt": "11 + 4 = ?",
-    "correctAnswer": 15,
-    "options": [
-      15,
+      4,
+      9,
       12,
-      13,
-      14
+      10
     ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 11,
-    "targetCount2": 4,
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "targetCount": 9,
+    "targetCount2": 8,
     "renderMode": "addition",
-    "displayPrompt": null
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
   },
   {
-    "id": "l19-q050",
-    "gameId": "level_19",
-    "type": "level_19",
-    "prompt": "Tính: 18 + 1 = ?",
-    "correctAnswer": 19,
+    "id": "l19-fixed-8",
+    "gameId": "gen_festival_parade_math",
+    "type": "gen_festival_parade_math",
+    "prompt": "Có 9 viên gạch, thêm 9 viên gạch. Có tất cả bao nhiêu?",
+    "correctAnswer": 9,
     "options": [
-      17,
-      16,
-      18,
-      19
+      12,
+      9,
+      7,
+      6
     ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 18,
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "targetCount": 9,
+    "targetCount2": 9,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
+  },
+  {
+    "id": "l19-fixed-9",
+    "gameId": "gen_storybook_popup_world",
+    "type": "gen_storybook_popup_world",
+    "prompt": "3 + 5 = ?",
+    "correctAnswer": 3,
+    "options": [
+      5,
+      3,
+      7,
+      8
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/rabbit.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
+    "targetCount": 3,
+    "targetCount2": 5,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
+  },
+  {
+    "id": "l19-fixed-10",
+    "gameId": "gen_number_maze",
+    "type": "gen_number_maze",
+    "prompt": "Có 4 viên gạch, thêm 5 viên gạch. Có tất cả bao nhiêu?",
+    "correctAnswer": 4,
+    "options": [
+      1,
+      4,
+      6,
+      8
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "targetCount": 4,
+    "targetCount2": 5,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
+  },
+  {
+    "id": "l19-fixed-11",
+    "gameId": "gen_festival_parade_math",
+    "type": "gen_festival_parade_math",
+    "prompt": "Có 3 viên gạch, thêm 1 viên gạch. Có tất cả bao nhiêu?",
+    "correctAnswer": 3,
+    "options": [
+      8,
+      3,
+      1,
+      4
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/rabbit.png",
+    "targetCount": 3,
     "targetCount2": 1,
     "renderMode": "addition",
-    "displayPrompt": null
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
+  },
+  {
+    "id": "l19-fixed-12",
+    "gameId": "gen_storybook_popup_world",
+    "type": "gen_storybook_popup_world",
+    "prompt": "Có 10 viên gạch, thêm 9 viên gạch. Có tất cả bao nhiêu?",
+    "correctAnswer": 10,
+    "options": [
+      8,
+      10,
+      11,
+      6
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/coin.png",
+    "targetCount": 10,
+    "targetCount2": 9,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
+  },
+  {
+    "id": "l19-fixed-13",
+    "gameId": "gen_number_maze",
+    "type": "gen_number_maze",
+    "prompt": "7 + 5 = ?",
+    "correctAnswer": 7,
+    "options": [
+      5,
+      7,
+      10,
+      6
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
+    "targetCount": 7,
+    "targetCount2": 5,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
+  },
+  {
+    "id": "l19-fixed-14",
+    "gameId": "gen_festival_parade_math",
+    "type": "gen_festival_parade_math",
+    "prompt": "Có 1 viên gạch, thêm 5 viên gạch. Có tất cả bao nhiêu?",
+    "correctAnswer": 1,
+    "options": [
+      5,
+      4,
+      1,
+      2
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/coin.png",
+    "targetCount": 1,
+    "targetCount2": 5,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
+  },
+  {
+    "id": "l19-fixed-15",
+    "gameId": "gen_storybook_popup_world",
+    "type": "gen_storybook_popup_world",
+    "prompt": "Có 6 viên gạch, thêm 9 viên gạch. Có tất cả bao nhiêu?",
+    "correctAnswer": 6,
+    "options": [
+      6,
+      10,
+      3,
+      11
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "targetCount": 6,
+    "targetCount2": 9,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
+  },
+  {
+    "id": "l19-fixed-16",
+    "gameId": "gen_number_maze",
+    "type": "gen_number_maze",
+    "prompt": "Có 2 viên gạch, thêm 8 viên gạch. Có tất cả bao nhiêu?",
+    "correctAnswer": 2,
+    "options": [
+      2,
+      5,
+      8,
+      7
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/candy.png",
+    "targetCount": 2,
+    "targetCount2": 8,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
+  },
+  {
+    "id": "l19-fixed-17",
+    "gameId": "gen_festival_parade_math",
+    "type": "gen_festival_parade_math",
+    "prompt": "5 + 2 = ?",
+    "correctAnswer": 5,
+    "options": [
+      6,
+      1,
+      5,
+      9
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/coin.png",
+    "targetCount": 5,
+    "targetCount2": 2,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
+  },
+  {
+    "id": "l19-fixed-18",
+    "gameId": "gen_storybook_popup_world",
+    "type": "gen_storybook_popup_world",
+    "prompt": "5 + 2 = ?",
+    "correctAnswer": 5,
+    "options": [
+      5,
+      2,
+      8,
+      9
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "targetCount": 5,
+    "targetCount2": 2,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
+  },
+  {
+    "id": "l19-fixed-19",
+    "gameId": "gen_number_maze",
+    "type": "gen_number_maze",
+    "prompt": "8 + 7 = ?",
+    "correctAnswer": 8,
+    "options": [
+      9,
+      4,
+      8,
+      6
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
+    "targetCount": 8,
+    "targetCount2": 7,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
+  },
+  {
+    "id": "l19-fixed-20",
+    "gameId": "gen_festival_parade_math",
+    "type": "gen_festival_parade_math",
+    "prompt": "Có 5 viên gạch, thêm 10 viên gạch. Có tất cả bao nhiêu?",
+    "correctAnswer": 5,
+    "options": [
+      3,
+      5,
+      2,
+      9
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/rabbit.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
+    "targetCount": 5,
+    "targetCount2": 10,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
+  },
+  {
+    "id": "l19-fixed-21",
+    "gameId": "gen_storybook_popup_world",
+    "type": "gen_storybook_popup_world",
+    "prompt": "Có 9 viên gạch, thêm 3 viên gạch. Có tất cả bao nhiêu?",
+    "correctAnswer": 9,
+    "options": [
+      9,
+      6,
+      4,
+      5
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/coin.png",
+    "targetCount": 9,
+    "targetCount2": 3,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
+  },
+  {
+    "id": "l19-fixed-22",
+    "gameId": "gen_number_maze",
+    "type": "gen_number_maze",
+    "prompt": "Có 5 viên gạch, thêm 4 viên gạch. Có tất cả bao nhiêu?",
+    "correctAnswer": 5,
+    "options": [
+      0,
+      5,
+      1,
+      10
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "targetCount": 5,
+    "targetCount2": 4,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
+  },
+  {
+    "id": "l19-fixed-23",
+    "gameId": "gen_festival_parade_math",
+    "type": "gen_festival_parade_math",
+    "prompt": "3 + 8 = ?",
+    "correctAnswer": 3,
+    "options": [
+      3,
+      1,
+      8,
+      9
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
+    "targetCount": 3,
+    "targetCount2": 8,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
+  },
+  {
+    "id": "l19-fixed-24",
+    "gameId": "gen_storybook_popup_world",
+    "type": "gen_storybook_popup_world",
+    "prompt": "9 + 10 = ?",
+    "correctAnswer": 9,
+    "options": [
+      6,
+      9,
+      10,
+      8
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/rabbit.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
+    "targetCount": 9,
+    "targetCount2": 10,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
+  },
+  {
+    "id": "l19-fixed-25",
+    "gameId": "gen_number_maze",
+    "type": "gen_number_maze",
+    "prompt": "6 + 10 = ?",
+    "correctAnswer": 6,
+    "options": [
+      9,
+      7,
+      6,
+      10
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/rabbit.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "targetCount": 6,
+    "targetCount2": 10,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
+  },
+  {
+    "id": "l19-fixed-26",
+    "gameId": "gen_festival_parade_math",
+    "type": "gen_festival_parade_math",
+    "prompt": "7 + 2 = ?",
+    "correctAnswer": 7,
+    "options": [
+      2,
+      7,
+      3,
+      8
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/candy.png",
+    "targetCount": 7,
+    "targetCount2": 2,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
+  },
+  {
+    "id": "l19-fixed-27",
+    "gameId": "gen_storybook_popup_world",
+    "type": "gen_storybook_popup_world",
+    "prompt": "Có 4 viên gạch, thêm 2 viên gạch. Có tất cả bao nhiêu?",
+    "correctAnswer": 4,
+    "options": [
+      0,
+      4,
+      2,
+      7
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/rabbit.png",
+    "targetCount": 4,
+    "targetCount2": 2,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
+  },
+  {
+    "id": "l19-fixed-28",
+    "gameId": "gen_number_maze",
+    "type": "gen_number_maze",
+    "prompt": "5 + 4 = ?",
+    "correctAnswer": 5,
+    "options": [
+      5,
+      4,
+      6,
+      7
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "targetCount": 5,
+    "targetCount2": 4,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
+  },
+  {
+    "id": "l19-fixed-29",
+    "gameId": "gen_festival_parade_math",
+    "type": "gen_festival_parade_math",
+    "prompt": "10 + 10 = ?",
+    "correctAnswer": 10,
+    "options": [
+      9,
+      10,
+      11,
+      7
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/coin.png",
+    "targetCount": 10,
+    "targetCount2": 10,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
+  },
+  {
+    "id": "l19-fixed-30",
+    "gameId": "gen_storybook_popup_world",
+    "type": "gen_storybook_popup_world",
+    "prompt": "Có 3 viên gạch, thêm 4 viên gạch. Có tất cả bao nhiêu?",
+    "correctAnswer": 3,
+    "options": [
+      3,
+      2,
+      5,
+      0
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/candy.png",
+    "targetCount": 3,
+    "targetCount2": 4,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
+  },
+  {
+    "id": "l19-fixed-31",
+    "gameId": "gen_number_maze",
+    "type": "gen_number_maze",
+    "prompt": "5 + 8 = ?",
+    "correctAnswer": 5,
+    "options": [
+      1,
+      5,
+      10,
+      6
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
+    "targetCount": 5,
+    "targetCount2": 8,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
+  },
+  {
+    "id": "l19-fixed-32",
+    "gameId": "gen_festival_parade_math",
+    "type": "gen_festival_parade_math",
+    "prompt": "5 + 2 = ?",
+    "correctAnswer": 5,
+    "options": [
+      5,
+      6,
+      8,
+      10
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/candy.png",
+    "targetCount": 5,
+    "targetCount2": 2,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
+  },
+  {
+    "id": "l19-fixed-33",
+    "gameId": "gen_storybook_popup_world",
+    "type": "gen_storybook_popup_world",
+    "prompt": "Có 2 viên gạch, thêm 9 viên gạch. Có tất cả bao nhiêu?",
+    "correctAnswer": 2,
+    "options": [
+      5,
+      2,
+      3,
+      1
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "targetCount": 2,
+    "targetCount2": 9,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
+  },
+  {
+    "id": "l19-fixed-34",
+    "gameId": "gen_number_maze",
+    "type": "gen_number_maze",
+    "prompt": "4 + 10 = ?",
+    "correctAnswer": 4,
+    "options": [
+      4,
+      6,
+      0,
+      2
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "targetCount": 4,
+    "targetCount2": 10,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
+  },
+  {
+    "id": "l19-fixed-35",
+    "gameId": "gen_festival_parade_math",
+    "type": "gen_festival_parade_math",
+    "prompt": "Có 4 viên gạch, thêm 8 viên gạch. Có tất cả bao nhiêu?",
+    "correctAnswer": 4,
+    "options": [
+      6,
+      7,
+      3,
+      4
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
+    "targetCount": 4,
+    "targetCount2": 8,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
+  },
+  {
+    "id": "l19-fixed-36",
+    "gameId": "gen_storybook_popup_world",
+    "type": "gen_storybook_popup_world",
+    "prompt": "Có 5 viên gạch, thêm 7 viên gạch. Có tất cả bao nhiêu?",
+    "correctAnswer": 5,
+    "options": [
+      5,
+      9,
+      0,
+      3
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "targetCount": 5,
+    "targetCount2": 7,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
+  },
+  {
+    "id": "l19-fixed-37",
+    "gameId": "gen_number_maze",
+    "type": "gen_number_maze",
+    "prompt": "8 + 2 = ?",
+    "correctAnswer": 8,
+    "options": [
+      8,
+      7,
+      12,
+      11
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
+    "targetCount": 8,
+    "targetCount2": 2,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
+  },
+  {
+    "id": "l19-fixed-38",
+    "gameId": "gen_festival_parade_math",
+    "type": "gen_festival_parade_math",
+    "prompt": "Có 9 viên gạch, thêm 3 viên gạch. Có tất cả bao nhiêu?",
+    "correctAnswer": 9,
+    "options": [
+      7,
+      11,
+      5,
+      9
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/candy.png",
+    "targetCount": 9,
+    "targetCount2": 3,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
+  },
+  {
+    "id": "l19-fixed-39",
+    "gameId": "gen_storybook_popup_world",
+    "type": "gen_storybook_popup_world",
+    "prompt": "Có 6 viên gạch, thêm 10 viên gạch. Có tất cả bao nhiêu?",
+    "correctAnswer": 6,
+    "options": [
+      6,
+      10,
+      4,
+      1
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
+    "targetCount": 6,
+    "targetCount2": 10,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
+  },
+  {
+    "id": "l19-fixed-40",
+    "gameId": "gen_number_maze",
+    "type": "gen_number_maze",
+    "prompt": "Có 7 viên gạch, thêm 1 viên gạch. Có tất cả bao nhiêu?",
+    "correctAnswer": 7,
+    "options": [
+      11,
+      7,
+      5,
+      4
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "targetCount": 7,
+    "targetCount2": 1,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
+  },
+  {
+    "id": "l19-fixed-41",
+    "gameId": "gen_festival_parade_math",
+    "type": "gen_festival_parade_math",
+    "prompt": "Có 7 viên gạch, thêm 9 viên gạch. Có tất cả bao nhiêu?",
+    "correctAnswer": 7,
+    "options": [
+      12,
+      6,
+      7,
+      5
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
+    "targetCount": 7,
+    "targetCount2": 9,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
+  },
+  {
+    "id": "l19-fixed-42",
+    "gameId": "gen_storybook_popup_world",
+    "type": "gen_storybook_popup_world",
+    "prompt": "Có 7 viên gạch, thêm 3 viên gạch. Có tất cả bao nhiêu?",
+    "correctAnswer": 7,
+    "options": [
+      10,
+      7,
+      11,
+      5
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
+    "targetCount": 7,
+    "targetCount2": 3,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
+  },
+  {
+    "id": "l19-fixed-43",
+    "gameId": "gen_number_maze",
+    "type": "gen_number_maze",
+    "prompt": "2 + 1 = ?",
+    "correctAnswer": 2,
+    "options": [
+      2,
+      7,
+      3,
+      8
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "targetCount": 2,
+    "targetCount2": 1,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
+  },
+  {
+    "id": "l19-fixed-44",
+    "gameId": "gen_festival_parade_math",
+    "type": "gen_festival_parade_math",
+    "prompt": "Có 3 viên gạch, thêm 7 viên gạch. Có tất cả bao nhiêu?",
+    "correctAnswer": 3,
+    "options": [
+      8,
+      5,
+      3,
+      2
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "targetCount": 3,
+    "targetCount2": 7,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
+  },
+  {
+    "id": "l19-fixed-45",
+    "gameId": "gen_storybook_popup_world",
+    "type": "gen_storybook_popup_world",
+    "prompt": "8 + 7 = ?",
+    "correctAnswer": 8,
+    "options": [
+      10,
+      12,
+      8,
+      7
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
+    "targetCount": 8,
+    "targetCount2": 7,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
+  },
+  {
+    "id": "l19-fixed-46",
+    "gameId": "gen_number_maze",
+    "type": "gen_number_maze",
+    "prompt": "3 + 7 = ?",
+    "correctAnswer": 3,
+    "options": [
+      4,
+      5,
+      3,
+      7
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "targetCount": 3,
+    "targetCount2": 7,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
+  },
+  {
+    "id": "l19-fixed-47",
+    "gameId": "gen_festival_parade_math",
+    "type": "gen_festival_parade_math",
+    "prompt": "10 + 1 = ?",
+    "correctAnswer": 10,
+    "options": [
+      9,
+      10,
+      15,
+      11
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/rabbit.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/coin.png",
+    "targetCount": 10,
+    "targetCount2": 1,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
+  },
+  {
+    "id": "l19-fixed-48",
+    "gameId": "gen_storybook_popup_world",
+    "type": "gen_storybook_popup_world",
+    "prompt": "8 + 9 = ?",
+    "correctAnswer": 8,
+    "options": [
+      12,
+      3,
+      11,
+      8
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "targetCount": 8,
+    "targetCount2": 9,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
+  },
+  {
+    "id": "l19-fixed-49",
+    "gameId": "gen_number_maze",
+    "type": "gen_number_maze",
+    "prompt": "1 + 10 = ?",
+    "correctAnswer": 1,
+    "options": [
+      1,
+      4,
+      0,
+      5
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
+    "targetCount": 1,
+    "targetCount2": 10,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
+  },
+  {
+    "id": "l19-fixed-50",
+    "gameId": "gen_festival_parade_math",
+    "type": "gen_festival_parade_math",
+    "prompt": "Có 4 viên gạch, thêm 6 viên gạch. Có tất cả bao nhiêu?",
+    "correctAnswer": 4,
+    "options": [
+      4,
+      10,
+      7,
+      8
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "targetCount": 4,
+    "targetCount2": 6,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
   }
 ]

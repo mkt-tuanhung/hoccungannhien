@@ -1,942 +1,952 @@
 [
   {
-    "id": "l09-q001",
-    "gameId": "level_9",
-    "type": "level_9",
-    "prompt": "Tính: 6 + 3 = ?",
-    "correctAnswer": 9,
-    "options": [
-      8,
-      9,
-      6,
-      7
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 6,
-    "targetCount2": 3,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l09-q002",
-    "gameId": "level_9",
-    "type": "level_9",
-    "prompt": "4 + 3 = ?",
+    "id": "l09-fixed-1",
+    "gameId": "rhythm_math_dance",
+    "type": "rhythm_math_dance",
+    "prompt": "Chọn phép tính đúng cho câu chuyện: Có 7 con mèo, thêm 3. Hỏi tất cả?",
     "correctAnswer": 7,
     "options": [
-      5,
+      10,
+      11,
       7,
-      6,
-      4
+      2
     ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 4,
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
+    "targetCount": 7,
     "targetCount2": 3,
     "renderMode": "addition",
-    "displayPrompt": null
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
   },
   {
-    "id": "l09-q003",
-    "gameId": "level_9",
-    "type": "level_9",
-    "prompt": "4 + 2 = ?",
+    "id": "l09-fixed-2",
+    "gameId": "math_cooking_lab",
+    "type": "math_cooking_lab",
+    "prompt": "Chọn phép tính đúng: Có 6 con thỏ, bớt đi 4. Hỏi còn lại?",
     "correctAnswer": 6,
     "options": [
+      11,
       6,
-      3,
-      4,
-      5
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 4,
-    "targetCount2": 2,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l09-q004",
-    "gameId": "level_9",
-    "type": "level_9",
-    "prompt": "Tính: 1 + 9 = ?",
-    "correctAnswer": 10,
-    "options": [
-      8,
       10,
-      9,
-      7
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 1,
-    "targetCount2": 9,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l09-q005",
-    "gameId": "level_9",
-    "type": "level_9",
-    "prompt": "1 + 6 = ?",
-    "correctAnswer": 7,
-    "options": [
-      7,
-      4,
-      5,
-      6
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 1,
-    "targetCount2": 6,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l09-q006",
-    "gameId": "level_9",
-    "type": "level_9",
-    "prompt": "6 + 1 = ?",
-    "correctAnswer": 7,
-    "options": [
-      5,
-      4,
-      7,
-      6
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 6,
-    "targetCount2": 1,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l09-q007",
-    "gameId": "level_9",
-    "type": "level_9",
-    "prompt": "3 + 2 = ?",
-    "correctAnswer": 5,
-    "options": [
-      3,
-      4,
-      5,
-      2
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 3,
-    "targetCount2": 2,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l09-q008",
-    "gameId": "level_9",
-    "type": "level_9",
-    "prompt": "7 + 1 = ?",
-    "correctAnswer": 8,
-    "options": [
-      7,
-      8,
-      5,
-      6
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 7,
-    "targetCount2": 1,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l09-q009",
-    "gameId": "level_9",
-    "type": "level_9",
-    "prompt": "Tính: 6 + 1 = ?",
-    "correctAnswer": 7,
-    "options": [
-      4,
-      5,
-      7,
-      6
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 6,
-    "targetCount2": 1,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l09-q010",
-    "gameId": "level_9",
-    "type": "level_9",
-    "prompt": "8 + 2 = ?",
-    "correctAnswer": 10,
-    "options": [
-      9,
-      10,
-      8,
-      7
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 8,
-    "targetCount2": 2,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l09-q011",
-    "gameId": "level_9",
-    "type": "level_9",
-    "prompt": "Tính: 7 + 3 = ?",
-    "correctAnswer": 10,
-    "options": [
-      10,
-      8,
-      7,
-      9
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 7,
-    "targetCount2": 3,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l09-q012",
-    "gameId": "level_9",
-    "type": "level_9",
-    "prompt": "8 + 2 = ?",
-    "correctAnswer": 10,
-    "options": [
-      8,
-      10,
-      7,
-      9
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 8,
-    "targetCount2": 2,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l09-q013",
-    "gameId": "level_9",
-    "type": "level_9",
-    "prompt": "7 + 2 = ?",
-    "correctAnswer": 9,
-    "options": [
-      8,
-      9,
-      6,
-      7
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 7,
-    "targetCount2": 2,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l09-q014",
-    "gameId": "level_9",
-    "type": "level_9",
-    "prompt": "Tính: 6 + 2 = ?",
-    "correctAnswer": 8,
-    "options": [
-      8,
-      6,
-      5,
-      7
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 6,
-    "targetCount2": 2,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l09-q015",
-    "gameId": "level_9",
-    "type": "level_9",
-    "prompt": "8 + 2 = ?",
-    "correctAnswer": 10,
-    "options": [
-      7,
-      9,
-      8,
-      10
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 8,
-    "targetCount2": 2,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l09-q016",
-    "gameId": "level_9",
-    "type": "level_9",
-    "prompt": "Tính: 5 + 4 = ?",
-    "correctAnswer": 9,
-    "options": [
-      9,
-      8,
-      7,
-      6
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 5,
-    "targetCount2": 4,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l09-q017",
-    "gameId": "level_9",
-    "type": "level_9",
-    "prompt": "9 + 1 = ?",
-    "correctAnswer": 10,
-    "options": [
-      7,
-      9,
-      10,
-      8
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 9,
-    "targetCount2": 1,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l09-q018",
-    "gameId": "level_9",
-    "type": "level_9",
-    "prompt": "Tính: 9 + 1 = ?",
-    "correctAnswer": 10,
-    "options": [
-      7,
-      9,
-      8,
-      10
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 9,
-    "targetCount2": 1,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l09-q019",
-    "gameId": "level_9",
-    "type": "level_9",
-    "prompt": "Tính: 9 + 1 = ?",
-    "correctAnswer": 10,
-    "options": [
-      9,
-      7,
-      10,
-      8
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 9,
-    "targetCount2": 1,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l09-q020",
-    "gameId": "level_9",
-    "type": "level_9",
-    "prompt": "7 + 1 = ?",
-    "correctAnswer": 8,
-    "options": [
-      7,
-      5,
-      6,
-      8
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 7,
-    "targetCount2": 1,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l09-q021",
-    "gameId": "level_9",
-    "type": "level_9",
-    "prompt": "Tính: 9 - 5 = ?",
-    "correctAnswer": 4,
-    "options": [
-      4,
-      2,
-      3,
-      1
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 9,
-    "targetCount2": 5,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l09-q022",
-    "gameId": "level_9",
-    "type": "level_9",
-    "prompt": "7 - 4 = ?",
-    "correctAnswer": 3,
-    "options": [
-      1,
-      0,
-      3,
-      2
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 7,
-    "targetCount2": 4,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l09-q023",
-    "gameId": "level_9",
-    "type": "level_9",
-    "prompt": "9 - 8 = ?",
-    "correctAnswer": 1,
-    "options": [
-      1,
-      0,
-      3,
-      2
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 9,
-    "targetCount2": 8,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l09-q024",
-    "gameId": "level_9",
-    "type": "level_9",
-    "prompt": "10 - 4 = ?",
-    "correctAnswer": 6,
-    "options": [
-      3,
-      5,
-      6,
-      4
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 10,
-    "targetCount2": 4,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l09-q025",
-    "gameId": "level_9",
-    "type": "level_9",
-    "prompt": "Tính: 2 - 0 = ?",
-    "correctAnswer": 2,
-    "options": [
-      0,
-      1,
-      3,
-      2
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 2,
-    "targetCount2": 0,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l09-q026",
-    "gameId": "level_9",
-    "type": "level_9",
-    "prompt": "Tính: 10 - 9 = ?",
-    "correctAnswer": 1,
-    "options": [
-      1,
-      2,
-      3,
-      0
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 10,
-    "targetCount2": 9,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l09-q027",
-    "gameId": "level_9",
-    "type": "level_9",
-    "prompt": "Tính: 3 - 2 = ?",
-    "correctAnswer": 1,
-    "options": [
-      3,
-      2,
-      0,
-      1
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 3,
-    "targetCount2": 2,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l09-q028",
-    "gameId": "level_9",
-    "type": "level_9",
-    "prompt": "6 - 3 = ?",
-    "correctAnswer": 3,
-    "options": [
-      1,
-      3,
-      2,
-      0
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 6,
-    "targetCount2": 3,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l09-q029",
-    "gameId": "level_9",
-    "type": "level_9",
-    "prompt": "7 - 3 = ?",
-    "correctAnswer": 4,
-    "options": [
-      3,
-      4,
-      1,
-      2
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 7,
-    "targetCount2": 3,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l09-q030",
-    "gameId": "level_9",
-    "type": "level_9",
-    "prompt": "3 - 2 = ?",
-    "correctAnswer": 1,
-    "options": [
-      1,
-      2,
-      3,
-      0
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 3,
-    "targetCount2": 2,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l09-q031",
-    "gameId": "level_9",
-    "type": "level_9",
-    "prompt": "3 - 0 = ?",
-    "correctAnswer": 3,
-    "options": [
-      2,
-      3,
-      0,
-      1
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 3,
-    "targetCount2": 0,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l09-q032",
-    "gameId": "level_9",
-    "type": "level_9",
-    "prompt": "8 - 7 = ?",
-    "correctAnswer": 1,
-    "options": [
-      0,
-      2,
-      1,
       3
     ],
-    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/rabbit.png",
+    "objectIcon2": "",
+    "targetCount": 6,
+    "targetCount2": 4,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
+  },
+  {
+    "id": "l09-fixed-3",
+    "gameId": "detective_math_mystery",
+    "type": "detective_math_mystery",
+    "prompt": "Chọn phép tính đúng cho câu chuyện: Có 8 con thỏ, thêm 2. Hỏi tất cả?",
+    "correctAnswer": 8,
+    "options": [
+      12,
+      8,
+      13,
+      7
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/rabbit.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/candy.png",
+    "targetCount": 8,
+    "targetCount2": 2,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
+  },
+  {
+    "id": "l09-fixed-4",
+    "gameId": "rhythm_math_dance",
+    "type": "rhythm_math_dance",
+    "prompt": "Chọn phép tính đúng cho câu chuyện: Có 3 viên kim cương, thêm 4. Hỏi tất cả?",
+    "correctAnswer": 3,
+    "options": [
+      3,
+      8,
+      2,
+      7
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "targetCount": 3,
+    "targetCount2": 4,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
+  },
+  {
+    "id": "l09-fixed-5",
+    "gameId": "math_cooking_lab",
+    "type": "math_cooking_lab",
+    "prompt": "Chọn phép tính đúng cho câu chuyện: Có 1 ngôi sao, thêm 4. Hỏi tất cả?",
+    "correctAnswer": 1,
+    "options": [
+      4,
+      1,
+      3,
+      0
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/coin.png",
+    "targetCount": 1,
+    "targetCount2": 4,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
+  },
+  {
+    "id": "l09-fixed-6",
+    "gameId": "detective_math_mystery",
+    "type": "detective_math_mystery",
+    "prompt": "Chọn phép tính đúng: Có 8 quả táo, bớt đi 4. Hỏi còn lại?",
+    "correctAnswer": 8,
+    "options": [
+      6,
+      8,
+      3,
+      10
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
+    "objectIcon2": "",
+    "targetCount": 8,
+    "targetCount2": 4,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
+  },
+  {
+    "id": "l09-fixed-7",
+    "gameId": "rhythm_math_dance",
+    "type": "rhythm_math_dance",
+    "prompt": "Chọn phép tính đúng cho câu chuyện: Có 10 quả bóng, thêm 6. Hỏi tất cả?",
+    "correctAnswer": 10,
+    "options": [
+      9,
+      11,
+      6,
+      10
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/candy.png",
+    "targetCount": 10,
+    "targetCount2": 6,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
+  },
+  {
+    "id": "l09-fixed-8",
+    "gameId": "math_cooking_lab",
+    "type": "math_cooking_lab",
+    "prompt": "Chọn phép tính đúng cho câu chuyện: Có 9 viên kim cương, thêm 3. Hỏi tất cả?",
+    "correctAnswer": 9,
+    "options": [
+      8,
+      4,
+      7,
+      9
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/rabbit.png",
+    "targetCount": 9,
+    "targetCount2": 3,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
+  },
+  {
+    "id": "l09-fixed-9",
+    "gameId": "detective_math_mystery",
+    "type": "detective_math_mystery",
+    "prompt": "Chọn phép tính đúng cho câu chuyện: Có 2 con mèo, thêm 3. Hỏi tất cả?",
+    "correctAnswer": 2,
+    "options": [
+      1,
+      3,
+      2,
+      4
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/coin.png",
+    "targetCount": 2,
+    "targetCount2": 3,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
+  },
+  {
+    "id": "l09-fixed-10",
+    "gameId": "rhythm_math_dance",
+    "type": "rhythm_math_dance",
+    "prompt": "Chọn phép tính đúng: Có 7 con mèo, bớt đi 3. Hỏi còn lại?",
+    "correctAnswer": 7,
+    "options": [
+      7,
+      12,
+      6,
+      10
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "objectIcon2": "",
+    "targetCount": 7,
+    "targetCount2": 3,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
+  },
+  {
+    "id": "l09-fixed-11",
+    "gameId": "math_cooking_lab",
+    "type": "math_cooking_lab",
+    "prompt": "Chọn phép tính đúng cho câu chuyện: Có 3 con thỏ, thêm 5. Hỏi tất cả?",
+    "correctAnswer": 3,
+    "options": [
+      6,
+      4,
+      3,
+      8
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/rabbit.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
+    "targetCount": 3,
+    "targetCount2": 5,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
+  },
+  {
+    "id": "l09-fixed-12",
+    "gameId": "detective_math_mystery",
+    "type": "detective_math_mystery",
+    "prompt": "Chọn phép tính đúng: Có 6 ngôi sao, bớt đi 5. Hỏi còn lại?",
+    "correctAnswer": 6,
+    "options": [
+      8,
+      4,
+      6,
+      2
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
+    "objectIcon2": "",
+    "targetCount": 6,
+    "targetCount2": 5,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
+  },
+  {
+    "id": "l09-fixed-13",
+    "gameId": "rhythm_math_dance",
+    "type": "rhythm_math_dance",
+    "prompt": "Chọn phép tính đúng: Có 8 ngôi sao, bớt đi 3. Hỏi còn lại?",
+    "correctAnswer": 8,
+    "options": [
+      8,
+      11,
+      6,
+      10
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
+    "objectIcon2": "",
+    "targetCount": 8,
+    "targetCount2": 3,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
+  },
+  {
+    "id": "l09-fixed-14",
+    "gameId": "math_cooking_lab",
+    "type": "math_cooking_lab",
+    "prompt": "Chọn phép tính đúng: Có 7 con mèo, bớt đi 5. Hỏi còn lại?",
+    "correctAnswer": 7,
+    "options": [
+      6,
+      7,
+      12,
+      5
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "objectIcon2": "",
+    "targetCount": 7,
+    "targetCount2": 5,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
+  },
+  {
+    "id": "l09-fixed-15",
+    "gameId": "detective_math_mystery",
+    "type": "detective_math_mystery",
+    "prompt": "Chọn phép tính đúng cho câu chuyện: Có 7 con mèo, thêm 1. Hỏi tất cả?",
+    "correctAnswer": 7,
+    "options": [
+      3,
+      7,
+      2,
+      4
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
+    "targetCount": 7,
+    "targetCount2": 1,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
+  },
+  {
+    "id": "l09-fixed-16",
+    "gameId": "rhythm_math_dance",
+    "type": "rhythm_math_dance",
+    "prompt": "Chọn phép tính đúng: Có 8 con thỏ, bớt đi 7. Hỏi còn lại?",
+    "correctAnswer": 8,
+    "options": [
+      7,
+      5,
+      9,
+      8
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/rabbit.png",
     "objectIcon2": "",
     "targetCount": 8,
     "targetCount2": 7,
     "renderMode": "subtraction",
-    "displayPrompt": null
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
   },
   {
-    "id": "l09-q033",
-    "gameId": "level_9",
-    "type": "level_9",
-    "prompt": "3 - 2 = ?",
-    "correctAnswer": 1,
+    "id": "l09-fixed-17",
+    "gameId": "math_cooking_lab",
+    "type": "math_cooking_lab",
+    "prompt": "Chọn phép tính đúng: Có 6 quả táo, bớt đi 2. Hỏi còn lại?",
+    "correctAnswer": 6,
     "options": [
-      2,
-      0,
+      9,
       3,
-      1
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 3,
-    "targetCount2": 2,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l09-q034",
-    "gameId": "level_9",
-    "type": "level_9",
-    "prompt": "3 - 2 = ?",
-    "correctAnswer": 1,
-    "options": [
-      2,
-      3,
-      1,
-      0
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 3,
-    "targetCount2": 2,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l09-q035",
-    "gameId": "level_9",
-    "type": "level_9",
-    "prompt": "8 - 1 = ?",
-    "correctAnswer": 7,
-    "options": [
-      4,
-      7,
-      5,
+      11,
       6
     ],
-    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
     "objectIcon2": "",
-    "targetCount": 8,
-    "targetCount2": 1,
+    "targetCount": 6,
+    "targetCount2": 2,
     "renderMode": "subtraction",
-    "displayPrompt": null
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
   },
   {
-    "id": "l09-q036",
-    "gameId": "level_9",
-    "type": "level_9",
-    "prompt": "9 - 1 = ?",
-    "correctAnswer": 8,
+    "id": "l09-fixed-18",
+    "gameId": "detective_math_mystery",
+    "type": "detective_math_mystery",
+    "prompt": "Chọn phép tính đúng: Có 9 con thỏ, bớt đi 1. Hỏi còn lại?",
+    "correctAnswer": 9,
     "options": [
-      5,
-      6,
       7,
-      8
+      9,
+      6,
+      14
     ],
-    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/rabbit.png",
     "objectIcon2": "",
     "targetCount": 9,
     "targetCount2": 1,
     "renderMode": "subtraction",
-    "displayPrompt": null
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
   },
   {
-    "id": "l09-q037",
-    "gameId": "level_9",
-    "type": "level_9",
-    "prompt": "Tính: 10 - 3 = ?",
-    "correctAnswer": 7,
+    "id": "l09-fixed-19",
+    "gameId": "rhythm_math_dance",
+    "type": "rhythm_math_dance",
+    "prompt": "Chọn phép tính đúng: Có 9 quả táo, bớt đi 2. Hỏi còn lại?",
+    "correctAnswer": 9,
+    "options": [
+      9,
+      10,
+      8,
+      14
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
+    "objectIcon2": "",
+    "targetCount": 9,
+    "targetCount2": 2,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
+  },
+  {
+    "id": "l09-fixed-20",
+    "gameId": "math_cooking_lab",
+    "type": "math_cooking_lab",
+    "prompt": "Chọn phép tính đúng: Có 9 ngôi sao, bớt đi 6. Hỏi còn lại?",
+    "correctAnswer": 9,
+    "options": [
+      10,
+      4,
+      9,
+      11
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
+    "objectIcon2": "",
+    "targetCount": 9,
+    "targetCount2": 6,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
+  },
+  {
+    "id": "l09-fixed-21",
+    "gameId": "detective_math_mystery",
+    "type": "detective_math_mystery",
+    "prompt": "Chọn phép tính đúng cho câu chuyện: Có 10 viên kim cương, thêm 5. Hỏi tất cả?",
+    "correctAnswer": 10,
+    "options": [
+      12,
+      10,
+      8,
+      15
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
+    "targetCount": 10,
+    "targetCount2": 5,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
+  },
+  {
+    "id": "l09-fixed-22",
+    "gameId": "rhythm_math_dance",
+    "type": "rhythm_math_dance",
+    "prompt": "Chọn phép tính đúng: Có 3 ngôi sao, bớt đi 2. Hỏi còn lại?",
+    "correctAnswer": 3,
+    "options": [
+      3,
+      7,
+      8,
+      1
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
+    "objectIcon2": "",
+    "targetCount": 3,
+    "targetCount2": 2,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
+  },
+  {
+    "id": "l09-fixed-23",
+    "gameId": "math_cooking_lab",
+    "type": "math_cooking_lab",
+    "prompt": "Chọn phép tính đúng cho câu chuyện: Có 6 quả bóng, thêm 10. Hỏi tất cả?",
+    "correctAnswer": 6,
+    "options": [
+      9,
+      6,
+      7,
+      3
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "targetCount": 6,
+    "targetCount2": 10,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
+  },
+  {
+    "id": "l09-fixed-24",
+    "gameId": "detective_math_mystery",
+    "type": "detective_math_mystery",
+    "prompt": "Chọn phép tính đúng: Có 5 quả bóng, bớt đi 1. Hỏi còn lại?",
+    "correctAnswer": 5,
     "options": [
       5,
-      4,
-      7,
-      6
+      1,
+      8,
+      2
     ],
-    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 1,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
+  },
+  {
+    "id": "l09-fixed-25",
+    "gameId": "rhythm_math_dance",
+    "type": "rhythm_math_dance",
+    "prompt": "Chọn phép tính đúng: Có 9 con thỏ, bớt đi 6. Hỏi còn lại?",
+    "correctAnswer": 9,
+    "options": [
+      11,
+      10,
+      4,
+      9
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/rabbit.png",
+    "objectIcon2": "",
+    "targetCount": 9,
+    "targetCount2": 6,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
+  },
+  {
+    "id": "l09-fixed-26",
+    "gameId": "math_cooking_lab",
+    "type": "math_cooking_lab",
+    "prompt": "Chọn phép tính đúng cho câu chuyện: Có 4 ngôi sao, thêm 5. Hỏi tất cả?",
+    "correctAnswer": 4,
+    "options": [
+      7,
+      8,
+      4,
+      5
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "targetCount": 4,
+    "targetCount2": 5,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
+  },
+  {
+    "id": "l09-fixed-27",
+    "gameId": "detective_math_mystery",
+    "type": "detective_math_mystery",
+    "prompt": "Chọn phép tính đúng: Có 10 con mèo, bớt đi 7. Hỏi còn lại?",
+    "correctAnswer": 10,
+    "options": [
+      14,
+      5,
+      8,
+      10
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "objectIcon2": "",
+    "targetCount": 10,
+    "targetCount2": 7,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
+  },
+  {
+    "id": "l09-fixed-28",
+    "gameId": "rhythm_math_dance",
+    "type": "rhythm_math_dance",
+    "prompt": "Chọn phép tính đúng cho câu chuyện: Có 4 viên kim cương, thêm 4. Hỏi tất cả?",
+    "correctAnswer": 4,
+    "options": [
+      5,
+      6,
+      8,
+      4
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
+    "targetCount": 4,
+    "targetCount2": 4,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
+  },
+  {
+    "id": "l09-fixed-29",
+    "gameId": "math_cooking_lab",
+    "type": "math_cooking_lab",
+    "prompt": "Chọn phép tính đúng: Có 10 quả táo, bớt đi 3. Hỏi còn lại?",
+    "correctAnswer": 10,
+    "options": [
+      15,
+      13,
+      10,
+      9
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
     "objectIcon2": "",
     "targetCount": 10,
     "targetCount2": 3,
     "renderMode": "subtraction",
-    "displayPrompt": null
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
   },
   {
-    "id": "l09-q038",
-    "gameId": "level_9",
-    "type": "level_9",
-    "prompt": "Tính: 5 - 0 = ?",
-    "correctAnswer": 5,
+    "id": "l09-fixed-30",
+    "gameId": "detective_math_mystery",
+    "type": "detective_math_mystery",
+    "prompt": "Chọn phép tính đúng: Có 6 viên kim cương, bớt đi 6. Hỏi còn lại?",
+    "correctAnswer": 6,
     "options": [
-      4,
-      5,
-      3,
-      2
+      6,
+      2,
+      7,
+      5
     ],
-    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
     "objectIcon2": "",
-    "targetCount": 5,
-    "targetCount2": 0,
+    "targetCount": 6,
+    "targetCount2": 6,
     "renderMode": "subtraction",
-    "displayPrompt": null
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
   },
   {
-    "id": "l09-q039",
-    "gameId": "level_9",
-    "type": "level_9",
-    "prompt": "7 - 0 = ?",
-    "correctAnswer": 7,
+    "id": "l09-fixed-31",
+    "gameId": "rhythm_math_dance",
+    "type": "rhythm_math_dance",
+    "prompt": "Chọn phép tính đúng: Có 9 quả táo, bớt đi 1. Hỏi còn lại?",
+    "correctAnswer": 9,
+    "options": [
+      12,
+      11,
+      8,
+      9
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
+    "objectIcon2": "",
+    "targetCount": 9,
+    "targetCount2": 1,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
+  },
+  {
+    "id": "l09-fixed-32",
+    "gameId": "math_cooking_lab",
+    "type": "math_cooking_lab",
+    "prompt": "Chọn phép tính đúng: Có 8 viên kim cương, bớt đi 1. Hỏi còn lại?",
+    "correctAnswer": 8,
+    "options": [
+      9,
+      10,
+      8,
+      12
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "objectIcon2": "",
+    "targetCount": 8,
+    "targetCount2": 1,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
+  },
+  {
+    "id": "l09-fixed-33",
+    "gameId": "detective_math_mystery",
+    "type": "detective_math_mystery",
+    "prompt": "Chọn phép tính đúng cho câu chuyện: Có 2 quả bóng, thêm 7. Hỏi tất cả?",
+    "correctAnswer": 2,
     "options": [
       7,
+      0,
+      2,
+      8
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/candy.png",
+    "targetCount": 2,
+    "targetCount2": 7,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
+  },
+  {
+    "id": "l09-fixed-34",
+    "gameId": "rhythm_math_dance",
+    "type": "rhythm_math_dance",
+    "prompt": "Chọn phép tính đúng: Có 4 con mèo, bớt đi 2. Hỏi còn lại?",
+    "correctAnswer": 4,
+    "options": [
+      7,
+      9,
+      8,
+      4
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "objectIcon2": "",
+    "targetCount": 4,
+    "targetCount2": 2,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
+  },
+  {
+    "id": "l09-fixed-35",
+    "gameId": "math_cooking_lab",
+    "type": "math_cooking_lab",
+    "prompt": "Chọn phép tính đúng cho câu chuyện: Có 9 ngôi sao, thêm 8. Hỏi tất cả?",
+    "correctAnswer": 9,
+    "options": [
       4,
       5,
-      6
+      9,
+      13
     ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 7,
-    "targetCount2": 0,
-    "renderMode": "subtraction",
-    "displayPrompt": null
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/candy.png",
+    "targetCount": 9,
+    "targetCount2": 8,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
   },
   {
-    "id": "l09-q040",
-    "gameId": "level_9",
-    "type": "level_9",
-    "prompt": "Tính: 7 - 4 = ?",
-    "correctAnswer": 3,
+    "id": "l09-fixed-36",
+    "gameId": "detective_math_mystery",
+    "type": "detective_math_mystery",
+    "prompt": "Chọn phép tính đúng: Có 5 viên kim cương, bớt đi 2. Hỏi còn lại?",
+    "correctAnswer": 5,
     "options": [
-      1,
-      3,
       0,
+      5,
+      8,
       2
     ],
-    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 2,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
+  },
+  {
+    "id": "l09-fixed-37",
+    "gameId": "rhythm_math_dance",
+    "type": "rhythm_math_dance",
+    "prompt": "Chọn phép tính đúng: Có 10 con mèo, bớt đi 6. Hỏi còn lại?",
+    "correctAnswer": 10,
+    "options": [
+      10,
+      7,
+      12,
+      13
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "objectIcon2": "",
+    "targetCount": 10,
+    "targetCount2": 6,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
+  },
+  {
+    "id": "l09-fixed-38",
+    "gameId": "math_cooking_lab",
+    "type": "math_cooking_lab",
+    "prompt": "Chọn phép tính đúng cho câu chuyện: Có 8 con thỏ, thêm 8. Hỏi tất cả?",
+    "correctAnswer": 8,
+    "options": [
+      9,
+      11,
+      8,
+      10
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/rabbit.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
+    "targetCount": 8,
+    "targetCount2": 8,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
+  },
+  {
+    "id": "l09-fixed-39",
+    "gameId": "detective_math_mystery",
+    "type": "detective_math_mystery",
+    "prompt": "Chọn phép tính đúng: Có 6 quả bóng, bớt đi 1. Hỏi còn lại?",
+    "correctAnswer": 6,
+    "options": [
+      3,
+      2,
+      6,
+      5
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "objectIcon2": "",
+    "targetCount": 6,
+    "targetCount2": 1,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
+  },
+  {
+    "id": "l09-fixed-40",
+    "gameId": "rhythm_math_dance",
+    "type": "rhythm_math_dance",
+    "prompt": "Chọn phép tính đúng: Có 10 viên kim cương, bớt đi 6. Hỏi còn lại?",
+    "correctAnswer": 10,
+    "options": [
+      13,
+      12,
+      15,
+      10
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "objectIcon2": "",
+    "targetCount": 10,
+    "targetCount2": 6,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
+  },
+  {
+    "id": "l09-fixed-41",
+    "gameId": "math_cooking_lab",
+    "type": "math_cooking_lab",
+    "prompt": "Chọn phép tính đúng cho câu chuyện: Có 2 viên kim cương, thêm 1. Hỏi tất cả?",
+    "correctAnswer": 2,
+    "options": [
+      3,
+      4,
+      7,
+      2
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "targetCount": 2,
+    "targetCount2": 1,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
+  },
+  {
+    "id": "l09-fixed-42",
+    "gameId": "detective_math_mystery",
+    "type": "detective_math_mystery",
+    "prompt": "Chọn phép tính đúng cho câu chuyện: Có 10 ngôi sao, thêm 4. Hỏi tất cả?",
+    "correctAnswer": 10,
+    "options": [
+      10,
+      8,
+      9,
+      12
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/rabbit.png",
+    "targetCount": 10,
+    "targetCount2": 4,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
+  },
+  {
+    "id": "l09-fixed-43",
+    "gameId": "rhythm_math_dance",
+    "type": "rhythm_math_dance",
+    "prompt": "Chọn phép tính đúng: Có 4 viên kim cương, bớt đi 3. Hỏi còn lại?",
+    "correctAnswer": 4,
+    "options": [
+      6,
+      10,
+      9,
+      4
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "objectIcon2": "",
+    "targetCount": 4,
+    "targetCount2": 3,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
+  },
+  {
+    "id": "l09-fixed-44",
+    "gameId": "math_cooking_lab",
+    "type": "math_cooking_lab",
+    "prompt": "Chọn phép tính đúng cho câu chuyện: Có 10 quả táo, thêm 9. Hỏi tất cả?",
+    "correctAnswer": 10,
+    "options": [
+      9,
+      12,
+      15,
+      10
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "targetCount": 10,
+    "targetCount2": 9,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
+  },
+  {
+    "id": "l09-fixed-45",
+    "gameId": "detective_math_mystery",
+    "type": "detective_math_mystery",
+    "prompt": "Chọn phép tính đúng: Có 10 con mèo, bớt đi 5. Hỏi còn lại?",
+    "correctAnswer": 10,
+    "options": [
+      14,
+      7,
+      12,
+      10
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "objectIcon2": "",
+    "targetCount": 10,
+    "targetCount2": 5,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
+  },
+  {
+    "id": "l09-fixed-46",
+    "gameId": "rhythm_math_dance",
+    "type": "rhythm_math_dance",
+    "prompt": "Chọn phép tính đúng cho câu chuyện: Có 8 con thỏ, thêm 5. Hỏi tất cả?",
+    "correctAnswer": 8,
+    "options": [
+      13,
+      8,
+      10,
+      12
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/rabbit.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "targetCount": 8,
+    "targetCount2": 5,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
+  },
+  {
+    "id": "l09-fixed-47",
+    "gameId": "math_cooking_lab",
+    "type": "math_cooking_lab",
+    "prompt": "Chọn phép tính đúng: Có 7 ngôi sao, bớt đi 7. Hỏi còn lại?",
+    "correctAnswer": 7,
+    "options": [
+      2,
+      7,
+      6,
+      11
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
     "objectIcon2": "",
     "targetCount": 7,
-    "targetCount2": 4,
+    "targetCount2": 7,
     "renderMode": "subtraction",
-    "displayPrompt": null
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
   },
   {
-    "id": "l09-q041",
-    "gameId": "level_9",
-    "type": "level_9",
-    "prompt": "Điền dấu đúng: 4 __ 2",
-    "correctAnswer": ">",
+    "id": "l09-fixed-48",
+    "gameId": "detective_math_mystery",
+    "type": "detective_math_mystery",
+    "prompt": "Chọn phép tính đúng cho câu chuyện: Có 9 ngôi sao, thêm 8. Hỏi tất cả?",
+    "correctAnswer": 9,
     "options": [
-      ">",
-      "<",
-      "="
+      9,
+      12,
+      13,
+      8
     ],
-    "objectIcon": "",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/rabbit.png",
+    "targetCount": 9,
+    "targetCount2": 8,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
   },
   {
-    "id": "l09-q042",
-    "gameId": "level_9",
-    "type": "level_9",
-    "prompt": "Điền dấu đúng: 6 __ 7",
-    "correctAnswer": "<",
+    "id": "l09-fixed-49",
+    "gameId": "rhythm_math_dance",
+    "type": "rhythm_math_dance",
+    "prompt": "Chọn phép tính đúng: Có 7 quả táo, bớt đi 1. Hỏi còn lại?",
+    "correctAnswer": 7,
     "options": [
-      ">",
-      "<",
-      "="
+      3,
+      5,
+      7,
+      2
     ],
-    "objectIcon": "",
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
     "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
+    "targetCount": 7,
+    "targetCount2": 1,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
   },
   {
-    "id": "l09-q043",
-    "gameId": "level_9",
-    "type": "level_9",
-    "prompt": "Điền dấu đúng: 3 __ 1",
-    "correctAnswer": ">",
+    "id": "l09-fixed-50",
+    "gameId": "math_cooking_lab",
+    "type": "math_cooking_lab",
+    "prompt": "Chọn phép tính đúng: Có 4 quả bóng, bớt đi 2. Hỏi còn lại?",
+    "correctAnswer": 4,
     "options": [
-      ">",
-      "<",
-      "="
+      0,
+      3,
+      6,
+      4
     ],
-    "objectIcon": "",
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
     "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l09-q044",
-    "gameId": "level_9",
-    "type": "level_9",
-    "prompt": "6 và 2, điền dấu so sánh:",
-    "correctAnswer": ">",
-    "options": [
-      ">",
-      "<",
-      "="
-    ],
-    "objectIcon": "",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l09-q045",
-    "gameId": "level_9",
-    "type": "level_9",
-    "prompt": "5 và 9, điền dấu so sánh:",
-    "correctAnswer": "<",
-    "options": [
-      ">",
-      "<",
-      "="
-    ],
-    "objectIcon": "",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l09-q046",
-    "gameId": "level_9",
-    "type": "level_9",
-    "prompt": "So sánh: 6 ☐ 2",
-    "correctAnswer": ">",
-    "options": [
-      ">",
-      "<",
-      "="
-    ],
-    "objectIcon": "",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l09-q047",
-    "gameId": "level_9",
-    "type": "level_9",
-    "prompt": "Điền dấu đúng: 7 __ 9",
-    "correctAnswer": "<",
-    "options": [
-      ">",
-      "<",
-      "="
-    ],
-    "objectIcon": "",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l09-q048",
-    "gameId": "level_9",
-    "type": "level_9",
-    "prompt": "3 ___ 1. Chọn dấu thích hợp:",
-    "correctAnswer": ">",
-    "options": [
-      ">",
-      "<",
-      "="
-    ],
-    "objectIcon": "",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l09-q049",
-    "gameId": "level_9",
-    "type": "level_9",
-    "prompt": "7 và 6, điền dấu so sánh:",
-    "correctAnswer": ">",
-    "options": [
-      ">",
-      "<",
-      "="
-    ],
-    "objectIcon": "",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l09-q050",
-    "gameId": "level_9",
-    "type": "level_9",
-    "prompt": "Điền dấu đúng: 1 __ 4",
-    "correctAnswer": "<",
-    "options": [
-      ">",
-      "<",
-      "="
-    ],
-    "objectIcon": "",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
+    "targetCount": 4,
+    "targetCount2": 2,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
   }
 ]

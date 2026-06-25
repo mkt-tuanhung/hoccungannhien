@@ -1,926 +1,952 @@
 [
   {
-    "id": "l27-q001",
-    "gameId": "level_27",
-    "type": "level_27",
-    "prompt": "Hình nào có 4 cạnh?",
-    "correctAnswer": "hình chữ nhật",
-    "options": [
-      "hình tròn",
-      "hình chữ nhật",
-      "hình chữ nhật",
-      "hình tam giác"
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l27-q002",
-    "gameId": "level_27",
-    "type": "level_27",
-    "prompt": "Hình tròn có mấy cạnh?",
-    "correctAnswer": 0,
-    "options": [
-      3,
-      0,
-      4
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l27-q003",
-    "gameId": "level_27",
-    "type": "level_27",
-    "prompt": "Hình nào có 4 cạnh?",
-    "correctAnswer": "hình chữ nhật",
-    "options": [
-      "hình tròn",
-      "hình chữ nhật",
-      "hình chữ nhật",
-      "hình tam giác"
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l27-q004",
-    "gameId": "level_27",
-    "type": "level_27",
-    "prompt": "Hình tròn có mấy cạnh?",
-    "correctAnswer": 0,
-    "options": [
-      0,
-      4,
-      3
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l27-q005",
-    "gameId": "level_27",
-    "type": "level_27",
-    "prompt": "Hình tròn có mấy cạnh?",
-    "correctAnswer": 0,
-    "options": [
-      0,
-      4,
-      3
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l27-q006",
-    "gameId": "level_27",
-    "type": "level_27",
-    "prompt": "Hình tròn có mấy cạnh?",
-    "correctAnswer": 0,
+    "id": "l27-fixed-1",
+    "gameId": "std_sticker_board",
+    "type": "std_sticker_board",
+    "prompt": "Hình nào có 6 cạnh?",
+    "correctAnswer": 5,
     "options": [
       4,
-      3,
-      0
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l27-q007",
-    "gameId": "level_27",
-    "type": "level_27",
-    "prompt": "Hình tròn có mấy cạnh?",
-    "correctAnswer": 0,
-    "options": [
-      3,
-      4,
-      0
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l27-q008",
-    "gameId": "level_27",
-    "type": "level_27",
-    "prompt": "Hình nào có 4 cạnh?",
-    "correctAnswer": "hình chữ nhật",
-    "options": [
-      "hình tròn",
-      "hình tam giác",
-      "hình chữ nhật",
-      "hình chữ nhật"
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l27-q009",
-    "gameId": "level_27",
-    "type": "level_27",
-    "prompt": "Hình nào có 4 cạnh?",
-    "correctAnswer": "hình vuông",
-    "options": [
-      "hình tam giác",
-      "hình tròn",
-      "hình chữ nhật",
-      "hình vuông"
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l27-q010",
-    "gameId": "level_27",
-    "type": "level_27",
-    "prompt": "Hình nào có 4 cạnh?",
-    "correctAnswer": "hình vuông",
-    "options": [
-      "hình tròn",
-      "hình chữ nhật",
-      "hình tam giác",
-      "hình vuông"
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l27-q011",
-    "gameId": "level_27",
-    "type": "level_27",
-    "prompt": "Hình tròn có mấy cạnh?",
-    "correctAnswer": 0,
-    "options": [
-      4,
-      0,
-      3
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l27-q012",
-    "gameId": "level_27",
-    "type": "level_27",
-    "prompt": "Hình tam giác có mấy cạnh?",
-    "correctAnswer": 3,
-    "options": [
-      4,
-      3,
-      0
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l27-q013",
-    "gameId": "level_27",
-    "type": "level_27",
-    "prompt": "Hình chữ nhật có mấy cạnh?",
-    "correctAnswer": 4,
-    "options": [
-      0,
-      4,
-      3
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l27-q014",
-    "gameId": "level_27",
-    "type": "level_27",
-    "prompt": "Hình nào có 4 cạnh?",
-    "correctAnswer": "hình chữ nhật",
-    "options": [
-      "hình chữ nhật",
-      "hình tam giác",
-      "hình chữ nhật",
-      "hình tròn"
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l27-q015",
-    "gameId": "level_27",
-    "type": "level_27",
-    "prompt": "Hình vuông có mấy cạnh?",
-    "correctAnswer": 4,
-    "options": [
-      0,
-      4,
-      3
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l27-q016",
-    "gameId": "level_27",
-    "type": "level_27",
-    "prompt": "Hình tam giác có mấy cạnh?",
-    "correctAnswer": 3,
-    "options": [
-      4,
-      3,
-      0
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l27-q017",
-    "gameId": "level_27",
-    "type": "level_27",
-    "prompt": "Hình tròn có mấy cạnh?",
-    "correctAnswer": 0,
-    "options": [
-      0,
-      4,
-      3
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l27-q018",
-    "gameId": "level_27",
-    "type": "level_27",
-    "prompt": "Hình chữ nhật có mấy cạnh?",
-    "correctAnswer": 4,
-    "options": [
-      3,
-      0,
-      4
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l27-q019",
-    "gameId": "level_27",
-    "type": "level_27",
-    "prompt": "Hình tròn có mấy cạnh?",
-    "correctAnswer": 0,
-    "options": [
-      3,
-      4,
-      0
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l27-q020",
-    "gameId": "level_27",
-    "type": "level_27",
-    "prompt": "Hình nào có 3 cạnh?",
-    "correctAnswer": "hình tam giác",
-    "options": [
-      "hình chữ nhật",
-      "hình vuông",
-      "hình tròn",
-      "hình tam giác"
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l27-q021",
-    "gameId": "level_27",
-    "type": "level_27",
-    "prompt": "Hình chữ nhật có mấy cạnh?",
-    "correctAnswer": 4,
-    "options": [
-      4,
-      0,
-      3
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l27-q022",
-    "gameId": "level_27",
-    "type": "level_27",
-    "prompt": "Hình tam giác có mấy cạnh?",
-    "correctAnswer": 3,
-    "options": [
-      4,
-      0,
-      3
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l27-q023",
-    "gameId": "level_27",
-    "type": "level_27",
-    "prompt": "Hình nào có 4 cạnh?",
-    "correctAnswer": "hình vuông",
-    "options": [
-      "hình tròn",
-      "hình tam giác",
-      "hình vuông",
-      "hình chữ nhật"
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l27-q024",
-    "gameId": "level_27",
-    "type": "level_27",
-    "prompt": "Hình nào có 4 cạnh?",
-    "correctAnswer": "hình chữ nhật",
-    "options": [
-      "hình tam giác",
-      "hình tròn",
-      "hình chữ nhật",
-      "hình chữ nhật"
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l27-q025",
-    "gameId": "level_27",
-    "type": "level_27",
-    "prompt": "Hình tam giác có mấy cạnh?",
-    "correctAnswer": 3,
-    "options": [
-      0,
-      4,
-      3
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l27-q026",
-    "gameId": "level_27",
-    "type": "level_27",
-    "prompt": "Hình tròn có mấy cạnh?",
-    "correctAnswer": 0,
-    "options": [
-      3,
-      4,
-      0
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l27-q027",
-    "gameId": "level_27",
-    "type": "level_27",
-    "prompt": "Hình tròn có mấy cạnh?",
-    "correctAnswer": 0,
-    "options": [
-      4,
-      0,
-      3
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l27-q028",
-    "gameId": "level_27",
-    "type": "level_27",
-    "prompt": "Hình tròn có mấy cạnh?",
-    "correctAnswer": 0,
-    "options": [
-      4,
-      0,
-      3
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l27-q029",
-    "gameId": "level_27",
-    "type": "level_27",
-    "prompt": "Hình vuông có mấy cạnh?",
-    "correctAnswer": 4,
-    "options": [
-      0,
-      4,
-      3
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l27-q030",
-    "gameId": "level_27",
-    "type": "level_27",
-    "prompt": "Hình tròn có mấy cạnh?",
-    "correctAnswer": 0,
-    "options": [
-      0,
-      4,
-      3
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l27-q031",
-    "gameId": "level_27",
-    "type": "level_27",
-    "prompt": "Hình tròn có mấy cạnh?",
-    "correctAnswer": 0,
-    "options": [
-      0,
-      3,
-      4
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l27-q032",
-    "gameId": "level_27",
-    "type": "level_27",
-    "prompt": "Hình tròn có mấy cạnh?",
-    "correctAnswer": 0,
-    "options": [
-      0,
-      4,
-      3
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l27-q033",
-    "gameId": "level_27",
-    "type": "level_27",
-    "prompt": "Hình tam giác có mấy cạnh?",
-    "correctAnswer": 3,
-    "options": [
-      3,
-      0,
-      4
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l27-q034",
-    "gameId": "level_27",
-    "type": "level_27",
-    "prompt": "Hình tam giác có mấy cạnh?",
-    "correctAnswer": 3,
-    "options": [
-      4,
-      3,
-      0
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l27-q035",
-    "gameId": "level_27",
-    "type": "level_27",
-    "prompt": "Hình chữ nhật có mấy cạnh?",
-    "correctAnswer": 4,
-    "options": [
-      0,
-      4,
-      3
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l27-q036",
-    "gameId": "level_27",
-    "type": "level_27",
-    "prompt": "Tìm số 13 trong các thẻ dưới đây!",
-    "correctAnswer": 13,
-    "options": [
-      12,
-      11,
-      13,
-      10
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 13,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l27-q037",
-    "gameId": "level_27",
-    "type": "level_27",
-    "prompt": "Bé hãy chọn thẻ số 12!",
-    "correctAnswer": 12,
-    "options": [
-      11,
-      9,
-      10,
-      12
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 12,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l27-q038",
-    "gameId": "level_27",
-    "type": "level_27",
-    "prompt": "Bé hãy chọn thẻ số 6!",
-    "correctAnswer": 6,
-    "options": [
-      4,
-      3,
-      6,
+      7,
+      2,
       5
     ],
-    "objectIcon": "/icons/star_icon.png",
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
     "objectIcon2": "",
-    "targetCount": 6,
+    "targetCount": 5,
     "targetCount2": 0,
     "renderMode": "single",
-    "displayPrompt": null
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
   },
   {
-    "id": "l27-q039",
-    "gameId": "level_27",
-    "type": "level_27",
-    "prompt": "Chọn đúng số 3 nhé!",
-    "correctAnswer": 3,
+    "id": "l27-fixed-2",
+    "gameId": "gen_living_math_garden",
+    "type": "gen_living_math_garden",
+    "prompt": "Kéo đồ vật giống Hình vuông vào đúng ô.",
+    "correctAnswer": 5,
     "options": [
+      1,
       0,
+      5,
+      6
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
+  },
+  {
+    "id": "l27-fixed-3",
+    "gameId": "std_number_trace",
+    "type": "std_number_trace",
+    "prompt": "Kéo đồ vật giống Hình vuông vào đúng ô.",
+    "correctAnswer": 5,
+    "options": [
+      6,
+      2,
+      5,
+      10
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
+  },
+  {
+    "id": "l27-fixed-4",
+    "gameId": "std_sticker_board",
+    "type": "std_sticker_board",
+    "prompt": "Hình nào có 9 cạnh?",
+    "correctAnswer": 5,
+    "options": [
+      2,
+      5,
+      6,
+      7
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
+  },
+  {
+    "id": "l27-fixed-5",
+    "gameId": "gen_living_math_garden",
+    "type": "gen_living_math_garden",
+    "prompt": "Hình nào có 10 cạnh?",
+    "correctAnswer": 5,
+    "options": [
+      8,
+      0,
+      4,
+      5
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
+  },
+  {
+    "id": "l27-fixed-6",
+    "gameId": "std_number_trace",
+    "type": "std_number_trace",
+    "prompt": "Kéo đồ vật giống Hình tròn vào đúng ô.",
+    "correctAnswer": 5,
+    "options": [
+      8,
+      5,
+      0,
+      10
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
+  },
+  {
+    "id": "l27-fixed-7",
+    "gameId": "std_sticker_board",
+    "type": "std_sticker_board",
+    "prompt": "Kéo đồ vật giống Hình tròn vào đúng ô.",
+    "correctAnswer": 5,
+    "options": [
+      5,
+      8,
+      7,
+      1
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
+  },
+  {
+    "id": "l27-fixed-8",
+    "gameId": "gen_living_math_garden",
+    "type": "gen_living_math_garden",
+    "prompt": "Kéo đồ vật giống Hình tròn vào đúng ô.",
+    "correctAnswer": 5,
+    "options": [
+      9,
+      0,
+      5,
+      7
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
+  },
+  {
+    "id": "l27-fixed-9",
+    "gameId": "std_number_trace",
+    "type": "std_number_trace",
+    "prompt": "Hình nào có 7 cạnh?",
+    "correctAnswer": 5,
+    "options": [
+      5,
+      4,
+      10,
+      6
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
+  },
+  {
+    "id": "l27-fixed-10",
+    "gameId": "std_sticker_board",
+    "type": "std_sticker_board",
+    "prompt": "Hình nào có 6 cạnh?",
+    "correctAnswer": 5,
+    "options": [
+      5,
+      1,
+      7,
+      9
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
+  },
+  {
+    "id": "l27-fixed-11",
+    "gameId": "gen_living_math_garden",
+    "type": "gen_living_math_garden",
+    "prompt": "Hình nào có 8 cạnh?",
+    "correctAnswer": 5,
+    "options": [
+      5,
+      10,
+      2,
+      6
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
+  },
+  {
+    "id": "l27-fixed-12",
+    "gameId": "std_number_trace",
+    "type": "std_number_trace",
+    "prompt": "Hình nào có 9 cạnh?",
+    "correctAnswer": 5,
+    "options": [
+      5,
+      2,
+      3,
+      4
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
+  },
+  {
+    "id": "l27-fixed-13",
+    "gameId": "std_sticker_board",
+    "type": "std_sticker_board",
+    "prompt": "Hình nào có 4 cạnh?",
+    "correctAnswer": 5,
+    "options": [
+      1,
+      4,
+      5,
+      3
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
+  },
+  {
+    "id": "l27-fixed-14",
+    "gameId": "gen_living_math_garden",
+    "type": "gen_living_math_garden",
+    "prompt": "Kéo đồ vật giống Hình tròn vào đúng ô.",
+    "correctAnswer": 5,
+    "options": [
+      5,
+      0,
+      10,
+      2
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
+  },
+  {
+    "id": "l27-fixed-15",
+    "gameId": "std_number_trace",
+    "type": "std_number_trace",
+    "prompt": "Hình nào có 8 cạnh?",
+    "correctAnswer": 5,
+    "options": [
+      8,
+      0,
+      3,
+      5
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/rabbit.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
+  },
+  {
+    "id": "l27-fixed-16",
+    "gameId": "std_sticker_board",
+    "type": "std_sticker_board",
+    "prompt": "Hình nào có 6 cạnh?",
+    "correctAnswer": 5,
+    "options": [
+      10,
+      5,
+      7,
+      4
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
+  },
+  {
+    "id": "l27-fixed-17",
+    "gameId": "gen_living_math_garden",
+    "type": "gen_living_math_garden",
+    "prompt": "Kéo đồ vật giống Hình vuông vào đúng ô.",
+    "correctAnswer": 5,
+    "options": [
+      1,
+      5,
+      0,
+      3
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
+  },
+  {
+    "id": "l27-fixed-18",
+    "gameId": "std_number_trace",
+    "type": "std_number_trace",
+    "prompt": "Kéo đồ vật giống Hình tròn vào đúng ô.",
+    "correctAnswer": 5,
+    "options": [
+      3,
+      10,
+      5,
+      6
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
+  },
+  {
+    "id": "l27-fixed-19",
+    "gameId": "std_sticker_board",
+    "type": "std_sticker_board",
+    "prompt": "Kéo đồ vật giống Hình tròn vào đúng ô.",
+    "correctAnswer": 5,
+    "options": [
+      8,
+      5,
+      2,
+      1
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
+  },
+  {
+    "id": "l27-fixed-20",
+    "gameId": "gen_living_math_garden",
+    "type": "gen_living_math_garden",
+    "prompt": "Kéo đồ vật giống Hình vuông vào đúng ô.",
+    "correctAnswer": 5,
+    "options": [
+      2,
+      5,
+      4,
+      9
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
+  },
+  {
+    "id": "l27-fixed-21",
+    "gameId": "std_number_trace",
+    "type": "std_number_trace",
+    "prompt": "Hình nào có 5 cạnh?",
+    "correctAnswer": 5,
+    "options": [
+      5,
+      4,
+      8,
+      6
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
+  },
+  {
+    "id": "l27-fixed-22",
+    "gameId": "std_sticker_board",
+    "type": "std_sticker_board",
+    "prompt": "Kéo đồ vật giống Hình vuông vào đúng ô.",
+    "correctAnswer": 5,
+    "options": [
+      7,
+      2,
+      5,
+      6
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
+  },
+  {
+    "id": "l27-fixed-23",
+    "gameId": "gen_living_math_garden",
+    "type": "gen_living_math_garden",
+    "prompt": "Hình nào có 9 cạnh?",
+    "correctAnswer": 5,
+    "options": [
+      10,
+      0,
+      2,
+      5
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
+  },
+  {
+    "id": "l27-fixed-24",
+    "gameId": "std_number_trace",
+    "type": "std_number_trace",
+    "prompt": "Hình nào có 4 cạnh?",
+    "correctAnswer": 5,
+    "options": [
+      5,
+      1,
+      6,
+      4
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
+  },
+  {
+    "id": "l27-fixed-25",
+    "gameId": "std_sticker_board",
+    "type": "std_sticker_board",
+    "prompt": "Kéo đồ vật giống Hình tròn vào đúng ô.",
+    "correctAnswer": 5,
+    "options": [
+      2,
+      5,
+      0,
+      8
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
+  },
+  {
+    "id": "l27-fixed-26",
+    "gameId": "gen_living_math_garden",
+    "type": "gen_living_math_garden",
+    "prompt": "Kéo đồ vật giống Hình vuông vào đúng ô.",
+    "correctAnswer": 5,
+    "options": [
+      3,
+      6,
+      2,
+      5
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/rabbit.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
+  },
+  {
+    "id": "l27-fixed-27",
+    "gameId": "std_number_trace",
+    "type": "std_number_trace",
+    "prompt": "Kéo đồ vật giống Hình vuông vào đúng ô.",
+    "correctAnswer": 5,
+    "options": [
+      10,
+      5,
+      2,
+      4
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/rabbit.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
+  },
+  {
+    "id": "l27-fixed-28",
+    "gameId": "std_sticker_board",
+    "type": "std_sticker_board",
+    "prompt": "Hình nào có 9 cạnh?",
+    "correctAnswer": 5,
+    "options": [
+      5,
+      10,
+      9,
+      6
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/rabbit.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
+  },
+  {
+    "id": "l27-fixed-29",
+    "gameId": "gen_living_math_garden",
+    "type": "gen_living_math_garden",
+    "prompt": "Hình nào có 8 cạnh?",
+    "correctAnswer": 5,
+    "options": [
+      10,
+      2,
+      5,
+      7
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
+  },
+  {
+    "id": "l27-fixed-30",
+    "gameId": "std_number_trace",
+    "type": "std_number_trace",
+    "prompt": "Hình nào có 10 cạnh?",
+    "correctAnswer": 5,
+    "options": [
+      4,
+      10,
+      5,
+      6
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
+  },
+  {
+    "id": "l27-fixed-31",
+    "gameId": "std_sticker_board",
+    "type": "std_sticker_board",
+    "prompt": "Kéo đồ vật giống Hình tròn vào đúng ô.",
+    "correctAnswer": 5,
+    "options": [
+      4,
+      5,
+      8,
+      1
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
+  },
+  {
+    "id": "l27-fixed-32",
+    "gameId": "gen_living_math_garden",
+    "type": "gen_living_math_garden",
+    "prompt": "Kéo đồ vật giống Hình vuông vào đúng ô.",
+    "correctAnswer": 5,
+    "options": [
+      3,
+      5,
+      7,
+      9
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/rabbit.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
+  },
+  {
+    "id": "l27-fixed-33",
+    "gameId": "std_number_trace",
+    "type": "std_number_trace",
+    "prompt": "Kéo đồ vật giống Hình vuông vào đúng ô.",
+    "correctAnswer": 5,
+    "options": [
+      5,
+      6,
+      3,
+      2
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
+  },
+  {
+    "id": "l27-fixed-34",
+    "gameId": "std_sticker_board",
+    "type": "std_sticker_board",
+    "prompt": "Kéo đồ vật giống Hình tam giác vào đúng ô.",
+    "correctAnswer": 5,
+    "options": [
+      5,
+      4,
+      2,
+      6
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
+  },
+  {
+    "id": "l27-fixed-35",
+    "gameId": "gen_living_math_garden",
+    "type": "gen_living_math_garden",
+    "prompt": "Hình nào có 9 cạnh?",
+    "correctAnswer": 5,
+    "options": [
+      3,
+      1,
+      5,
+      4
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
+  },
+  {
+    "id": "l27-fixed-36",
+    "gameId": "std_number_trace",
+    "type": "std_number_trace",
+    "prompt": "Kéo đồ vật giống Hình tam giác vào đúng ô.",
+    "correctAnswer": 5,
+    "options": [
+      4,
+      5,
+      6,
+      8
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
+  },
+  {
+    "id": "l27-fixed-37",
+    "gameId": "std_sticker_board",
+    "type": "std_sticker_board",
+    "prompt": "Hình nào có 10 cạnh?",
+    "correctAnswer": 5,
+    "options": [
+      4,
+      8,
+      5,
+      9
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
+  },
+  {
+    "id": "l27-fixed-38",
+    "gameId": "gen_living_math_garden",
+    "type": "gen_living_math_garden",
+    "prompt": "Hình nào có 5 cạnh?",
+    "correctAnswer": 5,
+    "options": [
+      4,
+      5,
+      2,
+      8
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
+  },
+  {
+    "id": "l27-fixed-39",
+    "gameId": "std_number_trace",
+    "type": "std_number_trace",
+    "prompt": "Hình nào có 1 cạnh?",
+    "correctAnswer": 5,
+    "options": [
+      9,
+      1,
+      5,
+      4
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
+  },
+  {
+    "id": "l27-fixed-40",
+    "gameId": "std_sticker_board",
+    "type": "std_sticker_board",
+    "prompt": "Hình nào có 2 cạnh?",
+    "correctAnswer": 5,
+    "options": [
+      2,
+      3,
+      1,
+      5
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
+  },
+  {
+    "id": "l27-fixed-41",
+    "gameId": "gen_living_math_garden",
+    "type": "gen_living_math_garden",
+    "prompt": "Kéo đồ vật giống Hình vuông vào đúng ô.",
+    "correctAnswer": 5,
+    "options": [
+      9,
+      5,
+      3,
+      4
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/rabbit.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
+  },
+  {
+    "id": "l27-fixed-42",
+    "gameId": "std_number_trace",
+    "type": "std_number_trace",
+    "prompt": "Kéo đồ vật giống Hình vuông vào đúng ô.",
+    "correctAnswer": 5,
+    "options": [
+      5,
+      9,
+      7,
+      10
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
+  },
+  {
+    "id": "l27-fixed-43",
+    "gameId": "std_sticker_board",
+    "type": "std_sticker_board",
+    "prompt": "Hình nào có 1 cạnh?",
+    "correctAnswer": 5,
+    "options": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
+  },
+  {
+    "id": "l27-fixed-44",
+    "gameId": "gen_living_math_garden",
+    "type": "gen_living_math_garden",
+    "prompt": "Hình nào có 6 cạnh?",
+    "correctAnswer": 5,
+    "options": [
+      5,
+      4,
+      0,
+      2
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
+  },
+  {
+    "id": "l27-fixed-45",
+    "gameId": "std_number_trace",
+    "type": "std_number_trace",
+    "prompt": "Hình nào có 1 cạnh?",
+    "correctAnswer": 5,
+    "options": [
+      5,
+      1,
+      8,
+      6
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
+  },
+  {
+    "id": "l27-fixed-46",
+    "gameId": "std_sticker_board",
+    "type": "std_sticker_board",
+    "prompt": "Kéo đồ vật giống Hình tròn vào đúng ô.",
+    "correctAnswer": 5,
+    "options": [
+      9,
+      10,
+      5,
+      3
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
+  },
+  {
+    "id": "l27-fixed-47",
+    "gameId": "gen_living_math_garden",
+    "type": "gen_living_math_garden",
+    "prompt": "Hình nào có 5 cạnh?",
+    "correctAnswer": 5,
+    "options": [
+      10,
+      7,
+      5,
+      0
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
+  },
+  {
+    "id": "l27-fixed-48",
+    "gameId": "std_number_trace",
+    "type": "std_number_trace",
+    "prompt": "Hình nào có 8 cạnh?",
+    "correctAnswer": 5,
+    "options": [
+      5,
       3,
       1,
       2
     ],
-    "objectIcon": "/icons/star_icon.png",
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
     "objectIcon2": "",
-    "targetCount": 3,
+    "targetCount": 5,
     "targetCount2": 0,
     "renderMode": "single",
-    "displayPrompt": null
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
   },
   {
-    "id": "l27-q040",
-    "gameId": "level_27",
-    "type": "level_27",
-    "prompt": "Tìm số 2 trong các thẻ dưới đây!",
-    "correctAnswer": 2,
+    "id": "l27-fixed-49",
+    "gameId": "std_sticker_board",
+    "type": "std_sticker_board",
+    "prompt": "Kéo đồ vật giống Hình vuông vào đúng ô.",
+    "correctAnswer": 5,
     "options": [
-      2,
-      3,
-      1,
-      0
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 2,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l27-q041",
-    "gameId": "level_27",
-    "type": "level_27",
-    "prompt": "Tìm số 8 trong các thẻ dưới đây!",
-    "correctAnswer": 8,
-    "options": [
-      8,
-      7,
-      6,
-      5
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 8,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l27-q042",
-    "gameId": "level_27",
-    "type": "level_27",
-    "prompt": "Bé hãy chọn thẻ số 8!",
-    "correctAnswer": 8,
-    "options": [
-      5,
-      8,
-      6,
-      7
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 8,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l27-q043",
-    "gameId": "level_27",
-    "type": "level_27",
-    "prompt": "Tìm số 1 trong các thẻ dưới đây!",
-    "correctAnswer": 1,
-    "options": [
-      2,
-      3,
       0,
-      1
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 1,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l27-q044",
-    "gameId": "level_27",
-    "type": "level_27",
-    "prompt": "Bé hãy chọn thẻ số 8!",
-    "correctAnswer": 8,
-    "options": [
-      7,
-      8,
-      6,
-      5
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 8,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l27-q045",
-    "gameId": "level_27",
-    "type": "level_27",
-    "prompt": "Chọn đúng số 17 nhé!",
-    "correctAnswer": 17,
-    "options": [
-      17,
-      16,
-      14,
-      15
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 17,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l27-q046",
-    "gameId": "level_27",
-    "type": "level_27",
-    "prompt": "Bé hãy chọn thẻ số 7!",
-    "correctAnswer": 7,
-    "options": [
       5,
-      6,
-      4,
-      7
+      1,
+      3
     ],
-    "objectIcon": "/icons/star_icon.png",
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
     "objectIcon2": "",
-    "targetCount": 7,
+    "targetCount": 5,
     "targetCount2": 0,
     "renderMode": "single",
-    "displayPrompt": null
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
   },
   {
-    "id": "l27-q047",
-    "gameId": "level_27",
-    "type": "level_27",
-    "prompt": "Bé hãy chọn thẻ số 7!",
-    "correctAnswer": 7,
+    "id": "l27-fixed-50",
+    "gameId": "gen_living_math_garden",
+    "type": "gen_living_math_garden",
+    "prompt": "Kéo đồ vật giống Hình tam giác vào đúng ô.",
+    "correctAnswer": 5,
     "options": [
       4,
       7,
-      6,
-      5
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 7,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l27-q048",
-    "gameId": "level_27",
-    "type": "level_27",
-    "prompt": "Chọn đúng số 19 nhé!",
-    "correctAnswer": 19,
-    "options": [
-      19,
-      18,
-      16,
-      17
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 19,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l27-q049",
-    "gameId": "level_27",
-    "type": "level_27",
-    "prompt": "Chọn đúng số 8 nhé!",
-    "correctAnswer": 8,
-    "options": [
-      7,
-      8,
-      5,
-      6
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 8,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l27-q050",
-    "gameId": "level_27",
-    "type": "level_27",
-    "prompt": "Tìm số 10 trong các thẻ dưới đây!",
-    "correctAnswer": 10,
-    "options": [
-      8,
       9,
-      7,
-      10
+      5
     ],
-    "objectIcon": "/icons/star_icon.png",
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/rabbit.png",
     "objectIcon2": "",
-    "targetCount": 10,
+    "targetCount": 5,
     "targetCount2": 0,
     "renderMode": "single",
-    "displayPrompt": null
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
   }
 ]

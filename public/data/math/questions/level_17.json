@@ -1,952 +1,902 @@
 [
   {
-    "id": "l17-q001",
-    "gameId": "level_17",
-    "type": "level_17",
-    "prompt": "Bé hãy chọn thẻ số 75!",
-    "correctAnswer": 75,
+    "id": "l17-fixed-1",
+    "gameId": "gen_dragon_farm_math",
+    "type": "gen_dragon_farm_math",
+    "prompt": "Số liền sau của 9 là số nào?",
+    "correctAnswer": 0,
     "options": [
-      72,
-      75,
-      73,
-      74
+      4,
+      5,
+      0,
+      1
     ],
-    "objectIcon": "/icons/star_icon.png",
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
     "objectIcon2": "",
-    "targetCount": 75,
+    "targetCount": 0,
     "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
   },
   {
-    "id": "l17-q002",
-    "gameId": "level_17",
-    "type": "level_17",
-    "prompt": "Bé hãy chọn thẻ số 23!",
-    "correctAnswer": 23,
+    "id": "l17-fixed-2",
+    "gameId": "gen_weather_wizard_math",
+    "type": "gen_weather_wizard_math",
+    "prompt": "Số liền trước của 1 là số nào?",
+    "correctAnswer": 0,
     "options": [
-      23,
-      20,
-      21,
-      22
+      5,
+      4,
+      0,
+      2
     ],
-    "objectIcon": "/icons/star_icon.png",
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
     "objectIcon2": "",
-    "targetCount": 23,
+    "targetCount": 0,
     "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
   },
   {
-    "id": "l17-q003",
-    "gameId": "level_17",
-    "type": "level_17",
-    "prompt": "Bé hãy chọn thẻ số 99!",
-    "correctAnswer": 99,
-    "options": [
-      97,
-      98,
-      99,
-      96
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 99,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l17-q004",
-    "gameId": "level_17",
-    "type": "level_17",
-    "prompt": "Chọn đúng số 54 nhé!",
-    "correctAnswer": 54,
-    "options": [
-      51,
-      52,
-      53,
-      54
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 54,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l17-q005",
-    "gameId": "level_17",
-    "type": "level_17",
-    "prompt": "Chọn đúng số 54 nhé!",
-    "correctAnswer": 54,
-    "options": [
-      51,
-      52,
-      53,
-      54
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 54,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l17-q006",
-    "gameId": "level_17",
-    "type": "level_17",
-    "prompt": "Chọn đúng số 76 nhé!",
-    "correctAnswer": 76,
-    "options": [
-      76,
-      73,
-      75,
-      74
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 76,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l17-q007",
-    "gameId": "level_17",
-    "type": "level_17",
-    "prompt": "Chọn đúng số 89 nhé!",
-    "correctAnswer": 89,
-    "options": [
-      87,
-      86,
-      89,
-      88
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 89,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l17-q008",
-    "gameId": "level_17",
-    "type": "level_17",
-    "prompt": "Chọn đúng số 85 nhé!",
-    "correctAnswer": 85,
-    "options": [
-      85,
-      84,
-      82,
-      83
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 85,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l17-q009",
-    "gameId": "level_17",
-    "type": "level_17",
-    "prompt": "Chọn đúng số 36 nhé!",
-    "correctAnswer": 36,
-    "options": [
-      36,
-      35,
-      33,
-      34
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 36,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l17-q010",
-    "gameId": "level_17",
-    "type": "level_17",
-    "prompt": "Bé hãy chọn thẻ số 43!",
-    "correctAnswer": 43,
-    "options": [
-      42,
-      40,
-      41,
-      43
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 43,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l17-q011",
-    "gameId": "level_17",
-    "type": "level_17",
-    "prompt": "Chọn đúng số 27 nhé!",
-    "correctAnswer": 27,
-    "options": [
-      25,
-      26,
-      27,
-      24
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 27,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l17-q012",
-    "gameId": "level_17",
-    "type": "level_17",
-    "prompt": "Bé hãy chọn thẻ số 91!",
-    "correctAnswer": 91,
-    "options": [
-      88,
-      90,
-      91,
-      89
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 91,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l17-q013",
-    "gameId": "level_17",
-    "type": "level_17",
-    "prompt": "Chọn đúng số 22 nhé!",
-    "correctAnswer": 22,
-    "options": [
-      21,
-      22,
-      19,
-      20
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 22,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l17-q014",
-    "gameId": "level_17",
-    "type": "level_17",
-    "prompt": "Tìm số 27 trong các thẻ dưới đây!",
-    "correctAnswer": 27,
-    "options": [
-      27,
-      26,
-      24,
-      25
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 27,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l17-q015",
-    "gameId": "level_17",
-    "type": "level_17",
-    "prompt": "Chọn đúng số 24 nhé!",
-    "correctAnswer": 24,
-    "options": [
-      23,
-      24,
-      22,
-      21
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 24,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l17-q016",
-    "gameId": "level_17",
-    "type": "level_17",
-    "prompt": "Chọn đúng số 70 nhé!",
-    "correctAnswer": 70,
-    "options": [
-      69,
-      67,
-      68,
-      70
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 70,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l17-q017",
-    "gameId": "level_17",
-    "type": "level_17",
-    "prompt": "Tìm số 93 trong các thẻ dưới đây!",
-    "correctAnswer": 93,
-    "options": [
-      90,
-      92,
-      91,
-      93
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 93,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l17-q018",
-    "gameId": "level_17",
-    "type": "level_17",
-    "prompt": "Bé hãy chọn thẻ số 51!",
-    "correctAnswer": 51,
-    "options": [
-      51,
-      49,
-      48,
-      50
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 51,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l17-q019",
-    "gameId": "level_17",
-    "type": "level_17",
-    "prompt": "Chọn đúng số 76 nhé!",
-    "correctAnswer": 76,
-    "options": [
-      73,
-      76,
-      74,
-      75
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 76,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l17-q020",
-    "gameId": "level_17",
-    "type": "level_17",
-    "prompt": "Chọn đúng số 45 nhé!",
-    "correctAnswer": 45,
-    "options": [
-      45,
-      44,
-      43,
-      42
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 45,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l17-q021",
-    "gameId": "level_17",
-    "type": "level_17",
-    "prompt": "Bé hãy chọn thẻ số 98!",
-    "correctAnswer": 98,
-    "options": [
-      98,
-      95,
-      96,
-      97
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 98,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l17-q022",
-    "gameId": "level_17",
-    "type": "level_17",
-    "prompt": "Bé hãy chọn thẻ số 42!",
-    "correctAnswer": 42,
-    "options": [
-      42,
-      40,
-      41,
-      39
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 42,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l17-q023",
-    "gameId": "level_17",
-    "type": "level_17",
-    "prompt": "Tìm số 74 trong các thẻ dưới đây!",
-    "correctAnswer": 74,
-    "options": [
-      74,
-      72,
-      71,
-      73
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 74,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l17-q024",
-    "gameId": "level_17",
-    "type": "level_17",
-    "prompt": "Bé hãy chọn thẻ số 76!",
-    "correctAnswer": 76,
-    "options": [
-      76,
-      74,
-      73,
-      75
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 76,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l17-q025",
-    "gameId": "level_17",
-    "type": "level_17",
-    "prompt": "Tìm số 61 trong các thẻ dưới đây!",
-    "correctAnswer": 61,
-    "options": [
-      60,
-      59,
-      61,
-      58
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 61,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l17-q026",
-    "gameId": "level_17",
-    "type": "level_17",
-    "prompt": "Bé hãy chọn thẻ số 65!",
-    "correctAnswer": 65,
-    "options": [
-      65,
-      62,
-      64,
-      63
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 65,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l17-q027",
-    "gameId": "level_17",
-    "type": "level_17",
-    "prompt": "Tìm số 62 trong các thẻ dưới đây!",
-    "correctAnswer": 62,
-    "options": [
-      60,
-      62,
-      59,
-      61
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 62,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l17-q028",
-    "gameId": "level_17",
-    "type": "level_17",
-    "prompt": "Bé hãy chọn thẻ số 60!",
-    "correctAnswer": 60,
-    "options": [
-      58,
-      59,
-      60,
-      57
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 60,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l17-q029",
-    "gameId": "level_17",
-    "type": "level_17",
-    "prompt": "Bé hãy chọn thẻ số 27!",
-    "correctAnswer": 27,
-    "options": [
-      26,
-      27,
-      25,
-      24
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 27,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l17-q030",
-    "gameId": "level_17",
-    "type": "level_17",
-    "prompt": "Chọn đúng số 90 nhé!",
-    "correctAnswer": 90,
-    "options": [
-      88,
-      89,
-      87,
-      90
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 90,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l17-q031",
-    "gameId": "level_17",
-    "type": "level_17",
-    "prompt": "Bé hãy chọn thẻ số 56!",
-    "correctAnswer": 56,
-    "options": [
-      56,
-      55,
-      53,
-      54
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 56,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l17-q032",
-    "gameId": "level_17",
-    "type": "level_17",
-    "prompt": "Tìm số 39 trong các thẻ dưới đây!",
-    "correctAnswer": 39,
-    "options": [
-      39,
-      37,
-      38,
-      36
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 39,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l17-q033",
-    "gameId": "level_17",
-    "type": "level_17",
-    "prompt": "Bé hãy chọn thẻ số 39!",
-    "correctAnswer": 39,
-    "options": [
-      37,
-      36,
-      38,
-      39
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 39,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l17-q034",
-    "gameId": "level_17",
-    "type": "level_17",
-    "prompt": "Chọn đúng số 87 nhé!",
-    "correctAnswer": 87,
-    "options": [
-      87,
-      84,
-      85,
-      86
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 87,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l17-q035",
-    "gameId": "level_17",
-    "type": "level_17",
-    "prompt": "Tìm số 24 trong các thẻ dưới đây!",
-    "correctAnswer": 24,
-    "options": [
-      21,
-      24,
-      22,
-      23
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 24,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l17-q036",
-    "gameId": "level_17",
-    "type": "level_17",
-    "prompt": "Điền số còn thiếu: 39, ?, 41, 42",
-    "correctAnswer": 40,
-    "options": [
-      41,
-      40,
-      38,
-      39
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 40,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l17-q037",
-    "gameId": "level_17",
-    "type": "level_17",
-    "prompt": "Điền số còn thiếu: 24, 25, ?",
-    "correctAnswer": 26,
-    "options": [
-      25,
-      26,
-      24,
-      23
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 26,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l17-q038",
-    "gameId": "level_17",
-    "type": "level_17",
-    "prompt": "Điền số còn thiếu: 30, 31, 32, ?",
-    "correctAnswer": 33,
-    "options": [
-      32,
-      31,
-      33,
-      30
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 33,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l17-q039",
-    "gameId": "level_17",
-    "type": "level_17",
-    "prompt": "Điền số còn thiếu: 26, ?, 28",
-    "correctAnswer": 27,
-    "options": [
-      26,
-      27,
-      25,
-      28
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 27,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l17-q040",
-    "gameId": "level_17",
-    "type": "level_17",
-    "prompt": "Điền số còn thiếu: 39, ?, 41, 42, 43",
-    "correctAnswer": 40,
-    "options": [
-      40,
-      38,
-      39,
-      41
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 40,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l17-q041",
-    "gameId": "level_17",
-    "type": "level_17",
-    "prompt": "Điền số còn thiếu: 88, ?, 90",
-    "correctAnswer": 89,
-    "options": [
-      88,
-      89,
-      87,
-      90
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 89,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l17-q042",
-    "gameId": "level_17",
-    "type": "level_17",
-    "prompt": "Điền số còn thiếu: 69, ?, 71, 72, 73",
-    "correctAnswer": 70,
-    "options": [
-      70,
-      68,
-      71,
-      69
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 70,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l17-q043",
-    "gameId": "level_17",
-    "type": "level_17",
-    "prompt": "Điền số còn thiếu: 18, ?, 20",
-    "correctAnswer": 19,
-    "options": [
-      20,
-      19,
-      18,
-      17
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 19,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l17-q044",
-    "gameId": "level_17",
-    "type": "level_17",
-    "prompt": "Điền số còn thiếu: 88, 89, ?",
-    "correctAnswer": 90,
-    "options": [
-      89,
-      88,
-      90,
-      87
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 90,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l17-q045",
-    "gameId": "level_17",
-    "type": "level_17",
-    "prompt": "Điền số còn thiếu: 4, ?, 6",
-    "correctAnswer": 5,
+    "id": "l17-fixed-3",
+    "gameId": "gen_train_route_builder",
+    "type": "gen_train_route_builder",
+    "prompt": "Số liền sau của 5 là số nào?",
+    "correctAnswer": 0,
     "options": [
       6,
+      5,
+      0,
+      2
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "objectIcon2": "",
+    "targetCount": 0,
+    "targetCount2": 0,
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
+  },
+  {
+    "id": "l17-fixed-4",
+    "gameId": "gen_dragon_farm_math",
+    "type": "gen_dragon_farm_math",
+    "prompt": "Số liền sau của 10 là số nào?",
+    "correctAnswer": 0,
+    "options": [
+      0,
+      4,
+      5,
+      1
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "objectIcon2": "",
+    "targetCount": 0,
+    "targetCount2": 0,
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
+  },
+  {
+    "id": "l17-fixed-5",
+    "gameId": "gen_weather_wizard_math",
+    "type": "gen_weather_wizard_math",
+    "prompt": "Số liền trước của 8 là số nào?",
+    "correctAnswer": 0,
+    "options": [
+      5,
+      2,
+      0,
+      6
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
+    "objectIcon2": "",
+    "targetCount": 0,
+    "targetCount2": 0,
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
+  },
+  {
+    "id": "l17-fixed-6",
+    "gameId": "gen_train_route_builder",
+    "type": "gen_train_route_builder",
+    "prompt": "Số liền trước của 4 là số nào?",
+    "correctAnswer": 0,
+    "options": [
+      3,
+      1,
+      5,
+      0
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "objectIcon2": "",
+    "targetCount": 0,
+    "targetCount2": 0,
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
+  },
+  {
+    "id": "l17-fixed-7",
+    "gameId": "gen_dragon_farm_math",
+    "type": "gen_dragon_farm_math",
+    "prompt": "Số liền sau của 7 là số nào?",
+    "correctAnswer": 0,
+    "options": [
+      2,
+      6,
+      3,
+      0
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/rabbit.png",
+    "objectIcon2": "",
+    "targetCount": 0,
+    "targetCount2": 0,
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
+  },
+  {
+    "id": "l17-fixed-8",
+    "gameId": "gen_weather_wizard_math",
+    "type": "gen_weather_wizard_math",
+    "prompt": "Số liền trước của 6 là số nào?",
+    "correctAnswer": 0,
+    "options": [
+      3,
+      6,
+      0,
+      4
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "objectIcon2": "",
+    "targetCount": 0,
+    "targetCount2": 0,
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
+  },
+  {
+    "id": "l17-fixed-9",
+    "gameId": "gen_train_route_builder",
+    "type": "gen_train_route_builder",
+    "prompt": "Số liền trước của 6 là số nào?",
+    "correctAnswer": 0,
+    "options": [
+      4,
+      5,
+      0,
+      3
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/rabbit.png",
+    "objectIcon2": "",
+    "targetCount": 0,
+    "targetCount2": 0,
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
+  },
+  {
+    "id": "l17-fixed-10",
+    "gameId": "gen_dragon_farm_math",
+    "type": "gen_dragon_farm_math",
+    "prompt": "Số liền trước của 6 là số nào?",
+    "correctAnswer": 0,
+    "options": [
+      0,
+      2,
+      4,
+      5
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "objectIcon2": "",
+    "targetCount": 0,
+    "targetCount2": 0,
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
+  },
+  {
+    "id": "l17-fixed-11",
+    "gameId": "gen_weather_wizard_math",
+    "type": "gen_weather_wizard_math",
+    "prompt": "Số liền trước của 6 là số nào?",
+    "correctAnswer": 0,
+    "options": [
+      5,
+      6,
+      0,
+      3
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "objectIcon2": "",
+    "targetCount": 0,
+    "targetCount2": 0,
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
+  },
+  {
+    "id": "l17-fixed-12",
+    "gameId": "gen_train_route_builder",
+    "type": "gen_train_route_builder",
+    "prompt": "Số liền sau của 3 là số nào?",
+    "correctAnswer": 0,
+    "options": [
+      1,
+      2,
+      0,
+      6
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
+    "objectIcon2": "",
+    "targetCount": 0,
+    "targetCount2": 0,
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
+  },
+  {
+    "id": "l17-fixed-13",
+    "gameId": "gen_dragon_farm_math",
+    "type": "gen_dragon_farm_math",
+    "prompt": "Số liền trước của 1 là số nào?",
+    "correctAnswer": 0,
+    "options": [
+      5,
+      0,
+      4,
+      2
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
+    "objectIcon2": "",
+    "targetCount": 0,
+    "targetCount2": 0,
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
+  },
+  {
+    "id": "l17-fixed-14",
+    "gameId": "gen_weather_wizard_math",
+    "type": "gen_weather_wizard_math",
+    "prompt": "Số liền sau của 7 là số nào?",
+    "correctAnswer": 0,
+    "options": [
+      4,
+      2,
+      0,
+      3
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "objectIcon2": "",
+    "targetCount": 0,
+    "targetCount2": 0,
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
+  },
+  {
+    "id": "l17-fixed-15",
+    "gameId": "gen_train_route_builder",
+    "type": "gen_train_route_builder",
+    "prompt": "Số liền trước của 8 là số nào?",
+    "correctAnswer": 0,
+    "options": [
+      2,
+      5,
+      0,
+      4
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
+    "objectIcon2": "",
+    "targetCount": 0,
+    "targetCount2": 0,
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
+  },
+  {
+    "id": "l17-fixed-16",
+    "gameId": "gen_dragon_farm_math",
+    "type": "gen_dragon_farm_math",
+    "prompt": "Số liền trước của 4 là số nào?",
+    "correctAnswer": 0,
+    "options": [
+      4,
+      3,
+      2,
+      0
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "objectIcon2": "",
+    "targetCount": 0,
+    "targetCount2": 0,
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
+  },
+  {
+    "id": "l17-fixed-17",
+    "gameId": "gen_weather_wizard_math",
+    "type": "gen_weather_wizard_math",
+    "prompt": "Số liền sau của 10 là số nào?",
+    "correctAnswer": 0,
+    "options": [
+      6,
+      2,
+      5,
+      0
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "objectIcon2": "",
+    "targetCount": 0,
+    "targetCount2": 0,
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
+  },
+  {
+    "id": "l17-fixed-18",
+    "gameId": "gen_train_route_builder",
+    "type": "gen_train_route_builder",
+    "prompt": "Số liền sau của 2 là số nào?",
+    "correctAnswer": 0,
+    "options": [
+      5,
+      3,
+      4,
+      0
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "objectIcon2": "",
+    "targetCount": 0,
+    "targetCount2": 0,
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
+  },
+  {
+    "id": "l17-fixed-19",
+    "gameId": "gen_dragon_farm_math",
+    "type": "gen_dragon_farm_math",
+    "prompt": "Số liền sau của 6 là số nào?",
+    "correctAnswer": 0,
+    "options": [
+      2,
+      0,
+      4,
+      3
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "objectIcon2": "",
+    "targetCount": 0,
+    "targetCount2": 0,
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
+  },
+  {
+    "id": "l17-fixed-20",
+    "gameId": "gen_weather_wizard_math",
+    "type": "gen_weather_wizard_math",
+    "prompt": "Số liền sau của 2 là số nào?",
+    "correctAnswer": 0,
+    "options": [
+      3,
+      5,
+      0,
+      2
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "objectIcon2": "",
+    "targetCount": 0,
+    "targetCount2": 0,
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
+  },
+  {
+    "id": "l17-fixed-21",
+    "gameId": "gen_train_route_builder",
+    "type": "gen_train_route_builder",
+    "prompt": "Số liền trước của 9 là số nào?",
+    "correctAnswer": 0,
+    "options": [
+      5,
+      2,
+      0,
+      3
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
+    "objectIcon2": "",
+    "targetCount": 0,
+    "targetCount2": 0,
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
+  },
+  {
+    "id": "l17-fixed-22",
+    "gameId": "gen_dragon_farm_math",
+    "type": "gen_dragon_farm_math",
+    "prompt": "Số liền sau của 3 là số nào?",
+    "correctAnswer": 0,
+    "options": [
+      2,
+      4,
+      0,
+      3
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "objectIcon2": "",
+    "targetCount": 0,
+    "targetCount2": 0,
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
+  },
+  {
+    "id": "l17-fixed-23",
+    "gameId": "gen_weather_wizard_math",
+    "type": "gen_weather_wizard_math",
+    "prompt": "Số liền sau của 1 là số nào?",
+    "correctAnswer": 0,
+    "options": [
+      0,
+      2,
+      6,
+      5
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "objectIcon2": "",
+    "targetCount": 0,
+    "targetCount2": 0,
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
+  },
+  {
+    "id": "l17-fixed-24",
+    "gameId": "gen_train_route_builder",
+    "type": "gen_train_route_builder",
+    "prompt": "Số liền trước của 7 là số nào?",
+    "correctAnswer": 0,
+    "options": [
+      1,
+      4,
+      2,
+      0
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "objectIcon2": "",
+    "targetCount": 0,
+    "targetCount2": 0,
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
+  },
+  {
+    "id": "l17-fixed-25",
+    "gameId": "gen_dragon_farm_math",
+    "type": "gen_dragon_farm_math",
+    "prompt": "Số liền sau của 10 là số nào?",
+    "correctAnswer": 0,
+    "options": [
+      2,
+      5,
+      0,
+      4
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "objectIcon2": "",
+    "targetCount": 0,
+    "targetCount2": 0,
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
+  },
+  {
+    "id": "l17-fixed-26",
+    "gameId": "gen_weather_wizard_math",
+    "type": "gen_weather_wizard_math",
+    "prompt": "Số liền sau của 3 là số nào?",
+    "correctAnswer": 0,
+    "options": [
+      4,
+      0,
+      2,
+      3
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
+    "objectIcon2": "",
+    "targetCount": 0,
+    "targetCount2": 0,
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
+  },
+  {
+    "id": "l17-fixed-27",
+    "gameId": "gen_train_route_builder",
+    "type": "gen_train_route_builder",
+    "prompt": "Số liền trước của 4 là số nào?",
+    "correctAnswer": 0,
+    "options": [
+      3,
+      2,
+      6,
+      0
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "objectIcon2": "",
+    "targetCount": 0,
+    "targetCount2": 0,
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
+  },
+  {
+    "id": "l17-fixed-28",
+    "gameId": "gen_dragon_farm_math",
+    "type": "gen_dragon_farm_math",
+    "prompt": "Số liền sau của 5 là số nào?",
+    "correctAnswer": 0,
+    "options": [
+      1,
+      5,
+      0,
+      3
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "objectIcon2": "",
+    "targetCount": 0,
+    "targetCount2": 0,
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
+  },
+  {
+    "id": "l17-fixed-29",
+    "gameId": "gen_weather_wizard_math",
+    "type": "gen_weather_wizard_math",
+    "prompt": "Số liền sau của 2 là số nào?",
+    "correctAnswer": 0,
+    "options": [
+      2,
+      6,
+      0,
+      3
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "objectIcon2": "",
+    "targetCount": 0,
+    "targetCount2": 0,
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
+  },
+  {
+    "id": "l17-fixed-30",
+    "gameId": "gen_train_route_builder",
+    "type": "gen_train_route_builder",
+    "prompt": "Số liền sau của 9 là số nào?",
+    "correctAnswer": 0,
+    "options": [
+      0,
+      5,
+      3,
+      1
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "objectIcon2": "",
+    "targetCount": 0,
+    "targetCount2": 0,
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
+  },
+  {
+    "id": "l17-fixed-31",
+    "gameId": "gen_dragon_farm_math",
+    "type": "gen_dragon_farm_math",
+    "prompt": "Số liền sau của 7 là số nào?",
+    "correctAnswer": 0,
+    "options": [
+      1,
+      0,
+      6,
+      3
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "objectIcon2": "",
+    "targetCount": 0,
+    "targetCount2": 0,
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
+  },
+  {
+    "id": "l17-fixed-32",
+    "gameId": "gen_weather_wizard_math",
+    "type": "gen_weather_wizard_math",
+    "prompt": "Số liền trước của 4 là số nào?",
+    "correctAnswer": 0,
+    "options": [
+      0,
+      3,
+      1,
+      4
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
+    "objectIcon2": "",
+    "targetCount": 0,
+    "targetCount2": 0,
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
+  },
+  {
+    "id": "l17-fixed-33",
+    "gameId": "gen_train_route_builder",
+    "type": "gen_train_route_builder",
+    "prompt": "Số liền sau của 10 là số nào?",
+    "correctAnswer": 0,
+    "options": [
+      6,
+      0,
+      1,
+      4
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
+    "objectIcon2": "",
+    "targetCount": 0,
+    "targetCount2": 0,
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
+  },
+  {
+    "id": "l17-fixed-34",
+    "gameId": "gen_dragon_farm_math",
+    "type": "gen_dragon_farm_math",
+    "prompt": "Số liền trước của 9 là số nào?",
+    "correctAnswer": 0,
+    "options": [
+      0,
+      3,
+      6,
+      4
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
+    "objectIcon2": "",
+    "targetCount": 0,
+    "targetCount2": 0,
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
+  },
+  {
+    "id": "l17-fixed-35",
+    "gameId": "gen_weather_wizard_math",
+    "type": "gen_weather_wizard_math",
+    "prompt": "Số liền trước của 9 là số nào?",
+    "correctAnswer": 0,
+    "options": [
+      1,
+      0,
+      3,
+      2
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
+    "objectIcon2": "",
+    "targetCount": 0,
+    "targetCount2": 0,
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
+  },
+  {
+    "id": "l17-fixed-36",
+    "gameId": "gen_train_route_builder",
+    "type": "gen_train_route_builder",
+    "prompt": "Số liền sau của 9 là số nào?",
+    "correctAnswer": 0,
+    "options": [
+      0,
+      3,
+      5,
+      2
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/rabbit.png",
+    "objectIcon2": "",
+    "targetCount": 0,
+    "targetCount2": 0,
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
+  },
+  {
+    "id": "l17-fixed-37",
+    "gameId": "gen_dragon_farm_math",
+    "type": "gen_dragon_farm_math",
+    "prompt": "Số liền trước của 7 là số nào?",
+    "correctAnswer": 0,
+    "options": [
+      5,
+      3,
+      0,
+      2
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "objectIcon2": "",
+    "targetCount": 0,
+    "targetCount2": 0,
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
+  },
+  {
+    "id": "l17-fixed-38",
+    "gameId": "gen_weather_wizard_math",
+    "type": "gen_weather_wizard_math",
+    "prompt": "Số liền trước của 10 là số nào?",
+    "correctAnswer": 0,
+    "options": [
+      0,
+      4,
+      6,
+      2
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
+    "objectIcon2": "",
+    "targetCount": 0,
+    "targetCount2": 0,
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
+  },
+  {
+    "id": "l17-fixed-39",
+    "gameId": "gen_train_route_builder",
+    "type": "gen_train_route_builder",
+    "prompt": "Số liền sau của 1 là số nào?",
+    "correctAnswer": 0,
+    "options": [
+      4,
+      0,
+      1,
+      2
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "objectIcon2": "",
+    "targetCount": 0,
+    "targetCount2": 0,
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
+  },
+  {
+    "id": "l17-fixed-40",
+    "gameId": "gen_dragon_farm_math",
+    "type": "gen_dragon_farm_math",
+    "prompt": "Số liền sau của 2 là số nào?",
+    "correctAnswer": 0,
+    "options": [
+      1,
+      5,
+      3,
+      0
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "objectIcon2": "",
+    "targetCount": 0,
+    "targetCount2": 0,
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
+  },
+  {
+    "id": "l17-fixed-41",
+    "gameId": "gen_weather_wizard_math",
+    "type": "gen_weather_wizard_math",
+    "prompt": "Số liền sau của 10 là số nào?",
+    "correctAnswer": 0,
+    "options": [
+      0,
+      6,
+      3,
+      4
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
+    "objectIcon2": "",
+    "targetCount": 0,
+    "targetCount2": 0,
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
+  },
+  {
+    "id": "l17-fixed-42",
+    "gameId": "gen_train_route_builder",
+    "type": "gen_train_route_builder",
+    "prompt": "Số liền trước của 5 là số nào?",
+    "correctAnswer": 0,
+    "options": [
+      4,
+      0,
+      5,
+      3
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
+    "objectIcon2": "",
+    "targetCount": 0,
+    "targetCount2": 0,
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
+  },
+  {
+    "id": "l17-fixed-43",
+    "gameId": "gen_dragon_farm_math",
+    "type": "gen_dragon_farm_math",
+    "prompt": "Số liền trước của 2 là số nào?",
+    "correctAnswer": 0,
+    "options": [
+      0,
+      6,
+      5,
+      2
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "objectIcon2": "",
+    "targetCount": 0,
+    "targetCount2": 0,
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
+  },
+  {
+    "id": "l17-fixed-44",
+    "gameId": "gen_weather_wizard_math",
+    "type": "gen_weather_wizard_math",
+    "prompt": "Số liền sau của 4 là số nào?",
+    "correctAnswer": 0,
+    "options": [
+      0,
+      2,
+      5,
+      4
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
+    "objectIcon2": "",
+    "targetCount": 0,
+    "targetCount2": 0,
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
+  },
+  {
+    "id": "l17-fixed-45",
+    "gameId": "gen_train_route_builder",
+    "type": "gen_train_route_builder",
+    "prompt": "Số liền sau của 1 là số nào?",
+    "correctAnswer": 0,
+    "options": [
+      4,
+      5,
+      0,
+      2
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "objectIcon2": "",
+    "targetCount": 0,
+    "targetCount2": 0,
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
+  },
+  {
+    "id": "l17-fixed-46",
+    "gameId": "gen_dragon_farm_math",
+    "type": "gen_dragon_farm_math",
+    "prompt": "Số liền sau của 2 là số nào?",
+    "correctAnswer": 0,
+    "options": [
+      3,
+      4,
+      0,
+      2
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
+    "objectIcon2": "",
+    "targetCount": 0,
+    "targetCount2": 0,
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
+  },
+  {
+    "id": "l17-fixed-47",
+    "gameId": "gen_weather_wizard_math",
+    "type": "gen_weather_wizard_math",
+    "prompt": "Số liền sau của 2 là số nào?",
+    "correctAnswer": 0,
+    "options": [
+      0,
       3,
       5,
       4
     ],
-    "objectIcon": "/icons/star_icon.png",
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/rabbit.png",
     "objectIcon2": "",
-    "targetCount": 5,
+    "targetCount": 0,
     "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
   },
   {
-    "id": "l17-q046",
-    "gameId": "level_17",
-    "type": "level_17",
-    "prompt": "Điền số còn thiếu: 42, 43, ?, 45",
-    "correctAnswer": 44,
+    "id": "l17-fixed-48",
+    "gameId": "gen_train_route_builder",
+    "type": "gen_train_route_builder",
+    "prompt": "Số liền sau của 3 là số nào?",
+    "correctAnswer": 0,
     "options": [
-      42,
-      44,
-      43,
-      41
+      0,
+      3,
+      1,
+      4
     ],
-    "objectIcon": "/icons/star_icon.png",
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/rabbit.png",
     "objectIcon2": "",
-    "targetCount": 44,
+    "targetCount": 0,
     "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
   },
   {
-    "id": "l17-q047",
-    "gameId": "level_17",
-    "type": "level_17",
-    "prompt": "Điền số còn thiếu: 48, ?, 50",
-    "correctAnswer": 49,
+    "id": "l17-fixed-49",
+    "gameId": "gen_dragon_farm_math",
+    "type": "gen_dragon_farm_math",
+    "prompt": "Số liền sau của 9 là số nào?",
+    "correctAnswer": 0,
     "options": [
-      47,
-      49,
-      50,
-      48
+      3,
+      4,
+      0,
+      6
     ],
-    "objectIcon": "/icons/star_icon.png",
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
     "objectIcon2": "",
-    "targetCount": 49,
+    "targetCount": 0,
     "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
   },
   {
-    "id": "l17-q048",
-    "gameId": "level_17",
-    "type": "level_17",
-    "prompt": "Điền số còn thiếu: 67, ?, 69",
-    "correctAnswer": 68,
+    "id": "l17-fixed-50",
+    "gameId": "gen_weather_wizard_math",
+    "type": "gen_weather_wizard_math",
+    "prompt": "Số liền trước của 9 là số nào?",
+    "correctAnswer": 0,
     "options": [
-      67,
-      68,
-      66,
-      69
+      2,
+      0,
+      4,
+      5
     ],
-    "objectIcon": "/icons/star_icon.png",
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
     "objectIcon2": "",
-    "targetCount": 68,
+    "targetCount": 0,
     "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l17-q049",
-    "gameId": "level_17",
-    "type": "level_17",
-    "prompt": "Điền số còn thiếu: 61, ?, 63",
-    "correctAnswer": 62,
-    "options": [
-      62,
-      61,
-      60,
-      63
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 62,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l17-q050",
-    "gameId": "level_17",
-    "type": "level_17",
-    "prompt": "Điền số còn thiếu: 37, 38, 39, ?",
-    "correctAnswer": 40,
-    "options": [
-      39,
-      38,
-      37,
-      40
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 40,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
   }
 ]

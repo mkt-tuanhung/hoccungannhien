@@ -1,952 +1,952 @@
 [
   {
-    "id": "l06-q001",
-    "gameId": "level_6",
-    "type": "level_6",
-    "prompt": "3 - 2 = ?",
-    "correctAnswer": 1,
+    "id": "l06-fixed-1",
+    "gameId": "gen_festival_parade_math",
+    "type": "gen_festival_parade_math",
+    "prompt": "5 - 3 = ?",
+    "correctAnswer": 5,
     "options": [
+      9,
+      5,
       3,
-      1,
-      2,
       0
     ],
-    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/rabbit.png",
     "objectIcon2": "",
-    "targetCount": 3,
-    "targetCount2": 2,
+    "targetCount": 5,
+    "targetCount2": 3,
     "renderMode": "subtraction",
-    "displayPrompt": null
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
   },
   {
-    "id": "l06-q002",
-    "gameId": "level_6",
-    "type": "level_6",
-    "prompt": "Tính: 3 - 1 = ?",
-    "correctAnswer": 2,
+    "id": "l06-fixed-2",
+    "gameId": "gen_dream_room_builder",
+    "type": "gen_dream_room_builder",
+    "prompt": "8 - 6 = ?",
+    "correctAnswer": 8,
     "options": [
-      0,
-      1,
-      2,
-      3
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 3,
-    "targetCount2": 1,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l06-q003",
-    "gameId": "level_6",
-    "type": "level_6",
-    "prompt": "5 - 1 = ?",
-    "correctAnswer": 4,
-    "options": [
+      13,
       4,
-      3,
-      2,
-      1
+      11,
+      8
     ],
-    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
     "objectIcon2": "",
-    "targetCount": 5,
-    "targetCount2": 1,
+    "targetCount": 8,
+    "targetCount2": 6,
     "renderMode": "subtraction",
-    "displayPrompt": null
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
   },
   {
-    "id": "l06-q004",
-    "gameId": "level_6",
-    "type": "level_6",
-    "prompt": "Tính: 2 - 0 = ?",
-    "correctAnswer": 2,
-    "options": [
-      0,
-      1,
-      3,
-      2
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 2,
-    "targetCount2": 0,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l06-q005",
-    "gameId": "level_6",
-    "type": "level_6",
-    "prompt": "Tính: 4 - 1 = ?",
-    "correctAnswer": 3,
-    "options": [
-      1,
-      0,
-      2,
-      3
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 4,
-    "targetCount2": 1,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l06-q006",
-    "gameId": "level_6",
-    "type": "level_6",
-    "prompt": "5 - 1 = ?",
-    "correctAnswer": 4,
+    "id": "l06-fixed-3",
+    "gameId": "gen_number_maze",
+    "type": "gen_number_maze",
+    "prompt": "Có 8 quả táo. Bay/mất đi 2. Còn lại bao nhiêu?",
+    "correctAnswer": 8,
     "options": [
       3,
-      1,
-      2,
-      4
+      8,
+      9,
+      10
     ],
-    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
     "objectIcon2": "",
-    "targetCount": 5,
-    "targetCount2": 1,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l06-q007",
-    "gameId": "level_6",
-    "type": "level_6",
-    "prompt": "Tính: 4 - 3 = ?",
-    "correctAnswer": 1,
-    "options": [
-      1,
-      3,
-      2,
-      0
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 4,
-    "targetCount2": 3,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l06-q008",
-    "gameId": "level_6",
-    "type": "level_6",
-    "prompt": "Tính: 5 - 4 = ?",
-    "correctAnswer": 1,
-    "options": [
-      0,
-      3,
-      2,
-      1
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 5,
-    "targetCount2": 4,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l06-q009",
-    "gameId": "level_6",
-    "type": "level_6",
-    "prompt": "4 - 3 = ?",
-    "correctAnswer": 1,
-    "options": [
-      0,
-      3,
-      2,
-      1
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 4,
-    "targetCount2": 3,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l06-q010",
-    "gameId": "level_6",
-    "type": "level_6",
-    "prompt": "Tính: 3 - 0 = ?",
-    "correctAnswer": 3,
-    "options": [
-      2,
-      0,
-      3,
-      1
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 3,
-    "targetCount2": 0,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l06-q011",
-    "gameId": "level_6",
-    "type": "level_6",
-    "prompt": "5 - 4 = ?",
-    "correctAnswer": 1,
-    "options": [
-      0,
-      1,
-      3,
-      2
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 5,
-    "targetCount2": 4,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l06-q012",
-    "gameId": "level_6",
-    "type": "level_6",
-    "prompt": "Tính: 2 - 0 = ?",
-    "correctAnswer": 2,
-    "options": [
-      0,
-      2,
-      1,
-      3
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 2,
-    "targetCount2": 0,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l06-q013",
-    "gameId": "level_6",
-    "type": "level_6",
-    "prompt": "5 - 4 = ?",
-    "correctAnswer": 1,
-    "options": [
-      3,
-      0,
-      1,
-      2
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 5,
-    "targetCount2": 4,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l06-q014",
-    "gameId": "level_6",
-    "type": "level_6",
-    "prompt": "Tính: 2 - 0 = ?",
-    "correctAnswer": 2,
-    "options": [
-      0,
-      3,
-      1,
-      2
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 2,
-    "targetCount2": 0,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l06-q015",
-    "gameId": "level_6",
-    "type": "level_6",
-    "prompt": "Tính: 2 - 0 = ?",
-    "correctAnswer": 2,
-    "options": [
-      2,
-      3,
-      0,
-      1
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 2,
-    "targetCount2": 0,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l06-q016",
-    "gameId": "level_6",
-    "type": "level_6",
-    "prompt": "3 - 2 = ?",
-    "correctAnswer": 1,
-    "options": [
-      2,
-      1,
-      0,
-      3
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 3,
+    "targetCount": 8,
     "targetCount2": 2,
     "renderMode": "subtraction",
-    "displayPrompt": null
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
   },
   {
-    "id": "l06-q017",
-    "gameId": "level_6",
-    "type": "level_6",
-    "prompt": "Tính: 5 - 3 = ?",
-    "correctAnswer": 2,
+    "id": "l06-fixed-4",
+    "gameId": "gen_festival_parade_math",
+    "type": "gen_festival_parade_math",
+    "prompt": "9 - 6 = ?",
+    "correctAnswer": 9,
     "options": [
-      3,
-      0,
-      1,
-      2
+      11,
+      14,
+      10,
+      9
     ],
-    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
+    "objectIcon2": "",
+    "targetCount": 9,
+    "targetCount2": 6,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
+  },
+  {
+    "id": "l06-fixed-5",
+    "gameId": "gen_dream_room_builder",
+    "type": "gen_dream_room_builder",
+    "prompt": "9 - 1 = ?",
+    "correctAnswer": 9,
+    "options": [
+      9,
+      7,
+      11,
+      13
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "objectIcon2": "",
+    "targetCount": 9,
+    "targetCount2": 1,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
+  },
+  {
+    "id": "l06-fixed-6",
+    "gameId": "gen_number_maze",
+    "type": "gen_number_maze",
+    "prompt": "9 - 6 = ?",
+    "correctAnswer": 9,
+    "options": [
+      8,
+      5,
+      9,
+      10
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "objectIcon2": "",
+    "targetCount": 9,
+    "targetCount2": 6,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
+  },
+  {
+    "id": "l06-fixed-7",
+    "gameId": "gen_festival_parade_math",
+    "type": "gen_festival_parade_math",
+    "prompt": "Có 5 ngôi sao. Bay/mất đi 1. Còn lại bao nhiêu?",
+    "correctAnswer": 5,
+    "options": [
+      5,
+      1,
+      10,
+      7
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
     "objectIcon2": "",
     "targetCount": 5,
-    "targetCount2": 3,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l06-q018",
-    "gameId": "level_6",
-    "type": "level_6",
-    "prompt": "3 - 1 = ?",
-    "correctAnswer": 2,
-    "options": [
-      1,
-      3,
-      2,
-      0
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 3,
     "targetCount2": 1,
     "renderMode": "subtraction",
-    "displayPrompt": null
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
   },
   {
-    "id": "l06-q019",
-    "gameId": "level_6",
-    "type": "level_6",
-    "prompt": "4 - 3 = ?",
-    "correctAnswer": 1,
-    "options": [
-      1,
-      0,
-      2,
-      3
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 4,
-    "targetCount2": 3,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l06-q020",
-    "gameId": "level_6",
-    "type": "level_6",
-    "prompt": "5 - 1 = ?",
-    "correctAnswer": 4,
-    "options": [
-      3,
-      2,
-      1,
-      4
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 5,
-    "targetCount2": 1,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l06-q021",
-    "gameId": "level_6",
-    "type": "level_6",
-    "prompt": "3 - 1 = ?",
-    "correctAnswer": 2,
-    "options": [
-      2,
-      1,
-      0,
-      3
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 3,
-    "targetCount2": 1,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l06-q022",
-    "gameId": "level_6",
-    "type": "level_6",
-    "prompt": "Tính: 4 - 3 = ?",
-    "correctAnswer": 1,
-    "options": [
-      3,
-      2,
-      1,
-      0
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 4,
-    "targetCount2": 3,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l06-q023",
-    "gameId": "level_6",
-    "type": "level_6",
-    "prompt": "Tính: 4 - 0 = ?",
-    "correctAnswer": 4,
-    "options": [
-      3,
-      2,
-      1,
-      4
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 4,
-    "targetCount2": 0,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l06-q024",
-    "gameId": "level_6",
-    "type": "level_6",
-    "prompt": "2 - 0 = ?",
-    "correctAnswer": 2,
-    "options": [
-      2,
-      1,
-      3,
-      0
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 2,
-    "targetCount2": 0,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l06-q025",
-    "gameId": "level_6",
-    "type": "level_6",
-    "prompt": "4 - 2 = ?",
-    "correctAnswer": 2,
-    "options": [
-      1,
-      3,
-      2,
-      0
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 4,
-    "targetCount2": 2,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l06-q026",
-    "gameId": "level_6",
-    "type": "level_6",
-    "prompt": "Tính: 2 - 0 = ?",
-    "correctAnswer": 2,
-    "options": [
-      1,
-      2,
-      3,
-      0
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 2,
-    "targetCount2": 0,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l06-q027",
-    "gameId": "level_6",
-    "type": "level_6",
-    "prompt": "Tính: 5 - 1 = ?",
+    "id": "l06-fixed-8",
+    "gameId": "gen_dream_room_builder",
+    "type": "gen_dream_room_builder",
+    "prompt": "Có 4 con mèo. Bay/mất đi 4. Còn lại bao nhiêu?",
     "correctAnswer": 4,
     "options": [
       4,
       1,
-      3,
-      2
+      6,
+      8
     ],
-    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
     "objectIcon2": "",
-    "targetCount": 5,
-    "targetCount2": 1,
+    "targetCount": 4,
+    "targetCount2": 4,
     "renderMode": "subtraction",
-    "displayPrompt": null
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
   },
   {
-    "id": "l06-q028",
-    "gameId": "level_6",
-    "type": "level_6",
-    "prompt": "3 - 1 = ?",
+    "id": "l06-fixed-9",
+    "gameId": "gen_number_maze",
+    "type": "gen_number_maze",
+    "prompt": "10 - 3 = ?",
+    "correctAnswer": 10,
+    "options": [
+      13,
+      15,
+      11,
+      10
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "objectIcon2": "",
+    "targetCount": 10,
+    "targetCount2": 3,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
+  },
+  {
+    "id": "l06-fixed-10",
+    "gameId": "gen_festival_parade_math",
+    "type": "gen_festival_parade_math",
+    "prompt": "8 - 7 = ?",
+    "correctAnswer": 8,
+    "options": [
+      3,
+      10,
+      5,
+      8
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "objectIcon2": "",
+    "targetCount": 8,
+    "targetCount2": 7,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
+  },
+  {
+    "id": "l06-fixed-11",
+    "gameId": "gen_dream_room_builder",
+    "type": "gen_dream_room_builder",
+    "prompt": "Có 1 con mèo. Bay/mất đi 1. Còn lại bao nhiêu?",
+    "correctAnswer": 1,
+    "options": [
+      4,
+      5,
+      7,
+      1
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "objectIcon2": "",
+    "targetCount": 1,
+    "targetCount2": 1,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
+  },
+  {
+    "id": "l06-fixed-12",
+    "gameId": "gen_number_maze",
+    "type": "gen_number_maze",
+    "prompt": "7 - 1 = ?",
+    "correctAnswer": 7,
+    "options": [
+      11,
+      2,
+      5,
+      7
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "objectIcon2": "",
+    "targetCount": 7,
+    "targetCount2": 1,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
+  },
+  {
+    "id": "l06-fixed-13",
+    "gameId": "gen_festival_parade_math",
+    "type": "gen_festival_parade_math",
+    "prompt": "Có 8 quả táo. Bay/mất đi 2. Còn lại bao nhiêu?",
+    "correctAnswer": 8,
+    "options": [
+      7,
+      8,
+      5,
+      6
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
+    "objectIcon2": "",
+    "targetCount": 8,
+    "targetCount2": 2,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
+  },
+  {
+    "id": "l06-fixed-14",
+    "gameId": "gen_dream_room_builder",
+    "type": "gen_dream_room_builder",
+    "prompt": "10 - 2 = ?",
+    "correctAnswer": 10,
+    "options": [
+      12,
+      10,
+      15,
+      9
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
+    "objectIcon2": "",
+    "targetCount": 10,
+    "targetCount2": 2,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
+  },
+  {
+    "id": "l06-fixed-15",
+    "gameId": "gen_number_maze",
+    "type": "gen_number_maze",
+    "prompt": "2 - 2 = ?",
     "correctAnswer": 2,
     "options": [
-      2,
+      7,
       1,
-      3,
-      0
+      6,
+      2
     ],
-    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "objectIcon2": "",
+    "targetCount": 2,
+    "targetCount2": 2,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
+  },
+  {
+    "id": "l06-fixed-16",
+    "gameId": "gen_festival_parade_math",
+    "type": "gen_festival_parade_math",
+    "prompt": "8 - 8 = ?",
+    "correctAnswer": 8,
+    "options": [
+      7,
+      9,
+      6,
+      8
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "objectIcon2": "",
+    "targetCount": 8,
+    "targetCount2": 8,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
+  },
+  {
+    "id": "l06-fixed-17",
+    "gameId": "gen_dream_room_builder",
+    "type": "gen_dream_room_builder",
+    "prompt": "3 - 2 = ?",
+    "correctAnswer": 3,
+    "options": [
+      3,
+      1,
+      7,
+      2
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
     "objectIcon2": "",
     "targetCount": 3,
-    "targetCount2": 1,
+    "targetCount2": 2,
     "renderMode": "subtraction",
-    "displayPrompt": null
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
   },
   {
-    "id": "l06-q029",
-    "gameId": "level_6",
-    "type": "level_6",
-    "prompt": "4 - 2 = ?",
+    "id": "l06-fixed-18",
+    "gameId": "gen_number_maze",
+    "type": "gen_number_maze",
+    "prompt": "Có 7 con mèo. Bay/mất đi 2. Còn lại bao nhiêu?",
+    "correctAnswer": 7,
+    "options": [
+      7,
+      2,
+      11,
+      4
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "objectIcon2": "",
+    "targetCount": 7,
+    "targetCount2": 2,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
+  },
+  {
+    "id": "l06-fixed-19",
+    "gameId": "gen_festival_parade_math",
+    "type": "gen_festival_parade_math",
+    "prompt": "5 - 5 = ?",
+    "correctAnswer": 5,
+    "options": [
+      8,
+      3,
+      1,
+      5
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 5,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
+  },
+  {
+    "id": "l06-fixed-20",
+    "gameId": "gen_dream_room_builder",
+    "type": "gen_dream_room_builder",
+    "prompt": "10 - 1 = ?",
+    "correctAnswer": 10,
+    "options": [
+      13,
+      8,
+      10,
+      7
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
+    "objectIcon2": "",
+    "targetCount": 10,
+    "targetCount2": 1,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
+  },
+  {
+    "id": "l06-fixed-21",
+    "gameId": "gen_number_maze",
+    "type": "gen_number_maze",
+    "prompt": "Có 6 con mèo. Bay/mất đi 2. Còn lại bao nhiêu?",
+    "correctAnswer": 6,
+    "options": [
+      1,
+      11,
+      6,
+      4
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "objectIcon2": "",
+    "targetCount": 6,
+    "targetCount2": 2,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
+  },
+  {
+    "id": "l06-fixed-22",
+    "gameId": "gen_festival_parade_math",
+    "type": "gen_festival_parade_math",
+    "prompt": "Có 9 con thỏ. Bay/mất đi 2. Còn lại bao nhiêu?",
+    "correctAnswer": 9,
+    "options": [
+      8,
+      9,
+      11,
+      12
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/rabbit.png",
+    "objectIcon2": "",
+    "targetCount": 9,
+    "targetCount2": 2,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
+  },
+  {
+    "id": "l06-fixed-23",
+    "gameId": "gen_dream_room_builder",
+    "type": "gen_dream_room_builder",
+    "prompt": "10 - 2 = ?",
+    "correctAnswer": 10,
+    "options": [
+      14,
+      10,
+      13,
+      12
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "objectIcon2": "",
+    "targetCount": 10,
+    "targetCount2": 2,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
+  },
+  {
+    "id": "l06-fixed-24",
+    "gameId": "gen_number_maze",
+    "type": "gen_number_maze",
+    "prompt": "2 - 1 = ?",
     "correctAnswer": 2,
     "options": [
-      0,
       1,
-      3,
-      2
+      0,
+      2,
+      4
     ],
-    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "objectIcon2": "",
+    "targetCount": 2,
+    "targetCount2": 1,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
+  },
+  {
+    "id": "l06-fixed-25",
+    "gameId": "gen_festival_parade_math",
+    "type": "gen_festival_parade_math",
+    "prompt": "4 - 2 = ?",
+    "correctAnswer": 4,
+    "options": [
+      3,
+      4,
+      6,
+      10
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
     "objectIcon2": "",
     "targetCount": 4,
     "targetCount2": 2,
     "renderMode": "subtraction",
-    "displayPrompt": null
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
   },
   {
-    "id": "l06-q030",
-    "gameId": "level_6",
-    "type": "level_6",
+    "id": "l06-fixed-26",
+    "gameId": "gen_dream_room_builder",
+    "type": "gen_dream_room_builder",
     "prompt": "5 - 2 = ?",
-    "correctAnswer": 3,
+    "correctAnswer": 5,
     "options": [
-      0,
-      2,
-      1,
-      3
+      4,
+      9,
+      7,
+      5
     ],
-    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
     "objectIcon2": "",
     "targetCount": 5,
     "targetCount2": 2,
     "renderMode": "subtraction",
-    "displayPrompt": null
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
   },
   {
-    "id": "l06-q031",
-    "gameId": "level_6",
-    "type": "level_6",
-    "prompt": "Đếm quả dâu và chọn số đúng!",
+    "id": "l06-fixed-27",
+    "gameId": "gen_number_maze",
+    "type": "gen_number_maze",
+    "prompt": "Có 3 quả táo. Bay/mất đi 2. Còn lại bao nhiêu?",
+    "correctAnswer": 3,
+    "options": [
+      3,
+      0,
+      1,
+      4
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
+    "objectIcon2": "",
+    "targetCount": 3,
+    "targetCount2": 2,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
+  },
+  {
+    "id": "l06-fixed-28",
+    "gameId": "gen_festival_parade_math",
+    "type": "gen_festival_parade_math",
+    "prompt": "10 - 4 = ?",
+    "correctAnswer": 10,
+    "options": [
+      10,
+      8,
+      11,
+      15
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "objectIcon2": "",
+    "targetCount": 10,
+    "targetCount2": 4,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
+  },
+  {
+    "id": "l06-fixed-29",
+    "gameId": "gen_dream_room_builder",
+    "type": "gen_dream_room_builder",
+    "prompt": "5 - 4 = ?",
+    "correctAnswer": 5,
+    "options": [
+      0,
+      5,
+      10,
+      2
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 4,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
+  },
+  {
+    "id": "l06-fixed-30",
+    "gameId": "gen_number_maze",
+    "type": "gen_number_maze",
+    "prompt": "Có 6 viên kim cương. Bay/mất đi 5. Còn lại bao nhiêu?",
+    "correctAnswer": 6,
+    "options": [
+      8,
+      6,
+      7,
+      11
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "objectIcon2": "",
+    "targetCount": 6,
+    "targetCount2": 5,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
+  },
+  {
+    "id": "l06-fixed-31",
+    "gameId": "gen_festival_parade_math",
+    "type": "gen_festival_parade_math",
+    "prompt": "Có 2 con thỏ. Bay/mất đi 2. Còn lại bao nhiêu?",
     "correctAnswer": 2,
     "options": [
-      2,
-      3,
+      7,
       1,
-      0
+      2,
+      3
     ],
-    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/rabbit.png",
     "objectIcon2": "",
     "targetCount": 2,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
+    "targetCount2": 2,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
   },
   {
-    "id": "l06-q032",
-    "gameId": "level_6",
-    "type": "level_6",
-    "prompt": "Đếm bông hoa và chọn số đúng!",
+    "id": "l06-fixed-32",
+    "gameId": "gen_dream_room_builder",
+    "type": "gen_dream_room_builder",
+    "prompt": "5 - 1 = ?",
+    "correctAnswer": 5,
+    "options": [
+      5,
+      6,
+      7,
+      2
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 1,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
+  },
+  {
+    "id": "l06-fixed-33",
+    "gameId": "gen_number_maze",
+    "type": "gen_number_maze",
+    "prompt": "Có 2 quả bóng. Bay/mất đi 1. Còn lại bao nhiêu?",
+    "correctAnswer": 2,
+    "options": [
+      1,
+      2,
+      0,
+      6
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "objectIcon2": "",
+    "targetCount": 2,
+    "targetCount2": 1,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
+  },
+  {
+    "id": "l06-fixed-34",
+    "gameId": "gen_festival_parade_math",
+    "type": "gen_festival_parade_math",
+    "prompt": "Có 9 ngôi sao. Bay/mất đi 3. Còn lại bao nhiêu?",
+    "correctAnswer": 9,
+    "options": [
+      7,
+      12,
+      14,
+      9
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
+    "objectIcon2": "",
+    "targetCount": 9,
+    "targetCount2": 3,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
+  },
+  {
+    "id": "l06-fixed-35",
+    "gameId": "gen_dream_room_builder",
+    "type": "gen_dream_room_builder",
+    "prompt": "9 - 5 = ?",
+    "correctAnswer": 9,
+    "options": [
+      13,
+      6,
+      9,
+      14
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "objectIcon2": "",
+    "targetCount": 9,
+    "targetCount2": 5,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
+  },
+  {
+    "id": "l06-fixed-36",
+    "gameId": "gen_number_maze",
+    "type": "gen_number_maze",
+    "prompt": "Có 9 con mèo. Bay/mất đi 8. Còn lại bao nhiêu?",
+    "correctAnswer": 9,
+    "options": [
+      9,
+      4,
+      5,
+      7
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "objectIcon2": "",
+    "targetCount": 9,
+    "targetCount2": 8,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
+  },
+  {
+    "id": "l06-fixed-37",
+    "gameId": "gen_festival_parade_math",
+    "type": "gen_festival_parade_math",
+    "prompt": "7 - 7 = ?",
+    "correctAnswer": 7,
+    "options": [
+      8,
+      4,
+      7,
+      12
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/rabbit.png",
+    "objectIcon2": "",
+    "targetCount": 7,
+    "targetCount2": 7,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
+  },
+  {
+    "id": "l06-fixed-38",
+    "gameId": "gen_dream_room_builder",
+    "type": "gen_dream_room_builder",
+    "prompt": "Có 9 quả táo. Bay/mất đi 2. Còn lại bao nhiêu?",
+    "correctAnswer": 9,
+    "options": [
+      14,
+      4,
+      9,
+      10
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
+    "objectIcon2": "",
+    "targetCount": 9,
+    "targetCount2": 2,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
+  },
+  {
+    "id": "l06-fixed-39",
+    "gameId": "gen_number_maze",
+    "type": "gen_number_maze",
+    "prompt": "Có 4 quả táo. Bay/mất đi 1. Còn lại bao nhiêu?",
+    "correctAnswer": 4,
+    "options": [
+      2,
+      5,
+      10,
+      4
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
+    "objectIcon2": "",
+    "targetCount": 4,
+    "targetCount2": 1,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
+  },
+  {
+    "id": "l06-fixed-40",
+    "gameId": "gen_festival_parade_math",
+    "type": "gen_festival_parade_math",
+    "prompt": "Có 4 con mèo. Bay/mất đi 3. Còn lại bao nhiêu?",
+    "correctAnswer": 4,
+    "options": [
+      5,
+      4,
+      2,
+      9
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "objectIcon2": "",
+    "targetCount": 4,
+    "targetCount2": 3,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
+  },
+  {
+    "id": "l06-fixed-41",
+    "gameId": "gen_dream_room_builder",
+    "type": "gen_dream_room_builder",
+    "prompt": "5 - 2 = ?",
+    "correctAnswer": 5,
+    "options": [
+      8,
+      5,
+      3,
+      6
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/rabbit.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 2,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
+  },
+  {
+    "id": "l06-fixed-42",
+    "gameId": "gen_number_maze",
+    "type": "gen_number_maze",
+    "prompt": "6 - 5 = ?",
+    "correctAnswer": 6,
+    "options": [
+      6,
+      5,
+      3,
+      10
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
+    "objectIcon2": "",
+    "targetCount": 6,
+    "targetCount2": 5,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
+  },
+  {
+    "id": "l06-fixed-43",
+    "gameId": "gen_festival_parade_math",
+    "type": "gen_festival_parade_math",
+    "prompt": "8 - 6 = ?",
+    "correctAnswer": 8,
+    "options": [
+      6,
+      11,
+      8,
+      10
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "objectIcon2": "",
+    "targetCount": 8,
+    "targetCount2": 6,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
+  },
+  {
+    "id": "l06-fixed-44",
+    "gameId": "gen_dream_room_builder",
+    "type": "gen_dream_room_builder",
+    "prompt": "Có 10 con mèo. Bay/mất đi 5. Còn lại bao nhiêu?",
+    "correctAnswer": 10,
+    "options": [
+      10,
+      11,
+      6,
+      5
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "objectIcon2": "",
+    "targetCount": 10,
+    "targetCount2": 5,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
+  },
+  {
+    "id": "l06-fixed-45",
+    "gameId": "gen_number_maze",
+    "type": "gen_number_maze",
+    "prompt": "Có 7 quả táo. Bay/mất đi 4. Còn lại bao nhiêu?",
+    "correctAnswer": 7,
+    "options": [
+      4,
+      7,
+      12,
+      11
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
+    "objectIcon2": "",
+    "targetCount": 7,
+    "targetCount2": 4,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
+  },
+  {
+    "id": "l06-fixed-46",
+    "gameId": "gen_festival_parade_math",
+    "type": "gen_festival_parade_math",
+    "prompt": "9 - 8 = ?",
+    "correctAnswer": 9,
+    "options": [
+      10,
+      13,
+      9,
+      4
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
+    "objectIcon2": "",
+    "targetCount": 9,
+    "targetCount2": 8,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
+  },
+  {
+    "id": "l06-fixed-47",
+    "gameId": "gen_dream_room_builder",
+    "type": "gen_dream_room_builder",
+    "prompt": "Có 9 quả bóng. Bay/mất đi 9. Còn lại bao nhiêu?",
+    "correctAnswer": 9,
+    "options": [
+      14,
+      9,
+      10,
+      12
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "objectIcon2": "",
+    "targetCount": 9,
+    "targetCount2": 9,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
+  },
+  {
+    "id": "l06-fixed-48",
+    "gameId": "gen_number_maze",
+    "type": "gen_number_maze",
+    "prompt": "Có 5 ngôi sao. Bay/mất đi 1. Còn lại bao nhiêu?",
+    "correctAnswer": 5,
+    "options": [
+      3,
+      5,
+      4,
+      7
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 1,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
+  },
+  {
+    "id": "l06-fixed-49",
+    "gameId": "gen_festival_parade_math",
+    "type": "gen_festival_parade_math",
+    "prompt": "5 - 1 = ?",
+    "correctAnswer": 5,
+    "options": [
+      10,
+      6,
+      5,
+      0
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 1,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
+  },
+  {
+    "id": "l06-fixed-50",
+    "gameId": "gen_dream_room_builder",
+    "type": "gen_dream_room_builder",
+    "prompt": "3 - 2 = ?",
     "correctAnswer": 3,
     "options": [
       2,
-      3,
-      1,
-      0
+      6,
+      9,
+      3
     ],
-    "objectIcon": "/icons/star_icon.png",
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
     "objectIcon2": "",
     "targetCount": 3,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l06-q033",
-    "gameId": "level_6",
-    "type": "level_6",
-    "prompt": "Đếm bông hoa và chọn số đúng!",
-    "correctAnswer": 5,
-    "options": [
-      4,
-      3,
-      2,
-      5
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 5,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l06-q034",
-    "gameId": "level_6",
-    "type": "level_6",
-    "prompt": "Đếm chiếc bánh và chọn số đúng!",
-    "correctAnswer": 1,
-    "options": [
-      1,
-      2,
-      0,
-      3
-    ],
-    "objectIcon": "/icons/candy_icon.png",
-    "objectIcon2": "",
-    "targetCount": 1,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l06-q035",
-    "gameId": "level_6",
-    "type": "level_6",
-    "prompt": "Đếm quả bóng và chọn số đúng!",
-    "correctAnswer": 4,
-    "options": [
-      4,
-      3,
-      2,
-      1
-    ],
-    "objectIcon": "/icons/ball_icon.png",
-    "objectIcon2": "",
-    "targetCount": 4,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l06-q036",
-    "gameId": "level_6",
-    "type": "level_6",
-    "prompt": "Đếm ngôi sao và chọn số đúng!",
-    "correctAnswer": 2,
-    "options": [
-      3,
-      2,
-      0,
-      1
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 2,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l06-q037",
-    "gameId": "level_6",
-    "type": "level_6",
-    "prompt": "Đếm chiếc bánh và chọn số đúng!",
-    "correctAnswer": 5,
-    "options": [
-      5,
-      3,
-      2,
-      4
-    ],
-    "objectIcon": "/icons/candy_icon.png",
-    "objectIcon2": "",
-    "targetCount": 5,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l06-q038",
-    "gameId": "level_6",
-    "type": "level_6",
-    "prompt": "Đếm viên kẹo và chọn số đúng!",
-    "correctAnswer": 1,
-    "options": [
-      0,
-      2,
-      1,
-      3
-    ],
-    "objectIcon": "/icons/candy_icon.png",
-    "objectIcon2": "",
-    "targetCount": 1,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l06-q039",
-    "gameId": "level_6",
-    "type": "level_6",
-    "prompt": "Đếm quả táo và chọn số đúng!",
-    "correctAnswer": 2,
-    "options": [
-      2,
-      0,
-      1,
-      3
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 2,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l06-q040",
-    "gameId": "level_6",
-    "type": "level_6",
-    "prompt": "Đếm quả cam và chọn số đúng!",
-    "correctAnswer": 2,
-    "options": [
-      3,
-      2,
-      1,
-      0
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 2,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l06-q041",
-    "gameId": "level_6",
-    "type": "level_6",
-    "prompt": "Đếm bông hoa và chọn số đúng!",
-    "correctAnswer": 4,
-    "options": [
-      4,
-      2,
-      3,
-      1
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 4,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l06-q042",
-    "gameId": "level_6",
-    "type": "level_6",
-    "prompt": "Đếm quả dâu và chọn số đúng!",
-    "correctAnswer": 1,
-    "options": [
-      1,
-      2,
-      3,
-      0
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 1,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l06-q043",
-    "gameId": "level_6",
-    "type": "level_6",
-    "prompt": "Đếm quả chuối và chọn số đúng!",
-    "correctAnswer": 1,
-    "options": [
-      3,
-      1,
-      0,
-      2
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 1,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l06-q044",
-    "gameId": "level_6",
-    "type": "level_6",
-    "prompt": "Đếm quả táo và chọn số đúng!",
-    "correctAnswer": 5,
-    "options": [
-      4,
-      3,
-      2,
-      5
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 5,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l06-q045",
-    "gameId": "level_6",
-    "type": "level_6",
-    "prompt": "Đếm quả cam và chọn số đúng!",
-    "correctAnswer": 5,
-    "options": [
-      4,
-      3,
-      5,
-      2
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 5,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l06-q046",
-    "gameId": "level_6",
-    "type": "level_6",
-    "prompt": "2 - ? = 1",
-    "correctAnswer": 1,
-    "options": [
-      0,
-      3,
-      1,
-      2
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 2,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l06-q047",
-    "gameId": "level_6",
-    "type": "level_6",
-    "prompt": "5 - ? = 4",
-    "correctAnswer": 1,
-    "options": [
-      1,
-      3,
-      2,
-      1
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 5,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l06-q048",
-    "gameId": "level_6",
-    "type": "level_6",
-    "prompt": "2 - ? = 1",
-    "correctAnswer": 1,
-    "options": [
-      3,
-      1,
-      2,
-      0
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 2,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l06-q049",
-    "gameId": "level_6",
-    "type": "level_6",
-    "prompt": "2 - ? = 1",
-    "correctAnswer": 1,
-    "options": [
-      3,
-      1,
-      2,
-      0
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 2,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l06-q050",
-    "gameId": "level_6",
-    "type": "level_6",
-    "prompt": "5 - ? = 3",
-    "correctAnswer": 2,
-    "options": [
-      2,
-      1,
-      0,
-      2
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 5,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
+    "targetCount2": 2,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
   }
 ]

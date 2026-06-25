@@ -1,952 +1,952 @@
 [
   {
-    "id": "l22-q001",
-    "gameId": "level_22",
-    "type": "level_22",
-    "prompt": "87 - 5 = ?",
-    "correctAnswer": 82,
+    "id": "l22-fixed-1",
+    "gameId": "detective_math_mystery",
+    "type": "detective_math_mystery",
+    "prompt": "Có 8 ngôi sao, lấy đi 5. Còn bao nhiêu?",
+    "correctAnswer": 13,
     "options": [
-      81,
-      80,
-      79,
-      82
+      16,
+      15,
+      13,
+      12
     ],
-    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
     "objectIcon2": "",
-    "targetCount": 0,
+    "targetCount": 13,
     "targetCount2": 0,
     "renderMode": "single",
-    "displayPrompt": null
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
   },
   {
-    "id": "l22-q002",
-    "gameId": "level_22",
-    "type": "level_22",
-    "prompt": "58 - 6 = ?",
-    "correctAnswer": 52,
+    "id": "l22-fixed-2",
+    "gameId": "rhythm_math_dance",
+    "type": "rhythm_math_dance",
+    "prompt": "Có 5 quả bóng, lấy đi 3. Còn bao nhiêu?",
+    "correctAnswer": 8,
     "options": [
-      51,
-      52,
-      50,
-      49
+      8,
+      6,
+      11,
+      10
     ],
-    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
     "objectIcon2": "",
-    "targetCount": 0,
+    "targetCount": 8,
     "targetCount2": 0,
     "renderMode": "single",
-    "displayPrompt": null
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
   },
   {
-    "id": "l22-q003",
-    "gameId": "level_22",
-    "type": "level_22",
-    "prompt": "49 - 2 = ?",
-    "correctAnswer": 47,
+    "id": "l22-fixed-3",
+    "gameId": "magic_shop_math",
+    "type": "magic_shop_math",
+    "prompt": "6 - 5 = ?",
+    "correctAnswer": 6,
     "options": [
-      46,
-      45,
-      44,
-      47
+      6,
+      3,
+      11,
+      9
     ],
-    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/rabbit.png",
     "objectIcon2": "",
-    "targetCount": 0,
+    "targetCount": 6,
+    "targetCount2": 5,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
+  },
+  {
+    "id": "l22-fixed-4",
+    "gameId": "detective_math_mystery",
+    "type": "detective_math_mystery",
+    "prompt": "5 - 5 = ?",
+    "correctAnswer": 5,
+    "options": [
+      5,
+      3,
+      1,
+      4
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/rabbit.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 5,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
+  },
+  {
+    "id": "l22-fixed-5",
+    "gameId": "rhythm_math_dance",
+    "type": "rhythm_math_dance",
+    "prompt": "Có 7 con mèo, lấy đi 3. Còn bao nhiêu?",
+    "correctAnswer": 10,
+    "options": [
+      10,
+      5,
+      15,
+      13
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "objectIcon2": "",
+    "targetCount": 10,
     "targetCount2": 0,
     "renderMode": "single",
-    "displayPrompt": null
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
   },
   {
-    "id": "l22-q004",
-    "gameId": "level_22",
-    "type": "level_22",
-    "prompt": "38 - 4 = ?",
-    "correctAnswer": 34,
-    "options": [
-      33,
-      31,
-      32,
-      34
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l22-q005",
-    "gameId": "level_22",
-    "type": "level_22",
-    "prompt": "49 - 9 = ?",
-    "correctAnswer": 40,
-    "options": [
-      39,
-      40,
-      37,
-      38
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l22-q006",
-    "gameId": "level_22",
-    "type": "level_22",
-    "prompt": "78 - 1 = ?",
-    "correctAnswer": 77,
-    "options": [
-      77,
-      76,
-      75,
-      74
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l22-q007",
-    "gameId": "level_22",
-    "type": "level_22",
-    "prompt": "66 - 6 = ?",
-    "correctAnswer": 60,
-    "options": [
-      60,
-      59,
-      57,
-      58
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l22-q008",
-    "gameId": "level_22",
-    "type": "level_22",
-    "prompt": "85 - 3 = ?",
-    "correctAnswer": 82,
-    "options": [
-      80,
-      82,
-      79,
-      81
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l22-q009",
-    "gameId": "level_22",
-    "type": "level_22",
-    "prompt": "29 - 3 = ?",
-    "correctAnswer": 26,
-    "options": [
-      23,
-      26,
-      25,
-      24
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l22-q010",
-    "gameId": "level_22",
-    "type": "level_22",
-    "prompt": "49 - 9 = ?",
-    "correctAnswer": 40,
-    "options": [
-      37,
-      38,
-      39,
-      40
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l22-q011",
-    "gameId": "level_22",
-    "type": "level_22",
-    "prompt": "78 - 7 = ?",
-    "correctAnswer": 71,
-    "options": [
-      70,
-      69,
-      71,
-      68
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l22-q012",
-    "gameId": "level_22",
-    "type": "level_22",
-    "prompt": "19 - 8 = ?",
-    "correctAnswer": 11,
+    "id": "l22-fixed-6",
+    "gameId": "magic_shop_math",
+    "type": "magic_shop_math",
+    "prompt": "7 - 6 = ?",
+    "correctAnswer": 7,
     "options": [
       9,
-      8,
+      4,
+      7,
+      6
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "objectIcon2": "",
+    "targetCount": 7,
+    "targetCount2": 6,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
+  },
+  {
+    "id": "l22-fixed-7",
+    "gameId": "detective_math_mystery",
+    "type": "detective_math_mystery",
+    "prompt": "10 - 10 = ?",
+    "correctAnswer": 10,
+    "options": [
+      12,
       10,
+      8,
       11
     ],
-    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
     "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
+    "targetCount": 10,
+    "targetCount2": 10,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
   },
   {
-    "id": "l22-q013",
-    "gameId": "level_22",
-    "type": "level_22",
-    "prompt": "76 - 2 = ?",
-    "correctAnswer": 74,
+    "id": "l22-fixed-8",
+    "gameId": "rhythm_math_dance",
+    "type": "rhythm_math_dance",
+    "prompt": "Có 5 viên kim cương, lấy đi 1. Còn bao nhiêu?",
+    "correctAnswer": 6,
     "options": [
-      73,
-      71,
-      74,
-      72
+      3,
+      6,
+      8,
+      4
     ],
-    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
     "objectIcon2": "",
-    "targetCount": 0,
+    "targetCount": 6,
     "targetCount2": 0,
     "renderMode": "single",
-    "displayPrompt": null
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
   },
   {
-    "id": "l22-q014",
-    "gameId": "level_22",
-    "type": "level_22",
-    "prompt": "19 - 2 = ?",
+    "id": "l22-fixed-9",
+    "gameId": "magic_shop_math",
+    "type": "magic_shop_math",
+    "prompt": "10 - 8 = ?",
+    "correctAnswer": 10,
+    "options": [
+      13,
+      9,
+      10,
+      14
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/rabbit.png",
+    "objectIcon2": "",
+    "targetCount": 10,
+    "targetCount2": 8,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
+  },
+  {
+    "id": "l22-fixed-10",
+    "gameId": "detective_math_mystery",
+    "type": "detective_math_mystery",
+    "prompt": "6 - 1 = ?",
+    "correctAnswer": 6,
+    "options": [
+      6,
+      1,
+      3,
+      9
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "objectIcon2": "",
+    "targetCount": 6,
+    "targetCount2": 1,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
+  },
+  {
+    "id": "l22-fixed-11",
+    "gameId": "rhythm_math_dance",
+    "type": "rhythm_math_dance",
+    "prompt": "Có 9 ngôi sao, lấy đi 1. Còn bao nhiêu?",
+    "correctAnswer": 10,
+    "options": [
+      8,
+      13,
+      11,
+      10
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
+    "objectIcon2": "",
+    "targetCount": 10,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
+  },
+  {
+    "id": "l22-fixed-12",
+    "gameId": "magic_shop_math",
+    "type": "magic_shop_math",
+    "prompt": "7 - 4 = ?",
+    "correctAnswer": 7,
+    "options": [
+      2,
+      3,
+      7,
+      4
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "objectIcon2": "",
+    "targetCount": 7,
+    "targetCount2": 4,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
+  },
+  {
+    "id": "l22-fixed-13",
+    "gameId": "detective_math_mystery",
+    "type": "detective_math_mystery",
+    "prompt": "Có 8 quả táo, lấy đi 3. Còn bao nhiêu?",
+    "correctAnswer": 11,
+    "options": [
+      7,
+      12,
+      11,
+      9
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
+    "objectIcon2": "",
+    "targetCount": 11,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
+  },
+  {
+    "id": "l22-fixed-14",
+    "gameId": "rhythm_math_dance",
+    "type": "rhythm_math_dance",
+    "prompt": "6 - 5 = ?",
+    "correctAnswer": 6,
+    "options": [
+      6,
+      9,
+      1,
+      7
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "objectIcon2": "",
+    "targetCount": 6,
+    "targetCount2": 5,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
+  },
+  {
+    "id": "l22-fixed-15",
+    "gameId": "magic_shop_math",
+    "type": "magic_shop_math",
+    "prompt": "8 - 3 = ?",
+    "correctAnswer": 8,
+    "options": [
+      8,
+      13,
+      11,
+      4
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "objectIcon2": "",
+    "targetCount": 8,
+    "targetCount2": 3,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
+  },
+  {
+    "id": "l22-fixed-16",
+    "gameId": "detective_math_mystery",
+    "type": "detective_math_mystery",
+    "prompt": "Có 3 con mèo, lấy đi 2. Còn bao nhiêu?",
+    "correctAnswer": 5,
+    "options": [
+      6,
+      5,
+      0,
+      8
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
+  },
+  {
+    "id": "l22-fixed-17",
+    "gameId": "rhythm_math_dance",
+    "type": "rhythm_math_dance",
+    "prompt": "Có 10 con mèo, lấy đi 7. Còn bao nhiêu?",
     "correctAnswer": 17,
     "options": [
       17,
       15,
-      16,
-      14
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l22-q015",
-    "gameId": "level_22",
-    "type": "level_22",
-    "prompt": "19 - 9 = ?",
-    "correctAnswer": 10,
-    "options": [
-      7,
-      9,
-      8,
-      10
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l22-q016",
-    "gameId": "level_22",
-    "type": "level_22",
-    "prompt": "46 - 5 = ?",
-    "correctAnswer": 41,
-    "options": [
-      38,
-      41,
-      40,
-      39
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l22-q017",
-    "gameId": "level_22",
-    "type": "level_22",
-    "prompt": "29 - 9 = ?",
-    "correctAnswer": 20,
-    "options": [
-      18,
-      19,
-      20,
-      17
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l22-q018",
-    "gameId": "level_22",
-    "type": "level_22",
-    "prompt": "19 - 7 = ?",
-    "correctAnswer": 12,
-    "options": [
-      9,
-      12,
-      11,
-      10
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l22-q019",
-    "gameId": "level_22",
-    "type": "level_22",
-    "prompt": "27 - 7 = ?",
-    "correctAnswer": 20,
-    "options": [
-      19,
-      17,
-      20,
-      18
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l22-q020",
-    "gameId": "level_22",
-    "type": "level_22",
-    "prompt": "55 - 4 = ?",
-    "correctAnswer": 51,
-    "options": [
-      51,
-      48,
-      50,
-      49
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l22-q021",
-    "gameId": "level_22",
-    "type": "level_22",
-    "prompt": "56 - 4 = ?",
-    "correctAnswer": 52,
-    "options": [
-      50,
-      49,
-      52,
-      51
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l22-q022",
-    "gameId": "level_22",
-    "type": "level_22",
-    "prompt": "97 - 7 = ?",
-    "correctAnswer": 90,
-    "options": [
-      89,
-      90,
-      88,
-      87
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l22-q023",
-    "gameId": "level_22",
-    "type": "level_22",
-    "prompt": "27 - 7 = ?",
-    "correctAnswer": 20,
-    "options": [
-      20,
-      17,
-      19,
-      18
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l22-q024",
-    "gameId": "level_22",
-    "type": "level_22",
-    "prompt": "54 - 3 = ?",
-    "correctAnswer": 51,
-    "options": [
-      50,
-      49,
-      48,
-      51
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l22-q025",
-    "gameId": "level_22",
-    "type": "level_22",
-    "prompt": "89 - 6 = ?",
-    "correctAnswer": 83,
-    "options": [
-      82,
-      80,
-      81,
-      83
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l22-q026",
-    "gameId": "level_22",
-    "type": "level_22",
-    "prompt": "95 - 1 = ?",
-    "correctAnswer": 94,
-    "options": [
-      93,
-      92,
-      91,
-      94
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l22-q027",
-    "gameId": "level_22",
-    "type": "level_22",
-    "prompt": "29 - 8 = ?",
-    "correctAnswer": 21,
-    "options": [
       21,
-      20,
-      18,
-      19
+      12
     ],
-    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
     "objectIcon2": "",
-    "targetCount": 0,
+    "targetCount": 17,
     "targetCount2": 0,
     "renderMode": "single",
-    "displayPrompt": null
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
   },
   {
-    "id": "l22-q028",
-    "gameId": "level_22",
-    "type": "level_22",
-    "prompt": "57 - 4 = ?",
-    "correctAnswer": 53,
-    "options": [
-      50,
-      51,
-      52,
-      53
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l22-q029",
-    "gameId": "level_22",
-    "type": "level_22",
-    "prompt": "27 - 3 = ?",
-    "correctAnswer": 24,
-    "options": [
-      22,
-      24,
-      21,
-      23
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l22-q030",
-    "gameId": "level_22",
-    "type": "level_22",
-    "prompt": "36 - 2 = ?",
-    "correctAnswer": 34,
-    "options": [
-      32,
-      34,
-      31,
-      33
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l22-q031",
-    "gameId": "level_22",
-    "type": "level_22",
-    "prompt": "11 - 1 = ?",
-    "correctAnswer": 10,
-    "options": [
-      8,
-      10,
-      9,
-      7
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l22-q032",
-    "gameId": "level_22",
-    "type": "level_22",
-    "prompt": "28 - 4 = ?",
-    "correctAnswer": 24,
-    "options": [
-      22,
-      24,
-      23,
-      21
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l22-q033",
-    "gameId": "level_22",
-    "type": "level_22",
-    "prompt": "27 - 7 = ?",
-    "correctAnswer": 20,
-    "options": [
-      19,
-      18,
-      20,
-      17
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l22-q034",
-    "gameId": "level_22",
-    "type": "level_22",
-    "prompt": "39 - 1 = ?",
-    "correctAnswer": 38,
-    "options": [
-      35,
-      37,
-      38,
-      36
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l22-q035",
-    "gameId": "level_22",
-    "type": "level_22",
-    "prompt": "39 - 8 = ?",
-    "correctAnswer": 31,
-    "options": [
-      28,
-      29,
-      30,
-      31
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l22-q036",
-    "gameId": "level_22",
-    "type": "level_22",
-    "prompt": "89 - 9 = ?",
-    "correctAnswer": 80,
-    "options": [
-      78,
-      80,
-      77,
-      79
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l22-q037",
-    "gameId": "level_22",
-    "type": "level_22",
-    "prompt": "85 - 1 = ?",
-    "correctAnswer": 84,
-    "options": [
-      83,
-      84,
-      81,
-      82
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l22-q038",
-    "gameId": "level_22",
-    "type": "level_22",
-    "prompt": "25 - 3 = ?",
-    "correctAnswer": 22,
-    "options": [
-      22,
-      19,
-      20,
-      21
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l22-q039",
-    "gameId": "level_22",
-    "type": "level_22",
-    "prompt": "18 - 8 = ?",
-    "correctAnswer": 10,
-    "options": [
-      10,
-      8,
-      7,
-      9
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l22-q040",
-    "gameId": "level_22",
-    "type": "level_22",
-    "prompt": "34 - 3 = ?",
-    "correctAnswer": 31,
-    "options": [
-      30,
-      29,
-      28,
-      31
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 0,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l22-q041",
-    "gameId": "level_22",
-    "type": "level_22",
-    "prompt": "12 - 2 = ?",
-    "correctAnswer": 10,
-    "options": [
-      8,
-      7,
-      10,
-      9
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 12,
-    "targetCount2": 2,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l22-q042",
-    "gameId": "level_22",
-    "type": "level_22",
-    "prompt": "11 - 10 = ?",
-    "correctAnswer": 1,
-    "options": [
-      0,
-      3,
-      2,
-      1
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 11,
-    "targetCount2": 10,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l22-q043",
-    "gameId": "level_22",
-    "type": "level_22",
-    "prompt": "7 - 3 = ?",
-    "correctAnswer": 4,
-    "options": [
-      1,
-      3,
-      2,
-      4
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 7,
-    "targetCount2": 3,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l22-q044",
-    "gameId": "level_22",
-    "type": "level_22",
-    "prompt": "10 - 1 = ?",
+    "id": "l22-fixed-18",
+    "gameId": "magic_shop_math",
+    "type": "magic_shop_math",
+    "prompt": "9 - 2 = ?",
     "correctAnswer": 9,
     "options": [
-      7,
+      10,
       6,
       9,
       8
     ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 10,
-    "targetCount2": 1,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l22-q045",
-    "gameId": "level_22",
-    "type": "level_22",
-    "prompt": "9 - 7 = ?",
-    "correctAnswer": 2,
-    "options": [
-      0,
-      3,
-      2,
-      1
-    ],
-    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
     "objectIcon2": "",
     "targetCount": 9,
-    "targetCount2": 7,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l22-q046",
-    "gameId": "level_22",
-    "type": "level_22",
-    "prompt": "20 - 2 = ?",
-    "correctAnswer": 18,
-    "options": [
-      16,
-      17,
-      15,
-      18
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 20,
     "targetCount2": 2,
     "renderMode": "subtraction",
-    "displayPrompt": null
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
   },
   {
-    "id": "l22-q047",
-    "gameId": "level_22",
-    "type": "level_22",
-    "prompt": "10 - 9 = ?",
-    "correctAnswer": 1,
+    "id": "l22-fixed-19",
+    "gameId": "detective_math_mystery",
+    "type": "detective_math_mystery",
+    "prompt": "Có 9 con mèo, lấy đi 3. Còn bao nhiêu?",
+    "correctAnswer": 12,
     "options": [
-      3,
-      1,
-      0,
-      2
+      12,
+      17,
+      10,
+      13
     ],
-    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
     "objectIcon2": "",
-    "targetCount": 10,
-    "targetCount2": 9,
-    "renderMode": "subtraction",
-    "displayPrompt": null
-  },
-  {
-    "id": "l22-q048",
-    "gameId": "level_22",
-    "type": "level_22",
-    "prompt": "Tính: 4 - 0 = ?",
-    "correctAnswer": 4,
-    "options": [
-      3,
-      1,
-      2,
-      4
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 4,
+    "targetCount": 12,
     "targetCount2": 0,
-    "renderMode": "subtraction",
-    "displayPrompt": null
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
   },
   {
-    "id": "l22-q049",
-    "gameId": "level_22",
-    "type": "level_22",
-    "prompt": "3 - 0 = ?",
+    "id": "l22-fixed-20",
+    "gameId": "rhythm_math_dance",
+    "type": "rhythm_math_dance",
+    "prompt": "Có 7 viên kim cương, lấy đi 2. Còn bao nhiêu?",
+    "correctAnswer": 9,
+    "options": [
+      9,
+      12,
+      13,
+      5
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "objectIcon2": "",
+    "targetCount": 9,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
+  },
+  {
+    "id": "l22-fixed-21",
+    "gameId": "magic_shop_math",
+    "type": "magic_shop_math",
+    "prompt": "3 - 3 = ?",
     "correctAnswer": 3,
     "options": [
       3,
-      2,
-      0,
-      1
+      7,
+      6,
+      8
     ],
-    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
+    "objectIcon2": "",
+    "targetCount": 3,
+    "targetCount2": 3,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
+  },
+  {
+    "id": "l22-fixed-22",
+    "gameId": "detective_math_mystery",
+    "type": "detective_math_mystery",
+    "prompt": "7 - 1 = ?",
+    "correctAnswer": 7,
+    "options": [
+      2,
+      3,
+      10,
+      7
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "objectIcon2": "",
+    "targetCount": 7,
+    "targetCount2": 1,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
+  },
+  {
+    "id": "l22-fixed-23",
+    "gameId": "rhythm_math_dance",
+    "type": "rhythm_math_dance",
+    "prompt": "Có 2 con thỏ, lấy đi 1. Còn bao nhiêu?",
+    "correctAnswer": 3,
+    "options": [
+      6,
+      3,
+      9,
+      7
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/rabbit.png",
     "objectIcon2": "",
     "targetCount": 3,
     "targetCount2": 0,
-    "renderMode": "subtraction",
-    "displayPrompt": null
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
   },
   {
-    "id": "l22-q050",
-    "gameId": "level_22",
-    "type": "level_22",
-    "prompt": "13 - 12 = ?",
-    "correctAnswer": 1,
+    "id": "l22-fixed-24",
+    "gameId": "magic_shop_math",
+    "type": "magic_shop_math",
+    "prompt": "Có 6 viên kim cương, lấy đi 5. Còn bao nhiêu?",
+    "correctAnswer": 11,
+    "options": [
+      11,
+      12,
+      7,
+      10
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "objectIcon2": "",
+    "targetCount": 11,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
+  },
+  {
+    "id": "l22-fixed-25",
+    "gameId": "detective_math_mystery",
+    "type": "detective_math_mystery",
+    "prompt": "Có 5 quả bóng, lấy đi 1. Còn bao nhiêu?",
+    "correctAnswer": 6,
+    "options": [
+      10,
+      6,
+      7,
+      2
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "objectIcon2": "",
+    "targetCount": 6,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
+  },
+  {
+    "id": "l22-fixed-26",
+    "gameId": "rhythm_math_dance",
+    "type": "rhythm_math_dance",
+    "prompt": "Có 10 ngôi sao, lấy đi 8. Còn bao nhiêu?",
+    "correctAnswer": 18,
+    "options": [
+      15,
+      21,
+      18,
+      17
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
+    "objectIcon2": "",
+    "targetCount": 18,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
+  },
+  {
+    "id": "l22-fixed-27",
+    "gameId": "magic_shop_math",
+    "type": "magic_shop_math",
+    "prompt": "4 - 2 = ?",
+    "correctAnswer": 4,
+    "options": [
+      6,
+      0,
+      4,
+      1
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "objectIcon2": "",
+    "targetCount": 4,
+    "targetCount2": 2,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
+  },
+  {
+    "id": "l22-fixed-28",
+    "gameId": "detective_math_mystery",
+    "type": "detective_math_mystery",
+    "prompt": "2 - 1 = ?",
+    "correctAnswer": 2,
+    "options": [
+      0,
+      2,
+      3,
+      1
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "objectIcon2": "",
+    "targetCount": 2,
+    "targetCount2": 1,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
+  },
+  {
+    "id": "l22-fixed-29",
+    "gameId": "rhythm_math_dance",
+    "type": "rhythm_math_dance",
+    "prompt": "7 - 1 = ?",
+    "correctAnswer": 7,
+    "options": [
+      10,
+      3,
+      11,
+      7
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/rabbit.png",
+    "objectIcon2": "",
+    "targetCount": 7,
+    "targetCount2": 1,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
+  },
+  {
+    "id": "l22-fixed-30",
+    "gameId": "magic_shop_math",
+    "type": "magic_shop_math",
+    "prompt": "7 - 4 = ?",
+    "correctAnswer": 7,
+    "options": [
+      7,
+      4,
+      8,
+      10
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
+    "objectIcon2": "",
+    "targetCount": 7,
+    "targetCount2": 4,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
+  },
+  {
+    "id": "l22-fixed-31",
+    "gameId": "detective_math_mystery",
+    "type": "detective_math_mystery",
+    "prompt": "9 - 3 = ?",
+    "correctAnswer": 9,
+    "options": [
+      9,
+      14,
+      12,
+      5
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
+    "objectIcon2": "",
+    "targetCount": 9,
+    "targetCount2": 3,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
+  },
+  {
+    "id": "l22-fixed-32",
+    "gameId": "rhythm_math_dance",
+    "type": "rhythm_math_dance",
+    "prompt": "Có 7 quả bóng, lấy đi 7. Còn bao nhiêu?",
+    "correctAnswer": 14,
+    "options": [
+      12,
+      16,
+      11,
+      14
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "objectIcon2": "",
+    "targetCount": 14,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
+  },
+  {
+    "id": "l22-fixed-33",
+    "gameId": "magic_shop_math",
+    "type": "magic_shop_math",
+    "prompt": "8 - 4 = ?",
+    "correctAnswer": 8,
     "options": [
       3,
-      2,
-      1,
-      0
+      4,
+      11,
+      8
     ],
-    "objectIcon": "/icons/apple_icon.png",
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
     "objectIcon2": "",
-    "targetCount": 13,
-    "targetCount2": 12,
+    "targetCount": 8,
+    "targetCount2": 4,
     "renderMode": "subtraction",
-    "displayPrompt": null
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
+  },
+  {
+    "id": "l22-fixed-34",
+    "gameId": "detective_math_mystery",
+    "type": "detective_math_mystery",
+    "prompt": "Có 7 quả bóng, lấy đi 5. Còn bao nhiêu?",
+    "correctAnswer": 12,
+    "options": [
+      12,
+      17,
+      16,
+      10
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "objectIcon2": "",
+    "targetCount": 12,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
+  },
+  {
+    "id": "l22-fixed-35",
+    "gameId": "rhythm_math_dance",
+    "type": "rhythm_math_dance",
+    "prompt": "8 - 5 = ?",
+    "correctAnswer": 8,
+    "options": [
+      11,
+      8,
+      6,
+      9
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "objectIcon2": "",
+    "targetCount": 8,
+    "targetCount2": 5,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
+  },
+  {
+    "id": "l22-fixed-36",
+    "gameId": "magic_shop_math",
+    "type": "magic_shop_math",
+    "prompt": "9 - 8 = ?",
+    "correctAnswer": 9,
+    "options": [
+      10,
+      6,
+      9,
+      12
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "objectIcon2": "",
+    "targetCount": 9,
+    "targetCount2": 8,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
+  },
+  {
+    "id": "l22-fixed-37",
+    "gameId": "detective_math_mystery",
+    "type": "detective_math_mystery",
+    "prompt": "Có 7 quả bóng, lấy đi 1. Còn bao nhiêu?",
+    "correctAnswer": 8,
+    "options": [
+      7,
+      8,
+      11,
+      3
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "objectIcon2": "",
+    "targetCount": 8,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
+  },
+  {
+    "id": "l22-fixed-38",
+    "gameId": "rhythm_math_dance",
+    "type": "rhythm_math_dance",
+    "prompt": "Có 7 quả bóng, lấy đi 5. Còn bao nhiêu?",
+    "correctAnswer": 12,
+    "options": [
+      13,
+      15,
+      12,
+      9
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "objectIcon2": "",
+    "targetCount": 12,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
+  },
+  {
+    "id": "l22-fixed-39",
+    "gameId": "magic_shop_math",
+    "type": "magic_shop_math",
+    "prompt": "Có 9 ngôi sao, lấy đi 1. Còn bao nhiêu?",
+    "correctAnswer": 10,
+    "options": [
+      10,
+      14,
+      5,
+      7
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
+    "objectIcon2": "",
+    "targetCount": 10,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
+  },
+  {
+    "id": "l22-fixed-40",
+    "gameId": "detective_math_mystery",
+    "type": "detective_math_mystery",
+    "prompt": "Có 10 viên kim cương, lấy đi 7. Còn bao nhiêu?",
+    "correctAnswer": 17,
+    "options": [
+      17,
+      22,
+      14,
+      18
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "objectIcon2": "",
+    "targetCount": 17,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
+  },
+  {
+    "id": "l22-fixed-41",
+    "gameId": "rhythm_math_dance",
+    "type": "rhythm_math_dance",
+    "prompt": "9 - 5 = ?",
+    "correctAnswer": 9,
+    "options": [
+      12,
+      11,
+      6,
+      9
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
+    "objectIcon2": "",
+    "targetCount": 9,
+    "targetCount2": 5,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
+  },
+  {
+    "id": "l22-fixed-42",
+    "gameId": "magic_shop_math",
+    "type": "magic_shop_math",
+    "prompt": "Có 3 con mèo, lấy đi 3. Còn bao nhiêu?",
+    "correctAnswer": 6,
+    "options": [
+      10,
+      6,
+      11,
+      8
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "objectIcon2": "",
+    "targetCount": 6,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
+  },
+  {
+    "id": "l22-fixed-43",
+    "gameId": "detective_math_mystery",
+    "type": "detective_math_mystery",
+    "prompt": "Có 5 con thỏ, lấy đi 1. Còn bao nhiêu?",
+    "correctAnswer": 6,
+    "options": [
+      5,
+      6,
+      11,
+      10
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/rabbit.png",
+    "objectIcon2": "",
+    "targetCount": 6,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
+  },
+  {
+    "id": "l22-fixed-44",
+    "gameId": "rhythm_math_dance",
+    "type": "rhythm_math_dance",
+    "prompt": "Có 4 con mèo, lấy đi 3. Còn bao nhiêu?",
+    "correctAnswer": 7,
+    "options": [
+      9,
+      4,
+      7,
+      6
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "objectIcon2": "",
+    "targetCount": 7,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
+  },
+  {
+    "id": "l22-fixed-45",
+    "gameId": "magic_shop_math",
+    "type": "magic_shop_math",
+    "prompt": "Có 8 ngôi sao, lấy đi 3. Còn bao nhiêu?",
+    "correctAnswer": 11,
+    "options": [
+      11,
+      10,
+      8,
+      6
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
+    "objectIcon2": "",
+    "targetCount": 11,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
+  },
+  {
+    "id": "l22-fixed-46",
+    "gameId": "detective_math_mystery",
+    "type": "detective_math_mystery",
+    "prompt": "Có 8 con thỏ, lấy đi 3. Còn bao nhiêu?",
+    "correctAnswer": 11,
+    "options": [
+      11,
+      9,
+      12,
+      14
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/rabbit.png",
+    "objectIcon2": "",
+    "targetCount": 11,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
+  },
+  {
+    "id": "l22-fixed-47",
+    "gameId": "rhythm_math_dance",
+    "type": "rhythm_math_dance",
+    "prompt": "5 - 3 = ?",
+    "correctAnswer": 5,
+    "options": [
+      8,
+      5,
+      9,
+      7
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 3,
+    "renderMode": "subtraction",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
+  },
+  {
+    "id": "l22-fixed-48",
+    "gameId": "magic_shop_math",
+    "type": "magic_shop_math",
+    "prompt": "Có 9 quả táo, lấy đi 6. Còn bao nhiêu?",
+    "correctAnswer": 15,
+    "options": [
+      14,
+      15,
+      18,
+      10
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
+    "objectIcon2": "",
+    "targetCount": 15,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
+  },
+  {
+    "id": "l22-fixed-49",
+    "gameId": "detective_math_mystery",
+    "type": "detective_math_mystery",
+    "prompt": "Có 4 quả bóng, lấy đi 2. Còn bao nhiêu?",
+    "correctAnswer": 6,
+    "options": [
+      6,
+      1,
+      4,
+      8
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "objectIcon2": "",
+    "targetCount": 6,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
+  },
+  {
+    "id": "l22-fixed-50",
+    "gameId": "rhythm_math_dance",
+    "type": "rhythm_math_dance",
+    "prompt": "Có 10 viên kim cương, lấy đi 9. Còn bao nhiêu?",
+    "correctAnswer": 19,
+    "options": [
+      20,
+      14,
+      19,
+      22
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "objectIcon2": "",
+    "targetCount": 19,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
   }
 ]

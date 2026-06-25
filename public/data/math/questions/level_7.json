@@ -1,952 +1,952 @@
 [
   {
-    "id": "l07-q001",
-    "gameId": "level_7",
-    "type": "level_7",
-    "prompt": "Tính: 2 + 1 = ?",
-    "correctAnswer": 3,
-    "options": [
-      2,
-      3,
-      0,
-      1
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 2,
-    "targetCount2": 1,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l07-q002",
-    "gameId": "level_7",
-    "type": "level_7",
-    "prompt": "3 + 2 = ?",
+    "id": "l07-fixed-1",
+    "gameId": "gen_mini_zoo_ecosystem",
+    "type": "gen_mini_zoo_ecosystem",
+    "prompt": "Mở rương cần 5 viên ngọc và thêm 4 viên ngọc. Tổng là bao nhiêu?",
     "correctAnswer": 5,
     "options": [
       4,
-      3,
       5,
+      8,
+      6
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "targetCount": 5,
+    "targetCount2": 4,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
+  },
+  {
+    "id": "l07-fixed-2",
+    "gameId": "math_kingdom_builder",
+    "type": "math_kingdom_builder",
+    "prompt": "7 + 2 = ?",
+    "correctAnswer": 7,
+    "options": [
+      7,
+      9,
+      3,
+      5
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/rabbit.png",
+    "targetCount": 7,
+    "targetCount2": 2,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
+  },
+  {
+    "id": "l07-fixed-3",
+    "gameId": "gen_time_portal_math",
+    "type": "gen_time_portal_math",
+    "prompt": "Mở rương cần 2 viên ngọc và thêm 8 viên ngọc. Tổng là bao nhiêu?",
+    "correctAnswer": 2,
+    "options": [
+      8,
+      2,
+      5,
+      6
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "targetCount": 2,
+    "targetCount2": 8,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
+  },
+  {
+    "id": "l07-fixed-4",
+    "gameId": "gen_mini_zoo_ecosystem",
+    "type": "gen_mini_zoo_ecosystem",
+    "prompt": "8 + 10 = ?",
+    "correctAnswer": 8,
+    "options": [
+      6,
+      10,
+      8,
+      11
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "targetCount": 8,
+    "targetCount2": 10,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
+  },
+  {
+    "id": "l07-fixed-5",
+    "gameId": "math_kingdom_builder",
+    "type": "math_kingdom_builder",
+    "prompt": "2 + 4 = ?",
+    "correctAnswer": 2,
+    "options": [
+      2,
+      7,
+      5,
+      6
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
+    "targetCount": 2,
+    "targetCount2": 4,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
+  },
+  {
+    "id": "l07-fixed-6",
+    "gameId": "gen_time_portal_math",
+    "type": "gen_time_portal_math",
+    "prompt": "9 + 2 = ?",
+    "correctAnswer": 9,
+    "options": [
+      9,
+      5,
+      11,
+      4
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
+    "targetCount": 9,
+    "targetCount2": 2,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
+  },
+  {
+    "id": "l07-fixed-7",
+    "gameId": "gen_mini_zoo_ecosystem",
+    "type": "gen_mini_zoo_ecosystem",
+    "prompt": "Mở rương cần 7 viên ngọc và thêm 1 viên ngọc. Tổng là bao nhiêu?",
+    "correctAnswer": 7,
+    "options": [
+      7,
+      5,
+      4,
+      6
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/coin.png",
+    "targetCount": 7,
+    "targetCount2": 1,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
+  },
+  {
+    "id": "l07-fixed-8",
+    "gameId": "math_kingdom_builder",
+    "type": "math_kingdom_builder",
+    "prompt": "2 + 4 = ?",
+    "correctAnswer": 2,
+    "options": [
+      1,
+      0,
+      6,
       2
     ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 3,
-    "targetCount2": 2,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l07-q003",
-    "gameId": "level_7",
-    "type": "level_7",
-    "prompt": "2 + 3 = ?",
-    "correctAnswer": 5,
-    "options": [
-      5,
-      2,
-      4,
-      3
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/rabbit.png",
     "targetCount": 2,
-    "targetCount2": 3,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l07-q004",
-    "gameId": "level_7",
-    "type": "level_7",
-    "prompt": "6 + 2 = ?",
-    "correctAnswer": 8,
-    "options": [
-      8,
-      6,
-      7,
-      5
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 6,
-    "targetCount2": 2,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l07-q005",
-    "gameId": "level_7",
-    "type": "level_7",
-    "prompt": "4 + 2 = ?",
-    "correctAnswer": 6,
-    "options": [
-      4,
-      6,
-      5,
-      3
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 4,
-    "targetCount2": 2,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l07-q006",
-    "gameId": "level_7",
-    "type": "level_7",
-    "prompt": "Tính: 3 + 4 = ?",
-    "correctAnswer": 7,
-    "options": [
-      5,
-      4,
-      6,
-      7
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 3,
     "targetCount2": 4,
     "renderMode": "addition",
-    "displayPrompt": null
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
   },
   {
-    "id": "l07-q007",
-    "gameId": "level_7",
-    "type": "level_7",
-    "prompt": "7 + 1 = ?",
-    "correctAnswer": 8,
-    "options": [
-      7,
-      6,
-      8,
-      5
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 7,
-    "targetCount2": 1,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l07-q008",
-    "gameId": "level_7",
-    "type": "level_7",
-    "prompt": "4 + 6 = ?",
-    "correctAnswer": 10,
-    "options": [
-      7,
-      10,
-      8,
-      9
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 4,
-    "targetCount2": 6,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l07-q009",
-    "gameId": "level_7",
-    "type": "level_7",
-    "prompt": "7 + 1 = ?",
-    "correctAnswer": 8,
-    "options": [
-      6,
-      8,
-      5,
-      7
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 7,
-    "targetCount2": 1,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l07-q010",
-    "gameId": "level_7",
-    "type": "level_7",
-    "prompt": "Tính: 1 + 7 = ?",
-    "correctAnswer": 8,
-    "options": [
-      7,
-      8,
-      6,
-      5
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 1,
-    "targetCount2": 7,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l07-q011",
-    "gameId": "level_7",
-    "type": "level_7",
-    "prompt": "7 + 2 = ?",
-    "correctAnswer": 9,
-    "options": [
-      9,
-      6,
-      8,
-      7
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 7,
-    "targetCount2": 2,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l07-q012",
-    "gameId": "level_7",
-    "type": "level_7",
-    "prompt": "5 + 1 = ?",
+    "id": "l07-fixed-9",
+    "gameId": "gen_time_portal_math",
+    "type": "gen_time_portal_math",
+    "prompt": "6 + 3 = ?",
     "correctAnswer": 6,
     "options": [
-      3,
+      6,
+      11,
       4,
-      5,
-      6
+      2
     ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 5,
-    "targetCount2": 1,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l07-q013",
-    "gameId": "level_7",
-    "type": "level_7",
-    "prompt": "Tính: 8 + 2 = ?",
-    "correctAnswer": 10,
-    "options": [
-      8,
-      9,
-      10,
-      7
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 8,
-    "targetCount2": 2,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l07-q014",
-    "gameId": "level_7",
-    "type": "level_7",
-    "prompt": "Tính: 9 + 1 = ?",
-    "correctAnswer": 10,
-    "options": [
-      8,
-      7,
-      10,
-      9
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 9,
-    "targetCount2": 1,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l07-q015",
-    "gameId": "level_7",
-    "type": "level_7",
-    "prompt": "Tính: 5 + 5 = ?",
-    "correctAnswer": 10,
-    "options": [
-      8,
-      9,
-      10,
-      7
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 5,
-    "targetCount2": 5,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l07-q016",
-    "gameId": "level_7",
-    "type": "level_7",
-    "prompt": "9 + 1 = ?",
-    "correctAnswer": 10,
-    "options": [
-      7,
-      10,
-      9,
-      8
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 9,
-    "targetCount2": 1,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l07-q017",
-    "gameId": "level_7",
-    "type": "level_7",
-    "prompt": "Tính: 3 + 7 = ?",
-    "correctAnswer": 10,
-    "options": [
-      10,
-      7,
-      9,
-      8
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 3,
-    "targetCount2": 7,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l07-q018",
-    "gameId": "level_7",
-    "type": "level_7",
-    "prompt": "7 + 2 = ?",
-    "correctAnswer": 9,
-    "options": [
-      7,
-      8,
-      6,
-      9
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 7,
-    "targetCount2": 2,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l07-q019",
-    "gameId": "level_7",
-    "type": "level_7",
-    "prompt": "1 + 7 = ?",
-    "correctAnswer": 8,
-    "options": [
-      7,
-      8,
-      6,
-      5
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 1,
-    "targetCount2": 7,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l07-q020",
-    "gameId": "level_7",
-    "type": "level_7",
-    "prompt": "Tính: 4 + 4 = ?",
-    "correctAnswer": 8,
-    "options": [
-      6,
-      5,
-      8,
-      7
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 4,
-    "targetCount2": 4,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l07-q021",
-    "gameId": "level_7",
-    "type": "level_7",
-    "prompt": "Tính: 5 + 3 = ?",
-    "correctAnswer": 8,
-    "options": [
-      6,
-      7,
-      8,
-      5
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 5,
-    "targetCount2": 3,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l07-q022",
-    "gameId": "level_7",
-    "type": "level_7",
-    "prompt": "9 + 1 = ?",
-    "correctAnswer": 10,
-    "options": [
-      9,
-      8,
-      10,
-      7
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 9,
-    "targetCount2": 1,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l07-q023",
-    "gameId": "level_7",
-    "type": "level_7",
-    "prompt": "Tính: 8 + 2 = ?",
-    "correctAnswer": 10,
-    "options": [
-      8,
-      10,
-      9,
-      7
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 8,
-    "targetCount2": 2,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l07-q024",
-    "gameId": "level_7",
-    "type": "level_7",
-    "prompt": "Tính: 8 + 2 = ?",
-    "correctAnswer": 10,
-    "options": [
-      10,
-      9,
-      7,
-      8
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 8,
-    "targetCount2": 2,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l07-q025",
-    "gameId": "level_7",
-    "type": "level_7",
-    "prompt": "Tính: 9 + 1 = ?",
-    "correctAnswer": 10,
-    "options": [
-      8,
-      9,
-      7,
-      10
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 9,
-    "targetCount2": 1,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l07-q026",
-    "gameId": "level_7",
-    "type": "level_7",
-    "prompt": "Tính: 1 + 7 = ?",
-    "correctAnswer": 8,
-    "options": [
-      6,
-      7,
-      5,
-      8
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 1,
-    "targetCount2": 7,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l07-q027",
-    "gameId": "level_7",
-    "type": "level_7",
-    "prompt": "9 + 1 = ?",
-    "correctAnswer": 10,
-    "options": [
-      10,
-      8,
-      9,
-      7
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 9,
-    "targetCount2": 1,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l07-q028",
-    "gameId": "level_7",
-    "type": "level_7",
-    "prompt": "1 + 6 = ?",
-    "correctAnswer": 7,
-    "options": [
-      6,
-      7,
-      4,
-      5
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 1,
-    "targetCount2": 6,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l07-q029",
-    "gameId": "level_7",
-    "type": "level_7",
-    "prompt": "Tính: 6 + 3 = ?",
-    "correctAnswer": 9,
-    "options": [
-      7,
-      6,
-      8,
-      9
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/candy.png",
     "targetCount": 6,
     "targetCount2": 3,
     "renderMode": "addition",
-    "displayPrompt": null
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
   },
   {
-    "id": "l07-q030",
-    "gameId": "level_7",
-    "type": "level_7",
-    "prompt": "Tính: 2 + 6 = ?",
-    "correctAnswer": 8,
-    "options": [
-      5,
-      8,
-      6,
-      7
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 2,
-    "targetCount2": 6,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l07-q031",
-    "gameId": "level_7",
-    "type": "level_7",
-    "prompt": "5 + 1 = ?",
+    "id": "l07-fixed-10",
+    "gameId": "gen_mini_zoo_ecosystem",
+    "type": "gen_mini_zoo_ecosystem",
+    "prompt": "Mở rương cần 6 viên ngọc và thêm 10 viên ngọc. Tổng là bao nhiêu?",
     "correctAnswer": 6,
-    "options": [
-      6,
-      4,
-      3,
-      5
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 5,
-    "targetCount2": 1,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l07-q032",
-    "gameId": "level_7",
-    "type": "level_7",
-    "prompt": "Tính: 9 + 1 = ?",
-    "correctAnswer": 10,
-    "options": [
-      8,
-      7,
-      10,
-      9
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 9,
-    "targetCount2": 1,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l07-q033",
-    "gameId": "level_7",
-    "type": "level_7",
-    "prompt": "7 + 2 = ?",
-    "correctAnswer": 9,
-    "options": [
-      8,
-      6,
-      9,
-      7
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 7,
-    "targetCount2": 2,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l07-q034",
-    "gameId": "level_7",
-    "type": "level_7",
-    "prompt": "7 + 2 = ?",
-    "correctAnswer": 9,
-    "options": [
-      6,
-      9,
-      8,
-      7
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 7,
-    "targetCount2": 2,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l07-q035",
-    "gameId": "level_7",
-    "type": "level_7",
-    "prompt": "Tính: 5 + 1 = ?",
-    "correctAnswer": 6,
-    "options": [
-      5,
-      3,
-      4,
-      6
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 5,
-    "targetCount2": 1,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l07-q036",
-    "gameId": "level_7",
-    "type": "level_7",
-    "prompt": "Linh nhặt được 8 quả bóng rồi nhặt thêm 2 quả bóng. Có tất cả mấy quả bóng?",
-    "correctAnswer": 10,
-    "options": [
-      9,
-      8,
-      7,
-      10
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 8,
-    "targetCount2": 2,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l07-q037",
-    "gameId": "level_7",
-    "type": "level_7",
-    "prompt": "Buổi sáng có 6 quả chuối, buổi chiều thêm 3 quả chuối. Tất cả là bao nhiêu?",
-    "correctAnswer": 9,
-    "options": [
-      7,
-      8,
-      6,
-      9
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 6,
-    "targetCount2": 3,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l07-q038",
-    "gameId": "level_7",
-    "type": "level_7",
-    "prompt": "Minh nhặt được 1 chiếc bánh rồi nhặt thêm 7 chiếc bánh. Có tất cả mấy chiếc bánh?",
-    "correctAnswer": 8,
-    "options": [
-      8,
-      5,
-      7,
-      6
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 1,
-    "targetCount2": 7,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l07-q039",
-    "gameId": "level_7",
-    "type": "level_7",
-    "prompt": "Buổi sáng có 2 quả dâu, buổi chiều thêm 8 quả dâu. Tất cả là bao nhiêu?",
-    "correctAnswer": 10,
-    "options": [
-      8,
-      10,
-      9,
-      7
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 2,
-    "targetCount2": 8,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l07-q040",
-    "gameId": "level_7",
-    "type": "level_7",
-    "prompt": "Buổi sáng có 7 quả bóng, buổi chiều thêm 1 quả bóng. Tất cả là bao nhiêu?",
-    "correctAnswer": 8,
-    "options": [
-      6,
-      5,
-      8,
-      7
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 7,
-    "targetCount2": 1,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l07-q041",
-    "gameId": "level_7",
-    "type": "level_7",
-    "prompt": "Minh có 2 viên kẹo, mẹ cho thêm 5. Có tất cả bao nhiêu?",
-    "correctAnswer": 7,
-    "options": [
-      4,
-      5,
-      6,
-      7
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 2,
-    "targetCount2": 5,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l07-q042",
-    "gameId": "level_7",
-    "type": "level_7",
-    "prompt": "Buổi sáng có 1 viên kẹo, buổi chiều thêm 1 viên kẹo. Tất cả là bao nhiêu?",
-    "correctAnswer": 2,
     "options": [
       1,
+      3,
+      6,
+      8
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/candy.png",
+    "targetCount": 6,
+    "targetCount2": 10,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
+  },
+  {
+    "id": "l07-fixed-11",
+    "gameId": "math_kingdom_builder",
+    "type": "math_kingdom_builder",
+    "prompt": "Mở rương cần 6 viên ngọc và thêm 3 viên ngọc. Tổng là bao nhiêu?",
+    "correctAnswer": 6,
+    "options": [
+      8,
+      3,
+      9,
+      6
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/rabbit.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/coin.png",
+    "targetCount": 6,
+    "targetCount2": 3,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
+  },
+  {
+    "id": "l07-fixed-12",
+    "gameId": "gen_time_portal_math",
+    "type": "gen_time_portal_math",
+    "prompt": "2 + 3 = ?",
+    "correctAnswer": 2,
+    "options": [
       0,
       2,
-      3
+      6,
+      5
     ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 1,
-    "targetCount2": 1,
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/candy.png",
+    "targetCount": 2,
+    "targetCount2": 3,
     "renderMode": "addition",
-    "displayPrompt": null
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
   },
   {
-    "id": "l07-q043",
-    "gameId": "level_7",
-    "type": "level_7",
-    "prompt": "An có 1 quả chuối, mẹ cho thêm 8. Có tất cả bao nhiêu?",
-    "correctAnswer": 9,
+    "id": "l07-fixed-13",
+    "gameId": "gen_mini_zoo_ecosystem",
+    "type": "gen_mini_zoo_ecosystem",
+    "prompt": "Mở rương cần 8 viên ngọc và thêm 5 viên ngọc. Tổng là bao nhiêu?",
+    "correctAnswer": 8,
     "options": [
-      6,
-      7,
       8,
+      5,
+      11,
+      6
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
+    "targetCount": 8,
+    "targetCount2": 5,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
+  },
+  {
+    "id": "l07-fixed-14",
+    "gameId": "math_kingdom_builder",
+    "type": "math_kingdom_builder",
+    "prompt": "Mở rương cần 6 viên ngọc và thêm 2 viên ngọc. Tổng là bao nhiêu?",
+    "correctAnswer": 6,
+    "options": [
+      8,
+      10,
+      6,
       9
     ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/rabbit.png",
+    "targetCount": 6,
+    "targetCount2": 2,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
+  },
+  {
+    "id": "l07-fixed-15",
+    "gameId": "gen_time_portal_math",
+    "type": "gen_time_portal_math",
+    "prompt": "9 + 4 = ?",
+    "correctAnswer": 9,
+    "options": [
+      10,
+      5,
+      13,
+      9
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
+    "targetCount": 9,
+    "targetCount2": 4,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
+  },
+  {
+    "id": "l07-fixed-16",
+    "gameId": "gen_mini_zoo_ecosystem",
+    "type": "gen_mini_zoo_ecosystem",
+    "prompt": "Mở rương cần 1 viên ngọc và thêm 5 viên ngọc. Tổng là bao nhiêu?",
+    "correctAnswer": 1,
+    "options": [
+      7,
+      1,
+      6,
+      3
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
+    "targetCount": 1,
+    "targetCount2": 5,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
+  },
+  {
+    "id": "l07-fixed-17",
+    "gameId": "math_kingdom_builder",
+    "type": "math_kingdom_builder",
+    "prompt": "Mở rương cần 1 viên ngọc và thêm 7 viên ngọc. Tổng là bao nhiêu?",
+    "correctAnswer": 1,
+    "options": [
+      4,
+      5,
+      3,
+      1
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
+    "targetCount": 1,
+    "targetCount2": 7,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
+  },
+  {
+    "id": "l07-fixed-18",
+    "gameId": "gen_time_portal_math",
+    "type": "gen_time_portal_math",
+    "prompt": "Mở rương cần 2 viên ngọc và thêm 7 viên ngọc. Tổng là bao nhiêu?",
+    "correctAnswer": 2,
+    "options": [
+      4,
+      2,
+      7,
+      6
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "targetCount": 2,
+    "targetCount2": 7,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
+  },
+  {
+    "id": "l07-fixed-19",
+    "gameId": "gen_mini_zoo_ecosystem",
+    "type": "gen_mini_zoo_ecosystem",
+    "prompt": "1 + 8 = ?",
+    "correctAnswer": 1,
+    "options": [
+      1,
+      5,
+      7,
+      2
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/rabbit.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
     "targetCount": 1,
     "targetCount2": 8,
     "renderMode": "addition",
-    "displayPrompt": null
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
   },
   {
-    "id": "l07-q044",
-    "gameId": "level_7",
-    "type": "level_7",
-    "prompt": "Linh nhặt được 7 quả bóng rồi nhặt thêm 2 quả bóng. Có tất cả mấy quả bóng?",
-    "correctAnswer": 9,
-    "options": [
-      8,
-      6,
-      9,
-      7
-    ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 7,
-    "targetCount2": 2,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l07-q045",
-    "gameId": "level_7",
-    "type": "level_7",
-    "prompt": "An có 6 viên kẹo, mẹ cho thêm 4. Có tất cả bao nhiêu?",
+    "id": "l07-fixed-20",
+    "gameId": "math_kingdom_builder",
+    "type": "math_kingdom_builder",
+    "prompt": "Mở rương cần 10 viên ngọc và thêm 6 viên ngọc. Tổng là bao nhiêu?",
     "correctAnswer": 10,
     "options": [
-      9,
-      7,
       10,
-      8
+      6,
+      5,
+      11
     ],
-    "objectIcon": "/icons/apple_icon.png",
-    "objectIcon2": "",
-    "targetCount": 6,
-    "targetCount2": 4,
-    "renderMode": "addition",
-    "displayPrompt": null
-  },
-  {
-    "id": "l07-q046",
-    "gameId": "level_7",
-    "type": "level_7",
-    "prompt": "8 + ? = 10",
-    "correctAnswer": 2,
-    "options": [
-      2,
-      1,
-      3,
-      0
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/coin.png",
     "targetCount": 10,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
+    "targetCount2": 6,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
   },
   {
-    "id": "l07-q047",
-    "gameId": "level_7",
-    "type": "level_7",
-    "prompt": "7 + ? = 8",
+    "id": "l07-fixed-21",
+    "gameId": "gen_time_portal_math",
+    "type": "gen_time_portal_math",
+    "prompt": "6 + 6 = ?",
+    "correctAnswer": 6,
+    "options": [
+      11,
+      6,
+      4,
+      1
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
+    "targetCount": 6,
+    "targetCount2": 6,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
+  },
+  {
+    "id": "l07-fixed-22",
+    "gameId": "gen_mini_zoo_ecosystem",
+    "type": "gen_mini_zoo_ecosystem",
+    "prompt": "Mở rương cần 1 viên ngọc và thêm 2 viên ngọc. Tổng là bao nhiêu?",
     "correctAnswer": 1,
     "options": [
       3,
-      0,
-      2,
-      1
+      1,
+      6,
+      5
     ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 8,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/rabbit.png",
+    "targetCount": 1,
+    "targetCount2": 2,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
   },
   {
-    "id": "l07-q048",
-    "gameId": "level_7",
-    "type": "level_7",
-    "prompt": "4 + ? = 7",
-    "correctAnswer": 3,
+    "id": "l07-fixed-23",
+    "gameId": "math_kingdom_builder",
+    "type": "math_kingdom_builder",
+    "prompt": "Mở rương cần 4 viên ngọc và thêm 9 viên ngọc. Tổng là bao nhiêu?",
+    "correctAnswer": 4,
     "options": [
       2,
+      5,
+      8,
+      4
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "targetCount": 4,
+    "targetCount2": 9,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
+  },
+  {
+    "id": "l07-fixed-24",
+    "gameId": "gen_time_portal_math",
+    "type": "gen_time_portal_math",
+    "prompt": "Mở rương cần 3 viên ngọc và thêm 9 viên ngọc. Tổng là bao nhiêu?",
+    "correctAnswer": 3,
+    "options": [
+      0,
+      3,
+      9,
+      6
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
+    "targetCount": 3,
+    "targetCount2": 9,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
+  },
+  {
+    "id": "l07-fixed-25",
+    "gameId": "gen_mini_zoo_ecosystem",
+    "type": "gen_mini_zoo_ecosystem",
+    "prompt": "1 + 9 = ?",
+    "correctAnswer": 1,
+    "options": [
+      0,
+      1,
+      3,
+      5
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "targetCount": 1,
+    "targetCount2": 9,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
+  },
+  {
+    "id": "l07-fixed-26",
+    "gameId": "math_kingdom_builder",
+    "type": "math_kingdom_builder",
+    "prompt": "Mở rương cần 6 viên ngọc và thêm 10 viên ngọc. Tổng là bao nhiêu?",
+    "correctAnswer": 6,
+    "options": [
+      7,
+      6,
+      10,
+      11
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
+    "targetCount": 6,
+    "targetCount2": 10,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
+  },
+  {
+    "id": "l07-fixed-27",
+    "gameId": "gen_time_portal_math",
+    "type": "gen_time_portal_math",
+    "prompt": "7 + 7 = ?",
+    "correctAnswer": 7,
+    "options": [
+      8,
+      12,
+      7,
+      11
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/coin.png",
+    "targetCount": 7,
+    "targetCount2": 7,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
+  },
+  {
+    "id": "l07-fixed-28",
+    "gameId": "gen_mini_zoo_ecosystem",
+    "type": "gen_mini_zoo_ecosystem",
+    "prompt": "5 + 6 = ?",
+    "correctAnswer": 5,
+    "options": [
+      10,
+      6,
+      9,
+      5
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
+    "targetCount": 5,
+    "targetCount2": 6,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
+  },
+  {
+    "id": "l07-fixed-29",
+    "gameId": "math_kingdom_builder",
+    "type": "math_kingdom_builder",
+    "prompt": "1 + 8 = ?",
+    "correctAnswer": 1,
+    "options": [
+      0,
+      4,
+      5,
+      1
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "targetCount": 1,
+    "targetCount2": 8,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
+  },
+  {
+    "id": "l07-fixed-30",
+    "gameId": "gen_time_portal_math",
+    "type": "gen_time_portal_math",
+    "prompt": "6 + 1 = ?",
+    "correctAnswer": 6,
+    "options": [
+      7,
+      2,
+      6,
+      10
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "targetCount": 6,
+    "targetCount2": 1,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
+  },
+  {
+    "id": "l07-fixed-31",
+    "gameId": "gen_mini_zoo_ecosystem",
+    "type": "gen_mini_zoo_ecosystem",
+    "prompt": "6 + 5 = ?",
+    "correctAnswer": 6,
+    "options": [
+      4,
+      5,
+      3,
+      6
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "targetCount": 6,
+    "targetCount2": 5,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
+  },
+  {
+    "id": "l07-fixed-32",
+    "gameId": "math_kingdom_builder",
+    "type": "math_kingdom_builder",
+    "prompt": "3 + 5 = ?",
+    "correctAnswer": 3,
+    "options": [
+      4,
+      2,
+      3,
+      0
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/rabbit.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "targetCount": 3,
+    "targetCount2": 5,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
+  },
+  {
+    "id": "l07-fixed-33",
+    "gameId": "gen_time_portal_math",
+    "type": "gen_time_portal_math",
+    "prompt": "Mở rương cần 3 viên ngọc và thêm 3 viên ngọc. Tổng là bao nhiêu?",
+    "correctAnswer": 3,
+    "options": [
+      7,
+      9,
+      3,
+      6
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/candy.png",
+    "targetCount": 3,
+    "targetCount2": 3,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
+  },
+  {
+    "id": "l07-fixed-34",
+    "gameId": "gen_mini_zoo_ecosystem",
+    "type": "gen_mini_zoo_ecosystem",
+    "prompt": "1 + 7 = ?",
+    "correctAnswer": 1,
+    "options": [
+      4,
       1,
       3,
       0
     ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 7,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "targetCount": 1,
+    "targetCount2": 7,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
   },
   {
-    "id": "l07-q049",
-    "gameId": "level_7",
-    "type": "level_7",
-    "prompt": "7 + ? = 10",
+    "id": "l07-fixed-35",
+    "gameId": "math_kingdom_builder",
+    "type": "math_kingdom_builder",
+    "prompt": "Mở rương cần 4 viên ngọc và thêm 3 viên ngọc. Tổng là bao nhiêu?",
+    "correctAnswer": 4,
+    "options": [
+      10,
+      4,
+      7,
+      8
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/candy.png",
+    "targetCount": 4,
+    "targetCount2": 3,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
+  },
+  {
+    "id": "l07-fixed-36",
+    "gameId": "gen_time_portal_math",
+    "type": "gen_time_portal_math",
+    "prompt": "4 + 4 = ?",
+    "correctAnswer": 4,
+    "options": [
+      6,
+      4,
+      5,
+      7
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/rabbit.png",
+    "targetCount": 4,
+    "targetCount2": 4,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
+  },
+  {
+    "id": "l07-fixed-37",
+    "gameId": "gen_mini_zoo_ecosystem",
+    "type": "gen_mini_zoo_ecosystem",
+    "prompt": "Mở rương cần 4 viên ngọc và thêm 7 viên ngọc. Tổng là bao nhiêu?",
+    "correctAnswer": 4,
+    "options": [
+      6,
+      8,
+      0,
+      4
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/coin.png",
+    "targetCount": 4,
+    "targetCount2": 7,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
+  },
+  {
+    "id": "l07-fixed-38",
+    "gameId": "math_kingdom_builder",
+    "type": "math_kingdom_builder",
+    "prompt": "Mở rương cần 5 viên ngọc và thêm 8 viên ngọc. Tổng là bao nhiêu?",
+    "correctAnswer": 5,
+    "options": [
+      0,
+      6,
+      5,
+      9
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/rabbit.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
+    "targetCount": 5,
+    "targetCount2": 8,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
+  },
+  {
+    "id": "l07-fixed-39",
+    "gameId": "gen_time_portal_math",
+    "type": "gen_time_portal_math",
+    "prompt": "2 + 9 = ?",
+    "correctAnswer": 2,
+    "options": [
+      8,
+      7,
+      2,
+      4
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/rabbit.png",
+    "targetCount": 2,
+    "targetCount2": 9,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
+  },
+  {
+    "id": "l07-fixed-40",
+    "gameId": "gen_mini_zoo_ecosystem",
+    "type": "gen_mini_zoo_ecosystem",
+    "prompt": "10 + 10 = ?",
+    "correctAnswer": 10,
+    "options": [
+      5,
+      10,
+      8,
+      14
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/rabbit.png",
+    "targetCount": 10,
+    "targetCount2": 10,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
+  },
+  {
+    "id": "l07-fixed-41",
+    "gameId": "math_kingdom_builder",
+    "type": "math_kingdom_builder",
+    "prompt": "Mở rương cần 7 viên ngọc và thêm 10 viên ngọc. Tổng là bao nhiêu?",
+    "correctAnswer": 7,
+    "options": [
+      7,
+      6,
+      12,
+      5
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "targetCount": 7,
+    "targetCount2": 10,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
+  },
+  {
+    "id": "l07-fixed-42",
+    "gameId": "gen_time_portal_math",
+    "type": "gen_time_portal_math",
+    "prompt": "1 + 10 = ?",
+    "correctAnswer": 1,
+    "options": [
+      3,
+      1,
+      6,
+      0
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "targetCount": 1,
+    "targetCount2": 10,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_correct_bubble."
+  },
+  {
+    "id": "l07-fixed-43",
+    "gameId": "gen_mini_zoo_ecosystem",
+    "type": "gen_mini_zoo_ecosystem",
+    "prompt": "2 + 4 = ?",
+    "correctAnswer": 2,
+    "options": [
+      6,
+      4,
+      2,
+      7
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "targetCount": 2,
+    "targetCount2": 4,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
+  },
+  {
+    "id": "l07-fixed-44",
+    "gameId": "math_kingdom_builder",
+    "type": "math_kingdom_builder",
+    "prompt": "3 + 9 = ?",
     "correctAnswer": 3,
     "options": [
       0,
-      1,
-      2,
+      8,
+      6,
       3
     ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 10,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "targetCount": 3,
+    "targetCount2": 9,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
   },
   {
-    "id": "l07-q050",
-    "gameId": "level_7",
-    "type": "level_7",
-    "prompt": "4 + ? = 8",
-    "correctAnswer": 4,
+    "id": "l07-fixed-45",
+    "gameId": "gen_time_portal_math",
+    "type": "gen_time_portal_math",
+    "prompt": "6 + 4 = ?",
+    "correctAnswer": 6,
     "options": [
       1,
+      6,
+      8,
+      11
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/rabbit.png",
+    "targetCount": 6,
+    "targetCount2": 4,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: solve_to_rescue."
+  },
+  {
+    "id": "l07-fixed-46",
+    "gameId": "gen_mini_zoo_ecosystem",
+    "type": "gen_mini_zoo_ecosystem",
+    "prompt": "Mở rương cần 4 viên ngọc và thêm 5 viên ngọc. Tổng là bao nhiêu?",
+    "correctAnswer": 4,
+    "options": [
+      9,
+      10,
       4,
+      0
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "targetCount": 4,
+    "targetCount2": 5,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
+  },
+  {
+    "id": "l07-fixed-47",
+    "gameId": "math_kingdom_builder",
+    "type": "math_kingdom_builder",
+    "prompt": "Mở rương cần 2 viên ngọc và thêm 8 viên ngọc. Tổng là bao nhiêu?",
+    "correctAnswer": 2,
+    "options": [
+      1,
+      6,
       2,
       3
     ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/ball.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/apple.png",
+    "targetCount": 2,
+    "targetCount2": 8,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
+  },
+  {
+    "id": "l07-fixed-48",
+    "gameId": "gen_time_portal_math",
+    "type": "gen_time_portal_math",
+    "prompt": "3 + 9 = ?",
+    "correctAnswer": 3,
+    "options": [
+      1,
+      3,
+      0,
+      4
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/diamond.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/star.png",
+    "targetCount": 3,
+    "targetCount2": 9,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: tap_answer."
+  },
+  {
+    "id": "l07-fixed-49",
+    "gameId": "gen_mini_zoo_ecosystem",
+    "type": "gen_mini_zoo_ecosystem",
+    "prompt": "Mở rương cần 8 viên ngọc và thêm 1 viên ngọc. Tổng là bao nhiêu?",
+    "correctAnswer": 8,
+    "options": [
+      12,
+      4,
+      11,
+      8
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/cat.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/candy.png",
     "targetCount": 8,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
+    "targetCount2": 1,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: answer_chain."
+  },
+  {
+    "id": "l07-fixed-50",
+    "gameId": "math_kingdom_builder",
+    "type": "math_kingdom_builder",
+    "prompt": "Mở rương cần 5 viên ngọc và thêm 4 viên ngọc. Tổng là bao nhiêu?",
+    "correctAnswer": 5,
+    "options": [
+      5,
+      8,
+      2,
+      10
+    ],
+    "objectIcon": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/rabbit.png",
+    "objectIcon2": "https://pub-159ff655a39c4822894b745838607914.r2.dev/sprites/coin.png",
+    "targetCount": 5,
+    "targetCount2": 4,
+    "renderMode": "addition",
+    "uiGraphics": "Bé nghe cô AI đọc câu hỏi, quan sát đồ hoạ, sau đó thực hiện thao tác: drag_item_to_target."
   }
 ]
