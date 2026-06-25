@@ -96,13 +96,14 @@ const syncToSupabase = async (
     if (!session) return;
 
     // Fetch existing progress for this level (to compute star delta, avoid double-counting)
+    // maybeSingle() returns null (not error) when no row exists yet
     const { data: existing } = await supabase
       .from("level_progress")
       .select("stars, score")
       .eq("child_id", childId)
       .eq("subject", subject)
       .eq("level_id", levelId)
-      .single();
+      .maybeSingle();
 
     const prevStars = existing?.stars ?? 0;
     const prevScore = existing?.score ?? -1;
