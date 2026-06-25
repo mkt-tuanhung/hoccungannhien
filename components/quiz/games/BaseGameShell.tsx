@@ -45,13 +45,7 @@ export default function BaseGameShell({ question, onAnswer, showObjects = true, 
   const firedRef = useRef(false);
   const themedIcon = objects && objects.length ? pickFrom(objects, question.id) : g.objectIcon;
 
-  // Prompt khớp số đếm thật cho phép cộng/trừ (vá data JSON ghi lệch)
-  const displayPrompt =
-    g.renderMode === "addition"
-      ? `${g.targetCount} + ${g.targetCount2 || 0} = ?`
-      : g.renderMode === "subtraction"
-      ? `${g.targetCount} - ${g.targetCount2 || 0} = ?`
-      : g.prompt;
+  const displayPrompt = g.prompt;
 
   const speak = () => playTTSAudio(toSpeechText(displayPrompt), () => {});
 

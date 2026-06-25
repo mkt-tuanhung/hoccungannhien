@@ -3,17 +3,17 @@
     "id": "l23-q001",
     "gameId": "level_23",
     "type": "level_23",
-    "prompt": "17 + ? = 18",
-    "correctAnswer": 1,
+    "prompt": "5 + ? = 9",
+    "correctAnswer": 4,
     "options": [
-      1,
+      4,
       2,
-      0,
-      3
+      3,
+      1
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
-    "targetCount": 18,
+    "targetCount": 9,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
@@ -22,17 +22,17 @@
     "id": "l23-q002",
     "gameId": "level_23",
     "type": "level_23",
-    "prompt": "11 + ? = 12",
+    "prompt": "19 + ? = 20",
     "correctAnswer": 1,
     "options": [
-      3,
+      2,
       1,
       0,
-      2
+      3
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
-    "targetCount": 12,
+    "targetCount": 20,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
@@ -41,17 +41,17 @@
     "id": "l23-q003",
     "gameId": "level_23",
     "type": "level_23",
-    "prompt": "18 + ? = 19",
+    "prompt": "19 + ? = 20",
     "correctAnswer": 1,
     "options": [
-      1,
-      2,
       3,
-      0
+      2,
+      0,
+      1
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
-    "targetCount": 19,
+    "targetCount": 20,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
@@ -60,51 +60,13 @@
     "id": "l23-q004",
     "gameId": "level_23",
     "type": "level_23",
-    "prompt": "7 + ? = 11",
-    "correctAnswer": 4,
-    "options": [
-      1,
-      4,
-      3,
-      2
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 11,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l23-q005",
-    "gameId": "level_23",
-    "type": "level_23",
-    "prompt": "14 + ? = 15",
+    "prompt": "16 + ? = 17",
     "correctAnswer": 1,
     "options": [
-      2,
-      0,
       1,
-      3
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 15,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l23-q006",
-    "gameId": "level_23",
-    "type": "level_23",
-    "prompt": "10 + ? = 17",
-    "correctAnswer": 7,
-    "options": [
-      6,
-      4,
-      5,
-      7
+      3,
+      0,
+      2
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
@@ -114,16 +76,54 @@
     "displayPrompt": null
   },
   {
+    "id": "l23-q005",
+    "gameId": "level_23",
+    "type": "level_23",
+    "prompt": "12 + ? = 19",
+    "correctAnswer": 7,
+    "options": [
+      5,
+      4,
+      7,
+      6
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 19,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l23-q006",
+    "gameId": "level_23",
+    "type": "level_23",
+    "prompt": "13 + ? = 18",
+    "correctAnswer": 5,
+    "options": [
+      4,
+      2,
+      3,
+      5
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 18,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
     "id": "l23-q007",
     "gameId": "level_23",
     "type": "level_23",
-    "prompt": "1 + ? = 6",
-    "correctAnswer": 5,
+    "prompt": "5 + ? = 6",
+    "correctAnswer": 1,
     "options": [
       3,
-      5,
-      4,
-      2
+      1,
+      2,
+      0
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
@@ -136,17 +136,17 @@
     "id": "l23-q008",
     "gameId": "level_23",
     "type": "level_23",
-    "prompt": "10 + ? = 17",
-    "correctAnswer": 7,
+    "prompt": "7 + ? = 11",
+    "correctAnswer": 4,
     "options": [
-      5,
-      6,
+      1,
+      3,
       4,
-      7
+      2
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
-    "targetCount": 17,
+    "targetCount": 11,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
@@ -155,17 +155,17 @@
     "id": "l23-q009",
     "gameId": "level_23",
     "type": "level_23",
-    "prompt": "14 + ? = 16",
-    "correctAnswer": 2,
+    "prompt": "8 + ? = 19",
+    "correctAnswer": 11,
     "options": [
-      3,
-      1,
-      2,
-      0
+      8,
+      9,
+      11,
+      10
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
-    "targetCount": 16,
+    "targetCount": 19,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
@@ -174,17 +174,17 @@
     "id": "l23-q010",
     "gameId": "level_23",
     "type": "level_23",
-    "prompt": "10 + ? = 12",
-    "correctAnswer": 2,
+    "prompt": "2 + ? = 14",
+    "correctAnswer": 12,
     "options": [
-      1,
-      2,
-      0,
-      3
+      11,
+      12,
+      9,
+      10
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
-    "targetCount": 12,
+    "targetCount": 14,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
@@ -193,127 +193,13 @@
     "id": "l23-q011",
     "gameId": "level_23",
     "type": "level_23",
-    "prompt": "5 + ? = 15",
-    "correctAnswer": 10,
-    "options": [
-      9,
-      8,
-      7,
-      10
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 15,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l23-q012",
-    "gameId": "level_23",
-    "type": "level_23",
-    "prompt": "10 + ? = 15",
-    "correctAnswer": 5,
+    "prompt": "18 + ? = 19",
+    "correctAnswer": 1,
     "options": [
       2,
-      4,
-      3,
-      5
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 15,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l23-q013",
-    "gameId": "level_23",
-    "type": "level_23",
-    "prompt": "8 + ? = 10",
-    "correctAnswer": 2,
-    "options": [
+      1,
       0,
-      3,
-      2,
-      1
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 10,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l23-q014",
-    "gameId": "level_23",
-    "type": "level_23",
-    "prompt": "7 + ? = 13",
-    "correctAnswer": 6,
-    "options": [
-      3,
-      5,
-      6,
-      4
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 13,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l23-q015",
-    "gameId": "level_23",
-    "type": "level_23",
-    "prompt": "5 + ? = 12",
-    "correctAnswer": 7,
-    "options": [
-      7,
-      4,
-      5,
-      6
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 12,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l23-q016",
-    "gameId": "level_23",
-    "type": "level_23",
-    "prompt": "1 + ? = 10",
-    "correctAnswer": 9,
-    "options": [
-      9,
-      8,
-      7,
-      6
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 10,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l23-q017",
-    "gameId": "level_23",
-    "type": "level_23",
-    "prompt": "7 + ? = 19",
-    "correctAnswer": 12,
-    "options": [
-      11,
-      10,
-      9,
-      12
+      3
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
@@ -323,11 +209,87 @@
     "displayPrompt": null
   },
   {
-    "id": "l23-q018",
+    "id": "l23-q012",
     "gameId": "level_23",
     "type": "level_23",
-    "prompt": "4 + ? = 7",
-    "correctAnswer": 3,
+    "prompt": "13 + ? = 20",
+    "correctAnswer": 7,
+    "options": [
+      5,
+      6,
+      7,
+      4
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 20,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l23-q013",
+    "gameId": "level_23",
+    "type": "level_23",
+    "prompt": "19 + ? = 20",
+    "correctAnswer": 1,
+    "options": [
+      3,
+      0,
+      2,
+      1
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 20,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l23-q014",
+    "gameId": "level_23",
+    "type": "level_23",
+    "prompt": "4 + ? = 19",
+    "correctAnswer": 15,
+    "options": [
+      12,
+      15,
+      14,
+      13
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 19,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l23-q015",
+    "gameId": "level_23",
+    "type": "level_23",
+    "prompt": "10 + ? = 11",
+    "correctAnswer": 1,
+    "options": [
+      3,
+      0,
+      1,
+      2
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 11,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l23-q016",
+    "gameId": "level_23",
+    "type": "level_23",
+    "prompt": "18 + ? = 20",
+    "correctAnswer": 2,
     "options": [
       0,
       1,
@@ -336,41 +298,22 @@
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
-    "targetCount": 7,
+    "targetCount": 20,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
   },
   {
-    "id": "l23-q019",
+    "id": "l23-q017",
     "gameId": "level_23",
     "type": "level_23",
-    "prompt": "7 + ? = 9",
-    "correctAnswer": 2,
+    "prompt": "15 + ? = 16",
+    "correctAnswer": 1,
     "options": [
       3,
-      1,
+      0,
       2,
-      0
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 9,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l23-q020",
-    "gameId": "level_23",
-    "type": "level_23",
-    "prompt": "6 + ? = 16",
-    "correctAnswer": 10,
-    "options": [
-      10,
-      8,
-      9,
-      7
+      1
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
@@ -380,35 +323,16 @@
     "displayPrompt": null
   },
   {
-    "id": "l23-q021",
+    "id": "l23-q018",
     "gameId": "level_23",
     "type": "level_23",
-    "prompt": "13 + ? = 19",
-    "correctAnswer": 6,
+    "prompt": "12 + ? = 17",
+    "correctAnswer": 5,
     "options": [
-      6,
       4,
       3,
+      2,
       5
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 19,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l23-q022",
-    "gameId": "level_23",
-    "type": "level_23",
-    "prompt": "8 + ? = 17",
-    "correctAnswer": 9,
-    "options": [
-      8,
-      6,
-      9,
-      7
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
@@ -418,20 +342,96 @@
     "displayPrompt": null
   },
   {
-    "id": "l23-q023",
+    "id": "l23-q019",
     "gameId": "level_23",
     "type": "level_23",
-    "prompt": "2 + ? = 5",
+    "prompt": "13 + ? = 19",
+    "correctAnswer": 6,
+    "options": [
+      3,
+      6,
+      5,
+      4
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 19,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l23-q020",
+    "gameId": "level_23",
+    "type": "level_23",
+    "prompt": "13 + ? = 18",
+    "correctAnswer": 5,
+    "options": [
+      3,
+      2,
+      5,
+      4
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 18,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l23-q021",
+    "gameId": "level_23",
+    "type": "level_23",
+    "prompt": "3 + ? = 6",
     "correctAnswer": 3,
     "options": [
-      0,
+      3,
       1,
       2,
+      0
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 6,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l23-q022",
+    "gameId": "level_23",
+    "type": "level_23",
+    "prompt": "18 + ? = 20",
+    "correctAnswer": 2,
+    "options": [
+      2,
+      1,
+      0,
       3
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
-    "targetCount": 5,
+    "targetCount": 20,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l23-q023",
+    "gameId": "level_23",
+    "type": "level_23",
+    "prompt": "12 + ? = 19",
+    "correctAnswer": 7,
+    "options": [
+      7,
+      5,
+      4,
+      6
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 19,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
@@ -440,17 +440,17 @@
     "id": "l23-q024",
     "gameId": "level_23",
     "type": "level_23",
-    "prompt": "11 + ? = 15",
-    "correctAnswer": 4,
+    "prompt": "16 + ? = 19",
+    "correctAnswer": 3,
     "options": [
+      0,
       3,
-      2,
-      4,
-      1
+      1,
+      2
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
-    "targetCount": 15,
+    "targetCount": 19,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
@@ -459,17 +459,17 @@
     "id": "l23-q025",
     "gameId": "level_23",
     "type": "level_23",
-    "prompt": "7 + ? = 13",
-    "correctAnswer": 6,
+    "prompt": "11 + ? = 19",
+    "correctAnswer": 8,
     "options": [
-      5,
-      3,
-      4,
-      6
+      8,
+      6,
+      7,
+      5
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
-    "targetCount": 13,
+    "targetCount": 19,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
@@ -478,13 +478,13 @@
     "id": "l23-q026",
     "gameId": "level_23",
     "type": "level_23",
-    "prompt": "9 - ? = 1",
-    "correctAnswer": 8,
+    "prompt": "9 - ? = 2",
+    "correctAnswer": 7,
     "options": [
       0,
-      2,
-      8,
-      3
+      1,
+      3,
+      7
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
@@ -497,17 +497,17 @@
     "id": "l23-q027",
     "gameId": "level_23",
     "type": "level_23",
-    "prompt": "20 - ? = 18",
-    "correctAnswer": 2,
+    "prompt": "3 - ? = 2",
+    "correctAnswer": 1,
     "options": [
-      15,
-      17,
-      16,
-      2
+      0,
+      1,
+      3,
+      1
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
-    "targetCount": 20,
+    "targetCount": 3,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
@@ -516,17 +516,17 @@
     "id": "l23-q028",
     "gameId": "level_23",
     "type": "level_23",
-    "prompt": "10 - ? = 3",
-    "correctAnswer": 7,
+    "prompt": "14 - ? = 3",
+    "correctAnswer": 11,
     "options": [
-      1,
       2,
+      11,
       0,
-      7
+      1
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
-    "targetCount": 10,
+    "targetCount": 14,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
@@ -535,17 +535,17 @@
     "id": "l23-q029",
     "gameId": "level_23",
     "type": "level_23",
-    "prompt": "17 - ? = 6",
-    "correctAnswer": 11,
+    "prompt": "9 - ? = 4",
+    "correctAnswer": 5,
     "options": [
-      11,
+      1,
       5,
-      4,
-      3
+      3,
+      2
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
-    "targetCount": 17,
+    "targetCount": 9,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
@@ -554,17 +554,17 @@
     "id": "l23-q030",
     "gameId": "level_23",
     "type": "level_23",
-    "prompt": "5 - ? = 4",
+    "prompt": "7 - ? = 6",
     "correctAnswer": 1,
     "options": [
-      1,
-      1,
+      4,
       3,
-      2
+      1,
+      5
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
-    "targetCount": 5,
+    "targetCount": 7,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
@@ -573,146 +573,13 @@
     "id": "l23-q031",
     "gameId": "level_23",
     "type": "level_23",
-    "prompt": "17 - ? = 2",
-    "correctAnswer": 15,
-    "options": [
-      0,
-      15,
-      3,
-      1
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 17,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l23-q032",
-    "gameId": "level_23",
-    "type": "level_23",
-    "prompt": "17 - ? = 16",
-    "correctAnswer": 1,
-    "options": [
-      1,
-      13,
-      14,
-      15
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 17,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l23-q033",
-    "gameId": "level_23",
-    "type": "level_23",
-    "prompt": "20 - ? = 6",
-    "correctAnswer": 14,
-    "options": [
-      5,
-      4,
-      14,
-      3
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 20,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l23-q034",
-    "gameId": "level_23",
-    "type": "level_23",
-    "prompt": "20 - ? = 6",
-    "correctAnswer": 14,
-    "options": [
-      14,
-      4,
-      3,
-      5
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 20,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l23-q035",
-    "gameId": "level_23",
-    "type": "level_23",
-    "prompt": "2 - ? = 1",
-    "correctAnswer": 1,
-    "options": [
-      1,
-      3,
-      0,
-      2
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 2,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l23-q036",
-    "gameId": "level_23",
-    "type": "level_23",
-    "prompt": "2 - ? = 1",
-    "correctAnswer": 1,
+    "prompt": "4 - ? = 2",
+    "correctAnswer": 2,
     "options": [
       3,
       0,
-      1,
-      2
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 2,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l23-q037",
-    "gameId": "level_23",
-    "type": "level_23",
-    "prompt": "6 - ? = 2",
-    "correctAnswer": 4,
-    "options": [
-      4,
-      0,
-      3,
-      1
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 6,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l23-q038",
-    "gameId": "level_23",
-    "type": "level_23",
-    "prompt": "4 - ? = 1",
-    "correctAnswer": 3,
-    "options": [
-      3,
       2,
-      0,
-      3
+      1
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
@@ -722,130 +589,35 @@
     "displayPrompt": null
   },
   {
-    "id": "l23-q039",
+    "id": "l23-q032",
     "gameId": "level_23",
     "type": "level_23",
-    "prompt": "16 - ? = 4",
-    "correctAnswer": 12,
+    "prompt": "14 - ? = 5",
+    "correctAnswer": 9,
     "options": [
       2,
       3,
-      1,
-      12
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 16,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l23-q040",
-    "gameId": "level_23",
-    "type": "level_23",
-    "prompt": "8 - ? = 4",
-    "correctAnswer": 4,
-    "options": [
-      2,
-      1,
-      3,
-      4
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 8,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l23-q041",
-    "gameId": "level_23",
-    "type": "level_23",
-    "prompt": "16 - ? = 8",
-    "correctAnswer": 8,
-    "options": [
-      5,
-      6,
-      8,
-      7
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 16,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l23-q042",
-    "gameId": "level_23",
-    "type": "level_23",
-    "prompt": "18 - ? = 17",
-    "correctAnswer": 1,
-    "options": [
-      14,
-      15,
-      16,
-      1
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 18,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l23-q043",
-    "gameId": "level_23",
-    "type": "level_23",
-    "prompt": "8 - ? = 5",
-    "correctAnswer": 3,
-    "options": [
-      2,
       4,
-      3,
-      3
+      9
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
-    "targetCount": 8,
+    "targetCount": 14,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
   },
   {
-    "id": "l23-q044",
-    "gameId": "level_23",
-    "type": "level_23",
-    "prompt": "6 - ? = 5",
-    "correctAnswer": 1,
-    "options": [
-      2,
-      4,
-      1,
-      3
-    ],
-    "objectIcon": "/icons/star_icon.png",
-    "objectIcon2": "",
-    "targetCount": 6,
-    "targetCount2": 0,
-    "renderMode": "single",
-    "displayPrompt": null
-  },
-  {
-    "id": "l23-q045",
+    "id": "l23-q033",
     "gameId": "level_23",
     "type": "level_23",
     "prompt": "11 - ? = 4",
     "correctAnswer": 7,
     "options": [
       1,
-      2,
       3,
-      7
+      7,
+      2
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
@@ -855,35 +627,187 @@
     "displayPrompt": null
   },
   {
-    "id": "l23-q046",
+    "id": "l23-q034",
     "gameId": "level_23",
     "type": "level_23",
-    "prompt": "17 - ? = 16",
-    "correctAnswer": 1,
+    "prompt": "9 - ? = 3",
+    "correctAnswer": 6,
     "options": [
-      13,
-      15,
-      14,
+      2,
+      6,
+      0,
       1
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
-    "targetCount": 17,
+    "targetCount": 9,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
   },
   {
-    "id": "l23-q047",
+    "id": "l23-q035",
     "gameId": "level_23",
     "type": "level_23",
-    "prompt": "13 - ? = 10",
-    "correctAnswer": 3,
+    "prompt": "4 - ? = 3",
+    "correctAnswer": 1,
     "options": [
-      8,
+      0,
+      1,
+      2,
+      1
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 4,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l23-q036",
+    "gameId": "level_23",
+    "type": "level_23",
+    "prompt": "11 - ? = 4",
+    "correctAnswer": 7,
+    "options": [
       7,
       3,
-      9
+      1,
+      2
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 11,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l23-q037",
+    "gameId": "level_23",
+    "type": "level_23",
+    "prompt": "15 - ? = 14",
+    "correctAnswer": 1,
+    "options": [
+      1,
+      12,
+      11,
+      13
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 15,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l23-q038",
+    "gameId": "level_23",
+    "type": "level_23",
+    "prompt": "5 - ? = 2",
+    "correctAnswer": 3,
+    "options": [
+      0,
+      1,
+      3,
+      3
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l23-q039",
+    "gameId": "level_23",
+    "type": "level_23",
+    "prompt": "14 - ? = 6",
+    "correctAnswer": 8,
+    "options": [
+      5,
+      4,
+      3,
+      8
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 14,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l23-q040",
+    "gameId": "level_23",
+    "type": "level_23",
+    "prompt": "15 - ? = 13",
+    "correctAnswer": 2,
+    "options": [
+      11,
+      12,
+      2,
+      10
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 15,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l23-q041",
+    "gameId": "level_23",
+    "type": "level_23",
+    "prompt": "5 - ? = 1",
+    "correctAnswer": 4,
+    "options": [
+      2,
+      4,
+      3,
+      0
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 5,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l23-q042",
+    "gameId": "level_23",
+    "type": "level_23",
+    "prompt": "8 - ? = 1",
+    "correctAnswer": 7,
+    "options": [
+      2,
+      7,
+      0,
+      3
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 8,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l23-q043",
+    "gameId": "level_23",
+    "type": "level_23",
+    "prompt": "13 - ? = 12",
+    "correctAnswer": 1,
+    "options": [
+      9,
+      10,
+      11,
+      1
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
@@ -893,20 +817,96 @@
     "displayPrompt": null
   },
   {
-    "id": "l23-q048",
+    "id": "l23-q044",
     "gameId": "level_23",
     "type": "level_23",
-    "prompt": "10 - ? = 5",
-    "correctAnswer": 5,
+    "prompt": "18 - ? = 17",
+    "correctAnswer": 1,
     "options": [
-      2,
-      5,
-      4,
-      3
+      16,
+      1,
+      15,
+      14
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
-    "targetCount": 10,
+    "targetCount": 18,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l23-q045",
+    "gameId": "level_23",
+    "type": "level_23",
+    "prompt": "6 - ? = 4",
+    "correctAnswer": 2,
+    "options": [
+      3,
+      2,
+      2,
+      1
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 6,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l23-q046",
+    "gameId": "level_23",
+    "type": "level_23",
+    "prompt": "20 - ? = 3",
+    "correctAnswer": 17,
+    "options": [
+      0,
+      2,
+      17,
+      1
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 20,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l23-q047",
+    "gameId": "level_23",
+    "type": "level_23",
+    "prompt": "12 - ? = 10",
+    "correctAnswer": 2,
+    "options": [
+      9,
+      2,
+      8,
+      7
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 12,
+    "targetCount2": 0,
+    "renderMode": "single",
+    "displayPrompt": null
+  },
+  {
+    "id": "l23-q048",
+    "gameId": "level_23",
+    "type": "level_23",
+    "prompt": "15 - ? = 10",
+    "correctAnswer": 5,
+    "options": [
+      8,
+      5,
+      9,
+      7
+    ],
+    "objectIcon": "/icons/star_icon.png",
+    "objectIcon2": "",
+    "targetCount": 15,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null
@@ -915,13 +915,13 @@
     "id": "l23-q049",
     "gameId": "level_23",
     "type": "level_23",
-    "prompt": "7 - ? = 5",
-    "correctAnswer": 2,
+    "prompt": "7 - ? = 3",
+    "correctAnswer": 4,
     "options": [
-      2,
       4,
-      3,
-      2
+      1,
+      2,
+      0
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
@@ -934,17 +934,17 @@
     "id": "l23-q050",
     "gameId": "level_23",
     "type": "level_23",
-    "prompt": "18 - ? = 16",
-    "correctAnswer": 2,
+    "prompt": "6 - ? = 1",
+    "correctAnswer": 5,
     "options": [
-      13,
       2,
-      15,
-      14
+      5,
+      0,
+      3
     ],
     "objectIcon": "/icons/star_icon.png",
     "objectIcon2": "",
-    "targetCount": 18,
+    "targetCount": 6,
     "targetCount2": 0,
     "renderMode": "single",
     "displayPrompt": null

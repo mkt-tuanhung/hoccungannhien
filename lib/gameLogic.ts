@@ -13,37 +13,35 @@ export interface GameLogicResult {
 }
 
 // Map từ keyword trong prompt → icon path mới (public/icons/)
+// Map từ khoá trong prompt → icon hiển thị.
+// Ưu tiên: khớp dài trước (quả táo > táo), tránh nhầm icon động vật vào câu đếm đồ vật
 const PROMPT_ICON_MAP: [string, string][] = [
-  ['kim cương',   '/icons/diamond_icon.png'],
-  ['đồng tiền',   '/icons/coin_icon.png'],
-  ['tiền vàng',   '/icons/coin_icon.png'],
-  ['xu vàng',     '/icons/coin_icon.png'],
+  // Trái cây & đồ ăn — ưu tiên cao nhất
+  ['quả táo',     '/icons/apple_icon.png'],
+  ['quả dâu',     '/icons/apple_icon.png'],
+  ['quả cam',     '/icons/apple_icon.png'],
+  ['quả chuối',   '/icons/apple_icon.png'],
+  ['chiếc bánh',  '/icons/candy_icon.png'],
+  ['viên kẹo',    '/icons/candy_icon.png'],
+  ['cà rốt',      '/icons/apple_icon.png'],
   ['táo',         '/icons/apple_icon.png'],
-  ['con mèo',     '/icons/cat_icon.png'],
-  ['mèo',         '/icons/cat_icon.png'],
-  ['con thỏ',     '/icons/bunny_icon.png'],
-  ['thỏ',         '/icons/bunny_icon.png'],
+  ['dâu',         '/icons/apple_icon.png'],
+  ['kẹo',         '/icons/candy_icon.png'],
+  ['bánh',        '/icons/candy_icon.png'],
+  // Đồ vật
+  ['ngôi sao',    '/icons/star_icon.png'],
+  ['hộp quà',     '/icons/star_icon.png'],
   ['quả bóng',    '/icons/ball_icon.png'],
   ['bóng',        '/icons/ball_icon.png'],
-  ['ngôi sao',    '/icons/star_icon.png'],
-  ['viên kẹo',    '/icons/candy_icon.png'],
-  ['kẹo',         '/icons/candy_icon.png'],
-  ['bong bóng',   '/icons/bubble_icon.png'],
-  ['bong',        '/icons/bubble_icon.png'],
-  ['rương',       '/icons/chest_icon.png'],
-  ['hòm',         '/icons/chest_icon.png'],
-  ['súng',        '/icons/boss_monster_icon.png'],
-  ['quái vật',    '/icons/boss_monster_icon.png'],
+  ['bông hoa',    '/icons/star_icon.png'],
+  ['kim cương',   '/icons/diamond_icon.png'],
+  ['đồng tiền',   '/icons/coin_icon.png'],
+  ['xu',          '/icons/coin_icon.png'],
   ['sao',         '/icons/star_icon.png'],
-  // fallback các icon cũ vẫn còn trong sprites/
-  ['hoa',         '/sprites/flower.png'],
-  ['cá',          '/sprites/fish.png'],
-  ['ếch',         '/sprites/frog.png'],
-  ['cà rốt',      '/sprites/carrot.png'],
-  ['nấm',         '/sprites/mushroom.png'],
-  ['bánh',        '/sprites/cupcake.png'],
-  ['dâu',         '/sprites/strawberry.png'],
-  ['bướm',        '/sprites/butterfly.png'],
+  ['hoa',         '/icons/star_icon.png'],
+  // Động vật — CHỈ dùng khi prompt rõ ràng nói về đếm động vật, KHÔNG dùng trong câu đếm chung
+  ['con mèo',     '/icons/cat_icon.png'],
+  ['con thỏ',     '/icons/bunny_icon.png'],
 ];
 
 // Thức ăn hợp lệ cho các mode "cho ăn / nấu ăn" — chỉ dùng đồ ăn thật, không phải động vật hay vật vô lý

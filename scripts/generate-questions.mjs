@@ -9,10 +9,17 @@ import { fileURLToPath } from 'url';
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const OUT_DIR = path.join(__dirname, '../public/data/math/questions');
 
-// Các phép toán ngữ cảnh
-const COUNT_OBJ = ['táo','sao','kẹo','bóng','hoa','bướm','cá','cam','bút','nến','chim','ốc sên','cây nấm','bông tuyết'];
+// Chỉ dùng đồ vật / quả / đồ ăn — KHÔNG dùng động vật (mèo, cá, chim...) tránh nhầm icon
+const COUNT_OBJ = [
+  'quả táo','quả dâu','quả cam','quả chuối','viên kẹo',
+  'bông hoa','quả bóng','ngôi sao','chiếc bánh'
+];
 const STORY_NAMES = ['An','Bình','Mai','Nam','Linh','Hoa','Minh','Lan'];
-const STORY_THINGS = ['táo','kẹo','bông hoa','quyển sách','quả bóng','tờ giấy','viên bi','chiếc lá'];
+// Story things: chỉ dùng đồ vật rõ ràng, không dùng động vật
+const STORY_THINGS = [
+  'quả táo','viên kẹo','bông hoa','quả cam',
+  'quả bóng','chiếc bánh','quả dâu','quả chuối'
+];
 
 // Sinh số ngẫu nhiên trong đoạn [a, b]
 function rnd(a, b) { return Math.floor(Math.random() * (b - a + 1)) + a; }
@@ -273,10 +280,11 @@ function recognizeQ(levelNum, i, min, max) {
 }
 
 function pickIcon(obj) {
-  if (obj.includes('táo') || obj.includes('cam')) return 'apple';
-  if (obj.includes('sao') || obj.includes('tuyết')) return 'star';
-  if (obj.includes('kẹo') || obj.includes('nến')) return 'candy';
+  if (obj.includes('táo') || obj.includes('cam') || obj.includes('chuối') || obj.includes('dâu')) return 'apple';
+  if (obj.includes('sao') || obj.includes('ngôi')) return 'star';
+  if (obj.includes('kẹo') || obj.includes('bánh')) return 'candy';
   if (obj.includes('bóng')) return 'ball';
+  if (obj.includes('hoa') || obj.includes('quà')) return 'star';
   return 'apple';
 }
 
@@ -298,15 +306,15 @@ function generateLevel(levelNum) {
       break;
 
     case 2: // Cộng trong 10
-      while (i < 30) add(addQ(2, i, 10));
-      while (i < 40) add(countQ(2, i, 1, 10));
-      while (i < 50) add(addQ(2, i, 10));
+      while (i < 35) add(addQ(2, i, 10));
+      while (i < 45) add(storyAddQ(2, i, 10));
+      while (i < 50) add(fillQ(2, i, 10, false));
       break;
 
     case 3: // Trừ trong 10
-      while (i < 30) add(subQ(3, i, 10));
-      while (i < 40) add(countQ(3, i, 1, 10));
-      while (i < 50) add(subQ(3, i, 10));
+      while (i < 35) add(subQ(3, i, 10));
+      while (i < 45) add(storySubQ(3, i, 10));
+      while (i < 50) add(fillQ(3, i, 10, true));
       break;
 
     case 4: // So sánh hai số (1-10)
@@ -356,8 +364,9 @@ function generateLevel(levelNum) {
 
     // ── GIAI ĐOẠN 2: Số 11-15 ─────────────────────────────
     case 11: // Cộng trong 15
-      while (i < 25) add(countQ(11, i, 11, 15));
-      while (i < 50) add(addQ(11, i, 15, 1));
+      while (i < 30) add(addQ(11, i, 15, 1));
+      while (i < 45) add(storyAddQ(11, i, 15));
+      while (i < 50) add(compareQ(11, i, 1, 15));
       break;
 
     case 12: // Trừ trong 15
@@ -388,9 +397,9 @@ function generateLevel(levelNum) {
       break;
 
     // ── GIAI ĐOẠN 3: Số 16-20 ─────────────────────────────
-    case 16: // Nhận biết số 16-20, cộng trong 20
-      while (i < 20) add(countQ(16, i, 11, 20));
-      while (i < 40) add(addQ(16, i, 20));
+    case 16: // Cộng trong 20
+      while (i < 30) add(addQ(16, i, 20));
+      while (i < 45) add(storyAddQ(16, i, 20));
       while (i < 50) add(compareQ(16, i, 1, 20));
       break;
 
